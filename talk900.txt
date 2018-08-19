@@ -1,0 +1,256 @@
+301. What color is your book? 
+302. My book has a dark blue cover. 
+303. How much does that typewriter weigh? 
+304. It’s not too heavy,but I don’t know the exact weight. 
+305. This round table weighs about forty-five pounds.
+306. What size suitcase do you own?
+307. One of my suitcases is small,and the other one is medium size.
+308. I like the shape of that table.
+309. How long is Jones Boulevard Street? 
+310. That street is only two miles long.
+311. Will you please measure this window to see how wide it is? 
+312. This window is just as wide as that one. 
+313. The walls are three inches thick.
+314. This material feels soft.
+315. This pencil is longer than that one.
+316. Would you please tell Mr. John that I’m here？
+317. Take these books home with you tonight. 
+318. Please bring me those magazines. 
+319. Would you help me lift this heavy box? 
+320. Please ask John to turn on the lights. 
+321. Put your books down on the table. 
+322. Get me a hammer from the kitchen,will you? 
+323. Hang up my coat in the closet ,will you please? 
+324. Please don’t bother me now.I’m very busy. 
+325. Would you mind mailing this letter for me? 
+326. If you have time,will you call me tomorrow? 
+327. Please pick up those cups and saucers. 
+328. Will you do me a favor?
+329. Please count the chairs in that room.
+330. Please pour this milk into that glass.
+331. Excuse me,sir.Can you give me some information? 
+332. Can you tell me where Peach Street is? 
+333. It’s two blocks straight ahead. 
+334. Which direction is it to the theatre? 
+335. Turn right at the next corner
+336. How far is it to the university?
+337. It’s a long way from here.
+338. The school is just around the corner.
+339. The restaurant is across the street from the hotel.
+340. You can’t miss it.
+341. Do you happen to know Mr. Cooper’s telephone number? 
+342. Could you tell me where the nearest telephone is? 
+343. Should I go this way,or that way? 
+344. Go that way for two blocks,then turn left. 
+345. I beg your pardon.Is this seat taken? 
+346. Are you married?
+347. No,I’m not married.I’m still single. 
+348. Your niece is engaged,isn’t she? 
+349. My sister has been engaged for two months.
+350. My grandfather got married in 1921.
+351. When is grandparents’ wedding anniversary? 
+352. How long have they been married?
+353. They’ve been married for quite a few years.
+354. Who did George marry?
+355. Do they have children?
+356. They had a baby last month.
+357. My son wants to get married in June. 
+358. They don’t know when the wedding will be.
+359. Their grandchildren are grown up now.
+360. She’s a widow.Her husband died last year.
+361. Where did you grow up?
+362. I grew up right here in this neighborhood.
+363. My friend spent his childhood in California . 
+364. He lived in California until he was seventeen. 
+365. There have been a lot of changes here in the last 20 years.
+366. There used to be a grocery store on the corner. 
+367. All of those houses have been built in the last ten years.
+368. They’re building a new house up the street . 
+369. If you buy that home, will you spend the rest of your life there? 
+370. Are your neighbors very friendly?
+371. We all know each other pretty well. 
+372. A young married couple moved in next door to us. 
+373. Who bought that new house down the street from you? 
+374. An old man rented the big white house.
+375. What beautiful trees those are!
+376. What time are you going to get up tomorrow morning? 
+377. I’ll probably wake up early and get up at 6:30.
+378. What will you do then?
+379. After I get dressed,I’ll have breakfast.
+380. What will you have for breakfast tomorrow morning? 
+381. I’ll probably have eggs and toast for breakfast.
+382. After breakfast,I’ll get ready to go to work.
+383. I’ll leave the house at 8:00 and get to the office at 8:30.
+384. I’ll probably go out for lunch at about 12:30.
+385. I’ll finish working at 5:30 and get home by 6 o’clock. 
+386. Are you going to have dinner at home tomorrow night? 
+387. Do you think you’ll go to the movies tomorrow night? 
+388. I’ll probably stay home and watch television.
+389. When I get sleepy,I’ll probably get ready for bed. 
+390. Do you think you’ll be able to go to sleep right away? 
+391. How is the weather today?
+392. The weather is nice today.
+393. What was the weather like yesterday? 
+394. Yesterday it rained all day.
+395. What will the weather be like tomorrow? 
+396. It’s going to snow tomorrow.
+397. It’s quite cold today.
+398. It’s been cloudy all morning.
+399. Is it raining now?
+400. It’ll probably clear up this afternoon.
+401. The days are getting hotter.
+402. Today is the first day of spring.
+403. What’s the temperature today?
+404. It’s about seventy degrees Fahrenheit this afternoon.
+405. There’s a cool breeze this evening.
+406. How are you feeling today?
+407. I don’t feel very well this morning.
+408. I was sick yesterday, but I’m better today.
+409. My fever is gone,but I still have a cough.
+410. My brother has a bad headache.
+411. Which of your arms is sore?
+412. My right arm hurts. It hurts right here.
+413. What’s matter with you?
+414. I’ve got a pain in my back.
+415. Which foot hurts?Is it the left one? 
+416. How did you break your leg?
+417. I slipped on the stairs and fell down.I broke my leg.
+418. Your right hand is swollen.Does it hurt? 
+419. It’s bleeding.You’d better go see a doctor about that cut. 
+420. I hope you’ll be well soon.
+421. I get out of bed about 7 oclock every morning. 
+422. After getting up,I go into the bathroom and take a shower. 
+423. Then,I brush my teeth and comb my hair.
+424. After brushing my teeth,I put on my clothes.
+425. After that,I go downstairs to the kitchen to have breakfast.
+426. After eating breakfast,I go back upstairs again. 
+427. Then,it’s usually time to wake up my little brother.
+428. He can’t dress himself yet because he’s too young. 
+429. I wash his face and hands,and then I dress him. 
+430. He tries to button his own shirt,but he can’t do it. 
+431. My little brother takes a bath before he goes to bed at night. 
+432. He always forgets to wash behind his ears. 
+433. I’m always tired when I come home from work. 
+434. At bedtime, I take off my clothes and put on my pajamas. 
+435. I get into bed at about 11:30 and go right off to sleep. 
+436. What do you think?Is that right? 
+437. Cetainly.You’re absolutely right about that.
+438. I think you’re mistaken about that.
+439. I like hot weather best.
+440. Personally,I prefer winter weather.
+441. Do you think it’s going to rain tomorrow? 
+442. I don’t know whether it will rain or not.
+443. In my opinion,that’s an excellent idea.
+444. Why Mr. Cooper so tired?Do you have any idea? 
+445. He’s tired because he worked hard all day today. 
+446. What do you think of my children?
+447. I think you have very attractive children. 
+448. Please give me your frank opinion.
+449. Do you really want to know what I think? 
+450. Of course I want to know what your opinion is.
+451. What do you plan to do tomorrow? 
+452. I doubt that I’ll do anything tomorrow. 
+453. Please excuse me for a little while. I want to do something. 
+454. I imagine I’ll do some work instead of going to the movies. 
+455. Will it be convenient for you to explain your plans to him? 
+456. There’s nothing to do because tomorrow is a holliday.
+457. What’s your brother planning to do tomorrow?
+458. He can’t decide what to do.
+459. It’s difficult to make a decision without knowing all the facts. 
+460. We’re trying to plan our future.
+461. That’s a good idea.
+462. I’m hoping to spend a few days in the mountains.
+463. Would you consider going north this summer? 
+464. If there’s a chance you’ll go, I’d like to go with you. 
+465. After you think it over, please let me know what you decide.
+466. I’m anxious to know what your decision is. 
+467. I’m confident you’ve made the right choice. 
+468. I want to persuade you to change your mind.
+469. Will you accept my advice?
+470. What have you decided?
+471. I’ve definitely decided to go to California. 
+472. He didn’t want to say anything to influence my decision.
+473. She refuses to make up her mind.
+474. I assume you’ve decided against buying a new car. 
+475. It took him a long time to make up his mind. 
+476. You can go whenever you wish.
+477. We’re willing to accept your plan.
+478. He knows it’s inconvenient ,but he wants to go anyway. 
+479. According to Mr. Green, this is a complicated problem.
+480. She insists that it doesn’t make any difference to her.
+481. Are you going to go any place this year? 
+482. If I have enough money,I’m going to take a trip abroad.
+483. How are you going?Are you going by boat? 
+484. It’s faster to go by plane than by boat.
+485. What’s the quickest way to get there? 
+486. Altogether it will take ten days to make the trip.
+487. I hope you have a good time on your trip.
+488. I’m leaving tomorrow,but I haven’t packed my suitcases yet.
+489. I’m going by air.I like flying.
+490. My brother took a trip to Mexico.
+491. It was a six-hour flight.
+492. How many passengers were on the train?
+493. His friend was injured in an airplane crash.
+494. Would you like to go for a walk?
+495. Let’s go out to the airport. The plane landed ten minutes ago.
+496. I’m going shopping because I need to buy some clothes.
+497. If this shirt doesn’t fit,may I bring it back later?
+498. What size shoes do you wear?
+499. That suit looks very good on you.
+500. This dress is made of silk,isn’t it?
+501. I’d like to try on this sweater.
+502. I’m interested in buying a new car.
+503. What’s the price of that electric iron?
+504. How much is this rug?
+505. Is this toothpaste on sale today?
+506. That’s a beautiful leather wallet,but it costs too much.
+507. How much do I owe you?
+508. That will be eighteen dollars and seventy-five cents.
+509. Do you have change for a twenty-dollar bill?
+510. The clerk helped me find what I wanted.
+511. What would you like to eat?
+512. I’d like a bowl of tamoto soup,please. 
+513. The waiter seems to be in a hurry to take our order. 
+514. Which would you rather have--steak or fish? 
+515. I want my steak well-done.
+516. What kinds of vegetables do you have?
+517. I’ll have mashed potatoes.
+518. Would you please pass the salt?
+519. They serve good food in this restaurant.
+520. Are you ready for your dessert now?
+521. This knife is dirty.Would you bring me a clean one,please? 
+522. May I check,please?
+523. You have your choice of three flavors of ice cream. 
+524. We have vanilla,chocolate,and strawberry.
+525. We invited two guests to dinner,but they didn’t come.
+526. How long did the movie last? 
+527. The feature started at 9 o’clock and ended at 11:30. 
+528. They say the new film is an adventure story.
+529. A group of us went out to the theater last night. 
+530. The new play was good and everybody enjoyed it. 
+531. By the time we got there,the play had already begun. 
+532. The usher showed us to our seats. 
+533. The cast of the play included a famous actor. 
+534. After the play was over,we all wanted to get something to eat. 
+535. There was a big crowd and we had difficulty getting a taxi.
+536. The restaurant was filled,so we decided to go elsewhere. 
+537. My brother wants to learn how to dance.
+538. We don’t go dancing very often.
+539. Which would you rather do--go dancing or go to cinema? 
+540. I’m not accustomed to going out after dark.
+541. I’d like to make an appointment to see Mr. Cooper. 
+542. Would you like to arrange for a personal interview? 
+543. Your appointment will be next Thursday at 10 o’clock. 
+544. I can come any day except Thursday.
+545. He wants to change his appointment from Monday to Wednesday. 
+546. She failed to call the office to cancel her appointment. 
+547. I’m going to call the employment agency for a job. 
+548. Please fill in this application form.
+549. Are you looking for a permanent position? 
+550. I’m going to call a plumber to come this afternoon. 
+551. I couldn’t keep the appointment because I was sick. 
+552. I’m a new employee.I was hired yesterday. 
+553. Please call before you come,otherwise we might not be home.
+554. Let’s make a date to go shopping next Thursday. 
+555. Will you please lock the door when you leave? 
+570. It’s just a mosquito bite.There’s nothing to worry about.
