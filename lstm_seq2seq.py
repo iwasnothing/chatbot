@@ -7,7 +7,6 @@ import numpy as np
 
 import json
 
-
 start_token = "START "
 end_token = " END"
 
