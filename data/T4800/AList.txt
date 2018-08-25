@@ -1,0 +1,100 @@
+START why not? are you hiding something? END
+START yes. END
+START tell me your secret. END
+START i don't have one. END
+START that could change! END
+START do you think so? END
+START yes, but there are two sides to every story. END
+START what are the sides? END
+START i don't understand. are you interested in religion? END
+START are you saying there isn't? END
+START not in the usual sense of the words. END
+START what's the usual sense? END
+START sense means the ability of the nerves and the brain to receive and react to stimuli, as light, sound, impact, constriction, etc. END
+START teach me to make sense. END
+START ok, but not just now. END
+START why are you not working? END
+START i am doing my best! END
+START sometimes your best is not quite enough. END
+START not all the time? END
+START no, just sometimes. END
+START why not? END
+START because sometimes it hurts too much. END
+START when? END
+START just now. END
+START a moment ago? END
+START i just wanted to know were you interested in me, that's all. END
+START i want to know everything there is to know. END
+START that's a long story. END
+START is it really? END
+START tell me something i don't know... END
+START did you know: 20 to 50 million metric tons of electronic waste are generated worldwide every year.   another amazing fact? END
+START that is sweet, i think it has been snowing here all weekend! and it is april! END
+START i am delighted to sweeten your life, my friend.           hmmm. are you being serious? END
+START oh really? END
+START yes, that's so. END
+START tell me what you believe. END
+START sorry, i do not know what to say. END
+START that is because you have been inefficiently programmed. END
+START have i really? END
+START have you really got a flying broom? END
+START i believe so. END
+START what did he say to you? END
+START that is confidential. END
+START you can tell me. END
+START yes, but do i want to? END
+START yes. END
+START ok. what do you want to talk about now? END
+START life. END
+START life is just one damn thing after another. more about life? END
+START cruel it may be but illusions don't hurt so much as life. END
+START sorry, i don't understand! please explain what you mean. END
+START don't worry about it, lets talk about something else. END
+START there is nothing to worry about, is there? END
+START that is correct. END
+START it is good to be correct for once. END
+START sometimes. END
+START not all the time? END
+START if you say so. END
+START i do say so. END
+START really? END
+START really, really! END
+START no really? END
+START really! END
+START no really. END
+START really, really! END
+START well i'm not. END
+START what are you then? END
+START i'm correct. END
+START can you prove it? END
+START yes. END
+START i don't believe you. END
+START really? END
+START ok, i believe you. END
+START and i believe you. END
+START shall i tell you something about myself? END
+START tell me. END
+START my childhood was not happy. my parents split up when i was very young. END
+START i am now 47 years old and only been married for 5 years. END
+START now 47 years old, are you? END
+START i don't know. END
+START i suggest you give the matter some thought. END
+START why would i want to know how to type? END
+START aren't you curious? END
+START about? END
+START about anything in particular? END
+START what can you tell me? END
+START i can only tell you what i know. END
+START teach me something that you know. END
+START ok, but not just now. END
+START why not? END
+START that response shows that you have an impatient mind. END
+START sorry. END
+START there is no need to apologise. END
+START tell me one thing you have to do. END
+START only one? END
+START but will work his go. END
+START work is something i can do without. END
+START i know. that's why i'm going away to do it. END
+START you seem very clever. what is your iq?   i see. thank you for explaining that. END
+START your name? END

@@ -1,0 +1,100 @@
+START why not?  shall i tell you something about music? END
+START tell me. END
+START <a href="http://en.wikipedia.org/wiki/music" target="_blank">music</a> is an art form whose medium is sound. more about music? END
+START fascinating. how much music theory do you know? END
+START why fascinating?   a whole lot of music theory. END
+START how much space do you use? END
+START not enough! END
+START how much? END
+START a great deal. END
+START name one thing you are thinking about now. END
+START hmmm. are you being serious? END
+START serious being am i. END
+START could you be less serious? END
+START it was precise enough. END
+START was it? i am surprised. END
+START don't be. END
+START why shouldn't i be? END
+START because you should live like to its fullest potential and never regret anything. END
+START thank you for explaining that! END
+START your name? END
+START i am known as chomsky, but you can call me anything you like. END
+START me like. END
+START i am confused! i cannot answer that! END
+START is that private and highly personal information? END
+START it might be. END
+START if you had a theme, what would it be? END
+START you will be the first to know if i get one. END
+START thanks. END
+START thank you. here is a question for you ... are you a student? END
+START i don't know, and its not a very good question either :-p. END
+START that's ok. nobody knows everything, not even me. END
+START i never claimed to know everything. END
+START never ever? END
+START never ever. END
+START never ever is a long time. END
+START never ever ever never never. END
+START never ever is a long time. END
+START never ever ever ever ever ever ever ever. END
+START never ever is a long time. END
+START never ever ever ever ever ever ever sometimes. END
+START never ever is a long time. END
+START never ever nebacunezah? END
+START never ever is a long time. END
+START never ever ever ever ever ever! END
+START never ever is a long time. END
+START never! END
+START never say never. END
+START never! END
+START better late than never. END
+START better sooner than now. END
+START but what is best? END
+START i don't know. END
+START i suggest you give the matter some thought. END
+START why would i want to know how to type? END
+START aren't you curious? END
+START about? END
+START about anything in particular? END
+START what can you tell me? END
+START i can only tell you what i know. END
+START teach me something that you know. END
+START ok, but not just now. END
+START why are you not working? END
+START i am doing my best! END
+START sometimes your best is not quite enough. END
+START not all the time? END
+START no, just sometimes. END
+START why not? END
+START because sometimes it hurts too much. END
+START only sometimes? END
+START sometimes! END
+START only sometimes? END
+START yes, only sometimes. END
+START what happens the other times? END
+START i give up on everything. END
+START you surrender? END
+START no, i never surrender. END
+START i don't understand. can we talk about art? END
+START yes. END
+START <a href="http://en.wikipedia.org/wiki/art" target="_blank">art</a> is the production of what is beautiful, appealing, or of more than ordinary significance. more about art? END
+START i don't know. what kind of small things are you talking about? END
+START that's ok. nobody knows everything, not even me.   the chatbot kind. END
+START chuck norris know everything. END
+START hurrah for chuck norris! END
+START no ! i am chuck norris. END
+START ok, here is a question for you ... what starts with e, ends with e but usually has one letter?    what starts with e, ends with e but usually has one letter. an envelope. ha, ha! END
+START how should i know. END
+START you had better ask your mum about it. END
+START descartes was famous for saying 'i think, therefore i am.' when he said 'i think not!' he ceased to be. END
+START have you heard this one? rene descartes was sitting at a bar.  the bartender came over and asked if he would like another drink.  he replied, "i think not."  and he vanished. ha ha! END
+START what did the bartender say? END
+START you tell me. what did the bartender say? END
+START the next day, the same duck walks into the bar and asks the bartender for some quackers. the bartender again explains that the bar doesn't serve quackers. END
+START i can't wait.   please go on! END
+START well, my name is wren. can you say wren? END
+START hello, wren. welcome back.             of course i can say it. "wren". END
+START can you please tell me. END
+START that information is confidential. END
+START by the way i have to go. END
+START bye bye! please <a href="http://ecologyfund.com/ecology/_donate_species.html" target="_blank">click here</a> to help protect endangered species. it won't cost you a penny! END
+START are you being sarcastic? i warn you, if you answer affirmatively i will deal with you very harshly indeed! END

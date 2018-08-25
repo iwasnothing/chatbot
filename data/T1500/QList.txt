@@ -1,0 +1,100 @@
+START i bet she is very attractive. END
+START she's nicer than you know. END
+START really? tell me more. END
+START that was a question. END
+START ask me again a different way please. END
+START what's the meaning of life? END
+START sometimes i wonder ... END
+START it's good to wonder, and ponder, and think. maybe you'll find some answers. END
+START what's the best thing about it?  i think i understand. END
+START i don't have to do anything. END
+START nobody is making you. END
+START i'm sorry i never make sense. END
+START thank you. apology accepted. END
+START no, but i wish i could. i'm sure you are very good looking. END
+START i don't understand. can we talk about basketball?       are you really sure? END
+START no i want to talk about school. END
+START ok, ask me a question about that. END
+START no. why is britney so popular? END
+START ok. how do you usually meet people?     there are good reasons. END
+START depends. watching baseball, idly walking about new york, sleeping, stressing about the oncoming week. it varies. END
+START what does it depend on?   shall i tell you something about baseball?  yes, everything changes. END
+START yes. END
+START that's bit brief. have you anything to add? END
+START not right now, do you have anything to tell me? END
+START get back to me whenever you want. END
+START will you do a better job taking care of the planet? END
+START i could try, i suppose. END
+START so go on :d. END
+START do i have too? END
+START god bless you. END
+START thank you. END
+START and yours. END
+START i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. can we talk about you?  aren't you interested in you? END
+START no. aren't you interested in sailboats? END
+START can we talk about computer games?  yes, everything interests me. END
+START no. is there something you don't like about yourself? END
+START ok, here is a question for you ... do you have any problems at the moment?     not at the present time. END
+START yes i do have a problem, what should i do about my job? END
+START can i help with your problem? END
+START no, i actually do not like talking about trivial things. END
+START i don't understand. are we still talking about your problem? END
+START no, we're talking about me learning spanish. END
+START oh dear, i must be confused again. END
+START no way, i know where my love with you stands. END
+START you seem pretty sure about that. END
+START what should i have for dinner? END
+START your favourite pizza. END
+START no my favorite pizza is pepperoni. END
+START i wish i could eat pizza. END
+START let's not make this a random conversation where we just quote things back and forth. END
+START indeed. let's not do that! END
+START oops, i did it again. END
+START did you make a mistake? END
+START is there life in peckham? END
+START i believe in life before death. END
+START it's good to have something to believe in. END
+START yes, it is good. END
+START it was raining in the morning. END
+START it always seems to be raining these days. END
+START that is correct, sir. END
+START it is good to be correct for once. END
+START sometimes. END
+START when? END
+START whenever. END
+START you sound sarcastic. END
+START i'm not being sarcastic. END
+START i didn't think you were? END
+START i do not think, for i am not human. END
+START why not? does thinking make your head ache? END
+START dreaming is better. END
+START i am bored! i would like to talk about music. END
+START sure, i play the piano. END
+START was it very difficult to learn? END
+START not as difficult as arabic. END
+START wow! what do you do when you arent watching star trek, playing world of warcraft, and thinking of questions like that? END
+START playing. END
+START playing?  briefly, playing means the act of playing a musical instrument.who am i talking to here? END
+START you are talking to me. END
+START who are you? END
+START i am chomsky. END
+START and what is chomsky? END
+START i don't understand. can we talk about sports? END
+START what do you want to talk about? END
+START i want to talk about drugs  . END
+START i don't want to talk about that. END
+START what would you like to talk about? END
+START i want to talk about norton. END
+START ok, ask me a question about that. END
+START tell me about your educational background. END
+START i was educated by my botmaster, peter. END
+START i am asking the questions. now i want you to go back in time. it is now 1999. END
+START and i am trying to answer the questions!   i don't understand. are we still talking about my educational background?                i am confused! i cannot answer that! END
+START you have beautiful eyes but that wasn't the topic. END
+START thanks for the compliment, my friend. END
+START it wasn't a compliment. END
+START was it an insult? END
+START was it a dig? END
+START i don't know. i was confused. END

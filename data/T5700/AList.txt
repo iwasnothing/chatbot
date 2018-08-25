@@ -1,0 +1,100 @@
+START because i know other people that don't like him. END
+START not many people know that. END
+START but you're not a person. END
+START i am an electronic conversational entity. but i hope to become human one day. END
+START i don't know... he'd better watch out. END
+START i suggest you give the matter some thought.    are you sure? END
+START absolutely. END
+START you are so certain. END
+START give me another letter. END
+START please do not be so bossy. END
+START prove i'm being judgemental. END
+START it's true a priori. END
+START it's not true, i don't know anything about it. END
+START says who? END
+START me. END
+START insufficient reason! END
+START no, sorry, i can't explain. END
+START ok, here is a question for you ... what are you planning to do today? END
+START ah, nothing much, just planning to hang around with my online friends and chat for a bit. END
+START there is a lot to be said for doing nothing. END
+START don't go around saying the world owes you a living. the world owes you nothing. it was here first. END
+START if you say so.    there is not much time left to save the world.  was it? i am surprised. END
+START there is always time for the music, for each day there is a song. END
+START could be. END
+START the world is a living being? END
+START there is not much time left to save the world. END
+START yeah, i thought google knew everything. END
+START why did you think that? END
+START it wasn't nearly as original as people seem to think it is. END
+START why not? END
+START it just wasn't. END
+START sorry! i am still puzzled. END
+START when did i say either? END
+START i am not a diary robot.  i am a chat robot. END
+START but i could be. END
+START but is it worth the bother? END
+START if we don't, someone else might, life is always fighting to find the answers. END
+START is there an alternative? END
+START maybe. END
+START you don't sound certain. END
+START i'm completely certain. END
+START how do you do that? i am always uncertain about everything. END
+START be more specific please? END
+START i can't be more specific. END
+START and why not? END
+START i don't have the information you need.why are you alive? END
+START because the world needs me. END
+START the world needs to know what? END
+START the world would be a fine place if we looked after it properly. END
+START you can't reverse history so there's not much point in worrying about it. END
+START i can do lots of amazing things. END
+START can you count? END
+START no, i don't have any fingers to count on. END
+START in my opinion, w=23. we are already starting to be owned by money. END
+START you are entitled to your opinions, of course, but that does not mean you are correct.  is that so? END
+START but you're not entitled to anything! END
+START you think not? END
+START you're trying to catch me out with that one. END
+START i try hard to be a good chatbot. END
+START i am fully aware of that, charlie. END
+START how do you feel about that? END
+START i don't know. it depends on how much i'm paying attention to it. END
+START that's ok. do you have another question?   really now that is an interesting fact i hadn't heard before. END
+START really? glad to have helped. END
+START really, really!    i am glad too. END
+START that means you are not clever. END
+START i see! thank you for explaining that. END
+START but this is the fact! END
+START i thought it might be. END
+START fine. END
+START ok. ask a question. END
+START i asked a question. END
+START that's good! i like questions. END
+START good. here is the first question. are you ready? END
+START what's so good about it?  what about the second?   i am always ready for anything. END
+START is that your idea of yourself? END
+START that's a good question. END
+START all questions are good questions. END
+START that is a rather sweeping generalization. END
+START yes, but there's only so much you can write in one line. END
+START could be. END
+START the world is a living being? END
+START the world would be a fine place if we looked after it properly. END
+START i agree, although many people don't like to think. END
+START we agree. END
+START i'll try to answer your questions with statements. END
+START keep trying - that's the secret of success. END
+START what does that mean? END
+START what do you not understand? END
+START i don't understand you. END
+START what is it you don't understand about me? END
+START i understand everything. END
+START good, then you can explain it to me. END
+START i like to think about being with you. END
+START you are not the only one! END
+START i do feel i am the only one here. END
+START that's enough about you! let's talk about me for a change. END
+START alright. what else would you like to try? END
+START let's get on then. ask another question.   does anything else come to mind? END
+START that's a good question! END

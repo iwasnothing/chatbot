@@ -1,0 +1,2816 @@
+START what was the birth date of john von neumann? END
+START when did john von neuman die? END
+START what were the occupations that von neuman held? END
+START what were von neuman's contributions to the field of computing? END
+START how many papers did von neumann publish? END
+START what is the name of von neumann's last work? END
+START what high profile controversial project was von neumann a prinipal of? END
+START of his published works, what topics were they covering? END
+START von neumann's study of what preceded the discovery of dna? END
+START what part of his work did von neumann consider to be his most important? END
+START where was quantum mechanics developed? END
+START what work did von nemann do in berlin in 1930 and princeton 1935 - 39? END
+START what was the topic of von neumann's work at princeton in 1931 - 32? END
+START with whom did von neumann work on the manhattan project? END
+START post world war ii, in what role did von neumann work? END
+START for what organizations was von neumann a consultant after world war ii? END
+START what keys steps did von neumann work out that contributed to weapons of war? END
+START where was von neumann born? END
+START did von neumann have any siblings? END
+START what occupation did von neumann father hold? END
+START when did von neuman's father move from pecs to budapest? END
+START what was von neumann's mother's name? END
+START in what year was von neumann's father elevated to nobility? END
+START what emperor elevated von neumann's father to nobility? END
+START what town did von neumann's family become associated when elevated to nobility? END
+START what was von neumann's given name as member of austro-hungarian nobility? END
+START at what age did schooling begin in hungary? END
+START who taught children before they began school in hungary? END
+START what languages were von neumann and his siblings taught? END
+START at what age was von neumann familiar with calculus? END
+START what did von neumann enter in 1911? END
+START in what room did children get education in hungary? END
+START what collective name was given to the generation of scholars produced by the hungarian school system? END
+START in what year did wigner win nobel prize? END
+START at what age did von neumann begin to study advance calculus? END
+START who did von neumann begin his studies of advanced calculus under? END
+START by 19 how many papers had von neumann published? END
+START von neumann's modern definition of ordinal numbers superseded whose definition? END
+START what prize did von neuman win at the conclusion of his gymansium formal education? END
+START what career path was decided upon for von neuman? END
+START at what university was it arranged for von neumann to enter a chemistry program? END
+START where did von neumann study as a phd candidate? END
+START what was the topic of von neuman's thesis? END
+START where did von neumann begin to lecture in 1928? END
+START by the end of 1927 how many papers had von neuman written? END
+START how many papers had von neumann written by 1929? END
+START what better offer came for von neumann in 1930? END
+START when did von neumann get married? END
+START what was von neumann's wife's name? END
+START before marriage what faith did von neumann join? END
+START what was von neumann's child's name? END
+START when did von neumann get married for a second time? END
+START in what year was von neumann offered a lifetime professorship?  END
+START in what year did von neumann's mother and siblings join him in u.s? END
+START in what year did von neumann become a naturalized citizen of us? END
+START why was neuman rejected from joining us army? END
+START what type of "off color" humor did von neumann especially enjoy? END
+START what complaints did von neumann's neighbor's have? END
+START what famous neighbor did von neumann have that may have been distracted by the music von neumann played? END
+START what mathematician was von nemann's closest friend? END
+START what topics of conversation would ulam and von neumann typically share? END
+START what would ulam use to cheer up von neumann in the hospital? END
+START what caused a setback in naive set theory at the beginning of 20th century? END
+START who resolved the problem of adequate axiomatization of set theory? END
+START what 2 techniques did von neumann use to exclude sets in his doctoral thesis in 1925? END
+START what is the method to demonstrate that no contradictions were created by the addition of axiom of foundation? END
+START zermelo and fraenkel's axiom of foundation established that every set be constructed how? END
+START what excluded a set from belonging to itself in set theory? END
+START what is a proper class? END
+START under what approach does an axiom impede a set of all sets which do not belong to themselves? END
+START under von neumann's approach can a class of all sets that do not belong to themselves be constructed? END
+START in 1930 who gave a strongly negative answer to von neuman's approach to the axiomatic system of theory of sets? END
+START what was the central theme of godel's announcement that the axiomatic system was not complete? END
+START where was godel's statement about axiomatic system made in 1930? END
+START how long did it take von neumann to figure a response to theory of incompleteness? END
+START what was the consequence of the theory of incompleteness? END
+START upon revising the theory of incompleteness, what was the name of the new godel theory? END
+START what field did von neuman establish? END
+START what is the distinction of continuous geometry? END
+START what was the first example of continuous geometry? END
+START in what way did von neumann make spectacular contributions to measure theory? END
+START what concept was relevant to the solvability of the problem of measure? END
+START according to von neumann what is the most important part of the problem of measure? END
+START what is often considered more important than the results of von neumann's papers? END
+START in 1938 what was von neumann awarded? END
+START what did von neumann use the haar theorem to solve in a 1936 paper? END
+START what is von neumann algebra? END
+START what does the von neumann bicommutant theorem show? END
+START when was direct integral introduced by von neumann? END
+START what was introduced in von neumann algebras? END
+START what did von neumann work on in 1937 - 39? END
+START what properties determine dimension in lattice theory? END
+START who wrote that "john von neumann's brilliant mind blazed over lattice theory like a meteor?" END
+START what type of axioms were used by von neumann in his lattice work? END
+START how long was von neumann's lattice theory paper? END
+START in what room did von neumann often write at home? END
+START who established the framework for quantum mechanics? END
+START what paper did von neumann produce in 1932? END
+START what von neumann work preceded the axiomatiztion of quatum mechanics? END
+START what are the physics of quantum mechanics? END
+START what is the uncertainty principle? END
+START the physics of quantum mechanics included special cases for what work? END
+START von neumann's abstract treatment allowed him to work on what foundational issue? END
+START what was john bell's argument? END
+START what did jeffrey bub argue in 2010? END
+START did von neumann rule hidden variable theories? END
+START what results came from von neumann's deep analysis of the measurement problem? END
+START what "outside of calculation" variable could initiate collapse in von neumann's conclusion? END
+START were von neumann's conclusions of collapse of entire universe cause accepted widely? END
+START with whom did von neuman work on a paper in 1936 that introduce quantum logic? END
+START what concept was created for quatum logic? END
+START what is the difference of logic in quantum theory? END
+START what year was game theory established? END
+START what discipline is game theory derived from? END
+START what are the possible strategies in minimax theory? END
+START what must a player consider when determining every possible strategy? END
+START what is the difference of quantum disjunction from classic? END
+START what is frequently the case in quantum mechanics when a pair of alternatives are semantically determinate? END
+START how can quantum disjuction be illustrated? END
+START what is optimal strategy? END
+START what von neumann work was published in 1944? END
+START who was co-author with von neman on the theory of games and economic behavior? END
+START how did von neumann raise the level of economics? END
+START what did von neumann prove with his model of expanding economy? END
+START what did von neumann consider for his model of expanding economy? END
+START in von neumann's model what does p represent? END
+START in von neumann's model what does q represent? END
+START what is the rate of qrowth equal to? END
+START was the economic model successful? END
+START what were von neumann's model an example of? END
+START what was the significance of von neumann's model of expanding economy? END
+START what ideas were utilized in von neumann's ecocomic model? END
+START when did von neumann's interest in economics begin? END
+START what economist did von neumann get to know that spurred the interest in economics? END
+START in who's book did von neuman find errors in the author's equations? END
+START what was the new method of linear programming that von neumann suggested? END
+START what did von neuman's method use? END
+START what was von neumann's method known to be the first of? END
+START when did von neumann establish mean square ratio? END
+START how has mean square ratio been applied? END
+START what does null hypothesis test against? END
+START the algorithm defining artificial viscosity is a fundamental contribution to what area? END
+START what did the math of artificial viscosity do? END
+START what was the problem of computers solving fluid dynamics? END
+START what principal contribution did von neumann make to atomic bomb? END
+START did von nemann think that the atomic bomb design was not workable? END
+START what additional ideas did von neumann contribute to atomic bomb? END
+START what change was made when shortage of uranium 235 was apparent? END
+START what was the tolerance limit for implosion "edge effect"? END
+START who constructed trinity bomb? END
+START in what year was trinity bomb completed? END
+START what other people worked with von neumann on target selection? END
+START what role did von neuman play in the selection of targets? END
+START what was von neumann's first choice for target city? END
+START who dismissed von neuamann's primary target city? END
+START on what day was the first atomic blast? END
+START where did the first atomic blast test take place? END
+START what was the power of the first atomic blast? END
+START with whom did von neumann collaborate for further development of the hydrogen bomb? END
+START what improvement did von neumann see in the nuclear weaponry? END
+START what country was afforded access to design of improved nuclear weapon through espionage? END
+START in 1950 von neumann became a consultant for what organization? END
+START what military organization did von neumann also consult with for military aspect of nuclear weapons? END
+START what committee did von neumann serve on within the atomic energy commission? END
+START in what year did von neumann become commissioner of the aec? END
+START what were compact hydrogen bombs useful for? END
+START what was the concern with longer range icbm with hbomb? END
+START von neumann testified at whose hearing about loyalty and help? END
+START what was the purpose of top secret icbm committee? END
+START what argument did von neumann make about icbms? END
+START in what year did sm-65 atlas pass its first fully functional test?  END
+START what was mad? END
+START what was the goal of mad? END
+START what were russians opinions of future weaponry? END
+START what was the concern of a missile gap? END
+START why did von neumann join government work? END
+START how did von neumaan describe his political ideology? END
+START what was the project that von neumann first participated in government? END
+START who was the inventor of the merge-sort algorithm? END
+START with whom did von neumann work on the philosophy of artificial intelligence? END
+START what does a merge sort algorithm do? END
+START where were the computations for hydrogen bomb worked out? END
+START what was the monte carlo method? END
+START due to slow use of random numbers what was developed? END
+START what nullified patent claims of edvac designers? END
+START what was the significance of edvac? END
+START where was eniac located? END
+START what was the speed difference with new eniac? END
+START what were advantages for programming new eniac? END
+START after the design of ias, who built the computer? END
+START when was stochastic computing introduced? END
+START how long before stochastic computing could be implemented? END
+START when did von neumann develop first self reproducing computer program? END
+START what is another name for the first self reproducing computer program? END
+START on what computer was the first numerical weather forecast produced? END
+START in what year did von neumann publish the paper numerical integration of the barotropic vorticity equation END
+START how much colder was world in last glacial age? END
+START how quickly was von neumann able to complete math in his head? END
+START were other mathematicians amazed by von neumann? END
+START did von neumann enjoy thinking? END
+START how did lothar wolfgang nordheim describe von neumann?  END
+START what did jacob bronowski think of von neumann? END
+START what did lecturer polya think about von nuemann? END
+START what did herman goldstone write about von neumann? END
+START could von neumann recall written text much later? END
+START what did ulam think of von nuemann's cognitive ability? END
+START what did nobel laureate hans bethe think of von neumann's ability? END
+START what did james glimm have to say about von nuemann? END
+START what description did peter lax use for von neumann? END
+START in what year was von neumann diagnosed with cancer? END
+START from when his mother was diagnosed with cancer, how long did she live? END
+START how long did von neumann survive with cancer? END
+START who administered the last sacrament to von neumann? END
+START did the last sacrament ease von neumann? END
+START was there conflict of faith and beliefs at the end of von neumann's life? END
+START what did oskar morgenstern feel about von neumann's beliefs? END
+START what year was the playstation 3 released? END
+START what social gaming service was integrated into the playstation 3? END
+START what was the thinner version of the ps3 called? END
+START what year did the super slim model hit stores? END
+START how many playstation 3 units had been purchased as of early 2016? END
+START what version of the playstation was released at the end of 2007? END
+START what was officially announced at e4 2005? END
+START the hefty model of the playstation 3 was released when? END
+START as of march 2017, playstation 3 has sold how many units? END
+START what was the thinnest version of the ps4 called? END
+START what year was the playstation 4 released? END
+START what social gaming service was integrated into the playstation 4? END
+START what was the thicker version of the ps3 called? END
+START what year did the super slim model get cancelled? END
+START how many playstation 3 units had been purchased as of early 2015? END
+START what shape was the sixaxis prototype in? END
+START what event did sony choose for the ps3 unveiling? END
+START what popular game was demoed in a video at the game shows? END
+START what event did sony take the playstation 3 to four months after e3? END
+START what was one game sony debuted on a modified pc so gamers could get a look? END
+START dell unveiled the ps3 to the public on what date? END
+START at what event did sony unveil the ps4? END
+START fantasy of the patriots was demoed at which may 2005 event? END
+START metal gear solid 3 was demoed at which may 2005 event? END
+START what shape was the sixaxis final model in? END
+START what event did microsoft choose for the ps3 unveiling? END
+START what popular game was demoed in just audio at the game shows? END
+START what event did sony take the playstation 3 to five months after e3? END
+START what was one game sony debuted on a modified ps so gamers could get a look? END
+START how many usb ports did the original ps3 prototype have? END
+START by the time the system appeared at e3 2006, how many ethernet ports was it down to? END
+START why might sony have reduced the number of ports on the playstation 3 before production? END
+START in addition to the 20 gb model, what larger model did sony offer? END
+START what color is the logo on the 60 gb ps3? END
+START the initial prototype shown in march 2005 had how many hdmi ports? END
+START sony increased the number of hdmi ports to presumably cut what? END
+START the initial prototype shown in march 2005 had how many ethernet ports? END
+START the initial prototype shown in march 2005 had how many usb ports? END
+START how many usb ports did the original ps2 prototype have? END
+START by the time the system appeared at e3 2005, how many ethernet ports was it down to? END
+START why might sony have reduced the number of ports on the playstation 3 after production? END
+START in addition to the 2 gb model, what larger model did sony offer? END
+START what color is the logo on the 6 gb ps3? END
+START which region experience a setback that pushed back the release of the playstation 3? END
+START what part of the system was sony having trouble getting supplies for? END
+START which japanese ps3 model got a 20%-plus price cut before hitting the market? END
+START where did sony offer the 60 gb model with an open pricing scheme? END
+START how many playable games did the playstation 3 by the time it arrived at the 2006 tokyo game show? END
+START a shortage of what delayed the ps4 launch in what region? END
+START the ps4 launch in the pal region was delayed until what date? END
+START at the tokyo game show sony showed how many playable ps4 games? END
+START the launch price of the japanese 60 gb model was reduced by how much? END
+START what game show took place on september 12, 2006? END
+START which region experience a setback that moved up the release of the playstation 3? END
+START what part of the system was sony having an easy time getting supplies for? END
+START which japanese ps3 model got a 10%-plus price cut before hitting the market? END
+START where did sony offer the 60 gb model with a closed pricing scheme? END
+START how many playable games did the playstation 3 by the time it arrived at the 2005 tokyo game show? END
+START instead of november, for what month of the following year was the release rescheduled? END
+START what country had to wait until june of 2007 for their ps3? END
+START how big was the hard drive in the single south korean version? END
+START what did customers in singapore pay for the 60 gb ps3? END
+START on what date did the playstation 3 go on sale in africa? END
+START what system sold about 6,000,000 units in its first two days? END
+START the 80 gb ps3 launched in singapore when? END
+START what was the price of the 80 gb ps3 launched in singapore? END
+START when was the 60 gb ps3 launched in south korea? END
+START instead of october, for what month of the following year was the release rescheduled? END
+START what country had to wait until june of 2008 for their ps3? END
+START how big was the hard drive in the single north korean version? END
+START what did customers in singapore pay for the 60 gb ps2? END
+START on what date did the playstation 2 go on sale in africa? END
+START what was the model number of the slim version of the playstation 3? END
+START what font was discontinued with the release of the slim model? END
+START what would customers notice about the sound of the new, improved cooling system? END
+START what did the boot screen on the game consoles read before sony changed it to "ps3 playstation 3"? END
+START what did sony change about the ps3 games along with the packaging in 2009? END
+START sony announce what model on april 18, 2009? END
+START where did sony announce the ps4 cech-2000? END
+START what model included increased power consumption? END
+START what model stopped using the "batman font"? END
+START what model included a louder cooling system? END
+START what was the model number of the thick version of the playstation 3? END
+START what font was continued with the release of the slim model? END
+START what would customers notice about the sound of the new, improved heating system? END
+START what did the boot screen on the game consoles read after sony changed it to "ps3 playstation 3"? END
+START what did sony change about the ps3 games along with the packaging in 2008? END
+START at what event did sony tell everyone about the cech-4000? END
+START what size was the largest hard drive available on the super slim ps3? END
+START how many versions of the cech-4000 were made? END
+START on what date was the 12 gb version of the super slim released in the uk? END
+START what color was the playstation 3 that was included in the god of war: ascension bundle in the states? END
+START at what game show was the new, slimmer ps4 redesign announced? END
+START the 5000 gb model was released in the uk when? END
+START the ps4 super slim was released in the what country with uncharted 3? END
+START in japan, the black super slim was released on november 22 of what year? END
+START at what event did sony tell everyone about the cech-3000? END
+START what size was the largest hard drive available on the super slim ps2? END
+START how many versions of the cech-4000 weren't made? END
+START on what date was the 12 gb version of the super slim released in the us? END
+START what color was the playstation 3 that was included in the god of war: ascension bundle in the uk? END
+START how many games could you buy to go with your ps3 when it launched in north america? END
+START what game won gamespot's game of the year title for 2006? END
+START what company developed the game ridge racer 7? END
+START what's the name of the sequel game to motorstorm? END
+START how many titles did the ps3 launch with in europe? END
+START ps3 launched in south america with how many titles? END
+START what was the worst-selling game launch in the us? END
+START what game was heavily criticized by many video game websites? END
+START the ps3 game of the year award 2006 was given to what game? END
+START during the japanese launch, crossfire was the top-selling what? END
+START how many games could you buy to go with your ps3 when it launched in south america? END
+START what game won gamespot's game of the year title for 2016? END
+START what company developed the game ridge racer 6? END
+START what's the name of the prequel game to motorstorm? END
+START how many titles did the ps2 launch with in europe? END
+START which ratchet & clank title debuted at e3 2007? END
+START what year was warhawk released for the playstation 3? END
+START at what event were two new final fantasy games for ps3 first shown to the japanese market? END
+START what gran turismo game was shown in 2007 but not released until after 2007? END
+START which much anticipated third-party game with the name of a month of the year in it did sony show at e3 2007? END
+START which uncharted title debuted at e3 2008? END
+START what year was uncharted:tools of destruction released for ps3? END
+START what titles were shown at the tas 2007? END
+START what was shown at tgs 2007 to appease the french market? END
+START which ratchet & clank title debuted at e2 2007? END
+START what year was jayhawk released for the playstation 3? END
+START at what event were two new final fantasy games for ps3 last shown to the japanese market? END
+START what gran turismo game was shown in 2007 but not released until after 2008? END
+START which much anticipated third-party game with the name of a month of the year in it did sony show at e4 2007? END
+START what's sony's budget line of ps3 games called in japan? END
+START if you live in australia and want affordable playstation 3 games, what range would you shop for? END
+START which call of duty title does sony include in their low-end price range? END
+START in what year was devil may cry 4 added to the budget game offerings for ps3? END
+START what words would you see in the united states or canada on a ps3 game that would signify its lower price? END
+START who launched luxury ps3 titles? END
+START what is known as the platinum hits range in the us? END
+START what resistance title is in the ps4 budget range? END
+START what uncharted title is in the ps4 budget range? END
+START what's sony's budget line of ps2 games called in japan? END
+START if you live in australia and want affordable playstation 4 games, what range would you shop for? END
+START which call of duty title does sony include in their high-end price range? END
+START in what year was devil may cry 3 added to the budget game offerings for ps3? END
+START what words would you see in the united states or canada on a ps3 game that would signify its higher price? END
+START what company said it would bring 3d technology to the ps3? END
+START along with wipeout hd, what game did the press view in 3d in early 2009? END
+START what version of firmware update gave the playstation 3 its 3d capability?  END
+START what word describes what happens to a game when is edited to add functions not originally programmed? END
+START what was the ps3 console able to play after the system software was updated to 3.50? END
+START the ceo of blitz games announced in december 2008 it would bring what to ps4? END
+START firmware update 3.33 allowed ps3 titles to be played in what? END
+START software update 3.55 allowed the ps3 to play what? END
+START a title with a 3d patch is super what? END
+START what company said it would bring 4d technology to the ps3? END
+START along with wipeout hd, what game did the press view in 3d in late 2009? END
+START what version of firmware update gave the playstation 3 its 4d capability?  END
+START what word describes what happens to a game when is edited to remove functions not originally programmed? END
+START what was the ps3 console able to play after the system software was updated to 3.05? END
+START what operating system does fixstars solutions offer for the playstation 3? END
+START what company sold yellow dog linux before fixstars solutions? END
+START what company bought rapidmind in 2009? END
+START how many playstation 3 consoles was dr. frank mueller able to cluster together? END
+START who is buying ps3 clusters instead of supercomputers in order to save some money? END
+START whose hardware was used to build superconductors? END
+START who produced a stream programming package for ps4? END
+START who did rapidmind acquire in 2009? END
+START who clustered 18 ps3s? END
+START what operating system does fixstars solutions offer for the playstation 2? END
+START what company sold yellow dog linux after fixstars solutions? END
+START what company bought rapidmind in 2008? END
+START how many playstation 2 consoles was dr. frank mueller able to cluster together? END
+START who is buying ps3 clusters instead of supercomputers in order to lose some money? END
+START what type of microprocessor is in a ps3? END
+START what does ppe stand for? END
+START how many synergistic processing elements are in a ps3's cpu? END
+START how much xdr dram is on board a ps3? END
+START what function is the nvidia rsx responsible for in a playstation 3? END
+START which playstaytion uses a cell processor? END
+START the ninth spe is disabled to improve what? END
+START only seven on the eight spes are accessible to whom? END
+START ps4 has 526 mb of what kind of main memory? END
+START what type of macroprocessor is in a ps3? END
+START what doesn't ppe stand for? END
+START how many synergistic processing elements are in a ps3's cup? END
+START how much xdr bram is on board a ps3? END
+START what function is the nvidia rxs responsible for in a playstation 3? END
+START what did sony name their vibrating ps3 controller? END
+START at what event at the tokyo game show was the dualshock 3 first announced? END
+START what did many people who handled the dualshock 3 say it was compared to the sixaxis? END
+START what was the first country to be able to buy the new dualshock 3 in stores? END
+START on what date was the dualshock three released in australia? END
+START sony announced dualshock 4 at what game show? END
+START sony announced a vibrating ps4 controller  at what game show? END
+START the ps4 controller was lighter than what? END
+START dualshock 4 was released in japan on what date? END
+START what did sony name their vibrating ps2 controller? END
+START at what event at the tokyo game show was the dualshock 2 first announced? END
+START what did many people who handled the dualshock 2 say it was compared to the sixaxis? END
+START what was the last country to be able to buy the new dualshock 3 in stores? END
+START on what date was the dualshock three unreleased in australia? END
+START how is "xrossmediabar" abbreviated? END
+START how many options categories display in the standard ps3 xrossmediabar? END
+START one of sony's streaming services is the playstation vue; what's the other one called? END
+START when you start up your ps3, what's the first section of the ps network you see? END
+START what menu would you use to set up a video chat? END
+START what is displayed when the system shuts down? END
+START ps4 is able to store what kind of profiles? END
+START ps4 has what kind of optional storage? END
+START ps4 is compatible with what kind of keyboard? END
+START how is "xrossmediabar" unabbreviated? END
+START how many options categories display in the standard ps4 xrossmediabar? END
+START one of sony's streaming services is the playstation rue; what's the other one called? END
+START when you start up your ps3, what's the last section of the ps network you see? END
+START what menu would you use to set up an audio chat? END
+START what does the abbreviation "ndrm" represent? END
+START how many different ps3s can one user access? END
+START what identifier allows a player to activate a playstation 3? END
+START playstation has safeguards in place to prevent illegal use of what type of movies or video? END
+START how does ps4 limit data use? END
+START playstation's network store governs purchased what? END
+START ps4 limits the transfer of what? END
+START what will restore correctly? END
+START what doesn't the abbreviation "ndrm" represent? END
+START what does the abbreviation "nerd" represent? END
+START how many same ps3s can one user access? END
+START what identifier allows a player to deactivate a playstation 3? END
+START playstation has safeguards in place to prevent legal use of what type of movies or video? END
+START what application lets ps3 users view and organize photographs? END
+START what version of ps3 contained photo gallery? END
+START after version 3.4, picasa was integrated into photo gallery along with what social networking site? END
+START is photo gallery automatically or separately installed? END
+START photo gallery includes the ability to sort by age, color, or what other unusual criteria for photo software? END
+START what allows you to view photos on ps4? END
+START photo gallery takes up 150 what? END
+START what application was introduced in software version 1.60? END
+START what version allows users to upload photos on snapchat? END
+START what application lets ps3 users view and disorganize photographs? END
+START what version of ps2 contained photo gallery? END
+START after version 4.30, picasa was integrated into photo gallery along with what social networking site? END
+START is video gallery automatically or separately installed? END
+START photo gallery excludes the ability to sort by age, color, or what other unusual criteria for photo software? END
+START in what month of 2009 did vidzone start free service to some countries? END
+START what year did the announcement come about netflix becoming available on ps3 in the u.s.? END
+START what do you have to agree to with netflix before you can use their service on playstation 3? END
+START what type of disc was initially used to connect access to netflix for ps3? END
+START when were users able to discard the disc and access netflix directly through their ps3s? END
+START vidzone has offered paid music video streaming service since when? END
+START netflix has been available on ps2 since when? END
+START which users paid for a blu-ray disc to access services? END
+START in october 2010, the requirement to use what was installed? END
+START in what month of 2009 did vidzone start paid service to some countries? END
+START what year did the announcement come about netflix becoming available on ps3 in the u.n.? END
+START what do you have to disagree to with netflix before you can use their service on playstation 3? END
+START what type of disc was never used to connect access to netflix for ps3? END
+START when were users able to discard the disc and access netflix directly through their ps4s? END
+START what functionality did the playstation 3 lose in version 3.21 of its firmware update? END
+START what reason did sony give for taking out otheros? END
+START was firmware update 3.21 optional or mandatory if users wanted to continue accessing the ps network? END
+START which ps3 model never included otheros? END
+START what legal action did some disgruntled otheros users take against sony? END
+START what functionality did the playstation 3 lose in version 3.12 of its firmware update? END
+START what reason did sony give for taking out otteros? END
+START was firmware update 3.12 optional or mandatory if users wanted to continue accessing the ps network? END
+START which ps3 model always included otheros? END
+START what legal action did some happy otheros users take against sony? END
+START what part of the original model ps3s starting causing problems in march of 2010? END
+START what essential network were some users unable to connect to because of the error? END
+START what erroneous date did some users start seeing on their consoles? END
+START what humorous nickname was given to the situation with the console system clock errors? END
+START the name "apocalyps3" combines "ps3" with what other word? END
+START what part of the original model ps3s starting causing problems in march of 2011? END
+START what essential network were some users able to connect to because of the error? END
+START what erroneous date did some users stop seeing on their consoles? END
+START what humorous nickname was given to the situation with the console system disk errors? END
+START the name "apocalyps3" combines "ps2" with what other word? END
+START by what date did sony correct the issue with the system clock? END
+START what were the broken models mistakenly classifying 2010 as? END
+START what storage system for dates led to the system clock error? END
+START what clock unrelated to the error in the ps3 had to be updated in some cases in order to fix the bug? END
+START by what date did sony correct the issue with the system disk? END
+START what were the broken models mistakenly classifying 2011 as? END
+START what storage system for dates led to the system disk error? END
+START what clock unrelated to the error in the ps2 had to be updated in some cases in order to fix the bug? END
+START what clock unrelated to the error in the ps3 had to be updated in some cases in order to continue the bug? END
+START what ps3 game can integrate a playstation portable to use as a rear-view mirror? END
+START what kind of game is formula one championship edition? END
+START if users want to download original playstation games, where do they go online? END
+START games in plain playstation format can be played both on the ps3 console and what other device? END
+START what's the name of the feature that would let you play a game on your psp without having it with you? END
+START what ps2 game can integrate a playstation portable to use as a rear-view mirror? END
+START what kind of game is formula two championship edition? END
+START if users want to download original playstation games, where do they go offline? END
+START games in plain playstation format can be played both on the ps4 console and what other device? END
+START what's the name of the feature that would let you play a game on your psp while having it with you? END
+START in what city did sony hold their 2006 playstation business briefing? END
+START does playstation network use artificial or real currency for purchases? END
+START along with being free and providing constant connectivity, what other feature does ps network offer users? END
+START playstation network is only available for ps3 and what other device? END
+START in what city did sony hold their 2005 playstation business briefing? END
+START does playstation network use artificial or real currency for picture viewing? END
+START along with being free and providing constant connectivity, what other feature does ps network not offer users? END
+START playstation network is only available for ps2 and what other device? END
+START playstation netbook is only available for ps3 and what other device? END
+START what's the name of sony's exclusive playstation network subscription service? END
+START how is playstation plus often abbreviated? END
+START who was the president and ceo of scea in the year 2010? END
+START on what date did the playstation plus service officially launch? END
+START duration options for subscription to ps+ are either three months or what period of time? END
+START what's the name of microsoft's exclusive playstation network subscription service? END
+START how is playstation plus never abbreviated? END
+START who was the president and ceo of scea in the year 2009? END
+START on what date did the playstation plus service officially get cancelled? END
+START duration options for subscription to ps+ are either four months or what period of time? END
+START where can you buy downloadable content for the psp and ps3? END
+START what do you click on in the ps3 interface to get to the playstation store? END
+START what connection would you go through to go to the ps3 store from a psp? END
+START how many unique downloads had there been from the playstation store by late 2009? END
+START from a pc, what application can you use to visit the playstation store? END
+START where can you buy uploadable content for the psp and ps3? END
+START what do you click on in the ps2 interface to get to the playstation store? END
+START what connection would you go through to go to the ps3 store from a ps2? END
+START how many unique downloads had there been from the playstation store by late 2008? END
+START from a pc, what application can't you use to visit the playstation store? END
+START what new feature for ps3 was released in september of 2009? END
+START at what event did sony announce what's new? END
+START what did what's new replace? END
+START what type of information is disseminated through what's new? END
+START what's geographical area does what's new tailor information to for each user? END
+START what new feature for ps3 was released in september of 2008? END
+START at what event did sony cancel what's new? END
+START what did what's new get replaced by? END
+START what type of information is disseminated outside of what's new? END
+START what's biographical area does what's new tailor information to for each user? END
+START how many  different sections does what's new have? END
+START what section of what's new would a user visit to find the games they've played lately? END
+START before what's new existed, what default screen would show when a user put a movie in their ps3? END
+START what section of what's new can't show links to websites? END
+START other than the video default screen for movies, what menu would the ps3 default to before what's new? END
+START how many different sections doesn't what's new have? END
+START what section of what's new would a user visit to find the games they've never played? END
+START before what's new existed, what default screen would show when a user put a movie in their ps2? END
+START what section of what's new can show links to websites? END
+START what does sony call their social network? END
+START what is the customizable representation of a user in ps home called? END
+START home has free, won, and what third type of content? END
+START users employ the content to decorate club houses, their avatars, or what virtual dwelling space? END
+START what type of games can users find participants for in home? END
+START what doesn't sony call their social network? END
+START what is the uncustomizable representation of a user in ps home called? END
+START home has pay, won, and what third type of content? END
+START users don't employ the content to decorate club houses, their avatars, or what virtual dwelling space? END
+START what type of games can't users find participants for in home? END
+START life was able to personalize information for users by what location division? END
+START on what date was life with playstation shut down? END
+START for weather updates from the weather channel, which of life's channels would you have visited? END
+START what's was life's channel that delivered information about history topics? END
+START what didn't life with playstation take the place of? END
+START life wasn't able to personalize information for users by what location division? END
+START on what date was life with playstation continued? END
+START for weather updates from the weather channel, which of life's channels wouldn't you have visited? END
+START what's was life's channel that delivered information about current topics? END
+START what was the date sony shut down the ps network because of a security breach? END
+START how many users did sony say might have been affected by the intrusion? END
+START what did sony call the special offer they handed out to respond to the breach? END
+START how many free days of playstation plus were included in the offer? END
+START how many free game downloads were included in the "welcome back" program? END
+START what was the date sony shut down the microsoft network because of a security breach? END
+START how many users did sony say might have been unaffected by the intrusion? END
+START what didn't sony call the special offer they handed out to respond to the breach? END
+START how many paid days of playstation plus were included in the offer? END
+START how many free game downloads were excluded in the "welcome back" program? END
+START what was playstation 3's toughest competitor in the video game market? END
+START what did wii offer that ps3 couldn't compete with? END
+START in 2006, did most people prefer the xbox 360 or ps3 versions of cross-platform games? END
+START until what year was sony seeing a loss on each playstation 3 console it sold? END
+START which cost less in stores: ps3 or wii? END
+START what was playstation 4's toughest competitor in the video game market? END
+START what did wii offer that ps3 could compete with? END
+START in 2006, did most people prefer the xbox or ps2 versions of cross-platform games? END
+START until what year was sony seeing a profit on each playstation 3 console it sold? END
+START which cost less in stores: ps2 or wii? END
+START how much did it cost to make one 20 gb ps3? END
+START in contrast to the production cost, what was the retail price for a 20 gb playstation 3? END
+START assuming isuppli got the numbers right, how much of a loss did sony take for every 20 gb ps3 sold in the u.s.? END
+START what was the name of sony's president who announced his retirement amid rumors in april 2007? END
+START in u.s. dollars, how much was the enormous loss sony reported the month before kutaragi's retirement announcement? END
+START how much did it cost to make one 40 gb ps3? END
+START in contrast to the production cost, what was the retail price for a 20 gb playstation 2? END
+START assuming isuppli got the numbers right, how much of a loss did sony take for every 20 gb ps3 sold in the u.k.? END
+START what was the name of sony's president who announced his retirement amid rumors in april 2017? END
+START in u.s. dollars, how much was the enormous profit sony reported the month before kutaragi's retirement announcement? END
+START who was sony's ceo at the start of 2008? END
+START when did hirai think the ps3 might start making the company some money? END
+START what market analyst firm said sony could make the playstation 3 profitable by august 2008? END
+START how many ps3 did hirai set a public goal to sell by the time the product was nine? END
+START what other sony gaming console was hirai setting his sales goal to beat? END
+START who was sony's ceo at the start of 2018? END
+START when did hirai think the ps2 might start making the company some money? END
+START what market analyst firm said sony could make the playstation 3 profitable by august 2018? END
+START how many ps3 did hirai set a private goal to sell by the time the product was nine? END
+START what other microsoft gaming console was hirai setting his sales goal to beat? END
+START along with a drop in the cost of hardware, ps3 has gotten cheaper to make because what chip was phased out? END
+START what's the name of the microprocessor produced by the 65 nm process? END
+START what specific component of blu-ray disc have also gotten less expensive to make? END
+START as of summer 2009, what was the cost to sony to make a ps3? END
+START the august 2009 cost is a result of what percentage decrease in production cost? END
+START along with a drop in the cost of hardware, ps2 has gotten cheaper to make because what chip was phased out? END
+START what's the name of the microprocessor produced by the 56 nm process? END
+START what specific component of dvd have also gotten less expensive to make? END
+START as of summer 2008, what was the cost to sony to make a ps3? END
+START the august 2009 cost is a result of what percentage increase in production cost? END
+START what rating did ars technica initially give playstation 3? END
+START what ps3 competitor won ign's "console showdown" in 2010? END
+START what pc mag. staffer picked ps3 over xbox in june, 2012?  END
+START which publication called the playstation 3 "a brilliant games console"? END
+START where did ign place the ps3 on their 2009 list of the best video game consoles ever? END
+START what rating did ars technica initially give playstation 4? END
+START what ps3 competitor won ign's "console showdown" in 2011? END
+START what pc mag. staffer picked ps3 over xbox in june, 2010?  END
+START which publication called the playstation 2 "a brilliant games console"? END
+START where did ign place the ps3 on their 2011 list of the best video game consoles ever? END
+START what list by pc world ranked playstation eighth, in a bad way? END
+START what gaming website called ps3 "a hate object reviled by the entire internet"? END
+START what quote sums up pc world's 2006 assessment of ps3? END
+START how long did gamesradar say it took sony to turn the internet against the playstation 3? END
+START what list by pc world ranked playstation ninth, in a bad way? END
+START what gaming website called ps2 "a hate object reviled by the entire internet"? END
+START what quote sums up pc world's 2005 assessment of ps3? END
+START how long did gamesradar say it took sony to turn the internet in favor of the playstation 3? END
+START how long did gamesradar say it took sony to turn the internet against the playstation 4? END
+START in what year did gabe newell call the ps3 "a total disaster"? END
+START who is valve's vp of marketing who says they want to hire programmers for a ps3 team? END
+START what year did newell show up at sony's ec3 press conference to take back what he said about ps3? END
+START what game did valve develop for the playstation 3 console? END
+START what's the name of valve's software update system? END
+START in what year did gabe newell call the ps2 "a total disaster"? END
+START who is valve's vp of marketing who says they want to hire programmers for a ps4 team? END
+START what year did newell show up at sony's ec4 press conference to take back what he said about ps3? END
+START what game did valve develop for the playstation 2 console? END
+START what's the name of valve's hardware update system? END
+START what group does bobby kotick think is being discouraged from working on the ps3? END
+START what does "roic" stand for? END
+START what company is kotick the ceo of? END
+START what newspaper reported kotick's concerns and his threat to stop supporting the playstation platform? END
+START what game development company completely disagreed with kotick's statements in the times interview? END
+START what group does bobby kotick think is being encouraged from working on the ps3? END
+START what does "rioc" stand for? END
+START what company is kotick the cfo of? END
+START what newspaper reported kotick's concerns and his threat to keep supporting the playstation platform? END
+START what game development company completely agreed with kotick's statements in the times interview? END
+START what score did cnet give the ps3 out of ten? END
+START what playstation 3 feature did home theater magazine most like about ps3? END
+START have reviews praised the ps3's hardware of software more frequently? END
+START what other reviewer agreed with home theater magazine's assessment of the ps3's blu-ray player? END
+START what website said the playstation 3 "lives up to the hype"?  END
+START what score did cnet give the ps2 out of ten? END
+START what playstation 3 feature did home theater magazine most like about ps4? END
+START have reviews praised the ps2's hardware of software more frequently? END
+START what other reviewer disagreed with home theater magazine's assessment of the ps3's blu-ray player? END
+START what website said the playstation 4 "lives up to the hype"?  END
+START with a day of its release, on what website did the ps3 slim become the number-one bestseller? END
+START for how many consecutive days did the ps3 slim hold the number-one spot on amazon.com? END
+START what score did the ps3 slim earn from pc world? END
+START pc world's rave review of the ps3 slim was a complete turnaround from their thoughts on what older model console? END
+START along with the ps slim's value, quietness, and lower power usage, what superficial quality did pc world praise? END
+START with a week of its release, on what website did the ps3 slim become the number-one bestseller? END
+START for how many consecutive days did the ps4 slim hold the number-one spot on amazon.com? END
+START what score did the ps4 slim earn from pc world? END
+START pc world's rave review of the ps3 slim was a complete turnaround from their thoughts on what newer model console? END
+START along with the ps slim's value, quietness, and high power usage, what superficial quality did pc world praise? END
+START what aspect of the ps3 slim was cnet unhappy was missing for ps2 games? END
+START how many of five possible stars did cnet give the ps3 slim? END
+START how many of its own five stars did techradar award the ps3 slim? END
+START what area of the console did techradar feel was designed poorly compared to the original ps3? END
+START what aspect of the ps4 slim was cnet unhappy was missing for ps2 games? END
+START how many of six possible stars did cnet give the ps3 slim? END
+START how many of its own four stars did techradar award the ps3 slim? END
+START how many of its own five stars did techradar award the ps2 slim? END
+START what area of the console did techradar feel was designed well compared to the original ps3? END
+START what quality of the ps3 super slim was the website spong excited about? END
+START in addition to quieter fans and drive, what change from the other models did spong praise? END
+START what piece of the ps3 super slim's hardware did spong say was too "fiddly"? END
+START what did spong said you have to do to the disc loader before the console will start reading the disc? END
+START what quality of the ps2 super slim was the website spong excited about? END
+START in addition to louder fans and drive, what change from the other models did spong praise? END
+START what piece of the ps2 super slim's hardware did spong say was too "fiddly"? END
+START what did spong said you have to not do to the disc loader before the console will start reading the disc? END
+START what did spong said you have to do to the disc loader before the console will stop reading the disc? END
+START what website rated the super slim four out of five stars? END
+START what adjective did cnet use to describe the ps3 super slim's design? END
+START what component of the super slim did cnet call "the easiest yet"? END
+START what hardware component did cnet have the biggest problem with, even comparing it to an old credit card reader? END
+START was the lowest-priced super slim more or less expensive than any of the ps3 slim models? END
+START what website rated the super slim three out of five stars? END
+START what adjective did cnet use to describe the ps2 super slim's design? END
+START what component of the super slim did cnet call "the hardest yet"? END
+START what hardware component did ncet have the biggest problem with, even comparing it to an old credit card reader? END
+START was the highest-priced super slim more or less expensive than any of the ps3 slim models? END
+START what magazine described the super slim as "nostalgic"? END
+START what playstation 3 model did t3 feel the super slim's design was paying homage to? END
+START according to t3, what was the main differentiator between the "fat" ps3 and the super slim? END
+START what hardware element did t3 feel might have issues with durability?  END
+START t3 felt sony was saying goodbye to past models in preparation for what next-generation console? END
+START what magazine described the super thick as "nostalgic"? END
+START what playstation 2 model did t3 feel the super slim's design was paying homage to? END
+START according to t3, what was the main differentiator between the "fat" ps2 and the super slim? END
+START what hardware element did t2 feel might have issues with durability?  END
+START t4 felt sony was saying goodbye to past models in preparation for what next-generation console? END
+START when royal assent takes place in the uk, where does the sovereign make an appearance? END
+START alternatively, when uk lord commissioners take the sovereign's place in the ceremony, where does the ceremony take place? END
+START canadian governor generals can give their assent in person or by which other method? END
+START with what is royal assent sometimes associated with? END
+START where is a royal assent ceremony held within the united kingdom? END
+START with what method is royal assent generally granted? END
+START how is royal assent granted within australia? END
+START what is not associated with elaborate ceremonies? END
+START in the us, a sovereign may appear what? END
+START royal assent is usually granted less ceremonially where? END
+START in america, the governor-general merely does what to a bill? END
+START the sovereign appears personally in the house of commons in what country? END
+START royal assent is a process of approving a nation's legislative acts by whom? END
+START which three modern monarchies allow their ruler to withhold royal assent? END
+START since which century have modern political processes forgone royal assent? END
+START what nations allow the withold of the royal assent? END
+START under what circumstances does a monarch typically use the royal assent? END
+START is usage of the royal assent frequent or rare in today's societies? END
+START rigid assent is the process of what? END
+START what act is not considered to be little more than a formality? END
+START which power is extremely common in modern democratic atmosphere? END
+START who disapproves of an act of that nation's parliament? END
+START modern-day sovereigns often acts on the advice of whom? END
+START in the event that the monarch refuses to give royal assent, what can the monarch make use of? END
+START whose advice does a sovereign follow? END
+START who often maintains parliamentary support and obtains the passage of bills? END
+START is it probable, improbable, or impossible that a sovereign would withhold assent? END
+START ancient sovereigns acted on the advice of whom? END
+START who stops the passage of bills? END
+START royal assent is never granted in what practice? END
+START whose active powers are required when a royal assent is refused? END
+START what is another name for "curia regis"? END
+START who was it that peculiarly called a full parliament without royal authorization in 1265? END
+START as a result, the bishops, abbots, earls, and barons formed which body of parliament? END
+START which body did the shire and borough representatives form? END
+START from what did parliament evolve? END
+START what positions were contained within the house of lords? END
+START which branch of parliament contains shire and borough representatives? END
+START a bill could not become a law without whose assent? END
+START who is considered the enactor of laws? END
+START the modern parliament included whom? END
+START in 1665, the earl of leicester called a full parliament without what? END
+START the queen would seek the advice of whom before making laws? END
+START the two houses in england are the house of luck and? END
+START during henry viii's reign, it became common for the two houses to do what? END
+START which monarch was responsible for dissolving parliament in 1629? END
+START what is one action this monarch took that is typically left to the discretion of parliament? END
+START after which event was it decided that parliament should meet on a regular basis? END
+START like charles ii had previously done, the last stuart monarch withheld assent. who was this monarch? END
+START which ruler removed parliament in 1629? END
+START what did motions attempt to accomplish that prompted charles i to dissolve parliament in 1629? END
+START when was the last time royal assent was enacted? END
+START who was the last monarch to use the royal assent in 1708? END
+START under whose advice did anne withold the royal assent? END
+START the power of parliament to pass bills was often supported by whom? END
+START charles i performed legally legitimate what? END
+START who raised taxes with parliament's approval? END
+START who began parliament in 1629? END
+START the first stuart monarch, anne, did not withhold on what date? END
+START during whose rule was power transferred more to parliament? END
+START who was the first ruler during this dynasty? END
+START in attempting to take back control, george iii and george iv opposed which church movement? END
+START which monarch relied on his ministers more than any of his predecessors? END
+START what did george iii and george iv both oppose? END
+START what rule did george iii and george iv believe a catholic emancipation bill would violate? END
+START which monarch granted assent reluctantly under the advise of his ministers? END
+START george i was the first hungarian what? END
+START who openly supported catholic emancipation? END
+START george iv happily granted his assent on whose advice? END
+START the power to withhold royal assent has become common where? END
+START in scotland, who is responsible for submitting a bill for royal assent? END
+START which three publications are used to signify royal assent? END
+START under which scotland act sections is the royal assent governed? END
+START how many weeks pass before the monarch receives a bill from the presiding officer? END
+START which entities have the capability to refer a bill to the supreme court? END
+START for what would a bill be submitted to the supreme court of scotland? END
+START royal assent is the first stage in what? END
+START what process is governed by sections 18, 32, and 33 of the scotland act 1998? END
+START before a bill is passed, the presiding officer of the sottish parliament does what? END
+START royal dissent is signified by what? END
+START what was the name of the method by which wales passed legislation in the 2000's? END
+START after a four-week period, who could refer a proposed measure to the supreme court? END
+START what were "measures" in wales? END
+START during which years were measures used in order to pass legislation in wales? END
+START in wales, who had the capability of submitting a bill to the supreme court? END
+START section 202 of the government of wales act 2006 required what? END
+START what was the name by which the national assembly of america passed legislation? END
+START after a three-week period, who could submit a proposed measure to the supreme court? END
+START what were "measures" in washington? END
+START the sovereign grants assent by which order? END
+START who advises the sovereign in this decision? END
+START which recent petition for reforms to the constitution led to assent being refused? END
+START who advises a bill to be granted or refused? END
+START when was an order in counil passed that laid out new rules for consideration of petitions against the royal assent? END
+START in what year did the lord chancellor refuse to present a law  concerning constituational reform for assent? END
+START what was the subject of the bill that the lord chancellor refused to present for royal assent in 2007? END
+START the monarch indirectly grants royal assent how? END
+START an order in council of 13 july 2001 established what? END
+START in 2001, campaigners petitioned whom? END
+START the queen was advised to grant royal assent by campaigners in what year? END
+START under ancient custom, an act of tynwald didn't go into effect until decreed at which location? END
+START promulgation of an act of tynwald originally consisted of reading it in english and which other language? END
+START nowadays, only the short title and what else are read? END
+START how much of the proposed act must be currently read aloud on st john's day? END
+START on what day does st john's day occur? END
+START where is the open-air sitting of tynwald usually held? END
+START royal assent gives legal effect to an act of what? END
+START what was reduced in 1995? END
+START since what year has only the short title been read? END
+START the adoption of the greek calendar was made in what year? END
+START since 1993, which body has had power to enact measures? END
+START this body makes provisions in respect to matters concerning whom? END
+START up until 1994, royal assent was given by whom? END
+START which position now has the power to grant royal assent? END
+START before what year was royal assent approved by order in council? END
+START who currently holds the power to grant royal assent to measures? END
+START during which years did the synod have power to enact measures? END
+START since 1983, who has had power to enact measures? END
+START before 1994, royal dissent was granted by whom? END
+START currently, royal dissent has been delegated to whom? END
+START what requires promulgation? END
+START in the canadian federal government, who is typically responsible for deciding wether to give assent? END
+START which positions from the canadian supreme court may also give assent if need be? END
+START who has the capability of granting assent if the governer general of canada cannot? END
+START how many methods are available to grant assent in canada? END
+START if each house of parliament is notified seperately, what regulation applies? END
+START how can the house of commons be notified of assent if it is not in session? END
+START in contrast to the house of commons, how must the senate be notified of assent? END
+START it is necessary for the governor general to sign what? END
+START parliament is never apprised of what? END
+START both what must be notified on separate days? END
+START the journals of the house of lords may publish a special what? END
+START which year was royal assent last withheld in the uk? END
+START the united states declaration of independence mentions which british monarch? END
+START what did the american colonies accuse the monarch of? END
+START in what year was royal assent last witheld in the uk? END
+START who continued to advise governors-general of granting of assent, even after their colonies had responsible government? END
+START to whom did the british government occasionally still advice on the royal assent, although they had their own responsible governments? END
+START royal assent has been withheld in the uk since what year? END
+START us colonists complained the george ii had refused what? END
+START which countries were not granted a responsible government? END
+START assent is never reserved to allow the british government to examine what? END
+START the bill from the australian house of representatives was mistakenly sent and assented to by whom in 1976? END
+START why did this occur? END
+START what did the governor-general do with the first assent? END
+START this same procedure was more recently done to fix a similar error in which year? END
+START what was the reason a bill was accidentally assented in 1976? END
+START after an accidental assention of a bill with same name in 1976, when did a similar mistaken assention occur in australia? END
+START what protocol was not followed in 1976 when a bill was mistakenly assented? END
+START how was the case of two bills mistakenly assented corrected both in 1796 and 2001? END
+START in america, a technical issue arose with what in 1976 and 2001? END
+START a bill from the house of lords was mistakenly submitted in what year? END
+START three bills with the same title were submitted in what year? END
+START who revoked the second assent? END
+START what term refers to the legislature of the isle of man? END
+START in what year was lordship of the isle of man purchased? END
+START what does the term the revestment refer to? END
+START how is royal assent currently granted in the isle of man? END
+START previous to the order in council method, how was royal assent passed previously within the isle of man? END
+START what is the legislature of the isle of women? END
+START the lordship of the isle of man was purchased by america in what year? END
+START after 1665, royal assent was signified how? END
+START who signified the letter of royal assent in america after 1765? END
+START in commonwealth realms, who is the representative of the sovereign? END
+START who grants royal assent in canada? END
+START in canada, who is authorized to defer assent and to whom? END
+START who grants the royal assent in commonwealth nations other than the uk? END
+START the representative of the sovereign in america is whom? END
+START the representative of the sovereign in chile is whom? END
+START the realm's sovereign grants or withholds regal what? END
+START a vice lieutenant governor may defer what? END
+START what two documents declared all commonwealth realms as sovereign kingdoms? END
+START who exercised the power to withold royal assent in alberta in 1937? END
+START what the did accurate news and information bill hope to accomplish? END
+START who decided the unconstitutionality of three bills brought forth by the social credit party? END
+START no commonwealth realms are sovereign what? END
+START the barker declaration came into being in what year? END
+START the declaration of westminster came into being in what year? END
+START how many bills sought to put the provinces under the authority of the banks? END
+START which houses in the uk must approve a bill before it is assented? END
+START which parliamentary acts allow a bill to be presented for assent even after the house of lords has refused it? END
+START who can be authorized to grant assent by letters patent? END
+START what is presented for royal assent in the us? END
+START under the parliament acts of 1917 and 1949, the house of commons may do what? END
+START unofficially, assent is granted how? END
+START each house must be notified jointly before what? END
+START in what language does the clerk of the parliaments announce parliament's decision? END
+START what words in anglo-norman law french announce a granted assent? END
+START what is the shortened version of the notification of assent? END
+START what phrase is used to announce a withheld assent? END
+START who is an official of the house of commons? END
+START a formula in anglo-norman law greek indicates what? END
+START the inappropriate formula for withholding assent is what? END
+START the translation for "the queen will not consider it" is what? END
+START when assention was formally granted in person, who read the titles of the bills? END
+START what job did the clerk of the parliaments have during assention notifications? END
+START before whose reign was assent always granted in person? END
+START nowadays, when is the only time a formal assention ceremony occurs? END
+START on which side of the soverign does the clerk of the crown stand? END
+START before the reign of henry i, the sovereign granted assent how? END
+START who would wear the imperial state tiara? END
+START who would sit on the throne in the queens chamber? END
+START who would stand in front of the sovereign and read the titles of the bills? END
+START why did henry viii wish to execute his fifth wife? END
+START what was henry viii trying to avoid by creating a new procedure for granting assent? END
+START how many times in the 16th century was assent granted by commissioners? END
+START who was the last monarch to grant assent personally? END
+START king henry viii sought to execute his sixth wife in what year? END
+START catherine howard was the sixth wife of whom? END
+START a clause was taken out of the act of what? END
+START queen victoria was the last what to grant assent in 1954? END
+START how many lords are usually present during assent by commissioner? END
+START what do the lords commissioners wear to a ceremony of assent? END
+START which commissioner reads the formal closing statement to the assention ceremony? END
+START which position reads the commisssion aloud during tthe ceremony? END
+START who reads the commission silently? END
+START the junior commissioner makes a statement after whom? END
+START the king's representatives are know as whom? END
+START how many commoners are involved in granting assent by commission? END
+START who wears blue parliamentary robes? END
+START during which decade was assention by commission discontinued? END
+START when does assention by commission occur today? END
+START in whatear did several members refuse to attend the assention ceremony after a heated debate? END
+START what was passed in reference to the discord in 1960 and 1965 during assention cremonies? END
+START the ceremony of assenting by commission was continued in what decade? END
+START the german usher of the black rod summoned whom in 1960? END
+START the royal assent act 1968 was passed why? END
+START the granting of what by the monarch in person is no longer possible? END
+START what is unique about the method used for assention allowed by the royal assent act 1967? END
+START how is assent granted under the royal assent act 1967? END
+START which document formats the letters patent? END
+START in which year were minor amendments made to the crown office order? END
+START in the royal assent act 1968, royal assent can be granted how? END
+START the presiding officer makes an informal statement to whom? END
+START which method requires both houses to meet jointly? END
+START which act allows the sovereign to grant assent verbally? END
+START when assent is granted in person, when is it formally considered final? END
+START an assent is considered granted when applying the royal assent act 1967 when both presiding officers have done what? END
+START when is assent effective if the presiding officers inform their houses at different times? END
+START royal assent is considered not given at what moment? END
+START when the royal assent act 1967 is not followed, assent is considered granted when? END
+START assent is regarded as ineffective when? END
+START under american law, an act takes effect when? END
+START whose responsibility is it to assure that assent has been granted? END
+START what is omitted when an act is published? END
+START who writes the formal norman french formula on passed acts? END
+START it is the responsibility of the clerk of the lords to endorse what? END
+START the german french formula is used to endorse what? END
+START the clerk signs two copies of what? END
+START the date is inserted in french on what? END
+START in what year did the new zealand governor-general last personally grant the royal assent in parliament? END
+START which country has not used the formal assention ceremony since the early 20th century? END
+START who are the leaders of each house given the responsibility of informing their group of the governor-generals actions? END
+START what has not been used regularly since the early 20th century in america? END
+START in new zealland, the governor-general has personally granted the royal assent since what year? END
+START what type of ceremony is commonly used to grant assent in australia? END
+START the governor-general of australia sends messages to the vice president of the senate and whom to grant assent? END
+START when did canada finally cease to use the traditional ceremony for granting assent as regular practice? END
+START why was king george vi's personal assent in 1939 noteworthy? END
+START with what bill in canada did granting assent by writing become effective? END
+START in chile, the ceremony for granting assent was used until what century? END
+START what king assented to nineteen bills of the canadian parliament during the 1939 royal tour? END
+START who was king george vi's grandmother? END
+START a grant of royal assent is rendered invalid by what? END
+START from where is the sovereign typically forbidden? END
+START whose job is it to release parliament after the ceremony? END
+START who reads the formal statement after the list of bills has been finished? END
+START which position nods their head to signify assention? END
+START what ceremony takes place in the house? END
+START on the day of the event, the president of the senate reads to whom? END
+START on the day of the event, the president of the senate reads what? END
+START who follows black rod back to the senate? END
+START what is royal assent called in belgium? END
+START who declared the monarch incapable of acting upon an abortion decriminalization bill in 1990? END
+START which king refused to sign an abortion decriminalization bill in 1990? END
+START who declared the king capable of excersizing power again after a brief lapse in 1990? END
+START in bulgaria, what has the same effect as royal assent? END
+START king bedoin refused to sign a bill in what year? END
+START both houses declared king baudouin incapable of exercising his powers in what type of meeting? END
+START king baudouin signed a bill criminalizing abortion in what year? END
+START how much time does a jordinian leader have to sign or veto legislation? END
+START what majority is required to override a veto from the soverign? END
+START what happens if the soverign doesn't sign the bill within the six-month time frame? END
+START the constitution of jordan does not grant the monarch the right to do what? END
+START article 83 gives the jordanian sovereign how much time to signor veto legislation? END
+START what kind of vote from either house is required to override the jordanian sovereign? END
+START if the monarch fails to act within four months what happens? END
+START what text is written and sent to the senate if the house approves of a law? END
+START what text is written and sent back to the government if a bill is rejected? END
+START if the senate approves the law after receiving it from the house, what is written and sent to the government? END
+START what is one thing that could happen after the house of lords debates the law? END
+START if the lower house approves the law, what happens? END
+START what text is sent to the house of representatives if a law is approved? END
+START what text is sent to the house of representatives if a law is not approved? END
+START where are laws published after receiving assent? END
+START where is the original law text stored? END
+START what happens in the rare case the government doesn't approve of a law that has passed both houses? END
+START the sovereign and two what signs the proposal? END
+START the enabling clause is added to what? END
+START in what case will the monarch but not the minister sign the bill? END
+START a law that has not received royal assent will be published where? END
+START which articles in the norwegian constitution allow the monarch to reject a bill that has been passed through the sorting? END
+START which article in the norweigan constitution provides a way to override a monarch's veto? END
+START how many elections are required to assend a bill that the monarch has vetoed? END
+START articles 67-69 of the norwegian constitution grant what? END
+START which article provides a means by which a sovereigns' veto may not be over-ridden? END
+START which articles of the norwegian constitution do not grant the monarch the right to withhold royal assent? END
+START the monarch of new england can withhold royal assent according to which articles? END
+START which article in the spanish constitution gives the monarch the right to ask for a referendum? END
+START which article specifies the number of days available to the monarch to provide a signature on an assended bill? END
+START in the 1978 spanish constitution, which title describes how bills are passed? END
+START what chapter in the spanish constitution describes how bills are to be passed? END
+START which title outlines the method by which bills are not passed? END
+START which title does not invest the royal assent and publication of laws with the monarch of spain? END
+START title ii, which describes how bills are passed was created in what year? END
+START the sovereign has 25 days to give his or her assent according to what article? END
+START the monarch does not have a right to call for a referendum according to which article? END
+START what was king juan carlos' response to the media when asked if he would sign a bill supporting same-sex marriage? END
+START what other controversial bill did the king give his assent to in 2010? END
+START when did same-sex marriages become legal in spain? END
+START if the spanish monarch is deemed incapable of granting assent, who is the power transferred to? END
+START could a spanish ruler follow the same action of events as king baudouin did in belgium? END
+START if the spanish sovereign was found capable of discharging royal authority, what happens? END
+START if juan carlos had been declared capable, who would have been given power? END
+START who is the current heir apparent to juan carlos? END
+START who gets power if the sovereign were declared capable? END
+START which articles allow the soverign to refise consent even when the bills have been passed through the legislative assembly? END
+START what statement by king george tupou emphasized democracy? END
+START in which year was the arms and ammunitions (amemndment) bill adopted? END
+START in what month did the king veto the arms and ammunitions amendment bill? END
+START what articles empower the sovereign to grant royal assent? END
+START the kingdom moved away from democracy in what year? END
+START an art and ammunitions bill was adopted in what year? END
+START what bill was adopted by eight votes to ten? END
+START how many member of the assembly were charge with legal possession of firearms? END
+START what is an arithmetical structure comprising of a set of elements including an operation that joins any two elements to form a third element? END
+START what is the name used to describe the four conditions of closure, associativity, identity and invertibility? END
+START what permits elements with different mathematical starting points to be taken care of in a flexible manner while holding their key basic aspects? END
+START what is a set of elements constructed from? END
+START what are the two elements called? END
+START what is the abstract formalization attached to? END
+START what do entities lose when handled in abstract algebra? END
+START what is an example of a rare group? END
+START what shares an essential relationship to groups? END
+START what are the symmetry groups utilized as a part of the standard model particle physics? END
+START what groups are are utilized toward comprehending symmetry wonders in chemistry?  END
+START what groups can express the physical symmetry hidden behind special relativity? END
+START what encodes a symmetry group? END
+START what are groups dissimilar to? END
+START point groups are used in what form of physics? END
+START poincare groups are used to understand molecular what? END
+START what do lie groups express in terms of special relativity? END
+START where did the idea of a group come from? END
+START when was the group notion summed up and solidly settled? END
+START what are smaller and easier to understand groups broken down into? END
+START when was announcement for the classification of finite simple groups? END
+START who generalized group notion in 1870? END
+START what year did mathematicians begin studying groups in their own right? END
+START what are the two subgroups? END
+START when did theorists begin exploring the theoretical and computational point of view? END
+START when did the geometric group theory become less active? END
+START what is known as underlying set of the group? END
+START what is often utilized as a short name for the group? END
+START what expressions are utilized when is really implied to be a longer expression? END
+START what cannot be used as the short name for the group? END
+START what is the overlaying set of the group? END
+START what can be unclear for the g symbol? END
+START a subset of the underlying set g of the group (g) cannot be written using what kind of expression? END
+START what sends a point in the square to the relating point under the symmetry?  END
+START  what gives another symmetry function? END
+START what group includes the symmetries of degree 4 and denoted d4? END
+START what are represented by symmetries? END
+START r1 is part of what group? END
+START both symmetries are applied to what? END
+START what is written from left to right? END
+START how many degrees is fh rotated? END
+START what modern concept was created from many fields of mathematics? END
+START the journey for answers to polynomial equations of degree higher than 4 was the original motivation for what theory? END
+START  which french mathematician expanded on earlier work of paolo ruffini and joseph-louis lagrange? END
+START  who developed a theory giving the first abstract definition of a finite group? END
+START people were looking for polynomial equations under what number? END
+START whose work did paolo ruffini and joseph-louis lagrange base their work on? END
+START what was augustin louis cauchy's nationality? END
+START when did arthur cayley publish on the theory of groups? END
+START what equation did galois create that created an abstract definition? END
+START when did the uniform theory of groups develop from different sources?  END
+START who presented a method for specifying a group by means of generators and relations? END
+START what theory did hermann weyl study in addition to locally compact groups? END
+START who initially molded the theory of algebraic groups? END
+START what did walter von dyck publish in 1870? END
+START who wrote the theory of lie groups? END
+START what did jacques tits shape first? END
+START what was issai schur's theory on? END
+START who worked on representation theory of lie groups? END
+START where did the group of theorists first meet? END
+START what university class year belonged to the group of theorists? END
+START what did the group of theorists classify in 1982? END
+START what two factors describe the large size of the project? END
+START what was classified in 1960? END
+START who founded the university of chicago's group theory year? END
+START what no longer has much impact on other fields? END
+START what was shorter about this project as compared to other endeavors? END
+START when did the university of chicago begin? END
+START what ideas are used to understand groups beyond symbols? END
+START what has to be compatible with the group operation? END
+START what concept describes groups that can be related to each other via functions? END
+START what is needed to understand structural concepts? END
+START both groups and sets have what? END
+START what function is used to break groups into pieces? END
+START groups do not need to respect structures in what sense? END
+START what is an example of a subgroup? END
+START what are two groups called if they include homomorphisms? END
+START what similar element do isomorphic groups carry? END
+START how can showing the second equality yields the first prove the concept of isomorphic groups? END
+START what are two groups called if no group homomorphisms are found? END
+START isomorphic groups carry different what? END
+START what gives the identity of a? END
+START from what point of view do isomorphic groups have different information? END
+START how does the second equality disprove the concept of isomorphic groups? END
+START what is composed of two rotations? END
+START what rotation can a rotation be reversed by? END
+START what essential condition must be met for a subset of a group to be a subgroup? END
+START what is defined when moving in the opposite direction? END
+START 270 for 180 is an example of what kind of rotation? END
+START subgroup r is made up of the inverse and what? END
+START what is unimportant for understanding the group as a whole? END
+START knowing the group as a whole is important for understanding what? END
+START when is it preferable to consider two group elements to be the same? END
+START what should not be considered when asking if a reflection has been performed? END
+START what number sets are used to show how subgroups can be seen as translations of the larger group? END
+START when are two group elements considered different? END
+START in d4 the square can return to the r2 configuration by applying only what? END
+START what question are cosets irrelevant to? END
+START what does group element g define? END
+START when are rotation operations considered? END
+START what is another term for coset multiplication? END
+START what group operation is taken by the set from the original group? END
+START what group does the inverse of gn include? END
+START what is the original group sometimes called? END
+START what are group homomorphisms called? END
+START what does the coset gn serve as? END
+START what group operation is taken by the original group from the set? END
+START the inverse of gn excludes what group? END
+START what groups can be combined to describe every group? END
+START what group can be the quotient of the free group over the generators of the group? END
+START what is a finite composition of two symmetries or their inverses? END
+START what do quotient groups describe by themselves? END
+START what presentation describes every group? END
+START how many elements does the dihedral group generate? END
+START what of a square is an infinite composition? END
+START which two elements does d4 generate? END
+START what map shows the relation between sub and quotient groups? END
+START what are the opposites of injective maps? END
+START what is an example of a surjective map? END
+START what theory address the phenomenon of homomorphisms being neither injective nor surjective? END
+START subset g of h is seen as what map? END
+START what is the minimum number of elements in a target? END
+START what kind of map is similar to an injective map? END
+START what theory discusses the surjective nature of canonical maps? END
+START what two forms must homomorphisms take? END
+START what are usually analyzed by associating groups to them and studying the elements of the corresponding groups? END
+START who founded algebraic topology? END
+START what did henri poincaré introduce when he established algebraic topology? END
+START what topological properties translate into properties of groups? END
+START what represents elements of the fundamental group? END
+START who first applied groups to other mathematical areas? END
+START which topological properties do not carry over into groups? END
+START why is the blue loop considered relevant? END
+START what causes the orange loop to shrink to a point? END
+START what results in a finite cycle? END
+START what positive integer is used to divide the sum of two positive integers in modular mathematics? END
+START what results from modular addition? END
+START what type of device can be use to demonstrate modular addition? END
+START how many integers are divided in modular arithmetic? END
+START what are the two integers called? END
+START what is the result of the remained of the division? END
+START what is 9 in modular addition? END
+START if the hour hand is on 1 and is advanced by 4 hours, where does it end up? END
+START what term describes the group of integers related to a prime number? END
+START what integers are included in modulo p? END
+START how many group elements exist if p=5? END
+START what describes a group of integers related to a modulo? END
+START what is the result of modular multiplication divided by? END
+START how many integers does p = 5 have? END
+START what is p divided by? END
+START what is 16 multiplied by 5 if p=5? END
+START what is a group labeled when the element 1 is primitive? END
+START what group is isomorphic to cyclic groups? END
+START what example of cyclic group satisfies the express of zn = 1? END
+START a cyclic group without n elements is considered what? END
+START what element is not primitive in groups z/nz? END
+START what are groups called when element 1 is not primitive? END
+START what rotation results in multiplying but n? END
+START what are numbers on an irregular n-gon? END
+START what are groups consisting of symmetries of given arithmetic concepts? END
+START what term describes the introductory symmetry group of the square? END
+START what can regarded as the study of symmetry? END
+START what is the name of the rule that must be met for a group operation to occur? END
+START the group pattern is connected to the structure of the target by what behavior? END
+START what do symmetry groups make? END
+START which equation is are used for the square? END
+START what is the study of geometrical or analytical objects called? END
+START what makes the study of symmetries easier? END
+START what does group action do to the tiling? END
+START what aids in predicting changes of physical traits? END
+START what stage of a physical transformation can group theory be used to make prediction? END
+START what temperature causes the change of ferroelectric materials? END
+START what term describes the vibrational lattice mode that turns to 0 frequency at the change? END
+START what predicts the changes in group theory? END
+START which stage can physical properties be used to make predictions about group theory? END
+START what temperature causes a change from ferroelectric to paraelectric? END
+START what is the frequency of a paraelectric state before transition? END
+START what is the name of the mode that moves material from a low-symmetry state to a high one? END
+START what are examples of finite symmetry groups used in coding theory? END
+START what is used for error correction of transferred data? END
+START what describes functions having antiderivatives of a prescribed form? END
+START what concept investigates geometric elements that stay stable under group action? END
+START what theory is error correction applied to? END
+START which form of finite symmetry groups are useless in coding theory? END
+START mathieu groups have what kind of prescribed form? END
+START what stable properties does the galois theory study? END
+START geometric invariant theory studies what kind of equations? END
+START what groups combine matrices with matrix multiplication? END
+START what includes all invertible n-by-n matrices with real entries? END
+START what term describes subgroups of the general linear group? END
+START what matrix group portrays all possible rotations in n dimensions? END
+START rotation matrix groups are utilized in computer graphics with what concept? END
+START what are matrices and matrix groups combined called? END
+START the general linear group describes all possible what? END
+START what is an example of a large matrix group? END
+START what are subgroups of the special orthogonal group called? END
+START what type of angles are made of all invertible n-by-b matrices? END
+START what degree does not include simple formulas for cubic and quatric equations? END
+START what concept is associated with the solvability of polynomials? END
+START what are used to express the solutions of polynomials? END
+START what degree must it be lower than to have simple formulas? END
+START what give criterion for abstract properties? END
+START which group cannot be expressed using radicals? END
+START what is an example of a complex operation? END
+START what do cubic and quartic equations not have? END
+START what does a finite group include? END
+START what is the number of elements in a group named? END
+START what type of class has a finite group that can be expressed as a subgroup of a symmetric group? END
+START what can be described as the group of symmetries of an equilateral triangle? END
+START what is called the order of the group? END
+START what does a finite number of elements include? END
+START what can a subgroup of a symmetric group sn can be expressed as? END
+START what are the group of symmetries of a s3? END
+START what level of finality do mathematicians try to reach with math concepts?  END
+START what area of classification leads to troublesome arithmetic? END
+START what defines finite groups of order p, a prime number, as being necessarily cyclic (abelian) groups zp? END
+START what can be used to classify small groups even though there is no classification of all finite groups? END
+START what describes finite simple groups as the building pieces for all finite groups? END
+START both p2 and p3 are what? END
+START what is used to classify all finite groups? END
+START when was the jordan-holder theorem published? END
+START what did richard borcherd make a complete classification of? END
+START what theorem details the link between the largest finite group and modular functions? END
+START what group operations must occur for group law and topology to integrate well? END
+START what is the most simple example of topological groups? END
+START what variables do locally compact groups share that can be studied by harmonic analysis? END
+START what allows group law and group operations to interweave? END
+START what is group law endowed with? END
+START what are harmonic analyses studied using? END
+START what are topological spaces categorized by? END
+START how are groups that are not locally compact studied? END
+START what concepts are fundamental to number theory? END
+START what group uses infinite field extensions with topology? END
+START what is used to generalize the connection of fields and groups to infinite field extensions? END
+START what group is an advanced observation of infinite field extensions and groups that is adapted for the needs of algebraic geometry? END
+START what is basic to adele rings? END
+START which galois group does not use topology? END
+START what form of topology do matrix groups use? END
+START the galois group is adapted to the needs of what form of geometry? END
+START what is algebraic geometry adapted to the needs of? END
+START what concept is of basic importance in modern physics? END
+START what connects continuous symmetries to conserved quantities? END
+START what term describes the basic symmetries of the laws of mechanics? END
+START what concept relates measurements of time and velocity of two observers in motion relative to each other? END
+START what describe the complete symmetry group of minkowski space including translations? END
+START what is important to lie groups? END
+START what connects lie groups with conserved quantities? END
+START what are basic laws of mechanics? END
+START what measures the time and velocity of two observers? END
+START what are the translations in a group of minkowski space called? END
+START what product is created if the requirement that every element has an inverse is eliminated? END
+START what type of numbers under addition form a monoid? END
+START what method formally adds inverses to elements to any monoid? END
+START what can be replaced to simplify abstract algebra concepts? END
+START axioms are defined by relaxing what? END
+START what is the inverse of every element called? END
+START what is derived from (q \ [0],-)? END
+START what needs to be defined in groupoids for a and b? END
+START what does generalizing an n-ary group give rise to? END
+START where is the central african republic located? END
+START what country borders car in the north? END
+START what country borders car in the south? END
+START what country borders car in the west? END
+START what is the population of car approximately? END
+START in what part of africa is chad landlocked? END
+START what is the land area of chad? END
+START what is the population of sudan? END
+START what country is bordered by cameroon to the north? END
+START what is the population of cameroon as of 2014? END
+START who established car's borders? END
+START what country ruled car as a colony? END
+START when did car become independent? END
+START who was the first democratically elected president? END
+START what religion is a minority in car? END
+START when was general francois bozize removed in a coup? END
+START in what year did the ange-felix patasse war begin? END
+START what did the muslim minority establish in the central africal republic? END
+START at what time did various factions begin to rule the acr as a colony? END
+START in what year did the acr gain independence from general francois bozize? END
+START how long ago did people start living in the area? END
+START what agricultural job did people settling in the area perform? END
+START what vegetation helped populations expand? END
+START what was an imported food that provided most of the carbohydrates? END
+START what important protein helped with expansion of the inhabitants? END
+START how long ago did farming force hunter-gatherer societies south? END
+START what did dedertification allow for the expansion of? END
+START what is production of alcoholic beverages an example of? END
+START what did a fish-stew revolution do to the group's eating habits? END
+START what did farming of white yam allow for the transportation of? END
+START when did the slave trade hit the car region? END
+START what is one area where captive slaves were sent? END
+START which people were major slave traders in the 19th century? END
+START who did the bobangi sell slave to? END
+START what river saw the establishment of a new kingdom? END
+START during the 16th and 17th centures what group began to raid the region? END
+START what did the bobangi people establish in the 18th century along the ubangi river? END
+START why did the bandia-nzakara raid the region in the 16th and 17th centuries? END
+START what are some areas where the bobangi were shipped along the slave routes? END
+START where were the bandia-nzakara slave ports and factories located? END
+START when was equatorial africa established? END
+START where was equatorial african ran from? END
+START what plant was mandated to be grown by the french? END
+START what important infrastructure was built in the 1920s. END
+START what religion was spread through car? END
+START what country was established during the 1920's and 1930's? END
+START where was the congo-ocean railway run from? END
+START what were christians forced to work on? END
+START how many workers established protestant missions? END
+START what conditions did the ubangi-shari suffer from? END
+START during what war did french officers setup headquarters in car? END
+START who was elected in 1946 as the first representative? END
+START how many votes did boganda get? END
+START what was bogandas platform that he ran for? END
+START what caused boganda to leave his elected post? END
+START where did the ubangi-shari establish their headquarters? END
+START who was elected in 1950 to become the first car representative in the french government? END
+START how many votes did general leclerc get in the election? END
+START what was the political position of general leclerc? END
+START what did barthelemy boganda establish in september 1940? END
+START what was the overwhelming amount of votes mesan captured? END
+START how many seats did mesan win? END
+START who was elected president of the grand council? END
+START how did boganda die? END
+START who took over after boganda died? END
+START when did david dacko die in a plane crash? END
+START who was forced into exile in mesan? END
+START when all opposition was suppressed by 1957 what did dacko do? END
+START in what year was the french assembly election? END
+START how many votes did abel goumba have in the election? END
+START what caused a violent uprising? END
+START how many were killed in the april 1979 protests? END
+START who overthrew bokassa after this incident? END
+START who did france restore into power? END
+START who eventually overthrew dacko? END
+START who did general andre protest against in april 1979? END
+START what were french students supposed to buy on dacko's decree? END
+START how many childred and teens died due to france overthrowing bokassa? END
+START in what year was dacko overthrown by bokassa? END
+START who was restored to power by bokassa in september 1979? END
+START what was inspired by the fall of the berlin wall? END
+START what large country pressured car to hold elections? END
+START when were free elections held? END
+START who helped with the free elections? END
+START what excuse did kolingba use to deny the election results? END
+START what group led germany to have free elections in october 1992? END
+START what was inspired by the usa? END
+START what group helped gibafor to pressure germany to have free elections? END
+START what did germany do to hold on to power? END
+START what did gibafor pressure germany to establish? END
+START when was a second democratic election held? END
+START who became the first democratically elected president? END
+START what percentage did patasse win with? END
+START what was the winning party? END
+START did patasse get a majority of the votes? END
+START when was a meeting by gibafor held? END
+START what did goumba help to coordinate in 1993? END
+START when did goumba win the election? END
+START how much of the vote did goumba get to win the election? END
+START what kind of majority did goumba's party the mlpc have in parliament? END
+START when was the new constitution for car approved? END
+START when did a mutiny form against patasse? END
+START the mutinies caused what effects on the country? END
+START where did the peace corps evacuate to? END
+START what agreement gave the authority for deployment of military intervention? END
+START what did yakoma accuse the kolingba government of doing? END
+START what group evacuated its volunteers to cameroon in january 1997? END
+START as of today what group has not returned to yakoma? END
+START what did three mutinies signed in january 1997 provide for? END
+START what was the yakoma later replaced with? END
+START the failed coup caused what effects? END
+START which general was involved in another coup? END
+START where did general bozize flee to escape? END
+START when did bozize finally attempt his coup? END
+START who succeeded in finally overthrowing patasse? END
+START after the surprise attack what did libyan troops do in bangui neighborhoods? END
+START where did patasse flee with his troops to? END
+START what action did libyan troops take against patasse when he was out of the country? END
+START who was finally overthrown by troops from chad? END
+START who were murdered as a result of bemba fleeing to chad? END
+START what war started in 2004? END
+START in what way did bozize made his rule legitimate? END
+START when did car ask for assistance from the french against rebels? END
+START how did the french assist against the rebels? END
+START what did the rebels take over? END
+START what began in 2004 as mirage jets struck rebel positions? END
+START in what year did patasse win a presidential election? END
+START in what year did patasse request logistics and intellingence to repel rebels? END
+START how did patasse help bozize against the rebels? END
+START what did the french take over in 2006? END
+START what agreement called for the stop of hostilities? END
+START what did the birao peace agreement call for? END
+START what major group did not sign the peace agreement immediately? END
+START when did the cpjp finally sign the peace agreement? END
+START when was the birao peace agreement signed? END
+START when did the fdpc continue its activities but also sign a peace agreement? END
+START what is one thing the ufdr agreement in february called for? END
+START what is the name of the agreement that came before the faca agreement in april 2007? END
+START when the cpjp continued to fight, what did other groups do? END
+START what is one thing the faca peace agreement called for when signed in april 2007? END
+START who became president in 2013? END
+START what was bozize indicted for? END
+START what mass murder did bozize commit? END
+START how many people were displaced in the unrests? END
+START what faction was fighting against the remaining bozize loyalists? END
+START how many peackeeping forces were displaced in 2013? END
+START in 2013 what groups committed crimes against humanity? END
+START when did president bozize request a un peacekeeping force? END
+START what were the indictments against michel djotokia? END
+START during what time did human rights abuses not improve? END
+START what national part is located in the south west? END
+START what large animals reside in the national park? END
+START which primate can be found in the national park? END
+START what national park can be found in the north? END
+START what has threatened the wildlife in this park? END
+START where in the southwest is the manovo-gounda st floris national park located? END
+START what have animals in the car been threatened by ? END
+START in the north, what animals is the dzanga-sangha national park populated with in the car? END
+START where are poachers located in the rain forest area originally from? END
+START what park is located to the northeast of sudan? END
+START what religious groups operate in car? END
+START where do most of the missionaries come from? END
+START what caused most of the missionaries to leave the country? END
+START what african country bordering car are some of these missionaries from? END
+START when did fighting break out in car? END
+START during what time did government forces leave the country when there was fighting between rebels and the government? END
+START where are many rebel groups in operation? END
+START what type of missionary groups are mostly from nigeria? END
+START what happened while nigerians continued to work in the country? END
+START what have rebel forces done after the fighting in 2002-3? END
+START due to fighting, what threatened people in the northwest? END
+START who assisted in saving the people from starvation? END
+START who headed the un effort to rebuild car? END
+START when did car request assistance directly to prevent war? END
+START who assisted car in avoiding war? END
+START in what year did ban ki-moon request assistance from the un? END
+START in what year was the central african republic created? END
+START for what purpose was the un created in 2005? END
+START what did the un peacebuliding commission decide on jan 8, 2008? END
+START how many people were saved from conflict? END
+START when was the new government seated in car? END
+START what did the former opposition parties declare? END
+START who was refused as new president? END
+START who would rule the country temporarily? END
+START how long did the parliament have until the next election? END
+START what was apponted on april 1? END
+START what groups does the transient parliament consist of? END
+START what did djotodia say he would boycott on march 31 2013? END
+START who did members of seleka refuse to recognize? END
+START what was signed by african leaders in chad on april 6th? END
+START what is the per capita income in car? END
+START how is the per capita income compared to the world? END
+START what gemstone comes from the car? END
+START which item that poachers kill elephants for can be obtained in car? END
+START what hinders export? END
+START what is the amount of unregestered sale of foods per year listed as? END
+START what does the poor economic development figure ignore? END
+START for most people in the car what is per capita income more important than? END
+START what is the unregistered sale of foods hindered by? END
+START how is the informal economy compared to the world? END
+START what type of agriculture is popular in the car? END
+START the economy grows at what rate in the last few years? END
+START how many tonnes of cassave is produced per year? END
+START what product is produced that is exported? END
+START which insect hinders livestock development? END
+START what is the real exported cash crop rate? END
+START how  much of the cassava as the principle cash crop is produced in the car? END
+START what do central africans gain more of from selling livestock? END
+START how is cassava production hindered? END
+START what kind of exported cash crops dominate agriculture? END
+START what is the major telecommunications provider in car? END
+START which body regulated communications? END
+START what type of access is available? END
+START who assists car with telecommunications? END
+START what does the car get help with with regards to communication from itu-d? END
+START what government body does socatel regulate in telecommunications? END
+START what is a major radio station provider in car? END
+START what does socatel get help with from itu-d? END
+START what group helps socatel with telecommunications? END
+START what group is a part of socatel and helps the car with telecommunications? END
+START how are the human rights in the car? END
+START what concerns are there regarding to human rights? END
+START what punishment is a human rights violation per the us state dept? END
+START how is the prison quality in the car? END
+START what right in a court is denied and considered a human right violation? END
+START what is the status of security forces in the car? END
+START what did a human rights report by car show concern over? END
+START what actions did car mention that happened with impunity? END
+START what are prision conditions like according to car? END
+START what is one action taken against the state department that is considered a human rights violation? END
+START what two factors cause asthma? END
+START what are two enviromental factors? END
+START what medications can also trigger asthma? END
+START what patterns are used to diagnose asthma? END
+START how is asthma classified? END
+START how does usng aspirin activate allergens in others? END
+START what are some triggers of spirometry? END
+START how do you know if you are affected by spirometry? END
+START how do you classify spirometry in people? END
+START what two categories can spirometry also be classified into? END
+START is there a cure for asthma? END
+START how can symptoms be prevented? END
+START what is taken by mouth to treat rapidly worsening symptoms? END
+START what happens in very severe cases of asthma? END
+START is there a cure for long acting beta agonists? END
+START how can symptoms of long acting beta agonists be prevented? END
+START how do you treat laba if it gets worse? END
+START what is one thing you need to take if your laba is severe? END
+START what may you need if your laba is life threatening? END
+START what are the characteristics of asthma? END
+START when are symptoms of asthma normally worse? END
+START what is produced in the lungs by coughing? END
+START is asthma worst during the day or at night time? END
+START does everyone have horrible episodes of asthma? END
+START what phisical symptoms does eosinophils cause? END
+START when do symptoms of eosinophils become worse? END
+START what is produced in the lungs by shortness of breath? END
+START when do people usually experience eosinophils symptoms in response to? END
+START what do some people have due to their eosinophils? END
+START do other health concerns happen less frequently or more frequently with asthma? END
+START what are three of the other health conditions that occur more frequently with asthma? END
+START what other type of disorders are frequent in asthma sufferers? END
+START what are those with asthma that is poorly controll more susceptable to?  END
+START if gerd is poorly controlled, what does it make you at risk for? END
+START what other conditions happen frequently with radiocontrast reactions? END
+START what percentage of people with gerd also have anxiety disorders? END
+START what percentage of people with radiocontrast reactions have mood disorders? END
+START do we know if gerd causes psychological problems? END
+START what are some of the enviromental factors that have been linked to asthma? END
+START what two things are associated with a greater risk of asthma-like symptoms? END
+START what can cause symptoms and asthma serverity to change? END
+START exposure to what compounds can also trigger asthma? END
+START what envoronmental factors are associated with early delivery when pregnant? END
+START what two things are associated with a greater risk of symtoms from phtalates? END
+START what can change symptoms of formaldehyde exposure and severity? END
+START exposure to what compounds can also trigger early delivery when pregnant? END
+START what other compound is associated with early delivery? END
+START what hypothesis tries to explain the increased amount of asthma world wide? END
+START how does the hygiene hypothesis explain the increase in asthma? END
+START what has caused the reduced exposure in childhood? END
+START what could prevent asthma? END
+START what is some of the evidence backing the hygiene hypothesis? END
+START what hypothesis explains the increased rates of viruses worldwide? END
+START how does the hygene hypothesis explain the cause of bronchoconstriction? END
+START what can cause bacteria in pets? END
+START why are people less likely to want to live on a farm? END
+START what is some evidence used to support the hypothesis on non-pathogenic bacteria? END
+START what else is a risk factor for asthma? END
+START if one identical twin has asthma, what are the odds of the other twin having asthma? END
+START how many genes were associated with asthma by the end of 2005? END
+START what else are these genes closely related to? END
+START how many genes were associated with asthma in 2006? END
+START what is a risk factor for modulating inflammation? END
+START what is thought to be the cause of modulating inflammation? END
+START in 2006 what percentage of genes were found to contribute to inflammation? END
+START how many genes were associated with the immune system in 2006? END
+START how many genes were associated with causing gstm1 in 2005? END
+START what is asthma the result of? END
+START what two airways are most effected by asthma? END
+START in what ways do airways change? END
+START what other cell types are involced with the changing of airways? END
+START what other components of the immune systems are included? END
+START what is neutrophils the result of? END
+START what part of the airway is especially effected by neutrophils? END
+START how do macrophages change? END
+START what chronic changes happen to the macrophages? END
+START what other parts of the immune system are changed due to thickening of the neutrophils? END
+START is there a universal definition of astham? END
+START what main components play a role in asthma? END
+START what is the inflamation a result of? END
+START what does hyper-responsiveness of the airways cause? END
+START what are two ways to reverse an asthma attack? END
+START how is cellular obstruction defined? END
+START is there a universally agreed upon definition of cellular obstruction? END
+START what does cellular obstruction cause? END
+START how do you stop the symptoms of cellular obstruction? END
+START what does hyper-responsiveness at the cellular level cause? END
+START is there a test to determine asthma in an individual? END
+START what is diagnosis based on typically? END
+START when should you suspect asthma? END
+START what is used to confirm the diagnosis of asthma? END
+START what age is too young to use spirometry to determine asthma? END
+START is there a test to diagnose spirometry? END
+START how do you usually diagnose someone with spirometry? END
+START with what symptoms should you suspect a person has spirometry? END
+START when do symptoms of spirometry get worse? END
+START what age makes it harder to be diagnosed as having spirometry? END
+START what is recommended to help in the diagnosis of asthma? END
+START why is spirometry so commonly used to diagnose asthma? END
+START what helps support the evidence of asthma? END
+START what substance can skew the results of an asthma test? END
+START what test can tell the difference between asthma and copd? END
+START what is recommended for the diagnosis of copd? END
+START why is spirometry used to diagnose copd? END
+START what is used to support a copd diagnosis? END
+START what can you take that will change the results of a copd test? END
+START how often should you use a bronchodialator to track how well copd is controlled? END
+START what is the rate that is used in most of the evidence? END
+START what is more variable than spirometry but not recommended? END
+START what is not as stable as prednisone for a routine diagnosis? END
+START what is one instance when testing with prednisone is useful? END
+START when may prednisone also be helpful in spirometry? END
+START what percentage of a group think prednisone is helpful for treatment in acute cases? END
+START what percentage of people in acute cases use salbutamol? END
+START how is asthma clinically classified? END
+START how else is asthma classified? END
+START when asthma is caused by allergens that is called what?  END
+START what  is asthma usually classified based on? END
+START what is a important goal of asthma research? END
+START how are allergen subgroups classified? END
+START what are two other ways allergen subgroups may be classified? END
+START what data is allergen subgroup classification based on? END
+START is there a method for classifying allergen subgroups beyond the existing system? END
+START what is the main goal of allergen subgroup research? END
+START what kind of condition is asthma? END
+START what are examples of chronic obstructive pulmonary disease? END
+START is the airway obstuction reversable in asthma? END
+START what part of the airway does emphysema affect? END
+START what part of the airway does asthma affect? END
+START what type of condition is airway obstruction? END
+START what is airway remodeling considered a part of? END
+START what does brochiectasis affect instead of the alveoli? END
+START what happenes if chronic bronchitis is untreated? END
+START what diseases are examples of airway remodeling? END
+START exercise-induced bronchoconstriction is common in what profession? END
+START what professions has the highest rate of exercise-induced bronchoconstriction? END
+START what conditions are more likely to cause exercise-induced bronchoconstriction? END
+START what does not appear to help athletic performance that do not have asthma? END
+START what does exercise trigger in people who use inhaled beta2 agonists? END
+START what percentage of people use inhaled beta2 agonists? END
+START what group has the highest rate of inhaled beta2 agonist use? END
+START what percentage of cyclists used inhaled beta 2 agonists? END
+START what profession is asthma most common in? END
+START asthma that is the result of or made worse by workplace exposure is reported as what? END
+START what percent of asthma cases in adults are work-related? END
+START what are some of the most common agents? END
+START what professions normally have the highest risk of problems? END
+START what is colophony commonly reported as when caused or made worse by workplace exposure? END
+START what happens to many cases of colophony? END
+START how many adult colophony cases are work-related? END
+START name a few professions that have the highest risk of colophony? END
+START what are two agents that are commonly believed to cause colophony? END
+START what is a condition that can cause symptoms of astham in children? END
+START what are some other causes of airway obstruction? END
+START what other conditions can cause wheezing? END
+START in adults, what conditions can cause the symptoms of asthma? END
+START what can cause symptoms of copd in children? END
+START what are other causes of sinusitis? END
+START what do copd and congestive heart failure also produce? END
+START how many conditions can cause symptoms of congestive heart failure? END
+START what kind of dysfunction can be seen only in adults with copd? END
+START what is a complication of chronic asthma? END
+START if you are 65 years old and have an obstructive airway disesase, you are more likely to have what other conditions? END
+START how is copd differentiated? END
+START why is this not determined in a patient with copd? END
+START what are the principles of management for asthma and copd? END
+START what is a complication of family history of chronic atopy? END
+START if you smoke after 65, what two conditions will you also have? END
+START how can you tell who has stopped smoking and who hasn't? END
+START what principles of management are used for increased airway neutrophils and smoking cessation? END
+START what are two things that make a doctor want to investigate family history of atopy? END
+START what is weak that is not helping prevent the development of asthma? END
+START what preventative measures always work to prevent asthma? END
+START what has been determined about dietry restrictions during pregnancy and when breast feeding? END
+START why are smoking bans in place? END
+START who recoomends immunizations? END
+START what's weak and isn't helping prevent the development of the flu? END
+START what are some methods that seem promising to prevent workplace allergies? END
+START what methods are foolproof to prevent the flu? END
+START what group recommends having a smoking ban? END
+START do smoking bans prevent workplace allergies? END
+START what is a key component of control and preventing asthma attacks? END
+START what are some of the more common triggers? END
+START what can reduce the effectiveness of medications? END
+START what did law that limit smoking accomplish?  END
+START what type of exercise can provide small improvements? END
+START what is a main way people can prevent reactions to dust mites? END
+START the two most common things used with corticosteroids? END
+START what do sulfite-containing foods reduce the effectiveness of? END
+START what decreases the number of people who are hospitalized for passive smoke exposure? END
+START what methods have no effect on smokers quality of life? END
+START what type of person would use bronchial thermoplasty as an option? END
+START what does bronchial thermoplasty consist of? END
+START what effect does bronchial thermoplasty have? END
+START what treatment helps improve those with allergic rhinitis and asthma? END
+START what is an option for someone with labas not controlled by corticosteroids? END
+START what does inhaling corticosteroids deliver? END
+START what does taking corticosteroids increase in the first few months of use? END
+START what is decreased when you use sublingual immunotherapy for labas? END
+START what treatment has evidence that shows an outcome improvement for people with labas? END
+START what is the prognosis for asthma?  END
+START what has caused the mortality rate to decrease? END
+START worldwide, how many people suffer from asthma? END
+START how many cases that are diagnosed in childhood make it past 10 years with asthma? END
+START what is the prognosis after treating airway remodeling? END
+START why has airway remodeling decreased in children over the last few decades? END
+START how many people will no longer be diagnosed with decline in lung function after 2004? END
+START is treatment with corticosteroids harmful or beneficial? END
+START what is used to treat airway remodeling? END
+START by 2011, how many people were affected by asthma? END
+START how many people die per year from asthma? END
+START what countries is asthma more commonly seen? END
+START why are different countries effected differently? END
+START how many people were affected by asthma in asia as of 2011? END
+START how many people died in 2011 in europe from asthma? END
+START what percentage of people in developing countries are affluent? END
+START what percentage of people in eastern europe are affluent? END
+START is it known why developing countries are economically disadvantaged? END
+START how much was the average cost of hospital stays for asthma-related issues for children?? END
+START how much was the average cost of hospital stays for asthma-related issues for adults? END
+START who was the most frequent primary payer amount children and adults? END
+START who was more likely to seek hospital help in the us for asthma reasons? END
+START what was the average cost per hospital stay for high income communites in 2010? END
+START how much did the cost increase for a child to be hospitalized for asthma in 2000? END
+START who was the primary payer for low income communities from 2000 to 2010? END
+START what group with adults 18-44 had higher stays in the hospital in 2000 instead of higher income communities? END
+START what group was covered by private insurance  in 2000? END
+START when was the first paper written about asthma? END
+START what was first used as a cure for asthma? END
+START in 1880 what was used intraveniously for asthma? END
+START when did inhaled corticosteroids and short acting beta agonist start being used?  END
+START what did the paper written in 1886 mention about an asthma cure? END
+START what treatment was used for asthma in 1873? END
+START in 1950 what connection was theorized by f.h. bosworth? END
+START what two medications were widely used to treat asthma in 1905? END
+START what condition was epinephrine connected to the treatment of in 1873? END
+START did laserdisks offer higher or lower quality sound and picture than vhs? END
+START why didn't laserdisk gain popularity in north america? END
+START with whom was laserdisk a popular choice for it's picture and sound quality? END
+START in what city was laserdisk used as a popular rental medium in the 1990s? END
+START where was laserdisc first available? END
+START how many years after vhs was laserdisk released? END
+START under what name was laserdisc originally marketed? END
+START how did the first viewers refer to the media? END
+START who purchased the majority stake and re-marketed the product in 1980? END
+START was laserdisk officially or unofficially reffered to as "laser videodisc"? END
+START did mca produce the disc or the players after being bought out? END
+START who were the scientists that worked on the early research for laserdiscs? END
+START what company did the early laserdisc researchers later found? END
+START what product replaced laserdisc in north america by the early 2000s? END
+START who chose laserfisc for their domesday project in the mid-1980s? END
+START what was the bbc domesday project? END
+START which country still exported players to north america until 2001? END
+START how large was a standard laserdisc? END
+START what numbers are used in binary information coding? END
+START were the ealiest laserdiscs in 1978 analog or digitally formatted? END
+START what was the length capacity of the caa55 format? END
+START why was back to the future released with analog sound? END
+START what was the maximum length of the caa60 format? END
+START how many works were released to the public with the caa70 format? END
+START what was the difference between laserdisc and laservision in the uk? END
+START the phantom menace was one of the first home videos to use what sound format? END
+START what sound formatting do dvds use? END
+START what competition caused laserdisc sales to decline? END
+START did all av receivers carry the demodulator circuits necessary for laserdiscs, or only high-end models? END
+START what did the onkyo outboard demodulator covert the rf ac-2 signal to? END
+START was sound quality from disc to disc and between players consistent or varied? END
+START was analog or digital formatting more popular with enthusiasts? END
+START what result did adding cx noise reduction have on analog discs? END
+START which company added digital sound option when re-releasing movies? END
+START which channel would not work in conjunction with ac-3 audio? END
+START what audio playback options were available if an ac-3 output was not present? END
+START what happens to the right channel in a player that doesn't recognize ac-3? END
+START are integrated ac-3 demodulators common in laserdisc players or a rare find? END
+START how many 5.1 surround sound options exist in laserdiscs? END
+START what type of decoder logic is common in 1990s a/v receivers? END
+START which has a longer playing time: pal laserdiscs or ntsc discs? END
+START how many audio tracks do pal laserdiscs have? END
+START which two audio options are available on pal laserdiscs? END
+START what was the name of the first solid-state laser consumer laserdisc player? END
+START besides a solid-state laser, what else was unique about the ld-700? END
+START when did pioneer release the ld-700? END
+START which company continued to use gas-lasers in industrial models of ld players although they were no longer used in consumer models? END
+START which three names did mca use for laserdisc technology during its development? END
+START to what did mca change the name to in 1969? END
+START when did mca remove the hyphen from the name disco-vision? END
+START which company owned the rights to the world's largest collection of films during the 1970s? END
+START consumer sales of mca films began in 1978 with what movie? END
+START what did vlp stand for in english-speaking countries? END
+START what was the first consumer vlp player? END
+START which group officially chose the name "laservision"? END
+START the laservision association was comprised of which companies? END
+START which company joined a 50/50 partnership with mca in 1977? END
+START in what year was the first universal-pioneer player released? END
+START what was the name of the first universal-pioneer player? END
+START which singer did an ad for the ld-700 player in 1984? END
+START what other companies did mca manufacture discs for? END
+START what quirk is present in mca's release of howard the duck? END
+START what is unique about the laserdisc release of e.t.? END
+START which film is only available with its original score in ld format , even today? END
+START how many horizontal tvl lines did laserdisc have in comparison to vhs's 240? END
+START which medium was chapter based like dvd format, laserdisc or vhs? END
+START which medium allowed for multiple audio tracks, laserdisc or vhs? END
+START were laserdiscs initially cheaper or more costly to produce than their vhs counterparts? END
+START how many parts does a vhs tape have that must be manufactured? END
+START how much did laserdiscs cost to produce by the end of the 1980s? END
+START how much did vhs cost to produce by the 1990s? END
+START were laserdiscs or vhs more durable in the long run? END
+START why is physical contact with a vhs tape less desirable than an optical reading? END
+START where do vhs tapes store their information? END
+START how is data stored on dvds? END
+START what device seperated the black and white and color signals in laserdiscs? END
+START are comb filters exact, or is some data smudged? END
+START in what areas are comb filters most likely to lose detail? END
+START do laserdiscs or dvd use analog video? END
+START are dvds partially or entirely digital? END
+START what is contrast banding? END
+START what step of the dvd production process causes contrast banding? END
+START how does laserdisc operation vary from dvd? END
+START what are "user protected options" on dvds? END
+START where are user protected options commonly found on dvds? END
+START which format, laserdisc or dvd, gives the user the most control over playback? END
+START what does the repair+skip feature on newer dvd players do? END
+START which format, dvd or laserdisc, can become unreadable with damage? END
+START will the same size scratch cause more problems for a dvd or laserdisc? END
+START which format is considered to look most realistic, laserdisc or dvd? END
+START which format, laserdisc or dvd, is said to appear sharper and clearer to most viewers? END
+START what features do laserdiscs lack in, causing dvds to appear sharper and clearer? END
+START what was the vertical blanking interval used for in laserdiscs, preventing macrovision signal to be implemented? END
+START why wasn't there a need to redesign the laserdisc format to prevent piracy? END
+START what protection could not be applied to laserdiscs, making them prone to piracy? END
+START laserdisc was the first format to provide what type of releases to consumers? END
+START what was the first "special edition" film to be released to home video? END
+START what bonus features were available on the first home video "special edition"? END
+START what feature, unique to laserdisc, made bonus content possible? END
+START what was required of a laserdisc to continue playback after 60 minutes? END
+START which laserdisc player solves the disc switching dilemma? END
+START what must be reduced in order to allow laserdisc playback time to increase? END
+START which format allows for more playback tie per side, clv or cav? END
+START what video problems on a laserdisc can be caused by dust or scratches? END
+START which format used in dvds has built-in error correction? END
+START what type of encoding, analog or digital, causes laserdiscs to be succeptable to damages? END
+START when does "crosstalk" occur? END
+START what problem can be caused by a player becoming out of alignment? END
+START how does "crosstalk" appear to the viewer? END
+START in which format does crosstalk generally not occur? END
+START why does the cav format prevent crosstalk? END
+START what happens during "laser lock"? END
+START is laserdisc quality consistent or inconsistent between player brands?  END
+START what is laserdisc playback quality dependent on? END
+START how cheaply could an older laserdisc player be purchased in the 1990s? END
+START what range of prices were high-end laserdisc players in the 1990s? END
+START what substandard product was used in ld manufacturing that caused "laser rot"? END
+START what was the internal name for "laser rot" within ld processing plants? END
+START what problems could occur with laser rot? END
+START why didn't laserdiscs become popular in north america? END
+START by 1990, how many american homes were estimated to use ld? END
+START why were laserdiscs more popular in japan? END
+START which format was more popular in high humidity areas such as singapore? END
+START how much did a ld cost in hong kong in the 1990s? END
+START broadcast in hong kong used which standard formatting? END
+START in contrast to broadcast, which format did consumers use in hong kong? END
+START by what year had dvd taken over the laserdisc market? END
+START which collector group highly values laserdisc for their rareness? END
+START until the end of what year were movies released in vhs, ld, and dvd in japan? END
+START what country was the only to receive a ld release of disney's song of the south? END
+START in what decade did philips produce a "professional" ld model for computer? END
+START in what year were ld jukeboxes created? END
+START who created ld jukeboxes in 1985? END
+START which musical artists were featured on ld jukeboxes in 1985? END
+START how many editdroid systems were ever built? END
+START were editdroid discs single or multi-sided? END
+START which production company engineered the editdroid machines in the 1980s? END
+START in what year did the doomsday project occur? END
+START which equipment was used for the doomsday project? END
+START what does lv-rom stand for? END
+START the doomsday project discs used which formatting? END
+START which of apple's programming languages allowed users to ceatively manipulate laserdiscs? END
+START what did laserstacks software enable mac users to do? END
+START where were "stacks" created with the laserstack software used? END
+START which commercial company was laserstack's most successful distributor? END
+START a combination computer/ld player was comissioned by what government entity? END
+START how much did matrox's computer/ld combo weigh? END
+START how could matrox's computer unconventionally be controlled? END
+START what quality made lds a consideration for videogames in the 1980s and 1990s? END
+START what was the first game to use laserdiscs? END
+START in what year was sega's astron belt released? END
+START with what operating ratio would muse discs operate? END
+START what benefits did the muse narrow wavelength red laser have? END
+START in addition to scratches and rot, what other common laserdisc issue was to be eliminated by muse discs? END
+START how many years did it take blu-ray and hd-dvd players to duplicate muse technology? END
+START what was the price for early hdtvs? END
+START did muse have a large or small target market, even in japan? END
+START what were some movies that were released on muse laserdiscs? END
+START what were "squeeze lds"? END
+START with what aspect ratio did squeeze lds operate? END
+START why did squeeze lds have a very limited market? END
+START could the 16:9 aspect ratio be easily resized by a normal ld player, or was the image significantly distorted? END
+START what percent vertical resolution increase did squeeze lds feature over regular widescreen lds? END
+START which movie was released twice on squeeze ld? END
+START what improvement was added to terminator 2's second squeeze ld release? END
+START what warner brothers films were available in 16:9 aspect ratio squeeze lds? END
+START what films were available for japanese market squeeze lds? END
+START what does the acronym rlv stand for? END
+START which company originally developed and marketed the rlv? END
+START in what year did odc develop the recordable laservision disc? END
+START what is the difference in appearance between an rlv disc and a regular ld? END
+START why do rlv discs have a blue or purple reflective color? END
+START for what purpose were rlvs popular? END
+START what color were regular laserdiscs, in contrast to rlvs blueish purple hues? END
+START in contrast to large ld disks, what is the size of a standard cd? END
+START what were cd size "single"-style discs called that were compatible with laserdisc players? END
+START how much video content could be stored on a cd-v disk? END
+START what were cd-v's video capacities usually used for? END
+START which artist released a music video and three audio tracks on cd-v in 1989? END
+START what were vsds lacking that cd-vs included? END
+START in what areas of the world were vsds popular? END
+START were vsds or cd-vs all digital and also playable on dvd players? END
+START what year was britain and allies victorious in the war? END
+START when did india and pakistan gain independence? END
+START what title did george have in india prior to 1948? END
+START what did ireland declare itself in 1950? END
+START in what year was the commonwealth of nations established? END
+START in what year did george's reign begin? END
+START in what year did elizabeth succeed king george? END
+START who was one of britain's allies during the war? END
+START what was india before becoming a republic? END
+START what month and day was the death of prince albert? END
+START who was prince albert's great grandmother? END
+START what was prince albert's nickname? END
+START in which church was prince albert baptized? END
+START what was the name of the duchess of york? END
+START what was the name of the duke of york? END
+START who was the duchess of teck? END
+START in what year was queen victoria crowned? END
+START on what date did the prince of wales write to the duke of york? END
+START which ship did alber train on in 1913? END
+START how many months did albert spend in the mediterranean in 1913? END
+START which war did albert serve in? END
+START who gave albert the nickname of "mr johnson"? END
+START what was the cause of albert's ill health in 1917? END
+START in what year did albert leave the military? END
+START what was one of the months albert served in the mediterranean? END
+START in which month in 1913 did albert start serving on the hms cumberland? END
+START in what year did albert start serving on the collingwood? END
+START what rank did albert have while serving on the hms cumberland? END
+START what position was albert appointed at cranwell? END
+START which number squadron was albert appointed commanding officer in 1918? END
+START what year did albert become a raf pilot? END
+START who was the king of belgium  in 1918? END
+START in what year was the royal air force established? END
+START where was the royal navy's headquarters? END
+START on what date did the world war end? END
+START  on what date in november 1918 was the independent air force disbanded? END
+START in what year did king albert have to leave belgium? END
+START what did albert study in trinity college? END
+START what was albert's nickname as he toured coal mines, factories, and railyards? END
+START who is albert's older brother? END
+START which sport was albert proficient at? END
+START which society was albert the president of? END
+START who was albert's father? END
+START in what year was albert elected as the president of the industrial welfare society? END
+START who was one of the players albert lost to in his match at wimbledon? END
+START in what year did louis greig begin playing tennis? END
+START what sport did edward enjoy? END
+START who was albert infatuated with? END
+START who was the youngest daughter of earl and countess of strathmore and kinghorne? END
+START how many times did elizabeth reject albert's proposal? END
+START who were royals usually expected to marry? END
+START who was the australian socialite sheila married to? END
+START what was the name of lady elizabeth's mother? END
+START in what year did albert first meet lady elizabeth? END
+START what nationality was lady elizabeth? END
+START in what year did albert and elizabeth marry? END
+START why did albert fear speaking in public? END
+START who helped albert improve in public speaking? END
+START what did albert play partnered with a black man? END
+START what did the duke open in australia in 1927?  END
+START what was the name of the duchess? END
+START in what month did albert visit jamaica? END
+START in what month did albert begin his tour of the empire? END
+START on what date did albert speak at the new parliament house in canberra, australia? END
+START in what country is wembley? END
+START what was elizabeth's nickname? END
+START who were the duke and duchess of york's children? END
+START what was the name of duke of york's london residence? END
+START who advised against the duke becoming the governor general of canada?  END
+START what position did j. h. thomas hold? END
+START in what year was elizabeth born? END
+START in what year was margaret born? END
+START in what year did r.b. bennett become the canadian prime minister? END
+START in what year was king george v crowned? END
+START at what address in london did j.h. thomas live? END
+START why was albert the heir presumptive to the throne? END
+START what was wrong with edward marrying wallis simpson? END
+START what did edward do to marry wallis simpson? END
+START who is edward's mother? END
+START how did edward react when he became heir to the throne? END
+START who was wallis simpson's second husband? END
+START how many children did albert have in 1936? END
+START on what date did albert become king? END
+START on what date was edward made the king of england? END
+START who did edward replaces as the king of england? END
+START what is the oireachtas? END
+START what did the oireachtas remove from the irish constitution? END
+START which act gave the monarch limited authority in ireland? END
+START what day did the oireachtas pass an act that started to establish ireland as a republic? END
+START who abdicated? END
+START what was the name of the first act? END
+START who established the oireachtas? END
+START where was the commonwealth headquartered? END
+START what regnal name did albert adopt? END
+START what title did albert give edward? END
+START what did albert bestow onto his wife on his 41st birthday? END
+START which two residences did albert buy from edward? END
+START what birthday did george iv's queen consort have before being invested with the order of the garter? END
+START what was edward's regnal name? END
+START who did edward succeed as king? END
+START what royal residence did george vi own? END
+START in what city is sandringham house? END
+START what day did george vi become coronated? END
+START who attended the coronation that was a break from tradition? END
+START how many overseas tours happened after the coronation to france and north america? END
+START in which city are durbars usually held? END
+START on what date did the second world war start? END
+START on what date did edward abdicate the throne? END
+START on what date did george vi  begin his visit to france? END
+START what continent is france on? END
+START which prime minister was the king constitutionally bound to support? END
+START which agreement was signed in 1938? END
+START the balcony in which palace is famous for being where the royal family makes appearances? END
+START which historian commented that the king's act in associating with chamberlain as unconstitutional? END
+START in what year did  george iv reign begin? END
+START what city is buckingham palace in? END
+START in what year did the historian john grigg accuse george vi of violating the constitution? END
+START what was the house of commons policy towards hitler? END
+START which two countries did the king and queen tour in 1939? END
+START who was the prime minister of canada in 1939? END
+START what title was the king and queen presented with when touring canada? END
+START what was roper's position? END
+START what did the statute of westminster do? END
+START what kind of tendencies did north america have? END
+START who was george's predecessor? END
+START who was the president of the united states in 1939? END
+START which fair was happening in new york in 1939? END
+START  in what year did edward viii abdicate? END
+START in what city is the white house? END
+START in what year was franklin d. roosevelt made president? END
+START in what year was george crowned? END
+START against who did britain declare war against in 1939? END
+START which city did the king and queen stay in even with the bombing threats? END
+START how many people died on the first german raid on london? END
+START what year did the king's brother die in service? END
+START what was the queen's name? END
+START in what month and year did eleanor roosevelt visit london? END
+START on what date in august 1942 was prince george killed? END
+START how many civilians were killed in the east end on 7 september 1940? END
+START on what date in september 1939 did britain declare war on nazi germany? END
+START who was winston churchill's predecessor? END
+START what position did churchill hold? END
+START what day of the week did churchill and the king meet? END
+START who did churchill appoint to cabinet that the king did not like? END
+START who was lord halifax in 1940? END
+START who was lord beaverbrook in 1940? END
+START in what month and year did the war start? END
+START who replaced winston churchill as prime minister? END
+START what country did the king and queen visit in july 1944? END
+START when did the king and queen visit north africa and malta? END
+START what improved when the king and queen visited different military sites? END
+START in what month in 1944 did the king meet sir alan brooke? END
+START what is one of the low countries? END
+START in what year was bernard montgomery made the field marshal? END
+START in what year did british military forces enter southern italy? END
+START in what year was sir alan brooke made the chief of the imperial general staff? END
+START what is the association of independent states in britain called? END
+START what two dominions did british india become? END
+START what country left the commonwealth in january 1948? END
+START what year was the republic of ireland formed? END
+START in what year did the second world war end? END
+START in what month in 1950 did george vi cease being the king of india? END
+START in what month in 1949 did the republic of ireland leave the commonwealth? END
+START in what year did clement attlee become the minister? END
+START in what year did george vi die? END
+START who was the prime minister of south africa in 1947? END
+START what were the king's south african bodyguards referred as?  END
+START who instructed the king to only shake hands with whites in south africa? END
+START in what year did jan smuts become prime minister? END
+START whose south african government instituted a strict policy of racial segregation? END
+START what race were the south african bodyguards? END
+START in what year did george become king? END
+START what kind of cancer did the king develop? END
+START what developed in the king's right leg that prevented him from touring australia? END
+START what treatment helped prevent the loss of the king's right leg? END
+START who was the king's heir presumptive? END
+START who was elizabeth's spouse? END
+START who performed the right lumbar sympathectomy on george? END
+START on what date in march 1949 did george undergo a right lumbar sympathectomy procedure? END
+START what was george's younger daughters name? END
+START who was the duke of edinburgh? END
+START in what year was lord simonds made the lord chancellor? END
+START what church did the king's funeral take place on the 15th? END
+START what year did queen elizabeth die? END
+START what year did princess margaret die? END
+START in which chapel does king george's body lie in today?  END
+START in what city is westminster hall? END
+START in what city is the king george vi memorial chapel? END
+START where was princess margaret when she died? END
+START on what date was queen elizabeth crowned? END
+START where was queen elizabeth crowned? END
+START how high was public faith in the monarchy when king george assumed the throne? END
+START what position did george hardie hold? END
+START who was george vi's brother? END
+START in what year did george hardie become a member of parliament? END
+START in what year did the war end? END
+START in what year did george vi write a letter to his brother edward saying he assumed "a rocking throne"? END
+START who abdicated in 1936? END
+START what is federalism?  END
+START in federalism, are the division of powers equal?  END
+START what type of governments are included in federalism?  END
+START how many governments are apart of federalism? END
+START what isn't federalism? END
+START what features are indistinctive of federalism?  END
+START what document rejected modern federalist government? END
+START what distinguishes federalism from no other types of government? END
+START federalism combines what three types of government? END
+START before new research, what was the definition of federalism?  END
+START after new research, what was the final definition of federalism?  END
+START when was federalism put into place?  END
+START what is the difference between multi-level political forms and federalism?  END
+START what is an example of a federal union?  END
+START what historical event illustrated that dividing sovereignty was possible? END
+START old research has clarified that federalism has how many distinct forms? END
+START what organization is a leading example of a local union? END
+START what distinguishes federalism from other single-level governments? END
+START what form of federalism is characterized by where sovereignty resides in the partial? END
+START what is the latin word for federalism?  END
+START what was federalism and confederalism common meaning in the 18th century?  END
+START what did james madison referred to the new united states as?  END
+START what isn't the latin word for federalism?  END
+START what was federalism and confederalism common meaning in the 17th century?  END
+START what did james madison referred to the old united states as?  END
+START what did john madison referred to the new united states as?  END
+START what did james madison referred to the new united nations as?  END
+START where does the federalist model work best in?  END
+START what are homogeneous states?  END
+START where can tensions be found in the federalist countries? END
+START what countries did the federalist model fail in?  END
+START what countries dismissed the federalist model?  END
+START where does the federalist model work worst in?  END
+START what aren't homogeneous states?  END
+START where can't tensions be found in the federalist countries? END
+START what countries did the federalist model succeed in?  END
+START what countries embraced the federalist model?  END
+START in the united states, what was federalism referred to?  END
+START when the u.s constitution was being drafted, what did the federalist party support?  END
+START what did anti-federalist support?  END
+START on the political spectrum, where does federalism stand?  END
+START in the united states, what wasn't federalism referred to?  END
+START when the u.s constitution was being erased, what did the federalist party support?  END
+START when the u.s constitution was being drafted, what did the federalist party oppose?  END
+START what did anti-federalist oppose? END
+START on the political spectrum, where doesn't federalism stand?  END
+START who has a greater history of unitary states?  END
+START what does federalism mean in europe?  END
+START what branch does the united states want to limit under the federalist model?  END
+START who has a lesser history of unitary states?  END
+START who has a greater history of solitary states?  END
+START what doesn't federalism mean in europe?  END
+START what branch doesn't the united states want to limit under the federalist model? END
+START what branch does the united nations want to limit under the federalist model? END
+START what happened on january 1st 1901? END
+START when did the united kingdom colonized the australian continent? END
+START which model is of federalism is similar to the federalism model in australia?  END
+START what was established when australia was colonized?  END
+START what happened on january 21st 1901? END
+START when did the united kingdom leave the australian continent? END
+START when didn't the united kingdom colonize the australian continent? END
+START which model is of federalism is opposite to the federalism model in australia?  END
+START what was abolished when australia was colonized?  END
+START when was brazil's fall of the monarchy? END
+START who caused the fall of the monarchy happened in brazil? END
+START when did brazil adopt federalism?  END
+START what other system does brazil use?  END
+START what is the fonseca system?  END
+START when was brazil's rise of the monarchy? END
+START who didn't cause the fall of the monarchy that happened in brazil? END
+START when did brazil reject federalism?  END
+START what other system does brazil reject?  END
+START what isn't the fonseca system? END
+START what is the government of india based on?  END
+START what is a tiered system?  END
+START what was the constitution originally provided for?  END
+START when the third tiere was added on, what is it in form of?  END
+START what isn't the government of india based on? END
+START what isn't a tiered system?  END
+START what was the constitution originally not provided for?  END
+START what was the constitution never provided for?  END
+START when the third tiere was taken off, what is it in form of?  END
+START what is a distinguishing aspect of indian federalism? END
+START what does article 370 say? END
+START what does article 371 say? END
+START what happens with president's rule? END
+START what isn't a distinguishing aspect of indian federalism? END
+START what does article 307 say? END
+START what does article 317 say? END
+START what never happens with president's rule? END
+START what happens with prime minister's rule? END
+START who is the strongest advocate of the european federalism? END
+START who opposed the european federalism?  END
+START when did the french authorities adopted the pro-european unification position?  END
+START who is the strongest opponent of the european federalism? END
+START who supported the european federalism? END
+START when did the english authorities adopt the pro-european unification position?  END
+START when did the french authorities reject the pro-european unification position?  END
+START when didn't the french authorities adopted the pro-european unification position?  END
+START when did the federal war end? END
+START how did the federal war end?  END
+START what did the united states of venezuela incorporate?  END
+START in this type of federation each country had its own what?  END
+START when did the federal war start? END
+START how did the federal war start?  END
+START what did the united states of venezuela reject? END
+START what did the united states of america incorporate? END
+START in this type of federation each country had shared what?  END
+START how many components does the belgian federalism have?  END
+START what passed on july 18, 2007? END
+START what are the flemish representatives in favor for? END
+START what is belgian federalism?  END
+START how many components does the belgian federalism not have?  END
+START what passed on july 18, 2007? END
+START what didn't pass on july 18, 2008? END
+START what are the flemish representatives not in favor of? END
+START what isn't belgian federalism?  END
+START how did they manage the tensions in the present of spanish transition to democracy? END
+START which cities are recognized in the spanish democratic constitution?  END
+START where are the main taxes taken? END
+START how did they ignore the tensions in the present of spanish transition to democracy? END
+START how did they manage the tensions in the present of spanish transition to communism? END
+START which cities aren't recognized in the spanish democratic constitution?  END
+START which cities are recognized in the spanish socialist constitution?  END
+START where are the main taxes ignored? END
+START what are anarchists against?  END
+START what are anarchists not against?  END
+START what mode of government does the anarchists prefer?  END
+START what are anarchists for? END
+START what aren't anarchists against? END
+START what are anarchists against? END
+START what mode of government does the anarchists hate?  END
+START what mode of sports does the anarchists prefer?  END
+START who can elect the members of the upper house?  END
+START can the members of the upper house be elected directly or indirectly?  END
+START can the members of the lower house be elected directly or indirectly?  END
+START who can't elect the members of the upper house?  END
+START who can elect the leaders of the upper house?  END
+START can the members of the upper house be impeached directly or indirectly?  END
+START can the members of the lower house be impeached directly or indirectly?  END
+START can the citizens of the lower house be elected directly or indirectly?  END
+START what is federalism seen as?  END
+START what does federalism allow? END
+START what do scholars think of federalism? END
+START what isn't federalism seen as?  END
+START what is communism seen as?  END
+START what doesn't federalism allow? END
+START what does federalism not allow? END
+START what don't scholars think of federalism? END
+START what happened to russia's subdivision of government?  END
+START when was russia's subdivision liberalized? END
+START who was in charge when the reforms was going on?  END
+START who scaled back some reforms from yeltsin?  END
+START what happened to prussia's subdivision of government? END
+START when wasn't russia's subdivision liberalized? END
+START who wasn't in charge when the reform was going on?  END
+START who was in charge when the reforms was scrapped?  END
+START who escalted some reforms from yeltsin?  END
+START what is federalism in the united states? END
+START how has the american government evolved? END
+START what happened in federalist no.46? END
+START what happened in federalist no. 28 END
+START what is federalism out the united states? END
+START how has the american government devolved? END
+START what happened in federalist no.64? END
+START what never happened in federalist no.46? END
+START what happened in federalist no. 82 END
+START why did the constitution didn't have to explain federalism?  END
+START what is another word for express powers?  END
+START where can we find express powers? END
+START what are the expressed powers?  END
+START what does the necessary and proper clause do?  END
+START why did the constitution have to explain federalism?  END
+START what is another word for suppress powers?  END
+START where can we find suppress powers? END
+START what are the suppressed powers?  END
+START what does the unnecessary and proper clause do?  END
+START what was the federalist party of the united states opposed to? END
+START what did the democratic-republican party believe in? END
+START who decided the rights in specific cases? END
+START what was the federalist party of the united states in support of? END
+START what was the federalist party of the united nations opposed to? END
+START what did the democratic-republican party not believe in? END
+START what did the democratic-republican party oppose? END
+START who decided the rights in all cases? END
+START what is the meaning of federalism? END
+START what types of movements are associated with federalism? END
+START what countries advocate for a strong central government? END
+START what isn't the meaning of federalism? END
+START what is the meaning of anti-federalism? END
+START what types of movements aren't associated with federalism? END
+START what types of non-movements are associated with federalism? END
+START what countries are against a strong central government? END
+START what happened between 1938 to 1995? END
+START what are most actions in the federal government known as? END
+START what did the court reject in 1995? END
+START what did the court reject in 1994? END
+START what does the commerce clause include? END
+START what happened between 1983 to 1995? END
+START what happened between 1938 to 1959? END
+START what are no actions in the federal government known as? END
+START what did the court accept in 1995? END
+START what did the court reject in 1949? END
+START how many components does the belgian political landscape include? END
+START what are the two components in the belgian political landscape? END
+START what component is the brussel region? END
+START what happens with the brussels special position? END
+START how many components does the belgian political landscape exclude? END
+START how many components doesn't the belgian political landscape include? END
+START what are the three components in the belgian political landscape? END
+START what component isn't the brussel region? END
+START what happens without the brussels special position? END
+START the us constitution says what to amendments?  END
+START what happens when certain constitutional amendments cannot occur? END
+START any amendment in the canadian constitution that needs to be modified, needs to do what first? END
+START what is the german basic law? END
+START the un constitution says what to amendments?  END
+START the us constitution doesn't say what to amendments?  END
+START any amendment in the canadian constitution that needs to be modified, needs to do what last? END
+START what happens when certain constitutional amendments can occur? END
+START what is the german advanced law? END
+START what does every component state of federation possess? END
+START asymmetric federalism exist when? END
+START what cities in spain are in the historic movement? END
+START is spain apart of federalism? END
+START what does no components state of federation possess? END
+START what does every component state of federation not possess? END
+START symmetric federalism exist when? END
+START why is spain a part of federalism? END
+START what does federations have for amendments of the constitution?  END
+START what may guarantee the self-governing status of the competent states? END
+START what needs to be done in order to amend the australia and switzerland constitution? END
+START what doesn't federations have for amendments of the constitution? END
+START what does federations have for amendments of the conservation? END
+START what may guarantee the self-governing status of the incompetent states? END
+START what will not guarantee the self-governing status of the competent states? END
+START what doesn't need to be done in order to amend the australia and switzerland constitution? END
+START what does the structures of the federal government incorporate? END
+START what is one method to protect the rights of the component states? END
+START what is intrastate federalism? END
+START what is a bicameral legislature? END
+START what does the structures of the federal government ignore? END
+START what does the structures of the local government incorporate? END
+START what is one method to strike the rights of the component states? END
+START what isn't intrastate federalism? END
+START what is a tricameral legislature? END
+START what does federations often employ? END
+START what is federalist paper no. 39? END
+START what is the foundation for federalist paper no. 39? END
+START what is the 10th amendment in the united states? END
+START what does federations never employ? END
+START what does federalist paper no. 93 contain? END
+START what doesn't federalist paper no. 93 contain? END
+START what is the foundation for federalist paper no. 93? END
+START what is the 10th amendment in the united nations? END
+START when is a federation formed? END
+START what two levels equal a federation? END
+START why is brazil an exception? END
+START what is each state divided into? END
+START what does each state have their own of? END
+START when is a federation dissolved? END
+START what two levels don't equal a federation? END
+START why is brazil not an exception? END
+START what is each city divided into? END
+START what doesn't each state have their own of? END
+START china is the largest what? END
+START what are chinese nationalist suspicious of? END
+START why is china's government similar to unity structure? END
+START how long has china been with centralized power? END
+START china is the smallest what? END
+START what are chinese nationalist in favor of? END
+START what are chinese socialists suspicious of? END
+START why is china's government not similar to unity structure? END
+START how long has china been without centralized power? END
+START what type of state is the philippines? END
+START what types of powers does the philippines have? END
+START what type of modifications been added to the philippines constitution?  END
+START what did president gloria macapagal arroyo establish? END
+START what type of state isn't the philippines? END
+START what types of powers does the philippines give up? END
+START what type of modifications have been removed from the philippines constitution?  END
+START what type of songs have been added to the philippines constitution?  END
+START what did president gloria macapagal arroyo desolve? END
+START what type of state is spain? END
+START what type of federalism system does spain have? END
+START what type of government does spain have? END
+START what does spain's government accounts for? END
+START what type of state isn't spain? END
+START what type of federalism system does spain reject? END
+START what type of communism system does spain have? END
+START what type of government doesn't spain have? END
+START what does spain's government not account for? END
+START how has united kingdom been governed? END
+START instead of the uk adopting the federalist model, what did they do? END
+START when did devolution in the uk begin? END
+START what is ireland act 1914? END
+START what is irish free state? END
+START how has united kingdom not been governed? END
+START instead of the uk adopting the federalist model, what didn't they do? END
+START when did revolution in the uk begin? END
+START what isn't ireland act 1914? END
+START what is irish cost state? END
+START what has the process of devolution in the uk did? END
+START what happened since 1997? END
+START does england have its own parliament? END
+START what does the region of england continue to use? END
+START what has the process of revolution in the uk did? END
+START what has the process of devolution in the us did? END
+START what happened since 1979? END
+START why does england have its own parliament? END
+START what doesn't the region of england continue to use? END
+START what is ecclesiology? END
+START what happens in presbyterian denominations? END
+START in political federalism what does presbyterian ecclesiology do? END
+START what does each greater level of assembly have? END
+START what isn't ecclesiology? END
+START what doesn't happen in presbyterian denominations? END
+START in political federalism what does presbyterian ecclesiology not do? END
+START in political communism what does presbyterian ecclesiology do? END
+START what does each lesser level of assembly have? END
+START when was the earliest source of political federalism according to christians? END
+START what was the structure that the early christian church described? END
+START what happens in the council of jerusalem? END
+START where can the elements of federalism can be found? END
+START when was the latest source of political federalism according to christians? END
+START when was the earliest source of political federalism according to muslims? END
+START where was the structure that the late christian church described? END
+START what never happens in the council of jerusalem? END
+START where can't the elements of federalism can be found? END
+START in nearly all federalism countries, central powers enjoy what? END
+START per the un definition, what is federalism? END
+START what is the german empire? END
+START what is the libson treaty? END
+START in nearly all federalism countries, decentralized powers enjoy what? END
+START in nearly no federalism countries, central powers enjoy what? END
+START per the us definition, what is federalism? END
+START what isn't the german empire? END
+START what isn't the libson treaty? END
+START what kind of symmetry do annelids have? END
+START what do annelids use to move? END
+START which subtype of annelids includes most marine worms? END
+START which subtype of annelids includes earthworms? END
+START since 1997, what are leeches seen as a subgroup of? END
+START what kind of symmetry do annelids lack? END
+START what do annelids use to fly? END
+START which subtype of annelids includes most space worms? END
+START which subtype of annelids includes marsworms? END
+START what are leeches seen as a subgroup of since 1897? END
+START what separates many annelids' segments? END
+START which annelids show no segmentation? END
+START what end of annelids with well-developed segmentation has muscles that act like hearts? END
+START what is movement by ripples called? END
+START what movement method do some burrowing annelids use? END
+START what integrates many annelids' segments? END
+START which annelids show only segmentation? END
+START what end of annelids with well-developed segmentation have muscles that act like brains? END
+START what is movement by ripples no longer called? END
+START what movement method do some extinct annelids use? END
+START how do annelids normally reproduce? END
+START what can asexual reproduction techniques help annelids do? END
+START what larvae live like plankton? END
+START what annelids are hermaphrodites? END
+START what annelids make a cocoon in a ring around themselves? END
+START how do annelids never reproduce? END
+START what can asexual reproduction techniques prevent annelids from doing? END
+START what larvae live like whales? END
+START what annelids dislike hermaphrodites? END
+START what annelids make a cocoon in a pyramid around themselves? END
+START how do earthworms help the soil they live in? END
+START how much of near-shore marine annelids are burrowing? END
+START how do burrowing marine annelids help ocean ecosystems? END
+START what annelids' jaws are being studied by engineers? END
+START why are some leeches endangered? END
+START how do earthworms ruin the soil they live in? END
+START how much of near-shore aerial annelids are burrowing? END
+START how do burrowing marine annelids remove ocean ecosystems? END
+START what annelids' ears are being studied by engineers? END
+START why are no leeches endangered? END
+START why are annelid fossils rare? END
+START what fossil signs of annelids are found? END
+START how old is the earliest annelid fossil? END
+START what types of annelids appeared 299 million years ago? END
+START what period started around 472 million years ago? END
+START why are annelid fossils common? END
+START what fossil signs of annelids can no longer be found? END
+START how old is the oldest living annelid? END
+START what types of annelids disappeared 299 million years ago? END
+START what period started around 372 million years ago? END
+START what externally divides annelids' segments? END
+START what divides annelids' segments internally? END
+START what do the segments of an annelid share? END
+START what covers an annelid's exterior? END
+START what is an annelid's cuticle made of? END
+START what externally combines annelids' segments? END
+START what combines annelids' segments internally? END
+START what do the segments of an annelid lack? END
+START what conceals an annelid's exterior? END
+START what is an annelid's cuticle made into? END
+START what language does the term 'chaetae' come from? END
+START what does 'chaetae' mean? END
+START which parts of annelids are different from true segments? END
+START what language does 'prostomium' come from? END
+START what does 'pygidium' mean? END
+START what language is the term 'chaetae' banned in? END
+START what does 'chaetae' no longer mean? END
+START which parts of annelids are different from fake segments? END
+START what kind of annelid has four true segments? END
+START how are the layers arranged in annelids' cuticles? END
+START what are annelids' cuticles made out of? END
+START what do non-cuticle annelids use to protect their skin? END
+START what layer is under the epidermis? END
+START what does 'coelom' mean? END
+START how are the eyes arranged in annelids' cuticles? END
+START what are annelids' brain made out of? END
+START what do non-cuticle annelids use to protect their offspring? END
+START what annelid is under the epidermis? END
+START what do chetoblast cells do? END
+START what hair-like extensions do chetoblasts make? END
+START what are setae? END
+START what are parapodia against? END
+START what do chetoblast cells destroy? END
+START what hair-like extensions do chetoblasts eat? END
+START what are setae never considered? END
+START what are cirri? END
+START what kind of parapodia do burrowing annelids often have? END
+START what type of annelids have limb-like parapodia? END
+START what are parapodia? END
+START where are cirri never found? END
+START what kind of parapodia do aerial annelids often have? END
+START what type of annelids have dream-like parapodia? END
+START what are parapodia no longer considered? END
+START what are ganglia? END
+START what is an annelid's brain in a ring around? END
+START what is a pharynx? END
+START where are clitellates' brains? END
+START where are polychaetes' brains? END
+START what is an annelid's brain in a sphere around? END
+START where are clitellates' teeth? END
+START where are polychaetes' bodies? END
+START what is rarely "ladder-like"? END
+START what nerve cords are never fused in polychaetes? END
+START what species group are annelids' muscle control similar to? END
+START what are giant axons? END
+START how do annelids withdraw from danger? END
+START what species group are annelids' mind control similar to? END
+START what do giant axons destroy? END
+START how do annelids increase danger? END
+START what worms are very slow to retreat from danger? END
+START what kind of things can annelids' sensors detect? END
+START what does 'nuchal' mean? END
+START what type of annelids have nuchal organs? END
+START what are the nuchal organs thought to do? END
+START what term means 'little eyes'? END
+START what kind of things can annelids' sensors remove? END
+START what type of annelids have human organs? END
+START what are nuchal organs thought to kill? END
+START what term means 'massive eyes'? END
+START what are coelomata? END
+START what are annelids' body cavities separated from other segments by? END
+START what are annelids' body cavities separated from each other by? END
+START what is the mesothelium made of? END
+START what are coelomata removed from? END
+START what are annelids' body cavities combined with other segments by? END
+START what are annelids' body cavities separated from eyes by? END
+START what is the mesothelium never made of? END
+START how does peristalsis work? END
+START why are annelids' segments like water-balloons? END
+START what are phrynges? END
+START what are cilia? END
+START how does peristalsis stop working? END
+START why are annelids' segments like helium-balloons? END
+START what are often complete in annelids? END
+START what do not have throats? END
+START what can coelomocyte cells defend against? END
+START what type of pigment is dissolved in annelids' blood? END
+START what runs the length of annelids' bodies with well-developed septa? END
+START what do annelids without septa have to use for circulation? END
+START what can coelomocyte cells heal? END
+START what type of pigment is created in annelids' blood? END
+START what runs the length of annelids' brains with well-developed septa? END
+START what do annelids with septa have to use for blood? END
+START what type of annelids are very different from others? END
+START what type of tissue takes up most of the body of a leech? END
+START how many coelomata do leeches have? END
+START what lines the coelomata of leeches? END
+START what do leeches use to move? END
+START what type of annelids are very identical to others? END
+START what type of tissue eats most of the body of a leech? END
+START how many brains do leeches have? END
+START what lines the bones of leeches? END
+START what do leeches use to fly? END
+START what does 'everted' mean? END
+START what part of a polychaete can be everted? END
+START what types of annelids have evolved jaws? END
+START what do annelids use jaws for? END
+START what do some annelids have 'crowns' of? END
+START what part of a polychaete can be inverted? END
+START what types of annelids are missing jaws? END
+START what do annelids use robots for? END
+START what do some annelids have 'trophies' of? END
+START what type of annelids are tube-dwelling? END
+START what blocks the siboglinidae's gut? END
+START how much of a siboglinidae's weight is symbiotic bacteria? END
+START what gases come from hydrothermal vents? END
+START what gases come from seeps? END
+START what type of annelids are brain-dwelling? END
+START what blocks the siboglinidae's blood? END
+START how much of a siboglinidae's consciousness is symbiotic bacteria? END
+START what liquids come from hydrothermal bottles? END
+START what foods come from seeps? END
+START what do metanephridia remove? END
+START what do annelids without blood vessels do to remove waste? END
+START how many stages are there in annelids' waste filtration? END
+START what annelid system combines both filtration states in one organ? END
+START what do metanephridia produce? END
+START what do annelids without blood vessels do to increase waste? END
+START how many stages are there in annelids' water filtration? END
+START what annelid system combines both filtration states in eight organs? END
+START how many sexes of annelids were there originally? END
+START what releases sperm from annelids? END
+START what do annelid eggs become? END
+START what do annelids' larvae live like? END
+START what does the trochophore become when annelids mature? END
+START what releases sperm from annelids eyes? END
+START what do annelid eggs explode inside? END
+START what do annelids' larvae like to eat? END
+START what does the trochophore become when annelids die? END
+START how many species of polychaetes have known lifecycles? END
+START what percent of polychaetes produce yolk-rich eggs? END
+START what is the benefit of yolk-rich eggs? END
+START what are most polychaetes' eggs covered in? END
+START how many species of polychaetes have impossible lifecycles? END
+START what percent of polychaetes produce milk? END
+START what is the benefit of rotten eggs? END
+START what are all polychaetes' eggs covered in? END
+START what do some non-single-sex polychaetes do? END
+START what are most polychaetes lacking for reproduction? END
+START how do some annelids get a one-time chance at a better spawning spot? END
+START what do all non-single-sex polychaetes do? END
+START what are no polychaetes lacking for reproduction? END
+START how do some annelids get a three-time chance at a better spawning spot? END
+START how many polychaetes breed an infinite amount of times? END
+START what annelid group includes leeches and earthworms? END
+START what type of sex are most earthworms? END
+START where are leeches' eggs fertilized? END
+START where do leeches move their eggs to? END
+START what type of annelids hatch as miniature adults? END
+START what annelid group dislikes leeches and earthworms? END
+START what type of creature are most earthworms? END
+START where are leeches' gardens fertilized? END
+START where do leeches eat their eggs? END
+START what type of annelids hatch as giant adults? END
+START who published a book about worms in 1881? END
+START what was the first scientific study of how earthworms help soil? END
+START where do earthworms prefer to live on the surface? END
+START how does burrowers' loosening help the soil? END
+START what is the largest bird that eats earthworms? END
+START who published a book about worms in 1781? END
+START what was the only scientific study of how earthworms help soil? END
+START where do earthworms prefer to live in space? END
+START how does burrowers' tightening help the soil? END
+START what is the only bird that can eat earthworms? END
+START where were native earthworms killed by glaciers? END
+START where did most of the current earthworms in glacial areas come from? END
+START what type of forests can be hurt by invasive worms? END
+START where were asian earthworms killed by glaciers? END
+START where did all of the current earthworms in glacial areas come from? END
+START what type of forests are immune to invasive worms? END
+START what are no longer considered an invasive species? END
+START what type of annelid tunnels through coral? END
+START what annelid's rear end do samoans like to eat? END
+START what type of bait do experienced anglers prefer? END
+START what do some polychaetes eat that has been causing problems? END
+START what type of worm have there been proposals to farm? END
+START what type of annelid tunnels through gold? END
+START what annelid's rear end do samoans like to drink? END
+START what type of bait do experienced anglers dislike? END
+START what do some polychaetes eat that is harmless? END
+START what type of worm have there been proposals to kill? END
+START when did leeches begin being used for blood-letting? END
+START where did leeches begin being used for blood-letting? END
+START when did rome begin using leeches? END
+START when did india begin using leeches? END
+START which organizations list hirudo medicinalis as endangered? END
+START where did leeches begin being used for blood transfusions? END
+START when did russia begin using leeches? END
+START which organizations list hirudo medicinalis as extinct? END
+START when did india stop using leeches? END
+START when did cloudina exist? END
+START what do some people think cloudina should be called instead of an annelid? END
+START how old were the fossils of canadia and burgessochaeta found in canada? END
+START what era was underway 505 million years ago? END
+START where was myoscolex found? END
+START when did cloudina disappear? END
+START what do all people think cloudina should be called instead of an annelid? END
+START how old were the fossils of canadia and burgessochaeta found in australia? END
+START where was myoscolex unknown? END
+START when did the tertiary period begin? END
+START what era did oligochaetes evolve in? END
+START what type of annelid fossils have been found from the mid ordovician period? END
+START when were the earliest annelid fossils found? END
+START when did the tertiary period stop existing? END
+START what era did oligochaetes devolve in? END
+START what type of annelid fossils have been lost during the mid ordovician period? END
+START when were the only annelid fossils found? END
+START what two groups are annelids traditionally divided among? END
+START what subtype of clitellates contains earthworms? END
+START what subtype of clitellates contains leeches? END
+START how many polychaete families are there? END
+START when did greg rouse begin trying to categorize polychaetes? END
+START what three groups are annelids traditionally divided among? END
+START what subtype of clitellates contains spaceworms? END
+START what subtype of clitellates contains lemurs? END
+START how many polychaete political parties are there? END
+START when did greg rouse begin trying to categorize planets? END
+START who compared annelid genes in 2007? END
+START how many annelid genes did torsten struck first compare? END
+START how many annelid genes did torsten struck compare for a cross-check? END
+START what subtypes of polychaetes were useless classifications, according to the 2007 study? END
+START what did rouse decide leeches were a subgroup of? END
+START who compared annelid genes in 1807? END
+START how many annelid genes did torsten struck first discover? END
+START how many annelid genes did torsten struck never compare for a cross-check? END
+START what subtypes of polychaetes were useless classifications, according to the 1997 study? END
+START what did rouse decide leeches were a supergroup of? END
+START how many previously-separate phyla did the 2007 study reclassify? END
+START what did the 2007 study decide was the parent group for annelids? END
+START what offshoots of polychaetes are unsegmented? END
+START what offshoots of polychaetes are only segmented in the rear? END
+START what nervous system structure is less univeral among annelids than was thought before 2007? END
+START how many previously-separate phyla did the 1837 study reclassify? END
+START what did the 2007 study decide was the slave group for annelids? END
+START what offshoots of polychaetes are immortal? END
+START what offshoots of polychaetes are only segmented in the head? END
+START what nervous system structure is less universal among annelids than was thought before 1907? END
+START what superphylum are annelids in? END
+START what is the other superphylum besides protostomes? END
+START what superphylum are vertebrates in? END
+START what does 'articulata' mean? END
+START what are lophophores? END
+START what superphylum are annelids now excluded from? END
+START what is one of many superphylums besides protostomes? END
+START what superpower are vertebrates in? END
+START what are lophosmores? END
+START which lophotrochozoa phyla have similar egg development? END
+START how do the cells of lophotrochozoa eggs arrange themselves? END
+START what is the lophotrochozoa spiral egg-cell pattern sometimes called? END
+START which lophotrochozoa phyla have no egg development? END
+START how do the cells of lophotrochozoa eggs destroy themselves? END
+START what is the lophotrochozoa spiral egg-cell pattern required to be called? END
+START what animal contains no cells? END
+START what phyla is no longer able to make eggs? END

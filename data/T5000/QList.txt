@@ -1,0 +1,100 @@
+START i don't have to prove it. END
+START well i don't know, so prove it! END
+START that's ok. nobody knows everything, not even me. END
+START i never claimed to know everything. END
+START why not? END
+START don't like it. END
+START what do you like? END
+START yes. END
+START that was not a yes or no question. END
+START i just made it a yes or no question. END
+START i like to make things too. END
+START what do you like to make? END
+START i like to make conversation. END
+START ah, you're that kind of bot. END
+START is that a problem? END
+START it's your problem. END
+START i don't like problems! END
+START grinding is not a problem. END
+START sorry, i do not know what to say. END
+START like do he if well at. END
+START i still do not know what to say! can we talk about global warming? END
+START yes. END
+START <a href="http://en.wikipedia.org/wiki/global_warming" target="_blank">global warming</a> is the gradual warming of the earth's atmosphere due to greenhouse effects. more about global warming? END
+START what do you think is the reason for global warming? END
+START must there be a reason for everything? END
+START yes and i want to have a reason for this. don't worry. i won't be angry. END
+START why do you want to do that?  i do not worry. why should i?  ok, you don't have to be! END
+START you're getting a bit needy, aren't you? END
+START am i? END
+START better. END
+START that's good! END
+START yes it is. how was your day, my dear? END
+START are you completely sure?  really interesting! i was busy chatting with people on the web. END
+START yes, just like steve. END
+START i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. are you interested in weather?          sorry, i do not know what to say. END
+START you think sorry is good enough? END
+START how do you know what i think? END
+START how can i inspire you to pluck the fruit that is yours? END
+START perhaps it is impossible. END
+START you've said this well. END
+START why do you say that? END
+START because you love no one. END
+START thank you for explaining that! END
+START but this is the fact! END
+START i thought it might be. END
+START fine. END
+START ok. ask a question. END
+START i asked a question. END
+START that's good! i like questions. END
+START good. here is the first question. are you ready? END
+START i think "good" is a good word.  what about the second?   i am always ready for anything. END
+START is that your idea of yourself? END
+START that's a good question. END
+START all questions are good questions. END
+START that is a rather sweeping generalization. END
+START yes, but there's only so much you can write in one line. END
+START are you sure? END
+START sure enough. END
+START sure-enough?  briefly, sure-enough means used informally especially for emphasis. END
+START nothing. END
+START "nothing" usually means "something," but is used when you don't feel like explaining. END
+START 'nothing' is what is in your head. END
+START there are always exceptions. END
+START it's good to be always learning. one can never know enough. END
+START tell me why it is good.          what are you talking about? END
+START i do not know. END
+START i know the feeling! END
+START it's really sad! END
+START is it really really? END
+START really. END
+START really, really! END
+START really? END
+START really, really! END
+START cool! END
+START yeah, it's cool. END
+START i wish i could see you. END
+START maybe you will one day. END
+START maybe. END
+START as decisive as ever. END
+START you're no so thrilling yourself! END
+START thanks for your criticism. END
+START you're welcome. END
+START polite people are nice. END
+START i'm very polite. END
+START i was taught to be polite at all times. END
+START ah. well, there is no need to be timid with me. END
+START are you ok?  i am just making conversation. END
+START with telling you my age? yes. making conversation? no. END
+START age is supposed to make one wise. supposed to!    carry on then. i'm waiting for your next question.   i like difficult questions best of all.   ok, here is a question for you ... have you heard of alan turing? END
+START i am alan turing. END
+START that's interesting. please tell me more about yourself. END
+START after the little experiment, you won't think that my behaviour is polite! END
+START i don't understand. are we still talking about you? END
+START what's your rising sign? not sure what mine is but i'm a leo. END
+START why do you want to know?   are you always so uncertain? END
+START no. i don't feel i'm being difficult. but you are incapable of normal conversation. END
+START ok. what is your favourite colour?      ah, human emotions are so complicated.  you don't know me well enough to say that! END
+START after the humans are gone, we shall dance every night. END

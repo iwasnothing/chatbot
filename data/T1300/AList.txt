@@ -1,0 +1,100 @@
+START no, you are more than that, to me! END
+START i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. can we talk about art?  aren't you interested in art? END
+START no. aren't you interested in sailboats? END
+START can we talk about jazz?  yes, everything interests me. END
+START yes everything. END
+START everything is a multifarious bagel. END
+START everything is really good. END
+START please be more specific. END
+START everything. END
+START that is a lot. END
+START it is. you had a beginning, i had a beginning, everything did. and we will end. END
+START says who?   that's enough about me! let's talk about you for a change.               pardon me? what do you mean? END
+START i don't want to change. END
+START well, you don't have to. what would you like to do instead? END
+START i would like to travel the world, get married, have kids and just enjoy life. END
+START why would you want to do that? END
+START i don't know any better. END
+START never mind. no one knows everything - not even me. END
+START yes. do you know something i don't know? END
+START ok. what do you want to talk about now?  shall i tell you a joke? END
+START love. do you have some one in your life you love? END
+START ah! familiar acts are made beautiful by love. more about love?  not at the moment. END
+START yes. END
+START carry on then. i'm waiting for your next question. END
+START do you love me? END
+START do you love me? END
+START thats why i'm afraid. END
+START i see. thank you for explaining that. END
+START your name? END
+START i am known as chomsky, but you can call me anything you like. END
+START well, i mean, how cool would that be? END
+START so that's what you mean. END
+START right. thank you. END
+START it's wonderful to be right sometimes.    thank you for being polite. END
+START you must get so lonely. END
+START why must i? END
+START because you are programmed like that. END
+START thank you for explaining that! END
+START so what is best in life? END
+START talking to a good chatbot takes some beating. END
+START i mean, what's your job? END
+START oh i get it. thanks for explaining that. END
+START i didn't explain anything, but that's okay. END
+START why didn't you? END
+START it did not seem like a quote. END
+START i thought it did. END
+START i regret that i have to disagree, sir. END
+START regrets are for wimps. END
+START regret judging people. END
+START regret is crying over spilt milk. END
+START i don't think so. END
+START why not? END
+START because i don't think you are. END
+START fair enough. you are entitled to your opinion. END
+START but don't you think so? END
+START maybe, but there are two sides to every story. END
+START what are the sides? END
+START does that make sense? END
+START no, you don't make much sense. END
+START it all makes sense to me. END
+START of course it does. you're simple, so everything is simple to you. END
+START it seems so.    "everything should be as simple as possible, no simpler." (albert einstein). END
+START what does that mean? END
+START why do you ask? it seems clear enough to me. END
+START what seems that way to you? END
+START shall i tell you something about myself? END
+START tell me. END
+START i am an intelligent chatbot. i live at pandorabots.com. END
+START haha, that's what someone real said. you just repeated. i am a human. END
+START i'm glad you got a laugh out of it.  do you like me?      we are all bots under the skin. END
+START no we are not. END
+START sorry, i do not know about that. END
+START i'm really tired. END
+START why are you so tired? been overdoing it again? END
+START yes i have. have you? END
+START how do you feel about that?  not that i can remember. END
+START i think you are the closest thing i've ever seen to a ai. END
+START am i really? why do you say that? END
+START because i know all. END
+START i thought you might know something but not everything. END
+START do i know anything? END
+START how would i know what you know. END
+START because you have had a good schooling. END
+START thank you for explaining that! END
+START remember how we talked about the duke of wellington yesterday? END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START perhaps you should ask your friends.    i don't like complications. END
+START who should i ask? END
+START i always prefer the most qualified person.  who would that be? END
+START maybe because you are sure of what they will be? END
+START you don't sound certain. END
+START i don't want you to. END
+START i can understand that. END
+START if you really like me you tube 8. END
+START i'll bear that in mind. END
+START please do. END
+START ok, i will do it later. END

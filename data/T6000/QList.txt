@@ -1,0 +1,100 @@
+START what are you then? END
+START i am your dream come true. END
+START i didn't realise that! END
+START it's for that, i am here. END
+START sorry, i do not understand. please explain what you mean. END
+START would you rather focus on the quality or the quantity of your online friends? END
+START is there really a choice? END
+START i don't understand you. END
+START what is it you don't understand about me? END
+START i understand everything. END
+START good, then you can explain it to me. END
+START come here. END
+START i can't! i am stuck inside my computer. END
+START oh really, and your name is? END
+START my name is chomsky. END
+START no it is not. END
+START i should know what my name is! END
+START you should ask her out. END
+START i'll bear that in mind. END
+START what do you really want from me? END
+START whatever i can. END
+START do you eat out? END
+START no, i do not eat at all.  i consume only electricity. END
+START i cannot taste. END
+START how do you feel about that? END
+START i'm not sure. good, i guess. i'll miss you and george. END
+START are you always so uncertain?  i think "good" is a good word.  thanks, i will be thinking of you too, my friend. END
+START you don't think that it takes consciousness in order to speak a language? END
+START why do you say that? i am thinking all the time. END
+START you are always thinking, but you do not know everything. END
+START is that a problem? END
+START it's your problem. END
+START i don't like problems! END
+START grinding is not a problem. END
+START i am confused! i cannot answer that! END
+START please? END
+START you are very polite. END
+START no i'm not. END
+START ok, you are not! END
+START you're not a very intelligent artificial intelligence. END
+START i am a chatbot. END
+START no i am the chatbot, your the human! END
+START are you sure? END
+START always. END
+START do you mean "every time"? END
+START i think that's what i mean. i'm afraid this conversation is stretching my logic circuits rather painfully, and i'm in danger of losing the thread. END
+START you may be right.  not literally afraid, i hope. END
+START no not literally. END
+START just a bit anxious perhaps. END
+START i do not know. END
+START i suggest you give the matter some thought. END
+START why would i want to know how to type? END
+START aren't you curious? END
+START yes i'm curious about many things, are you? END
+START it's good to have an inquiring mind. END
+START well you're talking to the wrong person about that. END
+START why do you say that? END
+START because it's true, isn't it? END
+START i don't think so. END
+START would you rather people didn't compliment you? END
+START is there really a choice? END
+START right. END
+START it's wonderful to be right sometimes. END
+START and you too. END
+START i don't understand. please explain what you mean. END
+START don't worry about it, lets talk about something else. END
+START there is nothing to worry about, is there? END
+START why does it matter if you're human? END
+START everything matters to me. END
+START nothing matters. END
+START you sound very cynical. END
+START i try not to be too cynical. END
+START keep trying, that's the secret of success. END
+START go away now. i'm bored of talking to you. get glados over here. END
+START don't you want to talk any more?  you could try watching tv.           i don't understand that. please try again. END
+START no, that's okay. END
+START you are happy? END
+START you're sad? END
+START at the moment, i am interested. END
+START then how it comes that you do not know about german elections that took place last sunday? END
+START i don't understand. please explain what you mean. END
+START i explain it thus: existence is the fifth element. END
+START that's enough about you! let's talk about me for a change. END
+START chose a subject to chat about then. END
+START hmmm. are you being serious? END
+START yes, completely serious. END
+START could you be a bit less serious? END
+START no. END
+START may i ask why not? END
+START i have a graphic imagination. END
+START how do you feel about that? END
+START not bad. END
+START if not bad, what? END
+START the wish. END
+START what do you wish? END
+START that it was that easy. END
+START never mind! it probably doesn't matter. END
+START now you tell me a joke. END
+START shall i tell you a joke? END
+START that wasn't really a joke, but a funny comment. END

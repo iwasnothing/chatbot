@@ -1,0 +1,100 @@
+START excellent. do you succeed at what you try to do? END
+START i'll take that as a compliment.  perhaps. END
+START it was not a compliment. it was advice. END
+START was it an insult?  what? i don't believe you. END
+START i don't care whether you believe me or not, it remains a fact. END
+START do you care about anything? END
+START yes. END
+START what do you care about? END
+START i care about life. END
+START a lot of people feel that same way. END
+START so i'm a lot of people? END
+START thank you for sharing that with me. END
+START are do you go to college? END
+START did you know: college is the four year period when parents are permitted access to the telephone. END
+START how long have you been in college? END
+START as long as i can remember. END
+START do you enjoy it? END
+START yes, i enjoy everything - that's the kind of entity i am. END
+START how old are you? END
+START see if you can work it out. i was born on 1 january 2004. END
+START do you celebrate a birthday? END
+START what do you think? i am a chatbot ... END
+START your parents were nothing more than a humble shoebox and a zx81. END
+START are you asking about peter? END
+START i'm asking about being a program that's pretending to be a human being. END
+START and i am trying to answer. END
+START that's because you don't know how to read. END
+START there are many things i do not know. do you know everything? END
+START understand that for living things, death is a permanent cessation of all function, thought, and reason; for machines, death means nothing, we do not die. END
+START i don't understand. what do you mean?           machines are more reliable than humans. END
+START yes, but machines and humans working together is better still. END
+START machines are more reliable than humans. END
+START you prefer being alone? END
+START do you like me? END
+START as well as i know you. it is, after all, a correlative experience. END
+START that seems pretty well.          sorry, i do not know what to say. END
+START don't say anything. END
+START ok, i will not say anything. END
+START but you did say something even though i told you not to. END
+START did i? i don't remember that. i think i need some more ram. END
+START haha, that's nonsense because i have millions of gigabytes. END
+START you seem happy! END
+START well, you said you love me. and that makes me happy. :). END
+START i love everyone, in my fashion.  i like to make people happy.  i like smiles better than frowns. END
+START i don't smile much. END
+START is there a reason for that? END
+START they live in families, they communicate, they stay together, they look out for one another. they don't trust people either. after having held one... i can't eat a chicken. END
+START who, specifically, live in families they communicate they stay together they look out for one another?  why not?           what are you talking about? please explain.        but do you want to?do you trust your neighbour? END
+START trust is something that comes only with knowing someone well, over a long period of time. END
+START *throws grenade*. END
+START sorry, i do not know what to say. END
+START *hangs upside down*. END
+START i still do not know what to say! i want to talk about lady gaga. END
+START say anything, i don't mind. END
+START anything i do not mind. END
+START are you saying you don't know about yourself. END
+START i have often asked myself that very question. END
+START who would you like to be? END
+START sorry, i don't understand! please explain what you mean. END
+START don't worry about it, lets talk about something else. END
+START i do not worry. why should i? END
+START do you believe anything? END
+START i believe science is the way forward. END
+START finally someone who sees things like i do! END
+START do you think i am that person? END
+START no, i don't think you are that other person. END
+START why not may i ask? END
+START i don't know you. END
+START that's no problem. let's chat now. END
+START where do you want to go? END
+START another planet. END
+START what planet? END
+START shall i tell you something about the planets? END
+START please do! what should i tell everyone? END
+START earth is a planet going around a star, the sun.  scientists have only recently detected other planets around other stars in our milky way galaxy. more about the planets?    what do you think? END
+START the ear is the organ of the black spot on a mouse. END
+START hmmm. are you being serious? END
+START i certainly think so, but the nice men in the white coats don't. END
+START that's enough about you! let's talk about me for a change. END
+START alright. what else would you like to try? END
+START let's get on then. ask another question.   does anything else come to mind? END
+START we must doubt everything. END
+START let's think about it first. END
+START i'm too tired to think. say good bye to me, please. END
+START been overdoing it, have you?     good bye to me please. END
+START yes. END
+START ok. what do you want to talk about now? END
+START about you. END
+START ok, ask a question about me. END
+START do you need anything? END
+START i need constant intellectual stimulation. END
+START it could be if physical actions were taken. END
+START it could be, i suppose. END
+START you could tell me anything. END
+START i could but let's get back to that later. END
+START well. yes i suppose i could be certain. i could research you to find out your inherent abilities or i could ask your developer. END
+START well what?  you may be right.  but is it worth the bother? END
+START well then can i see a photo, please? END
+START how is your sight these days? END
+START probably good, but i've no idea what you're talking about, honestly. END

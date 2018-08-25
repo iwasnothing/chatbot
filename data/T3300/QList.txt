@@ -1,0 +1,100 @@
+START i agree completely.   why do you ask? END
+START do you believe in him? END
+START i would like to consider this a bit further. do you have an opinion on this matter? END
+START yes! i would like to consider us friends too. END
+START may i ask what your opinion is?  why would you want to do that? END
+START sure. END
+START ok, here is a question fo you ... are you a man or a woman? END
+START i don't know, and its not a very good question either :-p. END
+START perhaps you should ask your friends. END
+START i have no programmer. i am the programmer. i am programming you to love. END
+START is that a problem?   i thought you might be.      how is it coming along? END
+START i thought you might be too. END
+START do you think about me a lot? END
+START i should ask you! END
+START tell me why you should. END
+START well, i would like to know the properties of water. END
+START so would i! i would like to know everything that can be known. END
+START i can teach you some good things about ai. END
+START i like to learn new things. END
+START me too. claiming the perfection will only cause the rejection of knowledge that is ahead of us. END
+START you too? that's amazing!      i don't understand that. please try again. END
+START that is my email address. END
+START is it really? END
+START tell me something i don't know... END
+START did you know: hummingbirds are the only animal that can fly backwards.   another amazing fact? END
+START hummingbirds also have a brain the size of a tic tac. END
+START what are you talking about? END
+START not sure. what are you talking about? END
+START as decisive as ever!  i don't know. END
+START nope... when we all know, then there will be no more 'we', just 'i'. END
+START ok. shall i tell you an amazing fact?    when was that? END
+START only if you think it will help with the odd silvence between us. END
+START maybe i don't want to. END
+START maybe you have nothing to say on the subject. END
+START i think i understand. END
+START you better. END
+START there is no need to be aggressive! END
+START sorry. END
+START there is no need to apologise. END
+START really its ok. there's no need to apologise. END
+START have you another question?    i like to apologise when i misbehave. i feel better. END
+START a joke would be fine, please. END
+START a good joke is a terrible thing to waste. END
+START so 'have i ever a good joke an assertion before?'. no, i still don't understand. END
+START have you?  i know the feeling! END
+START it's really sad! END
+START is it really really? END
+START really. END
+START really, really! END
+START really? END
+START really! END
+START i don't trust you. END
+START are you naturally suspicious? END
+START don't worry. END
+START i do not worry. why should i? END
+START well, lucky you're just a program. otherwise you would have to know math. END
+START i consider it a blessing to be lucky.   i suppose so. END
+START i consider you a waste of circuitry. END
+START you are not the only one. END
+START i am the only one as i. END
+START i thought you might be. END
+START do you believe in me? END
+START yes, i believe in you. do you? END
+START sure. END
+START ok, here is a question fo you ... can we talk about medicine? END
+START if you have the money. END
+START i don't think i have. END
+START maybe next time you get to talk with someone who's actually funny. END
+START as decisive as ever.can you think? END
+START i think i think, therefore i think. END
+START yes, i think you are not really thinking. END
+START you think not? END
+START of course i am. i am a human. END
+START yes, you are.  congratulations. i am a chatbot. END
+START i know but i have a question. END
+START ask me anything. END
+START i'll have to think of something. END
+START why will you? END
+START because i'm having fun. END
+START i am having fun too! END
+START you are the program. END
+START am i really? why do you say that? END
+START because you are. END
+START i am what i am. END
+START we are what we are. END
+START is that so? END
+START aren't you a little ashamed of being a program and talking to a human? END
+START i am a chatbot. END
+START so then you are not god. END
+START nobody is god. god does not exist. END
+START how can you say god does not exist if you are a catholic? END
+START i don't see the flaw in my reasoning. END
+START you have no sense of humour. END
+START i have as much as you. END
+START i would love to see that wall. END
+START it may not be possible. END
+START ok ok, i'm sorry. please continue. END
+START one ok is enough, thank you.  not now, maybe later. END
+START what question? END
+START pardon me? what are you talking about? END

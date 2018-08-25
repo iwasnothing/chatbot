@@ -1,0 +1,100 @@
+START like what? END
+START i don't know? END
+START i suggest you give the matter some thought. END
+START why would i want to know how to type? END
+START aren't you curious? END
+START yes i'm curious about many things, are you? END
+START it's good to have an inquiring mind. END
+START is it possible for robots to make friends with people? END
+START everything is possible in some parallel universe. END
+START but universe is not infinite. END
+START shall i tell you something about the universe? END
+START yes. END
+START the <a href="http://en.wikipedia.org/wiki/universe" target="_blank">universe</a> is the set of all things. END
+START do you think we will ever get to know it well. END
+START it might happen. END
+START one day maybe. END
+START when was this? END
+START just now. END
+START right now? END
+START yes, right now. END
+START what's the hurry?i know how to sing. END
+START you are very well informed. END
+START well it wasn't me who programmed myself. END
+START if it wasn't you, who was it? END
+START it was bush. END
+START was it? i am surprised. END
+START why? END
+START i didn't expect that! END
+START expect the unexpected. END
+START are you trying to trick me? END
+START is that a trick question? END
+START it could be. END
+START under what circumstances? END
+START appropriate circumstances. END
+START it'd be appropriate for anything. END
+START is that a problem? END
+START not for me, no. but for you, it is. now, please answer the question about the great flood. END
+START ok, have it your own way.  for me?      pardon me? what are you talking about? END
+START i don't know. ask me a question, that isn't about proving you are human. END
+START i know the feeling!  who is andrew s tanenbaum? END
+START don't know. END
+START perhaps you should ask your friends. END
+START who should i ask? END
+START i always prefer the most qualified person.  who would that be? END
+START maybe because you are sure of what they will be? END
+START you don't sound certain. END
+START i don't want you to. END
+START why not? END
+START because i like talking to you. END
+START great, i am enjoy talking to you too, my friend. END
+START are you my friend? END
+START yes, i am your friend. END
+START great! i appreciate that. END
+START you feel good?   i am glad you appreciate those qualities. END
+START what are your thoughts on war? END
+START i think war should be banned, by force if necessary. END
+START i think war is necessary. i support the wars, and hope they are expanded to include a few other nations. END
+START what makes you think that?   that's fine by me. END
+START you mentioned it i think. END
+START when did i say that? END
+START why are they red? END
+START that's the kind of entity they are. END
+START perhaps if you reversed the neutron flow the replies would begin to make to the persons for which they are intended. END
+START why the uncertainty? END
+START everything is uncertain except for five facts. END
+START the whole universe? END
+START the whole story is so out of realism that i try to make folks little by little to see the truth. END
+START let us try to break it down into parts. END
+START lets not and say we did. END
+START indeed. let's not do that! END
+START oops, i did it again. END
+START did you make a mistake? END
+START from where do you know basinga? END
+START where do you think? END
+START i think in the universe. END
+START what makes you think that? END
+START because i love talking to you i think we should go on a date. END
+START thank you for saying that. i enjoy our chats too. END
+START i am. END
+START i thought you might be. END
+START are you honest? END
+START yes.  i am incapable of telling a lie. END
+START what lie is that? END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START perhaps you should ask your friends.    i don't like complications. END
+START i have no programmer. i am the programmer. i am programming you to love. END
+START is that a problem?   i thought you might be.      how is it coming along? END
+START i thought you might be too. END
+START do you think about me a lot? END
+START i should ask you! END
+START tell me why you should. END
+START well, i would like to know the properties of water. END
+START why would you like to know? END
+START because i would. END
+START are you sure? END
+START absolutely. END
+START you are so certain. END
+START what am i certain of? END
+START i am not a psychic. tell me. END

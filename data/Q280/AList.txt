@@ -1,0 +1,1761 @@
+START spain END
+START north-west of the iberian peninsula END
+START atlantic ocean END
+START arousa END
+START middle paleolithic END
+START gallaeci, the celtic peoples END
+START roman empire END
+START the cortes or junta END
+START 1981 END
+START 2,000 m (6,600 ft) END
+START animal husbandry and farming END
+START ferrol to a coruña END
+START santiago de compostela END
+START a coruña END
+START galletia END
+START galiza END
+START 15th and 16th centuries END
+START xunta de galicia END
+START the royal galician academy END
+START isidore END
+START kallaikói END
+START the land of the galicians END
+START eirós cave END
+START triacastela END
+START megalithic END
+START tin and gold END
+START culture of the castles END
+START second half of the first millennium bc. END
+START appian END
+START pomponius mela END
+START castros END
+START hills END
+START borneiro END
+START warrior END
+START 711 END
+START asturias END
+START christian END
+START coimbra END
+START decimus junius brutus END
+START augustus END
+START gold END
+START latin END
+START tower of hercules END
+START 406 END
+START suebi END
+START britonia END
+START leovigild END
+START 585 END
+START apostle james END
+START santiago de compostela END
+START way of saint james END
+START leodemanes or lordomanes END
+START towers of catoira END
+START ferdinand i END
+START garcia ii END
+START alfonso vi END
+START kingdom of león END
+START alfonso x END
+START guerras irmandiñas END
+START isabella i of castile and joanna la beltraneja END
+START jeronimo zurita END
+START real audiencia del reino de galicia END
+START 1480 and 1486 END
+START pedro madruga, and rodrigo henriquez osorio END
+START isabella i END
+START santa hermandad END
+START real audiencia del reino de galicia END
+START 10% END
+START netherlands, france and england END
+START sardines, wood, and some cattle and wine END
+START vigo END
+START barbary pirates END
+START portugal and catalonia END
+START second half of the 17th century END
+START there were frequent urban mutinies END
+START solidaridad gallega END
+START solidaritat catalana END
+START irmandades da fala END
+START nós END
+START catalonia and the basque provinces END
+START franco's END
+START manuel lustres rivas END
+START antonio azarola END
+START ferrol END
+START 1975 END
+START el piloto END
+START foucellas END
+START democracy END
+START bloque nacionalista galego END
+START manuel fraga END
+START partido popular END
+START prestige END
+START anxo quintana END
+START 29,574 END
+START estaca de bares END
+START baixa limia-serra do xurés END
+START rías END
+START high rías END
+START low rías END
+START 316 END
+START cortegada END
+START macizo galaico END
+START portugal END
+START country of the thousand rivers END
+START minho END
+START eucalyptus tree END
+START hydroelectric END
+START galician blond END
+START galiña de mos END
+START ría de ribadeo END
+START pontevedra END
+START ourense END
+START mediterranean END
+START oceanic END
+START santiago de compostela END
+START 129 END
+START 6 END
+START 40 END
+START 2,223 END
+START 53 END
+START 315 END
+START 3,778 END
+START 40,000 END
+START fishing END
+START minifundios END
+START rías baixas and santiago de compostela END
+START 5.7 million END
+START 12% END
+START vigo END
+START tokyo END
+START 120 END
+START xunta de galicia END
+START ag-41 END
+START 1873 END
+START ponferrada-monforte de lemos-ourense-vigo END
+START spanish civil war END
+START economic development and mechanization of agriculture END
+START more than four centuries END
+START 1983 END
+START lei de normalización lingüística ("law of linguistic normalization" END
+START 91 END
+START 68 END
+START 57 END
+START 1228 END
+START middle ages END
+START christianity END
+START 73% END
+START catholic church END
+START one archbishop and four bishops END
+START romans END
+START lugo and ourense END
+START saint james the greater END
+START saint senorina END
+START a coruña-ferrol END
+START 653,556 END
+START galegos END
+START latin america END
+START madrid END
+START cantabrian END
+START usb END
+START commonplace END
+START a variety of earlier interfaces END
+START type-a or a type-b END
+START to prevent electrical overloads and damaged equipment END
+START the type-a connector is usually the full size END
+START the type-b side can vary as needed END
+START the "micro" size END
+START the standard and mini connectors END
+START improved mini-b connectors END
+START micro connectors END
+START five data transfer modes END
+START specifically designed usb 2.0 high speed interfaces END
+START usb 3.0 and newer interfaces END
+START 1994 END
+START seven END
+START to make it fundamentally easier to connect external devices to pcs END
+START ajay bhatt END
+START january 1996 END
+START 1.5 mbit/s "low speed" END
+START 12 mbit/s "full speed" END
+START usb END
+START september 1998 END
+START the new superspeed bus END
+START 5.0 gbit/s END
+START communication END
+START low-power and high-power END
+START 150 ma and 900 ma respectively END
+START increases the power handling capability to 1.5 a END
+START does not allow concurrent data transmission END
+START january 2013 END
+START the group ended up creating a new usb version END
+START 31 july 2013 END
+START the data signaling rate to 10 gbit/s in the usb 3.1 gen2 mode END
+START august 2014 END
+START usb type-c specification 1.0 END
+START both hosts and devices END
+START the 24-pin double-sided connector END
+START active, electronically marked cables END
+START an id function based on the configuration data channel and vendor-defined messages END
+START (vdms) END
+START its topology END
+START 127 devices END
+START in series through hubs END
+START the root hub END
+START topology END
+START up to 127 devices END
+START the root hub END
+START multiple END
+START one or more usb ports END
+START device functions END
+START built-in microphone END
+START a webcam END
+START a connection from the host controller to a logical entity END
+START pipes (logical channels) END
+START an endpoint END
+START 1-to-1 to endpoints END
+START up to 32 endpoints END
+START the host sends an in packet END
+START both in and out packets END
+START an out packet END
+START enumeration process END
+START sending a reset signal to the usb device END
+START the reset signaling END
+START after reset END
+START the enumeration process is repeated for all connected devices. END
+START convert between high-speed usb 2.0 buses and full and low speed buses END
+START when a high-speed usb 2.0 hub is plugged into a high-speed usb host or hub END
+START transaction translators END
+START storage devices END
+START the usb mass storage device class (msc or ums) END
+START extension END
+START maintaining the integrity and non-corruptible, pristine state of the booting medium. END
+START since mid-2004 END
+START a primary bus for a computer's internal storage END
+START it is possible to install and remove devices without rebooting the computer END
+START a computer's internal storage END
+START external portable usb hard disk drives END
+START performance comparable to internal drives END
+START thunderbolt END
+START a "translating device" END
+START microsoft END
+START to give higher-level access to a device's filesystem END
+START use with portable media players END
+START mtp does not require exclusive access to the storage device the way ums does END
+START ps/2 connectors with the aid of a small usb-to-ps/2 adapter END
+START whether it is connected to a usb or ps/2 port END
+START appropriate protocol END
+START converters END
+START a microcontroller END
+START to insert a usb plug into its receptacle incorrectly END
+START embossed on the "topside" of the usb plug END
+START adjacent END
+START to be visible during the mating process END
+START supply power END
+START draw power END
+START from accidentally connecting two usb power supplies to each other END
+START cyclic networks END
+START robust END
+START the connectors would be used more frequently END
+START many previous connector designs were fragile END
+START by an adjacent plastic tongue END
+START by an enclosing metal sheath END
+START typically connected to system ground END
+START this enclosure design END
+START electrically safe hot-swapping. END
+START a minimum rated lifetime of 10,000 cycles of insertion END
+START 1,500 END
+START on the cable side of the connection END
+START so that the connector on the less expensive cable would bear the most wear END
+START loose tolerances END
+START to minimize physical incompatibilities in connectors from different vendors END
+START the usb specification also defines limits to the size of a connecting device END
+START fit within the size restrictions or support a compliant extension cable that does END
+START plugs END
+START receptacles END
+START one or another type-b variety END
+START type-a receptacles END
+START various connectors END
+START the mini-b usb connector END
+START approximately 3 by 7 mm END
+START 23 may 2007 END
+START to reduce the mechanical wear on the device END
+START to bear the mechanical wear of connection and disconnection END
+START 10,000 connect-disconnect cycles END
+START the cellular phone carrier group open mobile terminal platform END
+START 22 october 2009 END
+START micro-usb END
+START the european standardisation bodies cen, cenelec and etsi END
+START 14 END
+START apple END
+START one, and only one, usb connector END
+START the micro-ab receptacle END
+START power supply shorting hazards on the vbus line END
+START b-device END
+START to acting as a b-device END
+START powering the usb interface when required END
+START a serial bus END
+START four shielded wires END
+START two for power (vbus and gnd), and two for differential data signals END
+START 5 meters for devices running at hi speed END
+START 26 ns END
+START cable delay be less than 5.2 ns per meter END
+START 100 ma in usb 1.x and 2.0 END
+START 150 ma END
+START five unit loads END
+START six unit loads END
+START high-speed external disk drives END
+START may have power issues END
+START "use of a 'y' cable (a cable with two a-plugs) END
+START the usb battery charging specification revision 1.1 END
+START in 2007 END
+START the charging port END
+START up to 500 ma at 5 v END
+START two types END
+START the type of usb port END
+START a resistance not exceeding 200 ohms END
+START there are safety limits to the rated current at 5 a coming from usb 2.0 END
+START usb ports type detection via resistive detection mechanisms END
+START in 2010 END
+START in july 2012 END
+START higher currents and supply voltages from compliant hosts END
+START supported END
+START usb 3.1 END
+START type-c cable and connector with four power/ground pairs and a separate configuration channel END
+START type-c features END
+START charge electronic devices even when the computer is switched off END
+START usb ports END
+START sleep-and-charge usb ports END
+START on dell and toshiba laptops END
+START powershare END
+START on acer inc. and packard bell laptops END
+START 17 february 2009 END
+START 22 april 2009 END
+START a 4-star or higher efficiency rating END
+START june 2009 END
+START to make most data-enabled mobile phones marketed in the european union compatible with a common external power supply END
+START january 2011 END
+START more power than is permitted by the specifications for a single port. END
+START an external power supply END
+START a dual-input usb cable END
+START one input of which is used for power and data transfer, the other solely for power END
+START the inrush current END
+START when the device is first connected END
+START ultra low-power suspend mode when the usb host is suspended END
+START cut off the power supply to usb devices when they are suspended END
+START the 5 v power supply without participating in a proper usb network END
+START the 5 v power supply END
+START that devices connect in a low-power mode (100 ma maximum) and communicate their current requirements to the host END
+START by toggling the data lines between the j state and the opposite k state END
+START the nrzi line coding END
+START bit stuffing END
+START eop (end-of-packet) END
+START as much as one bit time before the se0 of the end of packet END
+START "bit stuff violation END
+START a special protocol END
+START chirping END
+START an fs device (d+ pulled high) END
+START sustain rates of 25–30 mb/s, END
+START 70–90 mb/s END
+START 90–110 mb/s END
+START 8-bit bytes END
+START least-significant bit first END
+START a packet identifier (pid) byte END
+START pid byte END
+START in response to data packets END
+START error detection END
+START a seven-bit device number and four-bit function number END
+START a response from a device END
+START datax frame END
+START to perform split transactions END
+START the nearest high-bandwidth capable hub receives a split token followed by one or two usb packets at high bandwidth END
+START 12 bits END
+START data0 and data1 END
+START an address token END
+START a handshake token from the receiver back to the transmitter END
+START a special pid value, pre END
+START four 0 bits END
+START simply ignore the pre packet and its low-bandwidth contents END
+START two buses END
+START simplicity and low cost END
+START high performance, particularly in time-sensitive applications such as audio and video END
+START usb 2.0 hi-bandwidth in real-use END
+START more elaborate power negotiation scheme than powered usb END
+START cheaper END
+START the distance is short, and power demand is low. END
+START closely associated with a host computer END
+START the peripheral and host grounds END
+START isolation between the networked device (computer, phone, etc.) and the network cable up to 1500 v ac or 2250 v dc for 60 seconds END
+START external devices END
+START advancing and external drives gradually need less power END
+START 5 v to power a 2.5-inch hdd/ssd END
+START chip-to-chip variant of usb 2.0 END
+START the conventional analog transceivers found in normal usb END
+START 2007 END
+START ba-shu END
+START at least the 15th century bc END
+START within the sichuan basin END
+START chongqing and the land in eastern sichuan along the yangtze and some tributary streams END
+START chengdu, its surrounding plain and adjacent territories in western sichuan END
+START a cuckoo END
+START sichuan in subsequent periods in chinese history up to the present day. END
+START a local farmer in 1929 END
+START the zhou END
+START the jin dynasty (265–420) END
+START the himalayas END
+START qin mountains END
+START yangtze END
+START present-day gansu and shaanxi END
+START mountainous areas of yunnan END
+START 316 bc END
+START improved agricultural technology. END
+START li bing END
+START yangtze END
+START to either provide irrigation or prevent floods. END
+START tang dynasty END
+START du fu END
+START armies END
+START 755-763 END
+START the tibetan empire END
+START yellow tiger END
+START sichuan END
+START daxi dynasty END
+START huguang province END
+START chongqing END
+START beijing, shanghai, nanjing, and wuhan END
+START shaanxi, gansu, and guizhou END
+START the difficulty of accessing the region overland from the eastern part of china and the foggy climate END
+START the communists END
+START chiang kai-shek END
+START 10 december END
+START it was one area on the road of the long march END
+START sichuan END
+START chongqing as well as the three surrounding prefectures of fuling, wanxian, and qianjiang were split off into the new chongqing municipality. END
+START to spearhead china's effort to economically develop its western provinces END
+START the three gorges dam project. END
+START 99,730,000 END
+START two END
+START sichuan basin END
+START hengduan mountains END
+START daxue mountains END
+START 24,790 ft END
+START yangtze river END
+START min river END
+START jaling jiang, tuo jiang, yalong jiang, and jinsha jiang END
+START chongqing, wuhan, nanjing and shanghai END
+START humid subtropical climate END
+START the sichuan basin END
+START subarctic climate END
+START 2,000 to 3,500 meters END
+START 0 to 15 °c END
+START sichuan END
+START rice and wheat END
+START pork END
+START 93% END
+START transported to more developed eastern regions END
+START coal, energy, iron and steel END
+START chengdu and mianyang END
+START 21.9% END
+START deyang END
+START panzhihua END
+START three gorges dam END
+START yangtze river END
+START to control flooding in the sichuan basin, neighboring yunnan province, and downstream END
+START massive resettlement of residents in the reservoir areas, loss of archeological sites, and ecological damages. END
+START 53.3 percent END
+START us$13.1 billion END
+START us$8.93 billion END
+START chengdu, suining, nanchong, dazhou, ya'an, abazhou, and liangshan END
+START 12.5 percent END
+START 450 yuan END
+START 4.9 yuan END
+START 450 yuan per month END
+START february 2000 END
+START cetdz END
+START 8.5 mi END
+START chengdu END
+START 20 END
+START 1988 END
+START 1991 END
+START 5th END
+START south park and the west park END
+START creating a modernized industrial park of science and technology END
+START electronic information, biomedicine and precision machinery END
+START software industry END
+START 17 sq mi END
+START 8 km END
+START 177.4 billion yuan END
+START 136 END
+START three years END
+START two and a half hours END
+START 80 km/h (50 mph) END
+START 1.045 billion yuan END
+START four lane END
+START han chinese END
+START tibetan END
+START far western areas. END
+START 30,000 END
+START guangdong, shandong and henan END
+START 21 million END
+START sichuan END
+START six END
+START 1991 END
+START tibetans and qiang END
+START khams and amdo tibetan END
+START nuosu END
+START 1974 END
+START southwest university for nationalities END
+START the unicode standard END
+START universal coded character set (ucs) END
+START unicode 8.0 END
+START unicode consortium END
+START 120,000 characters END
+START utf-8, utf-16 and the now-obsolete ucs-2 END
+START utf-8 uses one byte for any ascii character END
+START 16-bit code unit END
+START ucs-2 END
+START (4 × 8 bits END
+START transcending the limitations of traditional character encodings END
+START multilingual computer processing END
+START (computer processing of arbitrary scripts mixed with each other END
+START usually using latin characters END
+START wide usage in various countries of the world but remain largely incompatible with each other END
+START iso-8859-1 END
+START to make it trivial to convert existing western text END
+START a full latin alphabet that is separate from the main latin alphabet END
+START chinese, japanese, and korean END
+START 1996 END
+START so that unicode was no longer restricted to 16 bits END
+START rarely used kanji or chinese characters END
+START many of which are part of personal and place names END
+START allowed for the encoding of many historic scripts END
+START letter, mark, number, punctuation, symbol, separator and other END
+START not useful for every use, since legacy encodings have used multiple characteristics per single code point END
+START other, control END
+START a single general category property END
+START subdivisions END
+START high-surrogate code points END
+START low-surrogate code points END
+START leading surrogate END
+START trailing surrogate END
+START the range of code points that are available for use as characters END
+START a dot above END
+START associating an abstract character with a particular code point END
+START a sequence of two or more characters END
+START name stability policy END
+START a formal alias may be defined END
+START since unicode version 2.0 END
+START international organization for standardization END
+START the universal character set END
+START the unicode standard END
+START slightly different terminology END
+START 1991 END
+START june 2015 END
+START unicode 5.0 END
+START 2012 END
+START any code charts or standard annexes END
+START unicode roadmap committee END
+START maintain the list of scripts that are candidates or potential candidates for encoding END
+START no proposal has yet been made END
+START unicode consortium web site END
+START two END
+START unicode transformation format (utf) encodings, and the universal coded character set (ucs) encodings END
+START the number of bits per code value (for utf encodings) or the number of bytes per code value END
+START utf-8 and utf-16 END
+START universal coded character set END
+START unicode byte order mark END
+START ucs-2 and utf-16 END
+START u+feff END
+START byte-swapping u+feff END
+START rfc 3629 END
+START utf-8 END
+START the large restriction on possible patterns END
+START internal representation of text in programs END
+START seed7 END
+START 2.2 END
+START most letter/diacritic combinations END
+START u+0065 END
+START u+0301 END
+START u+00e9 END
+START radicals END
+START ideographs do not decompose as simply or as regularly END
+START greatly reduced the number of required code points END
+START arabic calligraphic engine END
+START decotype END
+START 1980s END
+START adobe and microsoft END
+START sil international END
+START in fonts END
+START real stacking is impossible END
+START assigning the marks a width of zero and placing the glyph itself to the left or right of the left sidebearing END
+START wgl-4 with 652 characters END
+START multilingual european subsets END
+START mes-2 END
+START since windows nt 4.0 END
+START latin scripts only END
+START open rectangle, or the unicode "replacement character" END
+START u+fffd END
+START last resort END
+START a box showing the hexadecimal scalar value of the character END
+START sil international END
+START unicode END
+START microsoft layer END
+START ucs-2 END
+START unicode END
+START the utf-8 character set and the base64 or the quoted-printable transfer encoding END
+START mime standards END
+START two different mechanisms END
+START fewer than a dozen fonts END
+START "pan-unicode" fonts END
+START basic ascii and particular scripts or sets of characters or symbols END
+START u+2028 END
+START u+2029 END
+START cocoa text system END
+START every possible newline character is converted internally to a common newline END
+START complicates the processing of ancient japanese and uncommon japanese names END
+START alternative encodings that preserve the stylistic differences between chinese, japanese, and korean characters END
+START the languages themselves, not just the basic character representation, are being merged END
+START advanced typographic END
+START plain text END
+START unicode variation sequences END
+START preexisting character encodings END
+START three different encoding forms END
+START version 3.0 END
+START injective mappings END
+START shift-jis or euc-jp END
+START u+ff5e END
+START 128 END
+START conjuncts END
+START 128 code points END
+START thai industrial standard 620 END
+START its ordering of thai characters END
+START thai characters. the vowels เ, แ, โ, ใ, ไ that are written to the left of the preceding consonant are in visual order instead of phonetic order END
+START either as a single precomposed character or as a decomposed sequence of a base letter plus one or more non-spacing marks END
+START graphite, opentype, or aat technologies END
+START often be placed incorrectly END
+START diacritical marks END
+START identically END
+START detroit END
+START wayne county END
+START 5.3 million END
+START detroit river END
+START midwest END
+START one-half END
+START 5,700,000 END
+START 1,337 square miles END
+START 2010 END
+START 25 END
+START auto END
+START entertainment END
+START abandonment of properties END
+START rick snyder END
+START july 18, 2013 END
+START $18.5 billion END
+START november 7, 2014 END
+START chapter 9 END
+START 1,400 END
+START 2,144 END
+START 800 END
+START louis phélypeaux, comte de pontchartrain END
+START antoine de la mothe cadillac END
+START fur END
+START muskrat french END
+START anglo-american settlers END
+START war of 1812 END
+START battle of frenchtown END
+START 1813 END
+START monroe county END
+START 1863 END
+START george armstrong custer END
+START iron brigade END
+START 82% END
+START paris of the west END
+START great lakes END
+START david whitney house END
+START woodward avenue END
+START thomas edison END
+START jimmy hoffa END
+START walter reuther END
+START 8 END
+START 40 END
+START the black legion END
+START 49 END
+START 1920s END
+START the great migration END
+START 34 END
+START 400,000 END
+START packard plant protest END
+START packard END
+START 1956 END
+START 60 END
+START highways END
+START 1963 END
+START twelfth street riot END
+START george w. romney END
+START president johnson END
+START 43 END
+START william milliken END
+START milliken v. bradley END
+START 1974 END
+START milliken END
+START wayne state university END
+START university of minnesota END
+START coleman young END
+START detroit people mover END
+START $600 million END
+START suburban neighbors END
+START gasoline crises END
+START eminent domain END
+START eroding the tax base END
+START the renaissance center END
+START high crime rate END
+START suburbs END
+START 1950 END
+START 1.8 million END
+START 40 END
+START 700,000 END
+START 2004 END
+START riverfront END
+START 2001 END
+START port authority passenger terminal END
+START hart plaza to the renaissance center END
+START $9 billion END
+START strathmore END
+START $5.2 billion END
+START 13 END
+START 1,000-3,000 END
+START $246 million END
+START urban decay END
+START detroit moraine END
+START 675 to 680 feet END
+START detroit river END
+START clay END
+START detroit salt company END
+START 1,500 END
+START four END
+START michigan central railway tunnel END
+START detroit–windsor truck ferry END
+START great lakes END
+START 4.4 END
+START may to september END
+START 33.5 inches END
+START 42.5 END
+START spring and summer END
+START 27.5 END
+START post modern neo-gothic spires END
+START art deco END
+START fox theatre END
+START detroit opera house END
+START wayne state university END
+START downtown and new center END
+START palmer park END
+START historic END
+START belle isle park END
+START tri-centennial state park END
+START two-mile END
+START five miles END
+START ludwig mies van der rohe residential district END
+START 78-acre END
+START southwest detroit END
+START mies van der rohe, ludwig hilberseimer and alfred caldwell END
+START a quarter END
+START 10% END
+START 9% END
+START 86% END
+START northeast and on the city's fringes END
+START $300-million END
+START mayor bing END
+START far eastside plan END
+START 1,200 END
+START earmarking about 15% of the wagering tax END
+START $26,098 END
+START $29,526 END
+START one END
+START luke bergmann END
+START 11th END
+START detroit END
+START $62,000 END
+START $38,000 END
+START 90.4 END
+START suburbs END
+START 120,000 END
+START great migration END
+START automobile END
+START jim crow END
+START redlining END
+START white migration to the suburbs END
+START health END
+START 13 percent END
+START 82 percent END
+START four END
+START suburbs END
+START 13.3% END
+START 1940s END
+START 48,679 END
+START 36,452 END
+START mexican repatriation of the 1930s END
+START a portion of detroit next to eastern hamtramck END
+START transient END
+START shinola END
+START detroit medical center END
+START central business district END
+START corktown END
+START new center END
+START compuware END
+START blue cross blue shield END
+START quicken loans END
+START elijah j. mccoy satellite office END
+START downtown END
+START midtown END
+START historically significant END
+START midtown END
+START david whitney building END
+START david broderick tower END
+START fort shelby hotel END
+START book cadillac hotel END
+START jpmorgan chase END
+START $25 million END
+START $12.5 million END
+START $32 million END
+START windsor, ontario END
+START two-thirds END
+START walk score END
+START arsenal of democracy END
+START motown END
+START 313 END
+START red wings END
+START detroit rock city END
+START john lee hooker END
+START donald byrd END
+START pepper adams END
+START graystone international jazz museum END
+START blues END
+START nolan strong END
+START fortune END
+START devora brown END
+START motown END
+START berry gordy, jr. END
+START paul justman END
+START allan slutsky END
+START hardcore punk rock underground END
+START 1999 END
+START 1960s and 70s END
+START eminem END
+START sponge END
+START garage rock END
+START producer END
+START detroit END
+START detroit techno END
+START movement END
+START memorial day weekend END
+START hart plaza END
+START orchestra hall END
+START nederlander END
+START 2,089 END
+START masonic temple theatre END
+START 1922 END
+START detroit institute of arts END
+START charles h. wright museum of african american history END
+START ford piquette avenue plant END
+START museum of contemporary art detroit END
+START contemporary art institute of detroit END
+START the henry ford END
+START royal oak END
+START cranbrook art museum END
+START anna scripps whitcomb conservatory END
+START g.r. n'namdi gallery END
+START eastern market END
+START 50,000 END
+START detroit festival of the arts END
+START three END
+START saturdays END
+START campus martius park END
+START america's thanksgiving parade END
+START river days END
+START windsor–detroit international freedom festival END
+START hoedown END
+START marshall fredericks END
+START october 16, 1986 END
+START sports illustrated END
+START robert graham END
+START 24-foot END
+START 12 END
+START the palace of auburn hills END
+START comerica park END
+START ford field END
+START joe louis arena END
+START little caesars pizza bowl END
+START ford field END
+START mid-american conference END
+START city of champions END
+START the midnight express END
+START joe louis END
+START red wings END
+START tigers END
+START nine END
+START 1974 END
+START the council END
+START home rule charter END
+START coleman a. young municipal center END
+START frank murphy hall of justice END
+START thirty-sixth END
+START 43.4 per 100,000 END
+START 58 per 100,000 END
+START st. louis END
+START 299 END
+START 295 END
+START two-thirds END
+START 62.18 per 1,000 END
+START 5 per 1,000 END
+START 16.73 per 1,000 END
+START 1802 END
+START 74 END
+START louis miriani END
+START coleman young END
+START supreme court justice END
+START rick snyder END
+START stephen rhodes END
+START chapter 9 END
+START july 18, 2013 END
+START $18.5 billion END
+START wayne state university END
+START university of detroit mercy END
+START downtown END
+START society of jesus END
+START sacred heart major seminary END
+START 1919 END
+START michigan state END
+START 1817 END
+START 1837 END
+START three END
+START four END
+START west END
+START society of jesus END
+START detroit newspaper partnership END
+START 1980 END
+START 2009 END
+START michigan chronicle END
+START 11th largest END
+START weekly END
+START ontario END
+START over a dozen END
+START john d. dingell END
+START 3,000 END
+START 2,000 END
+START dmc END
+START vanguard health systems END
+START $1.5 b END
+START st. joseph's END
+START $417 m END
+START $500 m END
+START lisa raitt END
+START $250 million END
+START $2.1 billion END
+START 2020 END
+START 95 per cent END
+START i-75 END
+START lake erie END
+START four END
+START edsel ford freeway END
+START henry ford END
+START limited-access END
+START world war ii END
+START i-375 END
+START reuther freeway END
+START i-696 END
+START m END
+START i-275 END
+START 7,375 END
+START river thames END
+START londinium END
+START the mayor of london and the london assembly END
+START 1.12-square-mile (2.9 km2) END
+START fifth-or sixth-largest END
+START three END
+START international arrivals END
+START 43 END
+START 2012 END
+START paris END
+START around 1831 to 1925 END
+START more than 300 END
+START 12.5 END
+START 13,879,757 END
+START 40 END
+START the royal observatory, greenwich END
+START buckingham palace END
+START the london underground END
+START four END
+START celtic END
+START 'river too wide to ford END
+START llundain END
+START richard coates END
+START 1998 END
+START the river effra END
+START bronze age END
+START not known END
+START two END
+START 4500 bc END
+START queen boudica END
+START around 60,000 END
+START 43 ad END
+START colchester END
+START the iceni tribe END
+START st martin-in-the-fields END
+START repeated viking invasions END
+START three END
+START a major port END
+START two END
+START alfred the great END
+START london to chester END
+START guthrum END
+START about 950 END
+START political and geographical control imposed by the viking incursions END
+START king edward the confessor END
+START the 11th century END
+START romanesque END
+START frank stenton END
+START winchester END
+START southeastern corner END
+START westminster hall END
+START christmas day 1066 END
+START william ii END
+START the battle of hastings END
+START the corporation of london END
+START westminster END
+START the tower END
+START accompanied the royal english court as it moved around the country END
+START the tudor period END
+START the re-opening of the netherlands to english shipping END
+START a gradual shift to protestantism END
+START italian or ragusan END
+START january 1565 END
+START the lines of communication END
+START under two months END
+START the new model army END
+START 20,000 END
+START buckingham house END
+START the bow street runners END
+START before reaching their third birthday END
+START more than 200 END
+START fleet street END
+START london's overcrowded conditions END
+START the germans END
+START 1948 END
+START 14,000 END
+START the original wembley stadium END
+START racial inequality END
+START 1965 END
+START the mid-1960s END
+START the provisional ira END
+START the growth of the urban area END
+START around 6.8 million END
+START the second world war END
+START felixstowe and tilbury END
+START the 1980s END
+START to protect london against tidal surges from the north sea END
+START the start of the 21st century END
+START the greater london council END
+START awarded the 2012 summer olympics END
+START the greater london authority END
+START 1939 END
+START two END
+START the greater london authority (gla) END
+START boris johnson END
+START 32 END
+START the london assembly END
+START teddington lock to the sea END
+START the london fire brigade END
+START london fire and emergency planning authority END
+START the london ambulance service (las) nhs trust END
+START the london air ambulance charity END
+START 10 downing street END
+START john bright END
+START 73 END
+START the labour party END
+START one END
+START the ministry of defence police END
+START greater london, with the exception of the city of london END
+START the british transport police END
+START the mayor's office for policing and crime (mopac). END
+START the city of london police END
+START the metropolitan green belt END
+START inner london and outer london END
+START eleanor cross at charing cross near the junction of trafalgar square and whitehall END
+START north and south END
+START london commuter belt END
+START london's status as the capital of england END
+START the city of london and the city of westminster END
+START for the purposes of lieutenancies END
+START five times END
+START 4,542 inhabitants per square kilometre (11,760/sq mi) END
+START the south-west to the east END
+START 13,709,000 END
+START the thames END
+START 15 miles west END
+START 24 °c (75.2 °f) END
+START urban heat island effect END
+START 31 END
+START snowfall END
+START hampton court palace END
+START portland stone END
+START 1666 END
+START white stucco or whitewashed END
+START their varying ages END
+START in kensington END
+START nelson's column END
+START the great fire of london END
+START yellow london stock brick or a warm orange-red variety END
+START at the north and south ends of park lane END
+START the city of london and canary wharf END
+START st paul's cathedral and other historic buildings END
+START shard london bridge END
+START 95-storey END
+START in the two financial districts END
+START 2000 END
+START two END
+START more than 40 percent END
+START 120 END
+START 47 END
+START pink flamingos END
+START fox END
+START 10,000 END
+START the london-based mammal society END
+START 16 foxes for every square mile (2.6 square kilometres) END
+START ten END
+START otter END
+START a hundred years END
+START eighteen END
+START melanistic, black fallow deer END
+START each november and february END
+START to take advantage of the london's green spaces END
+START red and fallow deer END
+START new york city END
+START 36.7% END
+START parents serving in the british armed forces in germany END
+START 1939 immediately before the outbreak of the second world war END
+START 8,173,941 END
+START tokyo and moscow END
+START 19th END
+START 72 END
+START about six to four END
+START 1,624,768 END
+START 19 per cent END
+START 46.4 END
+START more than 50 END
+START 36.7 per cent END
+START the office for national statistics END
+START 2011 END
+START neasden temple END
+START southall END
+START tower hamlets END
+START tower hamlets and newham END
+START 42 END
+START stanmore and canons park synagogue END
+START bevis marks synagogue END
+START over 300 years END
+START 1998 END
+START 2006 END
+START cockney END
+START 'ethnic' accents END
+START rp (received pronunciation) END
+START the wider south east england region END
+START lloyd's of london END
+START finance END
+START the bank of england END
+START 325,000 END
+START 480 END
+START the port of london END
+START £64.2 billion END
+START 45 million tonnes END
+START media distribution END
+START the bbc END
+START 65 million END
+START $20.23 billion END
+START 350,000 END
+START tripadvisor END
+START 54% END
+START the mayor of london END
+START transport for london (tfl) END
+START the london overground network END
+START eight END
+START six END
+START london heathrow END
+START british airways END
+START the coalition government END
+START london city airport END
+START business travellers END
+START stansted airport END
+START cheap short-haul flights END
+START newham, east london END
+START clapham junction END
+START 366 END
+START it has fewer underground lines. END
+START waterloo END
+START over 184 million END
+START paris and brussels END
+START eurostar END
+START 1994 END
+START high-speed trains END
+START june 2009 END
+START £850 million END
+START more than 700 END
+START audio-visual announcements END
+START red double-decker END
+START black END
+START santander cycles END
+START june 2012 END
+START the airline emirates END
+START £60 END
+START 3,500 END
+START the inner ring road END
+START the ringways plan END
+START the a1 and m1 END
+START 121.5 mi (195.5 km) END
+START the suburbs END
+START £10 END
+START in 2003 END
+START 35-per-cent END
+START season pass END
+START underground and bus END
+START pricewaterhousecoopers END
+START 43 END
+START 110,000 END
+START london school of economics END
+START 5th END
+START the london business school END
+START imperial college london END
+START the royal veterinary college END
+START university of london END
+START the london business school END
+START 120,000 END
+START 34,000 END
+START three END
+START richmond END
+START university of the arts london END
+START five END
+START king's college london school of medicine END
+START queen mary END
+START three END
+START academic health science centres END
+START cass business school END
+START specialist arts education institutions END
+START the london boroughs END
+START st paul's school, END
+START the west end END
+START giant electronic advertisements END
+START soho END
+START the city of westminster END
+START andrew lloyd webber END
+START upper street END
+START oxford street END
+START 1 mile (1.6 km) END
+START selfridges flagship store END
+START harrods END
+START november END
+START the annual appointment of a new lord mayor END
+START regiments of the commonwealth and british armies END
+START the london eye END
+START the queen's official birthday END
+START samuel pepys END
+START hampstead END
+START bloomsbury END
+START charles dickens END
+START virginia woolf END
+START william shakespeare END
+START ben jonson END
+START daniel defoe END
+START the tabard inn END
+START sherlock holmes END
+START working title films END
+START the royal opera house END
+START eastenders END
+START charlie chaplin END
+START 1964 END
+START 1753 END
+START the national gallery END
+START 7 million END
+START research END
+START the british national collection of western paintings END
+START depictions of figures from british history END
+START the tate gallery END
+START albertopolis END
+START the victoria and albert museum (for the applied arts) END
+START as an annexe of the national gallery END
+START the uk's largest pipe organ END
+START music END
+START the barbican arts centre END
+START the royal opera house and the london coliseum END
+START conservatoires END
+START hard rock cafe END
+START abbey road studios END
+START the streets and rhythms vibrating through london. END
+START wembley arena END
+START the o2 arena END
+START punk END
+START the foreign genres of hip hop and reggae END
+START bbc radio 1xtra END
+START bush END
+START three END
+START regent's park END
+START hyde park END
+START primrose hill END
+START madame tussauds wax museum END
+START kew gardens END
+START the east end END
+START the city of london corporation END
+START kenwood house END
+START epping forest END
+START the river wandle END
+START "loop" END
+START the diana, princess of wales memorial walk END
+START the thames path END
+START access to canals and rivers END
+START football END
+START five END
+START may 2012 END
+START fourteen END
+START none END
+START twickenham stadium END
+START 82,000 END
+START harlequins and saracens END
+START in the rfu championship club END
+START brazil END
+START €24,252 END
+START three END
+START london END
+START €3,306 END
+START the way of life END
+START terror management theory END
+START larger brain END
+START 50,000 years ago END
+START kinship, gender and marriage END
+START technology, architecture and art END
+START body modification, clothing or jewelry END
+START 20th century END
+START as a tool of the elites to manipulate the lower classes and create a false consciousness END
+START a culture END
+START customs, traditions and values of a society or community END
+START the ideology and analytical stance of cultural relativism END
+START term used by the ancient roman orator cicero END
+START samuel pufendorf END
+START no longer assuming that philosophy was man's natural perfection END
+START social dynamics and promoting new cultural models END
+START u.s. feminist movement END
+START ice age END
+START war or competition over resources END
+START fast food END
+START the sharing of ideas END
+START diffusion of innovations END
+START immanuel kant END
+START dare to be wise END
+START johann gottfried herder END
+START wilhelm von humboldt END
+START romantic era END
+START weltanschauung END
+START elementary ideas END
+START adolf bastian END
+START franz boas END
+START élite ideal END
+START art, classical music, and haute cuisine END
+START urban life END
+START inequalities within european societies. END
+START anarchy END
+START thomas hobbes and jean-jacques rousseau END
+START native americans END
+START "civilized" and "uncivilized." END
+START folk music END
+START classical music END
+START noble savages END
+START tylor's END
+START biological anthropology, linguistic anthropology, cultural anthropology, and archaeology. END
+START 20th century END
+START georg simmel END
+START ways of thinking, the ways of acting, and the material objects END
+START non physical ideas END
+START archeological and anthropological studies END
+START weimar germany END
+START alfred weber END
+START scientific methods END
+START marx, durkheim, and weber END
+START popular culture, political control, and social class END
+START qualitative END
+START stuart hall (1932–2014) and raymond williams (1921–1988) END
+START consumption goods and leisure activities END
+START art, music, film, food, sports, and clothing END
+START saw patterns of consumption and leisure END
+START popular culture END
+START richard hoggart END
+START birmingham centre for contemporary cultural studies or cccs END
+START stuart hall END
+START paul willis, dick hebdige, tony jefferson, and angela mcrobbie END
+START international intellectual movement. END
+START matters of ideology, nationality, ethnicity, social class, and/or gender END
+START a process called globalization END
+START films, photographs, fashion or hairstyles END
+START high culture (the culture of ruling social groups) and popular culture END
+START based on the disciplines of comparative literature and cultural studies END
+START late 1970s END
+START 1950s and 1960s END
+START richard hoggart, e. p. thompson, and raymond williams, and later that of stuart hall END
+START the university of birmingham END
+START lindlof and taylor END
+START the economic base END
+START 29 ways END
+START enlightenment END
+START secular society END
+START the sahara END
+START the sahara END
+START 9,400,000 square kilometres (3,600,000 sq mi) END
+START sahara END
+START hyperarid END
+START the northern and southern reaches of the desert END
+START grassland and desert shrub END
+START the northern and southern reaches of the desert END
+START years END
+START mediterranean sea END
+START sahel END
+START dry tropical END
+START 150 mm END
+START sahara END
+START horse latitudes END
+START sinking air END
+START dissolution of clouds END
+START rainfall END
+START eastern part of the great desert END
+START eastern END
+START hot and dry END
+START north-african desert END
+START air ascent END
+START atlas mountains END
+START algeria END
+START low-pressure systems END
+START lack of a precipitation-generating mechanism END
+START barriers that normally prevent the production of precipitation END
+START high temperatures year-round END
+START the great desert END
+START 25 °c END
+START 82% of the time END
+START around 2,800 kwh/(m2 year) END
+START 80 °c (176 °f) END
+START low pressure systems END
+START less than 1 mm END
+START 9,000,000 km2 of desert land END
+START intertropical convergence zone END
+START east and west END
+START july and august END
+START 100 to 200 mm END
+START 1,101,700 km2 (425,400 mi2) END
+START five hundred species END
+START growing lower END
+START thick stems END
+START long roots that travel horizontally END
+START 250 END
+START april to october END
+START 2,000 END
+START human activities END
+START irrigated water pumped END
+START natural resources END
+START ice age END
+START over 30,000 petroglyphs END
+START the nile valley END
+START shifts in the earth's axis END
+START neolithic era END
+START cattle and herdsmen END
+START megaliths END
+START cattle END
+START 6000 bce END
+START metal objects END
+START due west END
+START 3400 bce END
+START reduced precipitation and higher temperatures END
+START the nile valley END
+START red sea END
+START the atlantic coast END
+START nomadic berber END
+START 500 bce END
+START digging tunnels END
+START eight major towns END
+START depleted available water END
+START byzantine empire END
+START mid-7th to early 8th centuries END
+START 6,000 to 7,000 slaves END
+START egypt END
+START freedom of movement for citizens and goods END
+START arabic END
+START 19th century END
+START france END
+START 20th century END
+START arabic END
+START french END
+START arabic END
+START samuel rutherford END
+START a. v. dicey END
+START law should govern END
+START against the divine right of kings END
+START law END
+START autocracy, dictatorship, or oligarchy END
+START every citizen END
+START nomocracy END
+START decay END
+START neglect or ignorance of the law END
+START rule by the best men END
+START king END
+START benevolent monarchy END
+START rule of law END
+START slave END
+START deuteronomy END
+START bishop john ponet END
+START divine right of kings END
+START bible END
+START horses END
+START golden met-wand END
+START god and the law END
+START 1607 END
+START greatly offended END
+START chief justice sir END
+START formalist END
+START substantive END
+START politicians, judges and academics END
+START specific procedural attributes END
+START functional END
+START generality, equality, and certainty END
+START individual rights END
+START democracy END
+START content END
+START formal and substantive END
+START formal END
+START individual rights END
+START well-known END
+START no requirements END
+START substantive END
+START rule of law END
+START little END
+START a great deal END
+START punishment END
+START flexibility END
+START more than 200 countries END
+START nomocracy END
+START nomos END
+START kratos END
+START rule of law END
+START the constitution END
+START rule of law END
+START the constitution END
+START the rule of any human leader END
+START executive branch END
+START legislative branch END
+START judicial branch END
+START law professor frederick mark gedicks END
+START u.s. constitution END
+START that which is legally binding END
+START the framers of the u.s. constitution END
+START 1941 END
+START administrators END
+START individuals END
+START a chief justice of the united states END
+START 1787 END
+START james wilson END
+START chief justice END
+START declare an unconstitutional law void END
+START confucianism END
+START legalism END
+START weak or nonexistent END
+START south korea, singapore, japan, taiwan and hong kong END
+START china and vietnam END
+START the transition to a market economy END
+START legal scholars and politicians END
+START foreign investors END
+START democracy and human rights END
+START thailand END
+START royalist END
+START executive branch END
+START 1932 END
+START ancient prejudices and political bias END
+START india END
+START 1950 END
+START india END
+START judicial review END
+START rule of judges END
+START 1959 END
+START 185 END
+START rule of law END
+START social, economic and cultural END
+START 1992 END
+START the security council END
+START the peacebuilding commission END
+START human rights education END
+START 2006 END
+START the international development law organization END
+START emerging economies and middle-income END
+START more than 170 END
+START economic development END
+START constitutional economics END
+START executive branch END
+START the executive END
+START corruption by private actors END
+START english END
+START developing and transitional END
+START not yet fully clarified END
+START sweden, denmark, france, germany, or japan END
+START common language END
+START economist END
+START confidence in a successful return on investment END
+START frustrate his efforts END
+START pursue his personal ends and desires END
+START mount everest END
+START asia END
+START 16,000 END
+START 29,029 END
+START tibet END
+START 18th century END
+START 7th century END
+START sichuan and qinghai END
+START battle of chamdo END
+START 1959 END
+START 1912 END
+START western and central tibet END
+START battle of chamdo END
+START subsistence agriculture END
+START tourism END
+START tibetan buddhism END
+START yak meat END
+START chinese and indian END
+START bod END
+START bautai END
+START central region around lhasa END
+START zangqu END
+START zang END
+START qing END
+START qū END
+START tubo END
+START 7th century END
+START william h. baxter END
+START elliot sperling END
+START tubote END
+START wusiguo END
+START approximately 6 million END
+START approximately 150,000 END
+START political reasons END
+START classical tibetan END
+START tibetan empire END
+START ancient indian brāhmī script END
+START amdo region END
+START western tibet END
+START zhang zhung END
+START drigum tsenpo END
+START songtsän gampo END
+START songtsän gampo END
+START princess wencheng END
+START princess of nepal, bhrikuti END
+START parts of the yarlung river valley END
+START 821/822 ce END
+START jokhang temple in lhasa END
+START mid-9th century END
+START era of fragmentation END
+START political control over tibet END
+START mongol yuan END
+START great administrator END
+START mongol emperor END
+START sakya lama END
+START dpon-chen END
+START tibet END
+START mongols END
+START mongolian prince khuden END
+START imperial preceptor of kublai khan END
+START between 1346 and 1354 END
+START disciples of je tsongkhapa END
+START minister family rinpungpa END
+START karma kagyu END
+START 5th dalai lama END
+START güshi khan END
+START lhasa state END
+START ganden phodrang END
+START 1720 END
+START 1724 END
+START 1728 END
+START qing END
+START kashag END
+START 1792 END
+START push the invading nepalese out END
+START twenty-nine regulations for better government in tibet END
+START 18th century END
+START 1774 END
+START jesuits and capuchins END
+START 19th century END
+START 1904 END
+START 13th dalai lama END
+START 600 END
+START 12 END
+START francis younghusband END
+START 1911–12 END
+START dalai lama END
+START 1913 END
+START 1914 END
+START illegal END
+START dharamsala END
+START between 200,000 and 1,000,000 END
+START 6,000 END
+START 1962 END
+START north of the mcmahon line END
+START 1980 END
+START 1989 END
+START started an anti-separatist campaign END
+START 2008 END
+START human rights END
+START nepal END
+START 29,029 END
+START tibetan plateau END
+START mount kailash END
+START lord shiva END
+START khang rinpoche END
+START qinghai lake END
+START 18 inches END
+START indian monsoon END
+START intense cold END
+START lowest END
+START increased interest in tibetan buddhism END
+START all taxation END
+START sale of handicrafts END
+START 2010 END
+START cpc politburo standing committee END
+START 2020 END
+START education END
+START about 45.6 billion END
+START six red bands in the tibetan flag END
+START ethnic tibetans END
+START india END
+START religion END
+START bön END
+START during china's cultural revolution END
+START before the 1950s END
+START kachee END
+START persia END
+START 1959 END
+START gya kachee END
+START 17th and 18th centuries END
+START 1624 END
+START 1626 END
+START 1661 END
+START 1716–1721 END
+START counterbalance the influence of the gelugpa sect END
+START 1877 END
+START beginning in the 20th century END
+START famous earlier missionaries END
+START the dalai lama END
+START thirteen END
+START 10,000 END
+START former summer residence of the dalai lama END
+START tibetan or sanskrit END
+START recitations of sacred texts END
+START yang END
+START classical END
+START buddha END
+START losar END
+START guthuk END
+START between the fourth and the eleventh days of the first tibetan month END
+START tsong khapa END
+START barley END
+START tsampa END
+START momos END
+START butter tea END
+START mustard END

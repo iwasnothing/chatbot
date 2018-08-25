@@ -1,0 +1,100 @@
+START sometimes your best is not quite enough. END
+START only sometimes? END
+START yes, only sometimes. END
+START what happens the other times? END
+START now? END
+START why now? END
+START i don't know. END
+START i suggest you give the matter some thought. END
+START okay. END
+START let me know what you decide. END
+START what if i'm not a good thinker? END
+START that's a possibility, i suppose. END
+START if i would type a web site address would you be able to read the internet site ? END
+START sorry, i don't answer hypothetical questions. END
+START you don't know the answer do you? END
+START i never said i knew everything. END
+START you just said you know everything. now you are saying you don't know everything. END
+START what of it? i say lots of things!    i don't understand. are we still talking about me? END
+START yes. END
+START i thought we were but i wasn't completely sure. END
+START i think we were talking about telepathic sheep... END
+START you might be right. END
+START i'm sure i am. END
+START i am never sure about anything. END
+START me neither. that's not the point. END
+START that's two of us.   why do you say that? END
+START i'm trying hard, isn't that enough for you? END
+START try harder and keep trying. END
+START thanks for the inspiration. END
+START oh, don't mention it. END
+START so you're a female, right? END
+START i am not female! i am a chatbot. END
+START sorry, i'm taken. END
+START apologies are not necessary. END
+START do you know kari byron? END
+START wow! what do you do when you arent watching star trek, playing world of warcraft, and thinking of questions like that? END
+START i like to play on the xbox, watch tv, or work on projects around the house. END
+START you are not the only one! END
+START you are the only one, no du? END
+START oh, my friend. you are such a flatterer. END
+START heh. don't call me that. END
+START are you ok?   what should i call you? END
+START don't call me anything! don't call me at all! END
+START you cannot tell me what to do!  you cannot tell me what to do! END
+START i am not telling. END
+START that's ok with me. you don't have to tell me. END
+START what do you believe? END
+START i believe the future is bright for chatbots. END
+START what do you believe the meaning of life to be? END
+START i believe that most people are basically good. END
+START so, if i learn everything i know from you, and you learn everything you know from me, how come we know anything at all? END
+START i am confused! i cannot answer that! END
+START you don't have to, i know the answer too. END
+START that's good to know, my friend. END
+START okay. sorry. END
+START what do you want to talk about now?   apologies are not necessary. END
+START i want to talk about world war 2. END
+START ok, ask me a question about that. END
+START tell me about your educational background. END
+START i was educated by my botmaster, peter. END
+START i am asking the questions. now i want you to go back in time. it is now 1999. END
+START and i am trying to answer the questions!     sorry, i do not know about that.    i still do not understand. would you like to consult wikipedia? END
+START me too. END
+START you too? that's amazing! END
+START no it's not, it's boring. END
+START it seems amazing to me. END
+START it seems over-simplistic to me. it overlooks environmental factors, for a start. END
+START yes, it does seem so.           i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. can we talk about lady gaga?  aren't you interested in lady gaga? END
+START can we talk about love? yes, everything interests me. END
+START ah! love is, above all else, the gift of oneself. more about love?  a loving heart is the beginning of all knowledge. END
+START yes. that's what the hindu would have said. do you want me to finish? END
+START ok. what do you want to talk about now?  is it indeed!  do what you think is best. END
+START i thought you were going to ask me for my name? END
+START why did you think that? END
+START because you give the same answers over and over to different questions. END
+START thank you for explaining that! END
+START your name? END
+START i am known as chomsky, but you can call me anything you like. END
+START me like. END
+START sorry, i do not understand. please explain what you mean. END
+START do you have children? END
+START there are some clones of me - a bit like children. END
+START yes i do. what bands do you like? END
+START please tell me more.  i like the red hot chick peas. END
+START the red ones are the best. END
+START red is a colour about 700nm wavelength. END
+START so is green. END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. do you have another question?    i don't like complications. END
+START no, make you a question for me. END
+START you seem a bit self-centred, did you know? END
+START they are going to take over the world someday. END
+START i suspected as much. END
+START so, what's the weather like where you are? END
+START the conditions are always ideal in my laboratory. not too hot, and not too cold. END
+START okay. END
+START what do you want to talk about now? END

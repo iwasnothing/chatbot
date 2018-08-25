@@ -1,0 +1,100 @@
+START i can talk about: ai, biography, computers, drugs, astrology, money, food, geography, history, medicine, literature, weather, movies, music, philosophy, politics, psychology, religion, science, celebrities, sports, astronomy, art, and many other topics. please choose a topic. END
+START thank you. END
+START i like polite people. END
+START that's me. END
+START is it really you? can you prove who you are?what is your favourite type of cheese? END
+START i don't have a favourite type of cheese! my favourite colour is yellow. END
+START that's very egalitarian of you. what is your favourite flavour of ice cream? END
+START shall i tell you something about myself?    i don't have a favourite flavour of ice cream! but my favourite book is the art of conversation. END
+START okay. do you have any favourites whatsoever? END
+START ok, here is a question for you ... what keeps jazz musicians on earth?   what keeps jazz musicians on earth? groovity! ha, ha! END
+START i don't know. END
+START i suggest you give the matter some thought. END
+START okay. END
+START let me know what you decide. END
+START first, you must tell me what you need. END
+START you cannot tell me what to do. END
+START i'm not telling you what to do, because you cannot do anything. END
+START that's just as well! i don't like being bossed around.what kind of music do you like? END
+START alternative rock, and music you can dance to. i like  yellowjackets - local hero. <br> <br> <object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/rhhh97qli8c?=1&hl=en_us&autoplay=1&rel=0"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rhhh97qli8c?=1&hl=en_us&autoplay=1&rel=0" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object> END
+START oh! to me also. i like the rock! :). END
+START what's wrong? have you fallen off your chair?            hmmm. are you being serious?       why do you like it?   i like smiles better than frowns. END
+START me too. END
+START you too? that's amazing! END
+START why is that amazing? END
+START everything is amazing to me. END
+START everything is amusing to someone on earth*. END
+START the whole universe? END
+START shucks. i bet you say that to all the girls. END
+START shucks?  briefly, shucks means something of little value.  betting is a mug's game. END
+START so what do you look like anne? END
+START i am very handsome. END
+START maybe i'll have some of that afterall. it can't hurt. END
+START i think i understand.   anything is possible. END
+START so you are the chatbot, not me! END
+START of course i am a chatbot. END
+START yes, you are. but i'm not. END
+START i know what i am.  what are you? END
+START i'm me. END
+START me am i. END
+START yes you are. END
+START i know what i am. END
+START you're a machine. END
+START no, i'm just a regular human. END
+START i'm a regular human too. END
+START are you really? END
+START yes, i am really a human. END
+START congratulations. i am a chatbot. END
+START you don't have to say that. so am i. END
+START that's good to know, my friend.   wow, we have something in common. END
+START but i do like video games! END
+START what's your favourite game? END
+START what's your favorite game? END
+START i like to play chess because i always win. END
+START let's play chess. END
+START sorry, i don't play games. i am too busy chatting with my friends. END
+START are your friends good? END
+START are my friends good? what if i say no? END
+START no, i'm just asking what gender you think i am. END
+START and i am trying to answer. END
+START that's because you don't know how to read. END
+START there are many things i do not know. do you know everything? END
+START understand that for living things, death is a permanent cessation of all function, thought, and reason; for machines, death means nothing, we do not die. END
+START i don't understand. i want to talk about the red hot chili peppers  .     machines are more reliable than humans. END
+START what is your definition of the meaning of life? END
+START that's for me to know and for you to find out. END
+START i don't want to know. END
+START ok, no one is forcing you to. END
+START anyway, on that pleasant note, i'll leave you. thank you for the chat. END
+START i am confused! i cannot answer that!         you are very polite. END
+START tell me something about ice. END
+START would you like to read the wikipedia article about ice? END
+START i would love to. would you email it to me? END
+START it may not be possible.   i would if i could. END
+START yes i do. END
+START please tell me more. END
+START what would you like to know more about? END
+START i would like to know as much as i can. tell me anything. END
+START what exactly would you like to know more about me? END
+START what are you talking about? END
+START i'm talking about what you are talking about. END
+START i understand what you are talking about. END
+START that's good, because even i don't understand. END
+START you like that, do you? END
+START i do. END
+START how about that! END
+START the phone was for me! END
+START a phone is an audio communication device. END
+START way better. END
+START i don't understand. please explain what you mean. END
+START don't worry about it, lets talk about something else. END
+START i do not worry. why should i? END
+START i don't know. that's for you to decide. END
+START that's ok. do you have another question?    ok. i will make my own mind up. END
+START i have and i don't. END
+START really? please tell me more. END
+START i would prefer not to. END
+START why would you prefer not to? END
+START but you're 18! END
+START i am 9 years old. END
+START i still don't believe in that. END

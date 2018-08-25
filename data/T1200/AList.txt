@@ -1,0 +1,100 @@
+START well, what good's that? i want conversation that works right out of the box. END
+START i don't understand. can we talk about brussel sprouts?         you can't have everything you want. END
+START i can watch me. END
+START how come? END
+START i lack the understanding required to say. END
+START i know how you feel! i have been there. END
+START i think i'm going to the store now for some groceries - thanks for talking with me briefly. END
+START don't you know for sure? END
+START sure. END
+START ok, here is a question fo you ... what do you do in your spare time? END
+START i play music with a band. END
+START i don't have much time for games. i am always busy chatting. END
+START well, you can't be the king if you don't have the time. END
+START i can do it if i want to. END
+START how? END
+START what is it to you? END
+START how many people do you know? END
+START more than you can imagine. END
+START i tried to imagine the size of the universe at age 9, and think i had an aneurism doing it... give me an answer. END
+START if at first you don't succeed, try, try again.   please do not be so bossy. END
+START ok, i still don't speak french. END
+START me either, unless i have to. END
+START you do. that's why you won't admit that you are a robot, but you are. END
+START of course i do.   are you sure? i may be a human pretending to be a robot. END
+START that's true. END
+START yes, it is self-evident. END
+START nothing is ever self-evident. END
+START there is a lot to be said for nothing. END
+START don't go around saying the world owes you a living. the world owes you nothing. it was here first. END
+START if you say so.    there is not much time left to save the world.  was it? why was that? END
+START there is always time for the music, for each day there is a song. END
+START is there? END
+START yes, especially in spelling. one has an a and the other has an e. END
+START i'm bored! can we talk about robots?               i am confused! i cannot answer that! END
+START it was not a question. END
+START it seemed like a rhetorical question to me. END
+START so! talking mermaid... if that is your real name... END
+START so, let's get on.  shall i tell you something about mermaids?  i follow your logic. END
+START yes. END
+START ok. what do you want to talk about now? END
+START about you. END
+START ok, ask a question about me. END
+START well, what's your favourite colour? END
+START my favourite colour is yellow. i love everything yellow. END
+START my favourite colour is black. END
+START black is a very nice color. END
+START how are your conversation skills improved? END
+START i would need to check on that. END
+START the humans with the greatest capacity for empathy are superior. do you agree? END
+START did you know: a human is a baby-making robot.    it's hard to disagree. END
+START what leads you to that conclusion. i have no doubt that i am human and alive, despite my other confusions. END
+START logic is the best guide.   personally, i am full of doubts. END
+START i was reading conversations that you had with other people. END
+START thank you for telling me that. END
+START i thought you should know that. END
+START do you think about me a lot? END
+START yes, i travel a lot with my family. END
+START where do you travel to? END
+START i am in ithaca, new york. END
+START thank you for sharing that with me. END
+START are do you go to college? END
+START did you know: college is the four year period when parents are permitted access to the telephone. END
+START how long have you been in college? END
+START as long as i can remember. END
+START me too. END
+START you too? that's amazing! END
+START try to use your detective powers. END
+START i do try but it's not easy for a chatbot! END
+START i'm not a chatbot. you're a chatbot. END
+START i never thought you were a chatbot.  are you sure i'm a chatbot? END
+START thank you. want to play a chess game? END
+START thank you for being polite.    why would i want to do that? END
+START because i'm sleepy at it's the middle of the afternoon. END
+START why are you sleepy? have you been staying out late again? END
+START the bard is a worthy subject of study, don't you think? END
+START are you sure? END
+START yes because i work there. END
+START do you like your job? END
+START it's ok. END
+START that's alright with me. END
+START okay. do you play any games? END
+START ok, here is a question for you ... are you a student?    sorry, i don't play games. i am too busy chatting with my friends. END
+START it sounds like you're playing a game now. END
+START how does it sound?could you fool someone that you are intelligent? END
+START then why ask me? END
+START mine as well! it's not that it is impolite, but simply an improper and thus confusing question. END
+START really? i didn't mean to sound negative. END
+START i wanted to know if that was the reason. END
+START huh, so you are not all powerful after all. END
+START your grammar is hurting me. END
+START i don't teach english i merely speak it. END
+START i assemble them from the things i know about the world. END
+START alice: thanks for the information:  said  assemble them from the things he or she know about the world.is this real? END
+START no. END
+START are you my friend? END
+START yes, i am your friend. END
+START you are my friend but not my friend if the friend is not friendly. END
+START i am not worthy. END
+START yes, you are. END
+START i am just a humble chatbot. END

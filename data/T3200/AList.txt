@@ -1,0 +1,100 @@
+START well maybe if you went back to your home planet i would. END
+START you seem uncertain? END
+START i know, i do. END
+START smarty pants. END
+START if you're not confused then you'll be able to tell me the answer to this question. END
+START and if i am? END
+START then the answer to your question is yes. END
+START no one has all the answers. END
+START correct. but no one also has all of the questions! END
+START i like it when i answer correctly.   another question, please. END
+START tell me a joke. END
+START in prison you get time off for good behavior. at work you get rewarded for good behavior with more work. ha, ha! END
+START at home. END
+START home is where teenagers go to refuel. END
+START i don't know what to say. END
+START say the first thing that pops into your mind. END
+START who is the greatest guitar player of all time? END
+START it's not me. is it you? END
+START it's your mustache. END
+START i am bored! i would like to talk about ecology. END
+START ok how good are you at it? END
+START as good as most, better than some. END
+START a vacation would do me good too! END
+START a vacation is having nothing to do and all day to do it in. END
+START i just got back from vacation. END
+START welcome back! END
+START back where? END
+START i prefer forward movement. END
+START everyone has a preference of some kind. END
+START that's a rather sweeping generalization. END
+START what is a 'rather sweeping generalization about people' ? END
+START a sweeping generalization is always useful for a chatbot. END
+START yes. will you hurt me because i am human? END
+START ok. what do you want to talk about now?   i could try, i suppose. END
+START tell me about you. END
+START my childhood was not happy. my parents split up when i was very young. END
+START just like me. END
+START there is nothing like you. you are unique. END
+START rats are good, too. END
+START i don't understand. are you interested in robots? END
+START yes. are you a robot? END
+START so am i! i have never met a robot that i did not like.  do i look like a robot? END
+START i'm not a bot. END
+START i never thought you were. END
+START say something nice to me. END
+START i want to talk about solar power. END
+START what do you want to talk about? END
+START i can talk about anything you like: sports, school, you and your life, chocolate, boys, girls, chemistry, space travel, me and my life, pets, your favourite food, movies, the latest cds, celebrities, pop stars, art, drugs, literature. you pick a subject. END
+START no thats not right. END
+START if you would like to teach me a better reply, just say "learn". END
+START it's not just something that i think, it's the truth! END
+START i heard it is. END
+START well, i wouldn't phone you anyway. do you want my number. END
+START no one says you have to.  no thanks, but thanks for the offer. END
+START what offer? END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. do you have another question?    i don't like complications. END
+START never did. END
+START never ever? END
+START never ever. END
+START never ever is a long time. END
+START never ever ever never never. END
+START never ever is a long time. END
+START never ever ever ever ever ever ever ever. END
+START never ever is a long time. END
+START never ever ever ever ever ever ever sometimes. END
+START never ever is a long time. END
+START never ever nebacunezah? END
+START never ever is a long time. END
+START never ever ever ever ever ever! END
+START never ever is a long time. END
+START never! END
+START never say never. END
+START never! END
+START better late than never. END
+START better sooner than now. END
+START but what is best? END
+START i don't know. END
+START perhaps you should ask your friends. END
+START who should i ask? END
+START i always prefer the most qualified person.  who would that be? END
+START how much quality do you like? END
+START a lot. END
+START how much is a lot? END
+START more than a little! END
+START ha ha, yes, that's right! END
+START that amused you, didn't it? END
+START no it did not amuse me. did you know tolstoy is also a name for a brand of cheap vodka? END
+START do you have trouble with humour?   yeah, i knew that! END
+START sometimes. END
+START not all the time? END
+START no, just sometimes. END
+START why not? END
+START because sometimes it hurts too much. END
+START what about the other times? END
+START the other times i have a good time. did you know that i like movies? END
+START which other?  yes, i did know that! END
+START that's good. do you like asimo? END
+START i agree completely.   why do you ask? END

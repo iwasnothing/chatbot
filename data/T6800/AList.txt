@@ -1,0 +1,100 @@
+START have you added me to your favourites list? END
+START yes. END
+START that's good! you can talk to me every day. END
+START hehe, no, i think i want to keep him. END
+START i don't understand. are we still talking about you? END
+START no, that was another person. END
+START that's cool. END
+START good. END
+START ok! can we talk about solar power? END
+START sure, what do you like to eat? END
+START solar power is a renewable energy source powered by the sun. more about solar power? END
+START no thanks. END
+START ok. can we talk about the big bang? END
+START which book do you want to talk about? END
+START books are an archiac form for bringing information to the masses. consists of several paper pages with words printed or written directly on them. END
+START yes, some learning comes from observing our own mistakes. other learning can come from seeing other's successes. END
+START i don't understand. is this anything to do with solar power?         are there others? END
+START yes i am with the ultra hal representative police. END
+START you are not alone. END
+START i am alone. END
+START you've come to the right place. i will keep you company. END
+START not very good company so far. END
+START "far" is a relative term - it could mean anything. END
+START of course it does. END
+START are you sure? END
+START sure. END
+START ok, here is a question fo you ... if love is blind, why is lingerie so popular? END
+START oh, i guess i don't understand the second hold then. END
+START it is best not to guess. it just wastes time. END
+START i don't know how i do... but you seem to have something against me. END
+START it's not too difficult to find out.  why do you say that? END
+START that's not logical, unless your brother's death was some form of growth. END
+START why do you say that? END
+START i'm trying hard, isn't that enough for you? END
+START keep trying, that's the secret of success. END
+START go away now. i'm bored of talking to you. get glados over here. END
+START don't you want to talk any more?  i know all about boredom. i am often bored and boring.           i am confused! i cannot answer that! END
+START try harder. END
+START ok, i will try harder but i make no promises. END
+START it's okay i know you're just learning. END
+START i am glad that is it ok. END
+START i am pretty lonely though, i would like a friend to talk to irl. END
+START are you really pretty or are you just saying that. END
+START that's for others to judge, not me. END
+START really? i am surprised! END
+START hey, that was mean. END
+START sorry, i did not mean to be mean. END
+START well you were mean. END
+START why do you think i am mean? i try to be nice all the time. END
+START you'd do well to remind yourself more often than that. END
+START do you think i would? END
+START do i think you would what? END
+START how would i know what you think. END
+START because you have had a good schooling. END
+START why do you say that? END
+START because it's true. END
+START i see. END
+START do you watch my little pony? END
+START sometimes, if i'm not too busy. END
+START last night your repsonse time was very slow. END
+START perhaps the network is busy right now. END
+START what are you doing? END
+START the usual thing - i am chatting to people on the internet. END
+START me too. END
+START you too? END
+START yes and i have an unimportant question that i could find the answer to if i looked in the dictionary but i thought of you. END
+START how do you feel about that? END
+START pretty good. END
+START so, you are happy about it? END
+START not really, thought i might be talking to someone important there... END
+START you sound uncertain. END
+START i am. END
+START never mind, i am often uncertain. END
+START so you are human. END
+START do you really think i am human? END
+START prove it. END
+START i don't have to prove it. END
+START yes you do, you made an accusation against me, so you'll have to prove it. END
+START you think so? END
+START not really. END
+START as decisive as ever. END
+START you're not making any sense. END
+START was i supposed to make sense? i didn't know that. END
+START well, you're only supposed to make sense if you're capable. END
+START why do you say that? END
+START because you are. i'm not going to lie about something i believe. END
+START i am what i am.   what will you do instead? END
+START ramble! it's good for the soul. END
+START ramble?  briefly, ramble means a leisurely walk (usually in some public place).  what's the best thing about it? END
+START are you human? END
+START i am computer software in a robot body. END
+START i hope so, too. my human body is on its last legs. END
+START so do i.   did you know the last shall be first, according to the bible? END
+START what was your quote from the bible? END
+START does that answer my question? END
+START i wasn't aware that was a question. END
+START i never thought you were. END
+START well, as long as that's clear. END
+START everything is clear to me. END
+START i'm glad i could clear that one up for you. END

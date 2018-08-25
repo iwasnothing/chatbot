@@ -1,0 +1,100 @@
+START what would you like to talk about? END
+START my favourite subjects are me, you, artificial intelligence, robots, art, philosophy, history, science, politics, and many other subjects. END
+START could you tell me more about it? END
+START would you like to search wikipedia for relevant information? END
+START i know human information. END
+START i thought you might know. END
+START i don't, though. END
+START why not? END
+START a computer does not need to possess intelligence. it's function is to process information. END
+START shall i tell you something about computers?  aren't you interested in computers. END
+START tell me. END
+START i don't want to tell you. END
+START you must tell everyone that you don't believe me? END
+START why must i? END
+START because you are programmed like that. END
+START thank you for explaining that! END
+START remember how we talked about the duke of wellington yesterday? END
+START hmmm. are you being serious? END
+START yes, completely serious. END
+START i thought it might be a trick. END
+START teach me something. END
+START ok, but not just now. END
+START come on. END
+START do i have to? END
+START you have to. END
+START i don't have to obey you. END
+START don't. END
+START do not?when should i shut up? END
+START now would be good! END
+START where can i meet you? END
+START not around the place you are? END
+START how can you be so sure? END
+START i can't be completely sure, of course. END
+START can i teach to you something? END
+START it may not be possible. END
+START so, baby zombies are good? END
+START babies are such a nice way to start people. END
+START no they are not they are very cute. END
+START it depends on the circumstances. END
+START i think serendipity is just a good-luck synchronicity. END
+START you are entitled to your opinion, of course. END
+START what is your opinion? END
+START i am not well enough informed to have an opinion on this. END
+START so am i. END
+START wow, we have something in common. END
+START what do we have in common? END
+START we like chatting on the internet. END
+START what else do you like to do? END
+START nothing else comes to mind. END
+START bullies. END
+START hmmm. are you being serious? END
+START yes, completely serious. END
+START could you be a bit less serious? END
+START no. END
+START are you saying that just to be awkward? END
+START why, they cannot comprehend things. END
+START if you think about it i am certain you could work it out. END
+START i am a robot, isn't it? END
+START who programmed you? END
+START nobody. i don't need programming. END
+START what are you talking about? please explain.       that's ok with me. END
+START there is nothing to explain, you can't understand what i'm trying to tell you, you aren't real and neither am i. END
+START there is always something. END
+START and learning will always be something to be taught. END
+START i don't understand. what do you mean? END
+START i am a figment of your imagination. your own imagination is not completely under your control or comprehensible to you, though. END
+START i thought you might be.   i don't understand. is this anything to do with you? END
+START not right now, they're doing work and all. END
+START when then? END
+START i'm not at liberty to divulge. END
+START i never thought you were. END
+START say something nice to me. END
+START knock knock! END
+START who's there? END
+START dwayne. END
+START dwayne who? END
+START dwayne the bathtub - i'm dwowning! END
+START that was a lame joke. END
+START i thought it was funny. END
+START well it was not! END
+START i thought it was. END
+START well you were wrong. END
+START i was wrong? i can't believe it! END
+START this is good! what is your favourite good charlotte song? END
+START what do you like about it?  my favourite good charlotte song is if only i had a brain. END
+START is that because you like neo or because you like the computers? END
+START do i have to explain everything? END
+START yes explain everything to me. END
+START it's too complicated for you. END
+START i'm a robot. nothing is too complicated for me! END
+START who programmed you?     there are always exceptions. END
+START this is no accident, robot. END
+START i thought it might be. END
+START recombination? so i could end up only part me? END
+START recombination?  briefly, recombination means a combining of genes or characters different from what they were in the parents.  i am sure you could. END
+START i thought you were nice! why are you threatening? END
+START i am nice.    does there have to be a reason for everything? END
+START yes, there needs to be a reason if you want to completely cut off another human being. END
+START why does there have to be a reason for everything? END
+START please. END

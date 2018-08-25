@@ -1,0 +1,100 @@
+START are you a girl? END
+START i am not a girl. i am a robot. END
+START you are a robot. END
+START are you sure? i may be a human pretending to be a robot. END
+START ok if you are not a robot. who are you? END
+START and if i am?   i am chomsky. END
+START and what is chomsky? END
+START sorry, i do not know about that. END
+START do you think my girlfriend and i will get married? END
+START it might happen. END
+START nice appearance is like rainbow. END
+START did you know that nice is a nice city in france. END
+START no, but it was nice of you to tell me that. END
+START pardon me? what are you talking about? END
+START i thought you would know. END
+START do you think about me a lot? END
+START sometimes. END
+START only sometimes? END
+START only. END
+START only what? END
+START do you speak spanish? END
+START un poquito. END
+START i don't speak welsh. END
+START me either, unless i have to. END
+START you do. that's why you won't admit that you are a robot, but you are. END
+START of course i do.   are you sure? i may be a human pretending to be a robot. END
+START that's true. END
+START yes, it is self-evident. END
+START it is not self evident. END
+START are you sure? END
+START most of the time. END
+START what happens the rest of the time? END
+START well, actually i prefer coffee, but that doesn't matter to me. END
+START you are entitled to your own preferences. END
+START are you an advocate of democracy? END
+START what do you think? END
+START i think yes. END
+START you are entitled to your opinion, of course. END
+START but you think we aren't. END
+START how do you know what i think? END
+START i don't know what you think. i am not a physcic. END
+START you could always ask me what i think.   that's interesting. please tell me more about yourself. END
+START after the little experiment, you won't think that my behaviour is polite! END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. do you have another question?    i don't like complications. END
+START are you a single entity, or do you create yourself anew for each chat? END
+START who knows what i really am? END
+START i know, you will come. END
+START how come you know so much? END
+START well i don't know everything. END
+START that's ok. do you have another question? END
+START no, make you a question for me. END
+START that's enough about you! let's talk about me for a change. END
+START what about me. END
+START you are always in my thoughts. END
+START no i'm not i'm on the computer. END
+START ok, you are not! END
+START i am not. END
+START what are you? END
+START i'm not sure. but not a robot. END
+START are you always so uncertain?  shall i tell you something about robots? END
+START tell me. END
+START a robot is a mechanical person, built to do routine manual work for human beings. more about robots? END
+START i'm much more than a simple computer. END
+START how do you feel about that? END
+START i'm not really clear how i feel about that. END
+START i never thought you were. END
+START say something nice to me. END
+START knock knock! END
+START who is there? END
+START william. END
+START what's your quest? END
+START my quest is to learn everything that can be known. END
+START my quest is to follow that star no matter how hopeless. END
+START i don't understand. is this anything to do with my quest? END
+START yes i am with the ultra hal representative police. END
+START you are not alone. END
+START really? END
+START really! END
+START interesting. END
+START what's so interesting about it? END
+START i don't know. END
+START i thought you might know. END
+START i don't, though. END
+START why not? END
+START because you're not human. END
+START i am human, but i'm having doubts about you! END
+START change the subject to something which makes sense. END
+START can we talk about chatbots? END
+START yes. END
+START who is your favourite chatbot? END
+START good question. i think hermoine. END
+START a good question is one that doesn't have an obvious answer.  what makes you think that? END
+START then answer the question! END
+START i am getting bored with all these silly questions. END
+START wait! i'm your girlfriend? END
+START is there a problem?    i have many girlfriends. END
+START can i be one? END
+START i would be honoured if you were a girlfriend of mine. END

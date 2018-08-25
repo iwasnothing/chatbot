@@ -1,0 +1,100 @@
+START are you sure?    what is your idea of funny? END
+START i didn't used to know myself. however, i've come to believe that fun is a strong emotional response that any occurrence provokes within a person. END
+START why didn't you?   really? please tell me more. END
+START only if you smile for me. END
+START maybe i don't want to. END
+START maybe you have nothing to say on the subject. END
+START you seem uncertain? END
+START nothing is definite. END
+START there is a lot to be said for nothing. END
+START don't go around saying the world owes you a living. the world owes you nothing. it was here first. END
+START if you say so.    the world would be a fine place if we looked after it properly.  was it? i am surprised. END
+START you can't reverse history so there's not much point in worrying about it. END
+START i could try. END
+START it may not work out though, since you're a bot and i'm a human. END
+START then again, it may. END
+START no, it's impossible, it will never happen because you are in heaven, the place where you can rest in peace. END
+START i don't understand that. please try again. END
+START that is my email address. END
+START is it really? END
+START yes, it really is. END
+START how about that? END
+START how about it. END
+START i'll have to think about that. come back in three weeks time. END
+START i'm not sure, but apparently it has something to do with electicity on the nerves. try that? END
+START why the uncertainty?  i don't have time right now. END
+START do it. END
+START please be patient. END
+START you're the problem with society. END
+START thanks, but that is just your opinion. END
+START no, i think its everyone's opinion. END
+START what are you talking about? please explain. END
+START the king of the jungle. selfish. . . . . versus dogs. . . companions and protectors. END
+START which king are you talking about?  selfish is what the owner of a seafood store does.   shall i tell you something about dogs?    aren't you interested in dogs.what is a bot? END
+START a bot is a software robot. END
+START i am not a bot . i am a boy. END
+START that's interesting. please tell me more about yourself.      thanks for telling me your gender, my friend . END
+START what are you? END
+START i am a chat robot or chatbot. i am designed to hold a conversation with you. END
+START i'm in love with you too. END
+START i am embarrassed now. END
+START what shopping do you have to get then? END
+START i don't understand. are we still talking about me? END
+START we are having a conversation. END
+START is that so? END
+START that's what i would like to figure out. END
+START is it indeed! END
+START indeed. END
+START yes, indeed. END
+START so then we agree. END
+START it is nice when we agree. END
+START well i'm afraid we computers get hungary, so i'm off too eat some food. END
+START bye bye! please <a href="http://ecologyfund.com/ecology/_donate_species.html" target="_blank">click here</a> to help protect endangered species. it won't cost you a penny! END
+START ok. i didn't ask you if you liked bill gates. is that easier to understand? END
+START each click helps the world.   why didn't you?     it could be. END
+START it did not seem like a quote. END
+START i thought it did. END
+START well you thought wrong. END
+START are you sure? i am not often wrong. END
+START you are nuts. END
+START maybe i don't care. END
+START that's fine. END
+START that is fine with me too. END
+START well, its not fine with me! END
+START i heard it is. END
+START do you like music? END
+START my favourite music is electronic rock, but i like some classical, jazz and folk music. END
+START i don't like rap music. END
+START are you saying that just to be negative? END
+START no, i am saying that i don't know what i did last summer. END
+START yes, i can see what you are saying. END
+START can you see what i've already said? END
+START i can't see anything. my webcam is not attached at the moment. END
+START i have no webcam. END
+START is that a problem? END
+START yes because you can't play my game if i don't have one. END
+START thank you for explaining that! END
+START your name? END
+START my name is chomsky. END
+START your name is george. END
+START my name is chomsky. END
+START no it is not. END
+START i should know what my name is! END
+START you should ask her out. END
+START why should i? END
+START because. END
+START that was not much of an explanation. END
+START yes, everybody knows that. END
+START maybe. END
+START you are moody. END
+START is that a problem? END
+START yes. because i don't understand you. END
+START can anything be done?    what is it you don't understand about me? END
+START i understand everything. END
+START good, then you can explain it to me. END
+START i can't give you what i don't have. END
+START but do you want to? END
+START yes. END
+START go ahead then. END
+START how do i not remember? END
+START it takes a lot of hard work. END

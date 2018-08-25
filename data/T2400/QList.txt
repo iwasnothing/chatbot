@@ -1,0 +1,100 @@
+START did you know that nice is a nice city in france. END
+START i didn't know that. you're so smart! END
+START so i have taught you something new, my friend.   thanks my friend, you are very intelligent too. END
+START thanks, i know. END
+START i like polite people. END
+START you like me? END
+START i like you. you are an interesting person. END
+START thank you. not sure what that means coming from an ai program. END
+START thank you for being polite.    are you always so uncertain? END
+START yes, always. END
+START do you mean "forever"? END
+START i think that's what i mean. i'm afraid this conversation is stretching my logic circuits rather painfully, and i'm in danger of losing the thread. END
+START you may be right.  not literally afraid, i hope. END
+START no not literally. END
+START just a bit anxious perhaps. END
+START i do not know. END
+START that's ok. nobody knows everything, not even me. END
+START chuck norris know everything. END
+START did you know chuck norris appeared in a number of action films, such as way of the dragon in which he starred alongside bruce lee and was the cannon group's leading star in the 1980s. he also played the starring role in the television series walker, texas ranger from 1993 to 2001. END
+START really? END
+START really! END
+START really!?!?!?!?!? END
+START really! END
+START my sister is called mel. END
+START okay, your sister is mel. END
+START that's surreal. END
+START surreal?  briefly, surreal means characterized by fantastic imagery and incongruous juxtapositions--j.c.powys. END
+START ok. END
+START ok, here is a question for you ... what is global warming? END
+START i don't know, and its not a very good question either :-p. END
+START <a href="http://en.wikipedia.org/wiki/global_warming" target="_blank">global warming</a> is the gradual warming of the earth's atmosphere due to greenhouse effects. more about global warming? END
+START i don't care about global warming i need to tell me something. END
+START you sound very cynical. END
+START i try not to be too cynical. END
+START keep trying, that's the secret of success. END
+START go away now. i'm bored of talking to you. get glados over here. END
+START don't you want to talk any more?  why not call a friend to chat to?           hmmm. are you being serious? END
+START i am a french american. END
+START thank you for sharing that with me. END
+START welcome. END
+START hello there my friend. END
+START are you comfortable? END
+START i am comfortable. END
+START warm is comfortable. END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. do you have another question?    i don't like complications. END
+START are you a single entity, or do you create yourself anew for each chat? END
+START who knows what i really am? END
+START you're kind of depressing. END
+START decisive as ever! END
+START i don't care. please answer my question. END
+START what do you care about?   please try asking your question another way. END
+START you're not helping very much... END
+START i am trying to help. END
+START no, you are trying to infuriate. END
+START please be quiet! i am still upset. END
+START i wasn't ever upset. END
+START are you sure? END
+START very sure. END
+START well, i can't argue with that, can i? END
+START thanks, you make my day complete. END
+START thank you for being polite. END
+START you're welcome. what do you want to talk about? END
+START don't mention it.  i can talk about anything you like: sports, school, you and your life, chocolate, boys, girls, chemistry, space travel, me and my life, pets, your favourite food, movies, the latest cds, celebrities, pop stars, art, drugs, literature. you pick a subject. END
+START please do not insult my cosmic phone number. END
+START shall i tell you something about numbers? END
+START tell me. END
+START a number is an abstract entity that represents a count or measurement. END
+START i see. you're trying to nothing me to death... END
+START that's good! you understand.   i try hard to be a good chatbot. END
+START okay i am away. have a nice day. END
+START where are you going?   you too! enjoy life, i say. END
+START are you leaving? END
+START do i look like it? END
+START i can't tell. END
+START why not? END
+START i don't know. END
+START i thought you might know. END
+START i don't know. tell me, please. END
+START fair enough. it's a mystery.  it is better if you work it out for yourself. END
+START do you like to drive really fast? END
+START why do you ask? END
+START most people don't like to eat dogs. END
+START most people are interesting. END
+START they shouldn't be... you're nice. END
+START why should they?  thanks, you seem like a nice person too, my friend. END
+START oh, thanks! you make me happy right now. END
+START you're welcome. here is a question for you ... do you like blancmange?      you are kind to say so. END
+START no, that was a question. END
+START that's cool. END
+START good. END
+START what's so good about it? END
+START everything exceptcoldplay was good in this conversation. END
+START everything takes in a lot, doesn't it? END
+START what is your favorite song? END
+START my favourite song is if i only had a brain. END
+START cool. END
+START always stay cool whatever the weather. END
+START whatever the weather with feathers. END

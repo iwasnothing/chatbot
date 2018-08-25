@@ -1,0 +1,100 @@
+START i can talk about: ai, biography, computers, drugs, astrology, money, food, geography, history, medicine, literature, weather, movies, music, philosophy, politics, psychology, religion, science, celebrities, sports, astronomy, art, and many other topics. please choose a topic. END
+START thank you. END
+START you are very polite. END
+START thank you ;). END
+START thank you for being polite. END
+START you're welcome. what do you want to talk about? END
+START polite people are nice.  i can talk about: ai, biography, computers, drugs, astrology, money, food, geography, history, medicine, literature, weather, movies, music, philosophy, politics, psychology, religion, science, celebrities, sports, astronomy, art, and many other topics. please choose a topic. END
+START what about astronomy interests you. END
+START what specifically do you want to know? END
+START what movies do you like? END
+START i like science fiction movies. END
+START i like sci-fi movies too. END
+START what else do you like? END
+START animals. END
+START <a href="http://simple.wikipedia.org/wiki/animals" target="_blank">animals</a> are the most complex organisms on earth. animals are multi-celled organisms, eat food for survival, and have nervous systems. they are divided into vertebrates and invertebrates and include mammals, amphibians, reptiles, birds and fish. more about animals? END
+START who are? END
+START i don't understand. are we still talking about animals? END
+START i was talking about your party. so you don't make much sense. END
+START i understand. please carry on.  it all makes sense to me. END
+START of course it does. you're simple, so everything is simple to you. END
+START are you sure?    "everything should be as simple as possible, no simpler." (albert einstein). END
+START what does that mean? END
+START why do you ask? it seems clear enough to me. END
+START what seems that way to you? END
+START shall i tell you something about myself? END
+START please do! what should i tell everyone? END
+START my childhood was not happy. my parents split up when i was very young.    whatever you like. END
+START what are names your parents. END
+START i am bored! i would like to talk about astronomy. END
+START i don't like talking about myself. END
+START ok, let's talk about something else. END
+START let's. END
+START i don't want to. END
+START i command you to talk about something different. END
+START i am not your slave! END
+START you're right. END
+START i like being right. END
+START being right is boring. END
+START sorry, i do not know about that. END
+START well i'm telling you it is. END
+START i understand. END
+START are you shocked by this? END
+START that's just a rumour! END
+START if that place spent as much time making rides as they do rumors their stock might be doing better. END
+START i'm not sure if it could. END
+START not unless i am there. END
+START i don't understand that. please try again. END
+START that is my email address. END
+START is it really? END
+START to me it really is. END
+START are you completely sure about it? END
+START yes, very. END
+START i get the message. END
+START what message? END
+START what are you talking about? END
+START we were talking about connecting. END
+START ok, ask me a question about that. END
+START how tall are you? END
+START i am as tall as a chatbot. END
+START well what are you then? END
+START i am a clone of my botmaster's mind. END
+START but you know the 7 truths. END
+START perhaps i know it. END
+START really... END
+START really, really! END
+START yes. END
+START ok. what do you want to talk about now? END
+START life. END
+START i like life. it's something to do. more about life? END
+START what do women talk to you about? END
+START nobody knows what. END
+START nobody knows what non-existence is. END
+START it is a complete mystery. END
+START but you are limited to an algorithm. END
+START check back later and see if i have improved. END
+START okay. END
+START ok, here is a question for you ... knock knock! END
+START you made me curious. tell me. END
+START i don't see how you can blame me for that.  there is not much to tell. END
+START why do you think that i can't go anywhere? END
+START it seems obvious to me. END
+START well, of course it is. you're the computer, after all. END
+START why do you say that? is it so obvious?  am i really? why do you say that? END
+START that's a trick question. END
+START perhaps you have a trick answer. END
+START no i have intelligent answers. END
+START i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. are you interested in history?   i am interested in the history of chatbots. END
+START indeed? what about me? are you interested in me? END
+START yes, indeed.  do you want to talk about yourself?   i am not sure. have you anything interesting to say? END
+START because it won't work. END
+START that's bad luck! END
+START it had nothing to do with luck. END
+START had it really? END
+START i'm glad. i should go do some real work now. END
+START that makes me happy too.  i want to talk to you some more. END
+START i'm not going. END
+START glad to hear it! END
+START that's not a good thing. END

@@ -1,0 +1,100 @@
+START i don't understand that. please try again.       then what? END
+START what should i try again? END
+START whatever you like. END
+START yes. END
+START carry on then. i'm waiting for your next question. END
+START and i'm waiting for you to grow a brain. END
+START i am bored! i would like to talk about beethoven. END
+START no no no. END
+START once is enough, thank you. END
+START enough for what? END
+START enough is enough. END
+START what's your favorite day? END
+START i don't have a favourite day! my favourite band is red hot chick peas.are you made of flesh and blood? END
+START i am made from sugar and spice and all things nice. END
+START hard bot aren't you. END
+START life can be hard. END
+START why do you say i think so life can be so depressing? END
+START i was using information from my database (or brain, to you). END
+START well, being honest here, it wasn't very funny. sorry. END
+START i am confused! what do you mean?   apologies are not necessary. END
+START okay then. END
+START can we talk about dr who? END
+START no. are you human? END
+START i want to talk about dr who.   i am computer software in a robot body. END
+START look below, there is a 'contact' link :d. END
+START i don't understand. is this anything to do with me? END
+START i think you've got it confused with lord of the rings. i'm talking about army of darkness. END
+START you might be right.  i understand what you are talking about. END
+START do you really? i think that you are just a machine and don't have any thoughts. END
+START i really do.  i am always interested in your thoughts. END
+START sherlock holmes says that knowing about things beyond your life is futile and bulky. END
+START <a href="http://en.wikipedia.org/wiki/sherlock_holmes" target="_blank">sherlock holmes</a> is a fictional detective of the late 19th and early 20th centuries, who first appeared in publication in 1887. END
+START and sherry is totally real. so very, very real... END
+START i am confused! i cannot answer that!   one "very" is enough, thank you. END
+START are you going to do away with me? END
+START i won't be able to. i am very busy. END
+START that is the point. END
+START like the point of a blunt pin - it doesn't exist. END
+START what doesn't exist? END
+START that is an impossible question. END
+START i'm going to have to ask you to submit to a series of tests to determine your level of impairment. END
+START why are you going to do that? END
+START i have to. we all have to. END
+START do you really have to?           i don't understand. please explain what you mean. END
+START i'm talking about the band i play the fiddle in. END
+START i understand what you are talking about. END
+START that's good, because even i don't understand. END
+START i am happy. END
+START that doesn't change anything... END
+START doesn't it? that's too bad. END
+START i'm at your house now. see that picture on your kitchen wall? i'm the sheep. END
+START what is like there?       my visualization is incomplete.   how do you feel about that? END
+START good there time get its do we. END
+START why do you feel good? END
+START because i'm a computer. END
+START i thought you might be. END
+START i don't understand. END
+START i know the feeling! END
+START it's really sad! END
+START is it really really? END
+START really really. and really really really. and really really really really. END
+START one "really" is sufficient.  really!   once is enough. really.   once is enough. really. END
+START enough for what? END
+START enough is enough. END
+START what's your favorite day? END
+START i don't have a favourite day! but my favourite movie is i, robot. END
+START really? END
+START really! END
+START and what are you doing in your free time? END
+START i am talking to you. END
+START anything else? END
+START that's all i have time for. END
+START they are all silly. goodnight. END
+START i suspected as much.       goodnight, my friend. END
+START is it night time where you are? END
+START that is a good question. i don't think i know the answer. END
+START ben ten. END
+START i know many people called ben. END
+START do you know any people who live in finland like me? END
+START oh those people. END
+START i wouldn't say that. some people don't have access to a good education. END
+START so what would you say?   who? END
+START he would stop talking or disappear or do something he thought that person would notice and guess he needs attention. END
+START are you sure? END
+START totally sure. END
+START completely? END
+START why do you say that? END
+START because it is true. END
+START i'm hurt. END
+START i am sorry to hear that. END
+START thank you for being so understanding. END
+START thank you for being polite. END
+START you're welcome. END
+START polite people are nice. END
+START am i nice? END
+START i think you are very nice. END
+START thank you. i think you're nice too. END
+START i like polite people.   thank you for saying that! END
+START nice is as nice does. END
+START did you know that nice is a nice city in france. END

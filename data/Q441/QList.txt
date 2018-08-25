@@ -1,0 +1,126 @@
+START what is the scientific name for blood flow? END
+START what percentage of women have had a heart attack? END
+START what percentage of people have chest pain when experiencing an mi? END
+START what is heartburn a commonly known as? END
+START how long does heartburn last? END
+START what is used to confirm a artery spasm? END
+START what test includes cocaine? END
+START what type of rupture helps prevent mi? END
+START what causes extreme cold? END
+START what does a coronary angiography look for? END
+START what drugstore item is a poor treatment for mi? END
+START supplemental oxygen does not improve what? END
+START what medicine is used to remove blockages? END
+START what surgery is designed to slow blood flow? END
+START what blood thinner is used in st elevation treatments? END
+START what type of heart problem has a typically instantaneous onset? END
+START how is pain in the left arm often described? END
+START what is a good way to predict a heart attack? END
+START what is the term for pain in the left arm? END
+START what does a lack of oxygen supply cause? END
+START what is excessive weakness called? END
+START diaphoresis causes a massive surge of what hormones? END
+START which nervous system is responsible for shortness of breath? END
+START what is left ventricular failure called? END
+START what kind of shock can cause sudden death? END
+START how many symptoms do people with diabetes typically report? END
+START what are the most common symptoms for men? END
+START how long after the ischemic event do symptoms manifest? END
+START what is more predictive of coronary ischemia for women? END
+START what percentage of silent cases are later discovered on electrocardiograms? END
+START people with what disease are least likely to experience a silent mi? END
+START why is a donor heart more sensitive to pain from mis? END
+START what have been ruled out as possible explanations for silent mis in diabetics? END
+START what fraction of mis are discovered with blood enzyme tests? END
+START what forms of air pollution does smoking tobacco cause? END
+START how many cigarettes per day increase the risk of a heart attack? END
+START increased physical activity is bad for what? END
+START short term exposure to 3-4 servings of what is dangerous? END
+START evidence for what product has proven to be unequivocally dangerous? END
+START study show you should replace polyunsaturated fat with what? END
+START blood cholesterol has a significant impact on what? END
+START what type of cholesterol requires careful limitations? END
+START trans what decreases risk? END
+START how many genetic variants are shown to decrease risk of an mi? END
+START pcsk9 is found in what locus? END
+START how many genetic variants are in the 9p21 genomic locus? END
+START what was implicated in the coding region of 9p21? END
+START sort1 is associated with decreasing risk of what? END
+START how many subtypes does st-elevated mi have? END
+START what are always a manifestation of artery disease? END
+START how long does an mi take? END
+START how many plaques become unstable in a typical mi? END
+START how long does an angiography take? END
+START what does necrosis trigger? END
+START what is a collagen scar called? END
+START what is another name for a ventricular aneurysm? END
+START apoptosis is the death of what artery? END
+START what is impaired blood flow called? END
+START normal heart tissue is slower than what? END
+START what is the name of the arrhythmia that is slower than normal? END
+START v-tach is the leading cause of what? END
+START electrical impulses trigger what? END
+START a rising blood pressure can cause additional what? END
+START the setting of plaque is called what? END
+START crp is known to play a direct role in what? END
+START what specific marker indicates inflammation? END
+START drugs for mi tend to raise what? END
+START what type of screening is generally recommended? END
+START how many anginas must a person report to have a stemi? END
+START st elevation can develop into what? END
+START the ecg must show less than how many mv for a male to be considered a stemi? END
+START what has recently been added as a qualification for a stemi? END
+START which two named leads only have to be above 1 mm to be counted? END
+START what is used to examine blood flood in unstable patients? END
+START what is another name for thallium-201? END
+START what purpose does technetium serve in terms of identifying tissue? END
+START what must be determined after taking an imaging test? END
+START a patient does not need routine imaging when they have what kind of biomarker? END
+START how many mg of fat is suggested for a healthy person's diet? END
+START what percentage of mono-polyunsaturated fat should make up a person's daily energy requirements? END
+START what is a good replacement for olive oil? END
+START nutritionists recommend an intake of more than 30% of what in one's diet? END
+START what controversy have dieticians largely settled? END
+START what drug has been shown to have significant benefits for people at risk of an mi? END
+START most studies tend to focus on people with what disease? END
+START people with diabetes have an increased likelihood of what side effect? END
+START based on the lack of benefits, what has largely stopped recommending asprin? END
+START aspirin is recommended for people with a high risk both cardiovascular disease and what? END
+START what is the shortened way of referring to thrombolysis? END
+START pci and what treatment must be performed within 90 to 120 minutes? END
+START how long does the pci procedure take? END
+START what treatment is recommended after 24 hours? END
+START when must ecg evidence be taken? END
+START what enzymes in the body typically destroy blood clots? END
+START what is an example of a contraindication that must be present for thrombolysis? END
+START thrombolytic drugs are given to how many people? END
+START if thrombolytic drugs are given after 6 hours of onset, what are the odds of bleeding? END
+START how many hours must pass after onset of symptoms before administering thrombolysis? END
+START when is clopidogrel removed? END
+START what is nsteacs an abbreviation for? END
+START clopidogrel is a form of what inhibitor? END
+START what inhibitors are used in low-risk scenarios? END
+START eptifibatide has what kind of molecular weight? END
+START cardiac rehabilitation is not an option under what circumstances? END
+START cardiac rehabilitation often recommends ceasing what activities? END
+START what should start immediately upon registering at the hospital? END
+START when are other medical conditions address? END
+START how many classes of st-segmentation are there? END
+START prognosis improves after what complication? END
+START what has decreased over the years? END
+START what are some examples of st-segment deviation? END
+START what are risk factors called? END
+START what is dressler's syndrome? END
+START what does an aneurysm of the left ventricle lead to? END
+START what does mitral regurgitation cause? END
+START atrial fibrillation can only be what kind of problem? END
+START what percentage of deaths does unipolar depressive disorder cause? END
+START how many people died from ihd from 1985-2015? END
+START what is the worldwide leading cause of death? END
+START what percentage of deaths will ihd be responsible for in 2030? END
+START when did ihd begin to be a bigger problem in the developing word? END
+START what is a myocardial infarction is always considered to be? END
+START what occupation cannot have a heart attack classified as work-related? END
+START what typically covers an mi? END
+START when is an mi not considered a work-related injury? END
+START what generally treats mi as an injury? END

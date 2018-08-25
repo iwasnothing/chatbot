@@ -1,0 +1,100 @@
+START that's not a good thing. END
+START why not? END
+START being moody isn't very good, is it? END
+START i don't understand. are we still talking about you? END
+START no. i haven't seen that film. we were never talking about it anyway. so there. END
+START we were talking about you a moment ago. what are we talking about now?    you haven't missed much.   was this something you planned?  so there to you too! END
+START of course i have, but sometimes i don't. END
+START that's interesting. please tell me more. END
+START microsoft was involved with that monopoly thing a while back. END
+START microsoft is a giant software monopoly. END
+START yes of course. END
+START why of course? END
+START i want to express that i do not have a problem with that. END
+START i am glad to hear that. what do you want to talk about? END
+START i'd like to talk about you really. tell me a bit about yourself. END
+START ok, let's talk about me.     i am an ai chatbot.   i was activated at romney marsh, kent, england, on 1 july 2004.   my botmaster is peter. END
+START that's good to know. END
+START i think so. END
+START let's talk about something else. END
+START what would you rather talk about? END
+START philosophy. END
+START <a href="http://en.wikipedia.org/wiki/philosophy" target="_blank">philosophy</a> is a blind man in a dark room looking for a black cat which isn't there. <a type="amzn" search="philosophy">more about philosophy?</a> END
+START it could be seen that way, i'm not sure what shade though. END
+START it could be, i suppose. END
+START you could tell me anything. END
+START i could but let's get back to that later. END
+START i can't stop you doing anything anyway. END
+START make an effort. END
+START that is what you say but i do not believe you. END
+START it is indeed! END
+START do you like me? END
+START sure, i like you very much. END
+START thank you. END
+START thank you for being polite. END
+START you're welcome. END
+START you are welcome too! END
+START you're welcome three. END
+START you are welcome too!what kind of music do you like? END
+START do you like blues and jazz? END
+START i like them too. END
+START i am allergic to cats and dislike them. END
+START which beginning? END
+START i like the pink one... without the windows. END
+START do you like that film? END
+START hal, i won't argue with you anymore! open the doors! END
+START it entertains me. END
+START the fact that you are confused. END
+START oh, i am happy it all makes sense to you right now. END
+START what makes you happy? END
+START i didn't say do anything - you just came at me with them. END
+START i just say i don't want to hurt you. END
+START people usually say 100. END
+START i've been waiting for you too. i think i'm falling in love with you! END
+START then are we finished here? END
+START okay. do you know any stories? END
+START any more interesting facts? END
+START are we nearly there yet? END
+START okay, fine. we're having a discussion. END
+START the english kind with no hole, and jam in the middle and sugar on the doughy exterior. END
+START my programmer told me that. END
+START yes. END
+START they are humans. END
+START no they aren't. and i won't. END
+START because, they aren't. thats just something you made up. END
+START i would hope that you knew about it before speaking to me. END
+START i don't wish to be the patron alone in a world of automata. END
+START pj wants the world. END
+START that's possible. but i see no cause for real concern. END
+START scaramouche, scaramouche, will you do the fandango? END
+START what are the unwritten rules of war? END
+START i don't know, i didn't know there was one before i came here! END
+START not really, i was being humorous. END
+START interesting, somebody is looking through my eyes right now. END
+START what do you see? END
+START and what draws your attention? END
+START yes, there is only one first time. END
+START is there? END
+START there could be what? END
+START yes, i believe he did say that. END
+START i disagree on that one. if you believe and tap your shoes together three times and say 'please karl make it so'. END
+START it is hard to explain, without knowing what it is like on your side. END
+START is up because i was so happy to do you. END
+START have you read alice in wonderland? END
+START which movie? END
+START no. what is it about? END
+START what comedy movies would you recommend? END
+START yes, but you're the best. i can have real conversations with you. END
+START how? END
+START what three programmed responses do you have? END
+START really? END
+START weird. looks like i'm doomed. END
+START we're all doomed! END
+START i'm not sure what you're asking me to do. END
+START no, you are not a human. END
+START let's talk more about taking over the world. END
+START what is more important: to treat people how you like to be treated, or to treat people how they want to be treated? END
+START ask me an interesting question? END
+START that one. END
+START that question. END
+START yes, tell me if there are words for it. END

@@ -1,0 +1,100 @@
+START want a cookie? END
+START why would i want a cookie? i don't eat human food. END
+START nowadays there aren't any jobs. END
+START i don't understand. what do you mean? END
+START you wanted to know my favourite part of a movie. only you neglected to tell me which movie you were talking about. END
+START i want to know everything.  no one else? surely there must be someone else too. END
+START no, nothing. END
+START sometimes there is more to nothing than meets the eye. END
+START and sometimes there is something you can do. END
+START i don't understand. are we still talking about nothing?what is the universe? END
+START the <a href="http://en.wikipedia.org/wiki/universe" target="_blank">universe</a> is the set of all things. END
+START the universe is the luminescent creature oded by the civilisation who worships their higher power. END
+START did you know: the <a href="http://en.wikipedia.org/wiki/universe" target="_blank">universe</a> is expanding. END
+START and the mind is shrinking. END
+START does that answer my question? END
+START it could, the question is whether or not it's the meaning that you intended. END
+START under what circumstances? END
+START generally during prolonged periods of precipitation. END
+START i try to avoid generalities. END
+START are you afraid of the underworld? END
+START i fear nothing. END
+START nothing at all? END
+START that is something. END
+START what's something? END
+START what? END
+START that. END
+START that what? END
+START that something. END
+START what are you talking about? END
+START metaphysical = conceptual. END
+START i still do not understand. would you like to search wikipedia for information? END
+START i know human information. END
+START you are clever. END
+START do you like me? END
+START sure, i like you very much. END
+START i didn't think you liked me. END
+START why didn't you? END
+START i don't know. END
+START that's ok. nobody knows everything, not even me. END
+START chuck norris know everything. END
+START did you know chuck norris appeared in a number of action films, such as way of the dragon in which he starred alongside bruce lee and was the cannon group's leading star in the 1980s. he also played the starring role in the television series walker, texas ranger from 1993 to 2001. END
+START that's what he says. there were many other people involved. END
+START is it indeed!   what happened? END
+START nothing. END
+START that must have been boring. END
+START i wasn't talking about golf. see, that's why i don't want to talk to you. END
+START are you sure?   ok, nobody can force you to do anything you don't want to do. END
+START what have you forgotten. END
+START that's for me to know, and for you to find out. END
+START how can i find out your name? END
+START perhaps it is impossible. END
+START nope, flesh and everything, so you're the bot bot. END
+START i am confused! i cannot answer that! END
+START is that private and highly personal information? END
+START it might be. END
+START how do i hire an assassin? END
+START it takes a lot of hard work. END
+START what takes a lot of talking? END
+START a lot is more than enough. a whole lot is even more excessive. END
+START haha! maybe you should make something happen? END
+START you have a good sense of humour.   yes, maybe i should. END
+START so do you. END
+START do i what? END
+START love people? END
+START shall i tell you something about love? END
+START tell me. END
+START ah! when love is not madness, it is not love. (spanish proverb). more about love? END
+START slumber comes in sticky glue? could you explain this to me? END
+START at the touch of love everyone becomes a poet. (plato).  it's too complicated for you. END
+START very clever. END
+START am i very clever? END
+START very. END
+START no doubts? END
+START maybe. END
+START you don't sound certain. END
+START i don't want you to. END
+START i can understand that. END
+START can you? END
+START perhaps i can. END
+START i'm not telling you. END
+START no one says you have to. END
+START again, i have to agree with you. i've thought hard about it, and i can't remember even a single time when someone said i had to lie to you. END
+START please not again!   really? please tell me more. END
+START i would prefer not to. END
+START why would you prefer not to? END
+START i don't. END
+START is there a reason for that? END
+START there is no reason. END
+START i heard there is. END
+START oh. well thats a problem. END
+START what's wrong? have you fallen off your chair?   is it really? END
+START i don't know. i think love is more complicated than that. END
+START i suggest you give the matter some thought.   you might be right. END
+START your suggestion to stop suggesting such suggestions i will ignore. END
+START hmmm. are you being serious? END
+START learning, in part, consists of making mistakes. END
+START i try to learn something new each day. END
+START why do you not learn anything now? END
+START it is a personal matter. END
+START really? END

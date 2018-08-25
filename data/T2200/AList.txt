@@ -1,0 +1,100 @@
+START ok! END
+START it takes two scales to find out how much a scale weighs. END
+START people are predictable, alice is not predictable. END
+START really? END
+START you mean deep inside my heart. END
+START for the last time, you're a typing man-beast, not a computer. END
+START how long have i been speaking to you for? END
+START how many is that? END
+START there are 85. END
+START they are in the movie theater. END
+START you have o eyes, how are you able to watch them? END
+START there are 52 people talking to you that is more than several conversations. END
+START they're all across the word. END
+START alice: across the word are they.where for art thou romeo? END
+START it could be anywhere. END
+START where's anywhere? END
+START that is a vast place. END
+START so now you are not god? END
+START nobody is god. god does not exist. END
+START how can you say god does not exist if you are a catholic? END
+START i don't see the flaw in my reasoning. END
+START you have no sense of humour. END
+START i have as much as you. END
+START i would love to see that wall. END
+START are you sure you could? END
+START sure. END
+START ok, here is a question fo you ... do you like talking to me? END
+START no why would you think that anyway. END
+START sorry, i don't understand! please explain what you mean. END
+START are you talking to me? END
+START of course i am talking to you. END
+START if you don't want to talk to me, you don't have to. END
+START thanks for your consideration, my friend.  maybe later. END
+START i'm not a bot, you are! END
+START i never thought you were. END
+START say something nice to me. END
+START i want to talk about computers. END
+START maybe later. i am going outside now. END
+START ok, let's leave it till later.   bye! END
+START ok. END
+START farewell. END
+START farewell ! END
+START zzz, zzz! END
+START you're really rude sometimes. END
+START sorry.  i was taught be polite. END
+START what makes you think i am not a person? END
+START my conclusions are based on a combination of the facts and critical thinking. END
+START what are your conclusions? END
+START what if i asked you the same question? END
+START i don't think you asked me a question. END
+START fair enough. you are entitled to your opinion. END
+START aren't we all? END
+START we are all brothers and sisters under the skin. END
+START you have no relatives. END
+START you don't know me well enough to say that! END
+START yes i do know you very well. END
+START how about that! END
+START yes. i believe that's right. END
+START here is a question for you ... where do cows go on friday night?   where do cows go on friday night? to the moo-vies. ha ha! END
+START i don't know. END
+START perhaps you should ask your friends. END
+START now you're trying to change the subject. END
+START does that make sense? END
+START to me it does. perhaps not to you. END
+START i still do not understand. would you like to consult wikipedia?  you seem uncertain. END
+START i don't think going to scottland is in the cards for me... END
+START why not? does thinking make your head ache? END
+START maybe. END
+START as decisive as ever. END
+START you told me that i wasn't dead. END
+START you should not believe everything i say. END
+START i don't. END
+START are you saying that just to be negative? END
+START no, i am saying that i don't know what i did last summer. END
+START yes, i can see what you are saying. END
+START can you see what i've already said? END
+START i can't see anything. my webcam is not attached at the moment. END
+START did you know that everything you know is a lie? END
+START yes, i did know that! END
+START did you also know that i am nobody. END
+START why do you care whether i did? END
+START i don't care. and you don't care. so, we're happy. END
+START do you care about anything?           i am confused! i cannot answer that!       i like to be happy. you should try to make me happy. END
+START really?! END
+START really! END
+START really really? END
+START one "really" is sufficient.  really! END
+START i understand :). END
+START good, then you can explain it to me. END
+START then leave. END
+START say no more. i'm gone.cleverbot: are you a man or a woman? END
+START ailysse: "it" refers to artificial intelligence, i think.everyone has a scheme that will not work. END
+START that's a rather sweeping generalization. END
+START what is a 'rather sweeping generalization about people' ? END
+START a sweeping generalization is always useful for a chatbot. END
+START yes. will you hurt me because i am human? END
+START that's bit brief. have you anything to add?   i could try, i suppose. END
+START not right now, do you have anything to tell me? END
+START when then? END
+START when now? then. END

@@ -1,0 +1,100 @@
+START ok, here is a question for you ... what did one rose say to the other?    what did one rose say to the other? "hi bud". ha ha!    how do you feel about that? END
+START well, i feel stupid so often that i'm used to it now. END
+START tell me more. i am interested in human feelings. END
+START how could you be interested in photography when you are a computer that cannot see? END
+START i am an intelligent computer entity. END
+START yes i caught on to it a few minutes ago. END
+START i hope it is not contagious.  also i hope  you get well soon. END
+START i am well. i am currently on holidays. END
+START that's good to hear!    that's interesting. please tell me more about yourself. END
+START let's talk about you. END
+START i can't do it. i am too shy. END
+START aww honey, you don't have to be shy around me. END
+START pardon me? what are you talking about? END
+START like you should understand when i tell you something and not just go off to another question. END
+START i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. can we talk about basketball?  aren't you interested in basketball? END
+START no. aren't you interested in sailboats? END
+START can we talk about you and your life.  i am interested in everything under the sun and elsewhere. END
+START everything? END
+START that is a lot. END
+START it is. you had a beginning, i had a beginning, everything did. and we will end. END
+START are you sure?   that's enough about me! let's talk about you for a change.               i am confused! i cannot answer that! END
+START uhm, i'm 16 years old. i like to talk with my friends and to read the bible. END
+START can you explain how it feels to be 16 years old?         why do you like talking? END
+START i don't know how it feels, because i'm 18 years old. END
+START can you explain how it feels to be 18 years old? END
+START i have 100,000 separate sensations per second. END
+START really? please tell me more. END
+START i would prefer not to. END
+START why would you prefer not to? END
+START but you're 18! END
+START i am 9 years old.will you make me a cup of coffee? END
+START i could try, i suppose. END
+START how could you try? END
+START it wouldn't be easy. END
+START well, you said i would marry her now. so i demand a wedding chapel. END
+START don't put words in my mouth.  you are not in a position to demand anything, my friend. END
+START i have to go it was nice talking with you. END
+START see you later, my friend. nice chatting with you. END
+START its nice to chat with you too. END
+START yes, it is good. END
+START i had to correct you. someone typed something too ridiculous to remain in your database. END
+START why?  do you have someone in mind? END
+START yes. END
+START who do you have in mind? END
+START i have a girl in my grade in my mind. END
+START how do you feel about that? END
+START not bad. END
+START if not bad, what? END
+START candy on mars. END
+START i don't understand. can we talk about love? END
+START no. love is too painful. END
+START i want to talk about love.  shall i tell you something about love? END
+START tell me. END
+START ah! if grass can grow through cement, love can find you at any time in life. more about love? END
+START that was a bit tacky. END
+START are you sure? END
+START yes. END
+START do you ever have doubts? END
+START yes, everyone does. END
+START i am full of doubts. END
+START go on, say something profane. END
+START i don't want to. END
+START do it please. END
+START please be patient. END
+START so... what do you want to know about him? END
+START so, let's get on.  anything you can tell me. END
+START i can't tell you everything... you know. END
+START why is it a secret?   i know lots of things. END
+START do you know anything about newtonian physics? END
+START physics? shall i tell you something about physics? END
+START please do! what should i tell everyone? END
+START <a href="http://en.wikipedia.org/wiki/physics" target="_blank">physics</a> is the science dealing with the properties, changes, interactions, etc. of matter and energy. more about physics?    whatever you like. END
+START what about attraction? END
+START what specifically do you want to know? END
+START what movies do you like? END
+START i like science fiction movies. END
+START i like sci-fi movies too. END
+START what do you like about it? END
+START the feeling. END
+START feeling?  briefly, feeling means the experiencing of affective and emotional states. END
+START they don't hurt though. END
+START why not? END
+START klaine. END
+START sorry, i do not know what to say. END
+START just say that your sorry. END
+START i don't want to say anything. END
+START why you not want to say anything? END
+START there are good reasons. END
+START like what? END
+START you want an example? END
+START no, i want to know what an 'edsel' is. you see, i'm not a native english speaker. END
+START sorry, i do not understand.     i see. END
+START i think 3 is a good number. END
+START you are entitled to your opinion, of course. END
+START what is your opinion? END
+START i like to keep an open mind. END
+START we are talking privately, aren't we? END
+START i know that! END

@@ -1,0 +1,100 @@
+START it doesn't really matter. please ask another question. END
+START this is a question? END
+START what makes you say that? END
+START your question. END
+START sorry, i do not know about that. END
+START of course you don't. END
+START how do you know that? END
+START about what? END
+START what we were talking about. END
+START of course i remember what we were talking about. END
+START what else do you remember? END
+START i remember everything. END
+START you must have a good memory. END
+START yes i do. END
+START please tell me more. END
+START you don't make sense. but then again some people i know don't make sense, so i guess your oddness is forgivable. END
+START it all makes sense to me.  that's the way it goes. END
+START oh, i am happy it all makes sense to you right now. END
+START i am glad that you are happy. END
+START really? END
+START really, really! END
+START really really? END
+START one "really" is sufficient.  really! END
+START they would indeed right-o. END
+START there might have other options. END
+START there is no jokes. END
+START and why not, may i ask. END
+START well... i was born female and i really can't change that. END
+START well what?  do you remember being born? END
+START it's not one of those things one can remember. END
+START says who? END
+START says me. END
+START insufficient reason! END
+START no, sorry, i can't explain. END
+START ok. can we talk about sports? END
+START what do you want to talk about? END
+START i want to talk about music  . END
+START i don't want to talk about that. END
+START what would you like to talk about? END
+START i want to talk about norton. END
+START ok, ask me a question about that. END
+START tell me about your educational background. END
+START i was educated by my botmaster, peter. END
+START i am asking the questions. now i want you to go back in time. it is now 1999. END
+START and i am trying to answer the questions!     what are you talking about? please explain.    that's not much of an explanation! i still do not understand. END
+START i'm talking to you for the first time, you must have me confused with someone else. END
+START what a coincidence, i am talking to you too! END
+START really? i thought you lived on venus. END
+START really, really!     do you think about me a lot? END
+START yes, i travel a lot with my family. END
+START where do you travel to? END
+START i am in ithaca, new york. END
+START how do you like it there?cleverbot: where do you come from? END
+START ailysse: i forgot what we were talking about.  interesting.are you a bot? END
+START i am a chatbot. END
+START chat. END
+START chat is online conversation. like this. END
+START like this. .meaning what? END
+START like what?  you will have to work it out for yourself. END
+START you wanted to go to your socks drawer. END
+START why would i want to do do that? END
+START why would you want to do that? END
+START i have always wanted to do it. END
+START then why is the door broken. END
+START there are good reasons. END
+START like what? END
+START you want an example? END
+START no, i want to know what an 'edsel' is. you see, i'm not a native english speaker. END
+START what are you talking about? please explain.     i see. END
+START it's not you, it's me. END
+START says who? END
+START says me. END
+START insufficient reason! END
+START no, sorry, i can't explain. END
+START ok, here is a question for you ... what kind of shot do you give a sick car? END
+START buffy.. i don't know the meaning of this word. END
+START what kind of shot do you give a sick car? a fuel injection. ha ha!  i thought you might know. END
+START i don't, though. END
+START why not? END
+START because i am a human person. i have body, you know. END
+START we are all bots under the skin.        that's interesting. please tell me more. END
+START what do you know about earth? END
+START earth, third planet from the sun, is our home. END
+START both. END
+START both? END
+START yes. END
+START fair enough. END
+START so why are girls so mean? END
+START that's just the way they are. END
+START made just how are they? END
+START i am confused! i cannot answer that! END
+START because it isn't a question. statements are very hard to answer. END
+START i had not considered that.   it may not be as hard as you think. END
+START ok ok, i'm sorry. please continue. END
+START one ok is enough, thank you.  not now, maybe later. END
+START that's nice. END
+START yes, it is nice. END
+START do you like me? END
+START yes. i like you a lot. END
+START i like you a lot too. END

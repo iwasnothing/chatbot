@@ -1,0 +1,1531 @@
+START december 28, 1903 END
+START february 8, 1957 END
+START pure and applied mathematician, physicist, inventor, computer scientist, and polymath END
+START von neumann architecture, linear programming, self-replicating machines, stochastic computing END
+START 150 END
+START the computer and the brain END
+START manhattan project END
+START 60 in pure mathematics, 20 in physics, and 60 in applied mathematics END
+START mathematical analysis of the structure of self-replication END
+START quantum mechanics END
+START göttingen END
+START operator theory END
+START ergodic theorem END
+START j. robert oppenheimer and edward teller END
+START general advisory committee of the united states atomic energy commission END
+START united states air force, the armed forces special weapons project, and the lawrence livermore national laboratory END
+START key steps in the nuclear physics involved in thermonuclear reactions and the hydrogen bomb END
+START budapest END
+START two younger brothers END
+START banker END
+START end of the 1880s END
+START kann margit END
+START 1913 END
+START emperor franz joseph END
+START marghita END
+START margittai neumann jános END
+START ten END
+START governesses END
+START english, french, german and italian END
+START 8 END
+START lutheran fasori evangelikus gimnázium END
+START gymnasium END
+START martians END
+START 1963 END
+START 15 END
+START gábor szegő END
+START two major mathematical papers END
+START georg cantor END
+START eötvös prize, a national prize for mathematics END
+START chemical engineer END
+START university of berlin END
+START pázmány péter university in budapest END
+START axiomatization of cantor's set theory END
+START university of berlin END
+START twelve major papers in mathematics END
+START thirty-two papers END
+START princeton university END
+START new year's day in 1930 END
+START mariette kövesi END
+START he was baptized a catholic. END
+START marina END
+START october 1938 END
+START 1933 END
+START 1939 END
+START 1937 END
+START age END
+START limericks END
+START regularly playing extremely loud german march music END
+START albert einstein, END
+START stanislaw ulam END
+START gossiping and giggling, swapping jewish jokes, and drifting in and out of mathematical talk END
+START a new collection of jokes END
+START russell's paradox END
+START ernst zermelo and abraham fraenkel END
+START the axiom of foundation and the notion of class. END
+START method of inner models END
+START from the bottom up in an ordered succession of steps END
+START if one set belongs to another then the first must necessarily come before the second in the succession END
+START a class which does not belong to other classes END
+START zermelo–fraenkel END
+START class of all sets which do not belong to themselves can be constructed, but it is a proper class and not a set. END
+START kurt gödel END
+START they cannot prove every truth which is expressible in their language END
+START congress of königsberg END
+START less than a month END
+START usual axiomatic systems are unable to demonstrate their own consistency END
+START second incompleteness theorem END
+START continuous geometry. END
+START instead of the dimension of a subspace being in a discrete set 0, 1, ..., n, it can be an element of the unit interval END
+START projections of the hyperfinite type ii factor END
+START in a series of famous papers END
+START algebraic concept of solvability of a group is relevant END
+START change of group that makes a difference, not the change of space END
+START methods of argument he employed END
+START bôcher memorial prize END
+START hilbert's fifth problem in the case of compact groups END
+START algebra of bounded operators on a hilbert space that is closed in the weak operator topology and contains the identity operator END
+START the analytic definition is equivalent to a purely algebraic definition as an algebra of symmetries. END
+START 1949 END
+START study of rings of operators END
+START lattice theory END
+START conserved by perspective mappings ("perspectivities") and ordered by inclusion END
+START garrett birkhoff END
+START novel axioms END
+START 140 pages END
+START living room writing-table END
+START von neumann END
+START mathematical foundations of quantum mechanics END
+START axiomatization of set theory END
+START mathematics of hilbert spaces and linear operators acting on them END
+START determination of the position of a particle prevents the determination of its momentum and vice versa END
+START formulations of both heisenberg and schrödinger END
+START determinism versus non-determinism END
+START proof contained a conceptual error and was therefore invalid END
+START bell had misconstrued von neumann's proof END
+START von neumann did not claim that his proof completely ruled out hidden variable theories END
+START physical universe could be made subject to the universal wave function END
+START consciousness of the experimenter END
+START von neumann–wigner interpretation never gained acceptance amongst the majority of physicists END
+START garrett birkhoff END
+START propositional calculus END
+START laws of distribution of classical logic,  and , are not valid for quantum theory END
+START 1928 END
+START mathematical discipline. END
+START a pair of strategies for both players that allows each to minimize his maximum losses END
+START all the possible responses of his adversary. END
+START can be true even when both of the disjuncts are false END
+START each of its members are necessarily indeterminate END
+START illustrated by a simple example END
+START minimize the maximum loss for each player END
+START theory of games and economic behavior END
+START oskar morgenstern END
+START several stunning publications END
+START uniqueness of an equilibrium using his generalization of the brouwer fixed-point theorem END
+START matrix pencil  a − λb with nonnegative matrices a and b END
+START p represents the prices of the goods END
+START q represents the "intensity" at which the production process would run END
+START rate of growth equals the interest rate END
+START proving that the growth rate equals the interest rate were remarkable achievements, even for von neumann END
+START viewed as a special case of linear programming END
+START unique in having made significant contributions to economic theory itself. END
+START fixed-point theorems, linear inequalities, complementary slackness, and saddlepoint duality END
+START when lecturing at berlin in 1928 and 1929 END
+START nicholas kaldor END
+START léon walras END
+START homogeneous linear system of gordan END
+START pivoting algorithm between simplices END
+START algorithm was the first interior point method of linear programming. END
+START 1941 END
+START durbin–watson statistic END
+START alternative that they follow a stationary first order autoregression END
+START numerical hydrodynamics END
+START smoothed the shock transition without sacrificing basic physics END
+START they tried to put too many computational grid points at regions of sharp discontinuity (shock waves) END
+START concept and design of the explosive lenses needed to compress the plutonium core END
+START he was one of its most persistent proponents, encouraging its continued development END
+START more powerful shaped charges and less fissionable material to greatly increase the speed of "assembly" END
+START implosive lens project was greatly expanded END
+START not depart by more than 5% from spherical symmetry END
+START george kistiakowsky END
+START 1945 END
+START four other scientists and various military personnel END
+START oversaw computations END
+START kyoto END
+START secretary of war henry l. stimson. END
+START july 16, 1945 END
+START alamogordo army airfield, END
+START between 20 and 22 kilotons END
+START klaus fuchs END
+START using a fission bomb to compress fusion fuel to initiate nuclear fusion END
+START soviet union END
+START weapons systems evaluation group END
+START armed forces special weapons project END
+START general advisory committee END
+START 1955 END
+START intercontinental ballistic missile delivery END
+START relative inaccuracy of the missile END
+START oppenheimer END
+START decide on the feasibility of building an icbm large enough to carry a thermonuclear weapon END
+START while the technical obstacles were sizable, they could be overcome in time END
+START 1959 END
+START mutual assured destruction END
+START quickly develop icbms and the compact hydrogen bombs that they could deliver to the ussr END
+START russians believed that bombers would soon be vulnerable, and they shared von neumann's view that an h-bomb in an icbm was the ne plus ultra of weapons END
+START keeping up with the soviets END
+START felt that, if freedom and civilization were to survive, it would have to be because the us would triumph over totalitarianism END
+START violently anti-communist, and much more militaristic than the norm END
+START manhattan project END
+START von neumann END
+START alan turing END
+START the first and second halves of an array are each sorted recursively and then merged END
+START von neumann's digital computers END
+START allowed solutions to complicated problems to be approximated using random numbers END
+START pseudorandom numbers END
+START von neumann wrote an incomplete first draft of a report END
+START architecture is to this day the basis of modern computer design, END
+START university of pennsylvania END
+START new eniac ran at one-sixth the speed END
+START programs could be developed and debugged in days rather than the weeks END
+START rca research laboratory END
+START 1953 END
+START advances in computing of the 1960s. END
+START 1949 END
+START computer virus END
+START eniac END
+START 1950 END
+START 6 °f (3.3 °c) colder END
+START stunned other mathematicians END
+START paul halmos states that "von neumann's speed was awe-inspiring." END
+START neumann actually enjoyed thinking, maybe even to the exclusion of everything else. END
+START "fastest mind i ever met", END
+START he was the cleverest man i ever knew, without exception. he was a genius. END
+START johnny was the only student i was ever afraid of. END
+START one of his remarkable abilities was his power of absolute recall. END
+START he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes. END
+START von neumann's way of thinking might not be visual, but more of an aural one. END
+START i have sometimes wondered whether a brain like von neumann's does not indicate a species superior to that of man END
+START he is regarded as one of the giants of modern mathematics END
+START most scintillating intellect of this century END
+START 1955 END
+START died within two weeks END
+START eighteen months END
+START father strittmatter END
+START did not receive much peace or comfort from it, as he still remained terrified of death END
+START he suddenly turned catholic—it doesn't agree with anything whatsoever in his attitude, outlook and thinking when he was healthy END
+START always believed him to be "completely agnostic." END
+START 2006 END
+START playstation network END
+START slim END
+START 2012 END
+START 85 million END
+START boomerang END
+START e3 2005 END
+START final fantasy vii END
+START tokyo game show END
+START metal gear solid 4: guns of the patriots END
+START six END
+START one END
+START to cut costs END
+START 60 gb END
+START silver END
+START pal END
+START blu-ray drive END
+START 20 gb model END
+START japan END
+START 27 END
+START march END
+START south korea END
+START 80 gb END
+START s$799 END
+START march 23, 2007 END
+START cech-2000 END
+START spider-man font END
+START quieter END
+START "sony computer entertainment" END
+START cover art END
+START tokyo game show END
+START 500 gb END
+START three END
+START october 12, 2012 END
+START garnet red END
+START 14 END
+START resistance: fall of man END
+START namco bandai games END
+START motorstorm: pacific rift END
+START 24 END
+START ratchet & clank future: tools of destruction END
+START 2007 END
+START tgs 2007 END
+START gran turismo 5 prologue END
+START devil may cry 4 END
+START the best END
+START platinum END
+START call of duty 3 END
+START 2009 END
+START greatest hits END
+START blitz games END
+START gran turismo 5 prologue END
+START 3.30 END
+START patched END
+START 3d films END
+START yellow dog linux END
+START terra soft solutions END
+START intel END
+START 8 END
+START the u.s. military END
+START cell END
+START power processing element END
+START eight END
+START 256 mb END
+START graphics processing END
+START dualshock 3 END
+START press conference END
+START heavier END
+START japan END
+START april 24, 2008 END
+START xmb END
+START nine END
+START crackle END
+START what's new END
+START friends END
+START network digital rights management END
+START 2 END
+START playstation network id END
+START copy protected END
+START photo gallery END
+START 2.60 END
+START facebook END
+START separately END
+START facial expressions END
+START june END
+START 2009 END
+START paid netflix subscription END
+START blu-ray END
+START october 2010 END
+START 'otheros' END
+START security concerns END
+START mandatory END
+START ps slim END
+START class action lawsuits END
+START internal system clock END
+START playstation network END
+START december 31, 1999 END
+START apocalyps3 END
+START apocalypse END
+START march 2 (utc), 2010 END
+START a leap year END
+START bcd END
+START operating system clock END
+START formula one championship edition END
+START racing END
+START playstation store END
+START psp END
+START remote play END
+START tokyo END
+START real END
+START multiplayer support END
+START playstation portable END
+START playstation plus END
+START ps+ END
+START jack tretton END
+START june 29, 2010 END
+START one-year END
+START the playstation store END
+START an icon END
+START remote play END
+START over 600 million END
+START media go END
+START what's new END
+START gamescom END
+START information board END
+START news END
+START region END
+START four END
+START "recently played" END
+START video END
+START "recently played" END
+START games END
+START playstation home END
+START avatar END
+START premium END
+START apartments END
+START multiplayer END
+START city END
+START november 6, 2012 END
+START live channel END
+START world heritage END
+START april 20, 2011 END
+START 77 million END
+START "welcome back" END
+START 30 END
+START two END
+START wii END
+START unique gameplay END
+START xbox 360 versions END
+START 2010 END
+START wii END
+START us$805.85 END
+START us$499 END
+START $306 END
+START ken kutaragi END
+START us$1.97 billion END
+START kaz hirai END
+START early 2009 END
+START nikko citigroup END
+START 150 million END
+START playstation 2 END
+START emotion engine chip END
+START cell END
+START diodes END
+START $240 END
+START 70% END
+START 6/10 END
+START xbox END
+START will greenwald END
+START pocket-lint END
+START 15th END
+START "the top 21 tech screwups of 2006" END
+START gamesradar END
+START "late, expensive and incompatible" END
+START a year END
+START 2007 END
+START doug lombardi END
+START 2010 END
+START portal 2 END
+START steamworks END
+START developers END
+START return on invested capital END
+START activision blizzard END
+START the times END
+START bioware END
+START 8.8 END
+START blu-ray playback END
+START hardware END
+START ultimate av END
+START cnet united kingdom END
+START amazon.com END
+START fifteen END
+START 90 out of 100 END
+START ps3 END
+START repackaging END
+START backward compatibility END
+START four END
+START four and a half END
+START exterior END
+START quietness END
+START smaller, lighter size END
+START disc loader END
+START close the cover END
+START cnet END
+START "cheap" END
+START hard drive END
+START disc-loader END
+START more expensive END
+START t3 END
+START the original ps3 END
+START weight END
+START the top loading tray END
+START the ps4 END
+START house of lords END
+START palace of westminster END
+START written declaration END
+START elaborate ceremonies END
+START palace of westminster END
+START letters patent END
+START the governor-general merely signs the bill END
+START constitutional monarch END
+START united kingdom, norway, and liechtenstein END
+START 18th END
+START united kingdom, norway, and liechtenstein END
+START a dire political emergency or upon the advice of their government END
+START exceedingly rare END
+START ministers END
+START reserve powers END
+START his or her ministers END
+START ministers END
+START improbable END
+START royal council END
+START earl of leicester END
+START house of lords END
+START house of commons END
+START curia regis, or royal council END
+START bishops, abbots, earls, and barons END
+START house of commons END
+START the sovereign END
+START the sovereign END
+START charles i END
+START raising taxes END
+START english civil war END
+START anne END
+START charles i END
+START restrict his arbitrary exercise of power END
+START 11 march 1708 END
+START anne END
+START her ministers END
+START hanoverian dynasty END
+START george i END
+START catholic emancipation END
+START george i END
+START catholic emancipation END
+START coronation oath END
+START george iv END
+START presiding officer of the scottish parliament END
+START london, edinburgh, and belfast gazettes END
+START 28, 32, and 33 END
+START four-week period END
+START advocate general for scotland, the lord advocate, the attorney general or the secretary of state END
+START review of its legality END
+START measures END
+START counsel general for wales or the attorney general END
+START the means by which the national assembly for wales passed legislation between 2006 and 2011 END
+START 2006 and 2011 END
+START counsel general for wales or the attorney general END
+START order in council END
+START lord chancellor END
+START chief pleas of sark END
+START lord chancellor END
+START 13 july 2011 END
+START 2007 END
+START reforms to the constitution of the chief pleas of sark END
+START tynwald hill at st john's END
+START manx END
+START summary of the long title END
+START only the short title and a summary of the long title END
+START (24 june) END
+START tynwald hill at st john's END
+START sodor and man diocesan synod END
+START church of england in the island END
+START order in council END
+START lieutenant governor END
+START 1994 END
+START the lieutenant governor END
+START between 1979 and 1993 END
+START the governor general of canada END
+START chief justice of canada—or another justice END
+START the deputy of the governor general of canada—the chief justice of canada—or another justice of the supreme court of canada END
+START two END
+START both houses must be notified on the same day END
+START publishing a special issue of the journals of the house of commons END
+START governor general's letter read aloud by the speaker END
+START 1708 END
+START george iii END
+START refused his assent to laws END
+START 1708 END
+START the british government END
+START colonies such as canada, australia, new zealand, the union of south africa, and newfoundland END
+START governor-general END
+START two bills of the same title had originated from the house END
+START revoked the first assent END
+START 2001 END
+START two bills of the same title had originated from the house END
+START 2001 END
+START it had not been passed by each house END
+START the governor-general revoked the first assent, before assenting to the bill which had actually passed END
+START tynwald END
+START 1765 END
+START lordship of the island was purchased by the british crown in 1765 END
+START order in council END
+START by letter from the secretary of state to the governor END
+START the governor-general END
+START lieutenant governors of the provinces END
+START a lieutenant governor may defer assent to the governor general, and the governor general may defer assent to federal bills to the sovereign. END
+START by the realm's sovereign or, more frequently, by the representative of the sovereign END
+START balfour declaration of 1926 and the statute of westminster 1931 END
+START john c. bowen END
+START force newspapers to print government rebuttals to stories to which the provincial cabinet objected END
+START supreme court of canada and by the judicial committee of the privy council. END
+START house of commons and the house of lords END
+START parliament acts 1911 and 1949 END
+START the sovereign or by lords commissioners END
+START anglo-norman law french END
+START "la reyne remercie ses bons sujets, accepte leur benevolence, et ainsi le veult" END
+START "la reyne le veult" END
+START "la reyne s'avisera" END
+START the clerk of the crown END
+START stating the appropriate norman french formula END
+START henry viii END
+START the annual state opening of parliament END
+START right END
+START committing adultery END
+START listening to the entire text END
+START five END
+START queen victoria END
+START five END
+START scarlet parliamentary robes END
+START the senior END
+START the lords reading clerk END
+START the 1960s END
+START once a year, at the end of the annual parliamentary session END
+START 1960 END
+START royal assent act 1967 END
+START does not require both houses to meet jointly END
+START by the sovereign in writing, by means of letters patent, that are presented to the presiding officer of each house of parliament END
+START the crown office (forms and proclamations rules) order 1992 END
+START 2000 END
+START when the assent is declared in the presence of both houses jointly assembled END
+START notified their respective house of the grant of royal assent END
+START when the second announcement is made END
+START clerk of the parliaments END
+START signature of the clerk is omitted, as is the norman french formula END
+START clerk of the parliaments END
+START 1875 END
+START australia END
+START president of the senate and the speaker of the house of representatives END
+START the 21st century END
+START 85 years after his great-grandmother, queen victoria, had last granted royal assent personally END
+START royal assent act 2002 END
+START house of commons END
+START the governor general or his or her deputy END
+START clerk of the senate END
+START governor general END
+START sanction royale END
+START council of ministers END
+START king baudouin END
+START both houses of parliament END
+START six months END
+START two-thirds END
+START , it becomes law without his signature END
+START "the second chamber of the states general sends the following approved proposal of law to the first chamber" END
+START the second chamber of the states general has rejected the accompanying proposal of law." END
+START "to the king, the states general have accepted the proposal of law as it is offered here." END
+START the state magazine END
+START in the archives of the king's offices END
+START neither the monarch nor a minister will sign the bill, notifying the states general that "the king will keep the proposal under advisement." END
+START articles 77–79 END
+START article 79 END
+START two END
+START article 92 END
+START article 91 END
+START title iii, the cortes generales END
+START chapter 2, drafting of bills END
+START "soy el rey de españa y no el de bélgica" END
+START a law permitting abortion on demand END
+START 3 july 2005 END
+START the next person of age in the line of succession END
+START not be possible under the current constitution END
+START 41 and 68 END
+START he would be guided by his prime minister in the exercising of his powers END
+START 2011 END
+START december END
+START a group END
+START group axioms END
+START abstract formalization of the group axioms END
+START symmetry END
+START lie groups END
+START point groups END
+START poincaré groups END
+START the study of polynomial equations, END
+START 1870 END
+START subgroups, quotient groups and simple groups. END
+START 1983 END
+START the set END
+START the group's underlying set END
+START shorthand expressions END
+START functions END
+START composing two of these symmetry functions END
+START the dihedral group END
+START abstract group END
+START group theory END
+START évariste galois END
+START arthur cayley END
+START 1870 END
+START walther von dyck END
+START the theory of lie groups END
+START claude chevalley END
+START the university of chicago END
+START 1960–61 END
+START all finite simple groups END
+START length of proof and number of researchers. END
+START structural concepts END
+START constructions related to groups END
+START group homomorphisms END
+START isomorphic END
+START isomorphic groups END
+START applying a to the first equality yields the second END
+START a rotation END
+START inverse END
+START the subgroup test END
+START irrelevant to the question whether a reflection has been performed END
+START rotation operations END
+START cosets END
+START coset addition END
+START coset multiplication END
+START quotient group END
+START is the quotient of the free group over the generators of the group END
+START any group END
+START every symmetry of the square END
+START injective map END
+START surjective maps END
+START canonical map END
+START the first isomorphism theorem END
+START mathematical objects END
+START henri poincaré END
+START the fundamental group END
+START proximity and continuity END
+START loops END
+START the modulus END
+START the remainder of that division END
+START a clock END
+START modulo p END
+START 1 to p − 1 END
+START four group elements END
+START cyclic END
+START any cyclic group with n elements END
+START the group of n-th complex roots of unity END
+START symmetry groups END
+START geometric nature END
+START group theory END
+START group law END
+START group action END
+START group theory END
+START phase transition END
+START curie temperature END
+START soft phonon mode END
+START mathieu groups END
+START coding theory END
+START differential galois theory END
+START invariant theory END
+START matrix groups END
+START the general linear group END
+START matrix groups END
+START the special orthogonal group so(n) END
+START euler angles END
+START degree 5 and higher END
+START abstract properties of galois groups END
+START radicals END
+START a finite number of elements END
+START the order of the group END
+START fundamental END
+START s3 END
+START complete classification END
+START finite groups END
+START lagrange's theorem END
+START computer algebra systems END
+START the jordan–hölder theorem END
+START continuous functions END
+START reals r under addition, (r ∖ {0}, ·), END
+START haar measures END
+START adele rings and adelic algebraic groups END
+START the absolute galois group END
+START krull topology END
+START the étale fundamental group END
+START lie groups END
+START noether's theorem END
+START rotation END
+START lorentz transformations END
+START poincaré group END
+START monoid END
+START natural numbers n (including 0) END
+START the grothendieck group END
+START the binary operation END
+START central africa END
+START chad END
+START the republic of the congo END
+START cameroon END
+START 4.7 million END
+START france END
+START france END
+START in 1960 END
+START ange-félix patassé END
+START muslim minority END
+START approximately 10,000 years ago END
+START farming END
+START african oil palm END
+START bananas END
+START fish END
+START 16th and 17th centuries END
+START europe END
+START bobangi people END
+START the americas END
+START ubangi river END
+START 1920 END
+START brazzaville END
+START cotton END
+START a network of roads END
+START christianity END
+START second world war END
+START barthélémy boganda END
+START 9,000 votes END
+START political stance against racism END
+START disheartened with the french political system END
+START 347,000 out of the total 356,000 votes END
+START every legislative seat END
+START boganda END
+START a plane crash END
+START his cousin, david dacko END
+START young students protested against bokassa's decree END
+START 100 children and teenagers END
+START france END
+START dacko END
+START general andré kolingba END
+START a pro-democracy movement END
+START the united states END
+START october 1992 END
+START un office of electoral affairs END
+START alleged irregularities END
+START in 1993 END
+START ange-félix patassé END
+START 53% of the vote END
+START mouvement pour la libération du peuple centrafricain END
+START gained a simple but not an absolute majority END
+START 28 december 1994 END
+START in 1996–1997 END
+START widespread destruction of property END
+START cameroon END
+START the bangui agreements END
+START murder of many political opponents END
+START general françois bozizé END
+START chad END
+START march 2003 END
+START bozizé's forces END
+START bush war END
+START bozizé won a presidential election END
+START november 2006 END
+START strikes by mirage jets END
+START towns in the country's northern regions END
+START syrte agreement END
+START the liberation of political prisoners END
+START cpjp END
+START 25 august 2012 END
+START april 2007 END
+START michel djotodia END
+START crimes against humanity END
+START genocide END
+START 200,000 END
+START séléka END
+START dzanga-sangha national park END
+START forest elephants END
+START lowland gorillas END
+START manovo-gounda st floris END
+START the activities of poachers END
+START missionary groups END
+START united states END
+START when fighting broke out between rebel and government forces END
+START democratic republic of the congo END
+START 2002–3 END
+START risk of starvation END
+START united nations END
+START secretary-general ban ki-moon END
+START 12 june 2008 END
+START un peacebuilding commission END
+START 31 march 2013 END
+START boycott the government END
+START djotodia END
+START a transitional parliament END
+START 18 months END
+START $400 a year END
+START one of the lowest END
+START diamonds END
+START ivory END
+START country's landlocked position END
+START food crops END
+START 3% END
+START 200,000 and 300,000 END
+START cotton END
+START tsetse fly END
+START socatel END
+START ministère des postes and télécommunications et des nouvelles technologies END
+START internet service END
+START itu telecommunication development sector END
+START improve infrastructure END
+START poor END
+START government abuses END
+START extrajudicial executions END
+START harsh and life-threatening conditions END
+START arbitrary arrest, prolonged pretrial detention and denial of a fair trial END
+START genetic and environmental factors END
+START exposure to air pollution and allergens END
+START aspirin and beta blockers END
+START the pattern of symptoms, response to therapy over time, and spirometry END
+START according to the frequency of symptoms, forced expiratory volume in one second (fev1), and peak expiratory flow rate END
+START there is no cure for asthma END
+START by avoiding triggers, such as allergens and irritants, and by the use of inhaled corticosteroids END
+START an inhaled short-acting beta-2 agonist such as salbutamol and corticosteroids END
+START intravenous corticosteroids, magnesium sulfate, and hospitalization may be required END
+START recurrent episodes of wheezing, shortness of breath, chest tightness, and coughing END
+START at night and in the early morning or in response to exercise or cold air END
+START sputum END
+START worse at night END
+START some people with asthma rarely experience symptoms, u END
+START more frequently END
+START gastro-esophageal reflux disease (gerd), rhinosinusitis, and obstructive sleep apnea END
+START psychological disorders END
+START radiocontrast reactions END
+START allergens, air pollution, and other environmental chemicals END
+START smoking during pregnancy and after delivery END
+START low air quality from factors such as traffic pollution or high ozone levels END
+START indoor volatile organic compounds END
+START the hygiene hypothesis END
+START a direct and unintended result of reduced exposure, during childhood, to non-pathogenic bacteria and viruses END
+START increased cleanliness and decreased family size in modern societies END
+START exposure to bacterial endotoxin in early childhood END
+START lower rates of asthma on farms and in households with pets. END
+START family history END
+START approximately 25% END
+START 25 genes END
+START the immune system or modulating inflammation END
+START over 100 genes END
+START chronic inflammation of the conducting zone of the airways END
+START the bronchi and bronchioles END
+START an increase in eosinophils and thickening of the lamina reticularis END
+START t lymphocytes, macrophages, and neutrophils END
+START cytokines, chemokines, histamine, and leukotrienes among others END
+START there is not one universal agreed upon definition END
+START many cells and cellular elements play a role END
+START airway hyper-responsiveness END
+START episodes of wheezing, breathlessness, chest tightness and coughing END
+START spontaneously or with treatment END
+START there is currently no precise test END
+START pattern of symptoms and response to therapy over time END
+START if there is a history of: recurrent wheezing, coughing or difficulty breathing END
+START spirometry END
+START children under the age of six END
+START spirometry END
+START it is the single best test for asthma END
+START if the fev1 measured by this technique improves more than 12% following administration of a bronchodilator END
+START caffeine END
+START single-breath diffusing capacity END
+START ≥20% END
+START . testing peak expiratory flow END
+START according to the frequency of symptoms, forced expiratory volume in one second (fev1), and peak expiratory flow rate END
+START as atopic (extrinsic) or non-atopic (intrinsic) END
+START atopic END
+START severity END
+START finding ways to identify subgroups that respond well to different types of treatments END
+START a chronic obstructive condition END
+START bronchiectasis, chronic bronchitis, and emphysema END
+START asthma is usually reversible END
+START alveoli END
+START the bronchi END
+START professional athletes END
+START cyclists (up to 45%), swimmers, and cross-country skiers END
+START when it is dry and cold END
+START inhaled beta2-agonists END
+START occupational disease END
+START it is estimated that 5–25% END
+START isocyanates, grain and wood dust, colophony, soldering flux, latex, animals, and aldehydes END
+START those who spray paint, bakers and those who process food, nurses, chemical workers, those who work with animals, welders, hairdressers and timber workers END
+START allergic rhinitis and sinusitis END
+START foreign body aspiration, tracheal stenosis or laryngotracheomalacia, vascular rings, enlarged lymph nodes or neck masses END
+START bronchiolitis and other viral infections END
+START copd, congestive heart failure, airway masses, as well as drug-induced coughing due to ace inhibitors END
+START chronic obstructive pulmonary disease END
+START asthma and copd END
+START by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi END
+START due to copd and asthma sharing similar principles of management END
+START corticosteroids, long acting beta agonists, and smoking cessation END
+START the evidence for the effectiveness of measures to prevent END
+START none are well supported enough to be recommended for this indication END
+START have not been found to be effective and thus are not recommended END
+START effective in decreasing exacerbations of asthma END
+START world health organization END
+START avoidance of triggers END
+START allergens, smoke (tobacco and other), air pollution, non selective beta-blockers, and sulfite-containing foods END
+START cigarette smoking and second-hand smoke END
+START decrease the number of people hospitalized for asthma END
+START yoga END
+START for those with severe persistent asthma not controlled by inhaled corticosteroids and labas END
+START it involves the delivery of controlled thermal energy to the airway wall during a series of bronchoscopies END
+START it appears to decrease the subsequent rate. END
+START sublingual immunotherapy END
+START generally good END
+START due to better recognition and improvement in care END
+START 19.4 million people as of 2004 END
+START half of cases will no longer carry the diagnosis after a decade END
+START 235–330 million people worldwide are affected by asthma END
+START 250,000–345,000 people END
+START it is more common in developed than developing countries END
+START the reason for these differences is not well known END
+START about $3,600 END
+START from $5,200 to $6,600 END
+START medicaid END
+START the lowest income communities END
+START in 1873 END
+START by rubbing the chest with chloroform liniment END
+START pilocarpin END
+START in the 1960s END
+START higher-quality END
+START high costs for the players and video titles themselves and the inability to record tv programming END
+START videophiles and film enthusiasts END
+START hong kong END
+START atlanta, georgia END
+START two years END
+START mca discovision END
+START "video long play" END
+START pioneer electronics END
+START unofficially END
+START discs END
+START richard wilkinson, ray dakin and john winslow END
+START optical disc corporation (now odc nimbus) END
+START dvd END
+START british broadcasting corporation (bbc) END
+START a school-based project to commemorate 900 years since the original domesday book in england END
+START japan END
+START 30 cm (12 in) in diameter END
+START 1s and 0s END
+START analog END
+START 55 minutes 5 seconds END
+START due to the length of the title and the desire to keep the film on one disc END
+START 60 minutes 5 seconds END
+START there are not any known uses of this format on the consumer market END
+START "laservision" is used to refer to discs with analog sound, while "laserdisc" is used for those with digital audio END
+START 6.1 channel dolby digital ex surround. END
+START dolby digital audio in digital form END
+START dvd's growing popularity END
+START higher-end END
+START 6-channel analog audio END
+START varied greatly END
+START digital END
+START improved the signal-noise ratio of their audio END
+START universal END
+START right analog audio channel END
+START digital dolby surround or stereo audio tracks END
+START garbage (static) output END
+START rare END
+START only one END
+START dts END
+START pal laserdiscs END
+START two END
+START two analog-only tracks on older pal lds, or two digital-only tracks on newer discs END
+START ld-700 END
+START first ld player to load from the front and not the top END
+START march 1984 END
+START philips END
+START optical videodisc system, "reflective optical videodisc" or "laser optical videodisc" END
+START disco-vision END
+START 1978 END
+START mca END
+START jaws END
+START video long-play END
+START magnavox vh-8000 END
+START the laservision association END
+START mca, universal-pioneer, ibm, and philips/magnavox END
+START pioneer electronics END
+START 1980 END
+START the vp-1000 END
+START ray charles END
+START paramount, disney and warner bros END
+START only the start credits shown in widescreen before changing to 4:3 for the rest of the film END
+START only format to include the cut scene of harrison ford playing the part of the school headmaster END
+START the electric horseman END
+START 425 END
+START laserdisc END
+START laserdisc END
+START cheaper END
+START at least 14 END
+START $5.00 per two-sided disc END
+START as little as $1.00 END
+START laserdiscs END
+START progressive wear with each use END
+START magnetic coating END
+START digital blocks which make up each independent frame END
+START the receiver END
+START comb filters almost inevitably smudge some detail END
+START low-contrast details like skin tones END
+START laserdiscs END
+START entirely END
+START subtle visible lines in gradient areas END
+START mpeg-2 encoding process END
+START the transport mechanism always obeys commands from the user END
+START where content protection code instructs the player to refuse commands to skip a specific part END
+START copyright warnings END
+START laserdisc END
+START filling in unreadable areas of the picture with blank space or a frozen frame of the last readable image and sound END
+START dvd END
+START dvd END
+START laserdisc END
+START dvds END
+START video signal-to-noise ratio and bandwidth END
+START internal timing END
+START relatively small market share END
+START macrovision's copyguard protection END
+START "special edition" END
+START the 1984 criterion collection edition of citizen kane END
+START interviews, commentary tracks, documentaries, still photographs END
+START support for multiple audio tracks END
+START a disc has to be flipped over in order to continue watching END
+START pioneer ld-w1 END
+START line count END
+START clv END
+START glitches, streaks, bursts of static, or momentary picture interruptions END
+START digital mpeg-2 END
+START analog END
+START when the laser optical pickup assembly within the player is out of alignment or because the disc is damaged or excessively warped END
+START "crosstalk" END
+START swirling "barber poles" or rolling lines of static END
+START cav END
+START the rotational speed never varies END
+START the player reads the same two fields for a given frame over and over again, causing the picture to look frozen END
+START inconsistency END
+START hardware quality END
+START $25 END
+START us$200 to well over $1,000 END
+START adhesive END
+START "color flash" END
+START black spots that looked like mold or burned plastic which cause the disc to skip and the movie to exhibit excessive speckling noise END
+START high cost of the players and discs END
+START nearly one million END
+START prices were kept low to ensure adoption END
+START laserdiscs END
+START usd100 END
+START pal standard END
+START ntsc END
+START late 1990s END
+START movie enthusiasts END
+START 2001 END
+START japan END
+START early 1980s END
+START 1985 END
+START jasmine multimedia END
+START michael jackson, duran duran, and cyndi lauper END
+START 24 END
+START single-sided END
+START lucasfilm END
+START 1986 END
+START a scsi-equipped laserdisc player attached to a bbc master computer END
+START laservision read only memory END
+START cav END
+START hypercard END
+START play specific content from the disc END
+START in education END
+START voyager END
+START the u.s. military END
+START 43 lb (20 kg) END
+START removing the ribbon cable and connecting a serial cable directly from the computer's serial port to the port on the laserdisc player END
+START instant-access capability END
+START sega's astron belt END
+START 1983 END
+START 5:3 END
+START capable of reading through disc defects such as scratches and even mild disc rot that would cause most other players to stop, stutter or drop-out END
+START crosstalk END
+START almost 15 years END
+START us$10,000 END
+START tiny END
+START terminator 2: judgment day, lawrence of arabia, a league of their own, bugsy, close encounters of the third kind, bram stoker's dracula and chaplin END
+START enhanced 16:9-ratio widescreen laserdiscs END
+START 16:9-ratio widescreen END
+START very few people owned 16:9 displays END
+START distorted END
+START 33% END
+START terminator 2 END
+START thx certified END
+START unforgiven, grumpy old men, the fugitive, and free willy END
+START basic instinct, stargate, terminator 2: judgment day, showgirls, cutthroat island, and cliffhanger END
+START recordable laservision disc END
+START optical disc corporation (odc, now odc nimbus) END
+START 1984. END
+START reflective purple-violet (or blue with some rlv discs) color END
+START to make it recordable, as opposed to the silver mirror appearance of regular lds END
+START making short-run quantities of laserdiscs for specialized applications such as interactive kiosks and flight simulators END
+START silver mirror END
+START 12 cm (4.7 in) END
+START cd video (cd-v) discs, and video single discs (vsd) END
+START up to five minutes of analog laserdisc-type video content END
+START music video END
+START david bowie END
+START audio cd tracks END
+START only in japan and other parts of asia END
+START vsds END
+START 1945 END
+START 1947 END
+START emperor of india END
+START republic END
+START 14 december END
+START queen victoria END
+START bertie END
+START st. mary magdalene's church END
+START hms cumberland END
+START three months END
+START first world war END
+START fellow officers END
+START duodenal ulcer END
+START officer in charge of boys at the royal naval air service END
+START 4 END
+START 1919 END
+START king albert END
+START history, economics and civics END
+START industrial prince END
+START edward END
+START tennis END
+START industrial welfare society END
+START sheila, lady loughborough END
+START lady elizabeth bowes-lyon END
+START twice END
+START fellow royals END
+START his stammer END
+START lionel logue END
+START doubles tennis END
+START parliament house END
+START lilibet END
+START elizabeth (called "lilibet" by the family), and margaret END
+START 145 piccadilly END
+START j. h. thomas END
+START secretary of state for dominion affairs END
+START edward was unmarried and had no children END
+START divorced woman with two living ex-husbands END
+START abdication END
+START queen mary END
+START broke down and sobbed like a child END
+START the parliament of the irish free state END
+START all direct mention of the monarch END
+START external relations act END
+START day of the abdication END
+START george vi END
+START his royal highness the duke of windsor END
+START the order of the garter END
+START balmoral castle and sandringham house END
+START 12 may 1937 END
+START queen mary END
+START two END
+START delhi END
+START neville chamberlain END
+START munich agreement END
+START buckingham palace END
+START john grigg END
+START canada and the united states END
+START william lyon mackenzie king END
+START king and queen of canada END
+START u.s. ambassador to canada END
+START gave full sovereignty to the british dominions END
+START isolationist tendencies END
+START edward viii END
+START president franklin d. roosevelt END
+START 1939 new york world's fair END
+START nazi germany END
+START london END
+START one thousand civilians END
+START 1942 END
+START neville chamberlain END
+START prime minister END
+START tuesday END
+START lord beaverbrook END
+START italy END
+START june 1943 END
+START morale END
+START the commonwealth END
+START india and pakistan END
+START burma END
+START 1949 END
+START jan smuts END
+START the gestapo END
+START south african government END
+START lung cancer END
+START arterial blockage END
+START right lumbar sympathectomy END
+START elizabeth END
+START duke of edinburgh END
+START windsor castle END
+START 2002 END
+START 2002 END
+START king george vi memorial chapel END
+START low END
+START labour member of parliament END
+START edward END
+START federalism refers to the mixed or compound mode of government END
+START division of powers between two levels of government of equal status END
+START general government (the central or 'federal' government) with regional governments END
+START relationship of parity between the two levels of government END
+START a division of sovereignty between two levels of government END
+START final and absolute source of political authority in a political community - is not possible. END
+START the descent of the united states into civil war in the mid-nineteenth century END
+START the characteristic of equality of standing between the two levels of government established END
+START the european union END
+START foedus END
+START a simple league or inter-governmental relationship among sovereign states based upon a treaty. END
+START 'neither a national nor a federal constitution, but a composition of both END
+START homogeneous states END
+START united states, germany or australia END
+START canada END
+START yugoslavia or czechoslovakia END
+START ukraine or syria END
+START belief in a stronger central government. END
+START stronger central government END
+START weaker central government END
+START federalism" is situated in the middle of the political spectrum between a confederacy and a unitary state END
+START europe END
+START weaker central government, relative to a unitary state END
+START judiciary END
+START nation-state of australia officially came into existence as a federation END
+START 1788 END
+START united states of america END
+START six, eventually self-governing, colonies END
+START 1889 END
+START military coup d'état led to the rise of the presidential system, headed by deodoro da fonseca. END
+START 1891 END
+START fonseca system END
+START regulate interstate trade END
+START tiered system END
+START the constitution of india delineates the subjects on which each tier of government has executive powers END
+START two-tier system of government END
+START panchayats and municipalities END
+START asymmetric END
+START special provisions for the state of jammu and kashmir as per its instrument of accession END
+START special provisions for the states of andhra pradesh, arunachal pradesh, assam, goa, mizoram, manipur, nagaland and sikkim END
+START the central government (through its appointed governor) takes control of state's administration for certain months END
+START germany, italy, belgium and luxembourg END
+START united kingdom, denmark and france END
+START since the presidency of françois mitterrand (1981-1995 END
+START 1863 END
+START with the signing of the treaty of coche by both the centralist government of the time and the federal forces END
+START "federation of sovereign states" upon principles borrowed from the articles of confederation of the united states of america END
+START president END
+START three components END
+START brussels' parliament END
+START brussels resolution, with the exception of one party END
+START the federal system passed in the parliaments of wallonia and brussels. END
+START the drafters of the current spanish constitution avoided giving labels such as 'federal' to the territorial arrangements. END
+START basque country and navarre END
+START madrid END
+START state END
+START not against political organization or "governance"—so long as it is self-governance utilizing direct democracy. END
+START federalism or confederalism END
+START government or legislature END
+START indirectly END
+START directly END
+START a useful way to structure political systems in order prevent violence among different groups with countries END
+START it allows certain groups to legislate at the subnational level END
+START some scholars have suggested, however, that federalism can divide countries END
+START changed towards a generally autonomous model END
+START in the aftermath of the soviet union END
+START boris yeltsin END
+START vladimir putin END
+START ederalism in the united states is the evolving relationship between state governments and the federal government of the united states END
+START american government has evolved from a system of dual federalism to one of associative federalism. END
+START james madison asserted that the states and national government END
+START "federalist no. 28," suggested that both levels of government would exercise authority to the citizens' benefit END
+START because the states were preexisting political entities END
+START enumerated powers END
+START in the constitution END
+START the right to levy taxes, declare war, and regulate interstate and foreign commerce. END
+START gives the federal government the implied power to pass any law "necessary and proper" for the execution of its express powers END
+START democratic-republicans END
+START the legislature had too much power (mainly because of the necessary and proper clause) and that they were unchecked END
+START the judicial system of courts END
+START as a political movement, and of what constitutes a 'federalist', varies with country and historical context END
+START movements associated with the establishment or development of federations can exhibit either centralising or decentralising trends. END
+START united states and australia END
+START the u.s. supreme court did not invalidate any federal statute as exceeding congress' power under the commerce clause. END
+START commerce clause END
+START the supreme court rejected the gun-free school zones act in the lopez decision END
+START rejected the civil remedy portion of the violence against women act END
+START include marijuana laws in the gonzales v. raich decision END
+START two components END
+START the dutch-speaking population represented by dutch-language political parties, and the majority populations of wallonia and brussels END
+START third component END
+START consequently has a number of political issues END
+START provides that no state may be deprived of equal representation in the senate without its consent END
+START cannot occur without the unanimous consent of all states or of a particular state END
+START would require unanimous consent of the provinces. END
+START provides that no amendment is admissible at all that would abolish the federal system. END
+START the same powers END
+START where states are granted different powers, or some possess greater autonomy than others do END
+START basques and catalans, as well as the galicians END
+START spain is not a federalism, but a decentralized administrative organization of the state. END
+START special procedures END
+START federal structure END
+START required that a proposal be endorsed not just by an overall majority of the electorate in the nation as a whole END
+START mechanisms to protect the rights of component states END
+START intrastate federalism END
+START is to directly represent the governments of component states in federal political institutions END
+START the upper house is often used to represent the component states while the lower house represents the people of the nation as a whole END
+START union of states END
+START that the us constitution "is in strictness neither a national nor a federal constitution; but a composition of both END
+START it is federal, not national; in the sources from which the ordinary powers of the government are drawn, it is partly federal, and partly national.. END
+START which reserves all powers and rights that are not delegated to the federal government as left to the states and to the people. END
+START two levels END
+START the central government and the regions END
+START because the 1988 constitution included the municipalities as autonomous political entities making the federation tripartite END
+START municipalities END
+START with their own legislative council (câmara de vereadores) and a mayor (prefeito END
+START china is the largest unitary state in the world by both population and land area END
+START decentralization END
+START chinese government is far too unwieldy to effectively and equitably manage the country's affairs END
+START centuries END
+START unitary state END
+START some powers devolved to local government units (lgus) under the terms of the local government code END
+START possible transition to a federal system as part of a shift to a parliamentary system. END
+START the consultative commission END
+START unitary state END
+START unitary state with a high level of decentralisation, often regarded as a federal system in all but name or a "federation without federalism" END
+START central government END
+START 8% of public spending, 38% for the regional governments, 13% for the local councils, and the remaining 31% for the social security system END
+START unitary state END
+START uk has relied on gradual devolution to decentralise political power END
+START 1914 END
+START which granted home rule to ireland as a constituent country of the former united kingdom of great britain and ireland END
+START eventually evolved into the modern day republic of ireland END
+START decentralised power once again END
+START referendums in scotland and wales and the good friday agreement in northern ireland END
+START england does not have its own parliament and english affairs continue to be decided by the westminster parliament END
+START certain governmental administrative functions END
+START the doctrine of the church END
+START the local church is ruled by elected elders, some of which are ministerial. END
+START shared sovereignty END
+START authority over its constituent members END
+START is the ecclesiastical federalism found in the bible. END
+START in the new testament END
+START the apostles and elders gathered together to govern the church END
+START can be found in almost every christian denomination, some more than others. END
+START the powers of foreign policy and national defense as exclusive federal powers END
+START federation would not be a single sovereign state END
+START germany retain the right to act on their own behalf at an international level, END
+START powers which are not either exclusively of european competence or shared between eu and state as concurrent powers are retained by the constituent states. END
+START bilateral END
+START parapodia END
+START polychaetes END
+START oligochaetes END
+START oligochaetes END
+START septa END
+START echiura and sipuncula END
+START front END
+START peristalsis END
+START turn their pharynges inside out to drag themselves END
+START sexual reproduction END
+START regenerate after severe injuries END
+START trochophore END
+START oligochaetes END
+START oligochaetes END
+START aeration and enriching END
+START up to a third END
+START enabling water and oxygen to penetrate the sea floor END
+START ragworms END
+START they have been over-harvested END
+START annelids are soft-bodied END
+START jaws and the mineralized tubes that some of the species secreted END
+START 518 million years ago END
+START modern mobile polychaete groups END
+START the mid ordovician END
+START shallow ring-like constrictions called annuli END
+START septa ("partitions") END
+START a common gut, circulatory system and nervous system END
+START a cuticle END
+START collagen END
+START greek END
+START hair END
+START the frontmost and rearmost sections END
+START greek END
+START little tail END
+START spiral in alternating directions END
+START collagen fibers END
+START mucus-secreting glands in the epidermis END
+START the dermis END
+START (body cavity END
+START hair-forming END
+START microvilli END
+START bristles END
+START fused bundles of cilia END
+START ridges whose tips bear hooked chetae END
+START polychaetes END
+START unjointed paired extensions of the body wall END
+START local control centers END
+START the pharynx END
+START throat END
+START in the peristomium or sometimes the first segment behind the peristomium END
+START in the prostomium END
+START arthropods END
+START the output signal lines of nerve cells END
+START shortening their bodies END
+START light, chemicals, pressure waves and contact END
+START on the neck END
+START polychaetes END
+START chemosensors END
+START ocelli END
+START body cavities END
+START septa END
+START vertical mesenteries END
+START modified epitheliomuscular cells END
+START waves of contraction and expansion that sweep along the body END
+START the septa enable the circular and longitudinal muscles to change the shape of individual segments END
+START throats END
+START fine muscle-powered hairs END
+START parasites and infections END
+START respiratory END
+START blood vessels END
+START circulation within the coelom END
+START leeches and their closest relatives END
+START connective tissue layer of the body wall END
+START two END
+START mesothelium END
+START suckers at their front and rear ends END
+START turned inside out to extend END
+START pharynx END
+START eunicidae and phyllodocidae END
+START seizing prey, biting off pieces of vegetation, or grasping dead and decaying matter END
+START palps covered in cilia END
+START siboglinidae END
+START a swollen lining END
+START 15% END
+START hydrogen sulfide and carbon dioxide END
+START methane END
+START soluble waste products END
+START protonephridia END
+START two END
+START protonephridia END
+START two END
+START nephridia END
+START trochophore larvae END
+START plankton END
+START the prostomium (head) END
+START about 25% END
+START 14% END
+START reduce the time the larva needs to spend among the plankton END
+START jelly END
+START change sex END
+START permanent gonads END
+START the rear of the body splits off and becomes a separate individual END
+START clitellates END
+START hermaphrodites END
+START in the ovaries END
+START the cocoon END
+START clitellates END
+START charles darwin END
+START the formation of vegetable mould through the action of worms END
+START generally in moist leaf litter END
+START oxygen and water can penetrate it END
+START storks END
+START glaciated areas of north america END
+START europe END
+START northern hardwood forests END
+START palolo worm END
+START palolo worm END
+START spawning modules END
+START molluscs END
+START ragworms END
+START 30 ad END
+START china END
+START 50 ad END
+START 200 ad END
+START iucn and cites END
+START 549 to 542 million years ago END
+START cnidarian END
+START 505 million years END
+START early cambrian END
+START australia END
+START 65 million years ago END
+START early cretaceous END
+START oligochaetes END
+START 472 to 461 million years ago END
+START polychaetes and clitellates END
+START oligochaetes END
+START hirudinomorphs END
+START approximately 80 END
+START 1997 END
+START torsten struck and colleagues END
+START 3 END
+START 11 END
+START scolecida, canalipalpata and aciculata END
+START oligochaetes END
+START 3 END
+START polychaetes END
+START echiurans and sipunculan END
+START pogonophores END
+START ladder-like END
+START protostomes END
+START deuterostomes END
+START deuterostomes END
+START jointed animals END
+START fan-like feeding structures END
+START annelids, molluscs, nemerteans and flatworms END
+START after the 4-cell stage, descendants of these 4 cells form a spiral pattern END
+START spiral determinate cleavage END

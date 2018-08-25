@@ -1,0 +1,100 @@
+START but, you will like that? END
+START you seem very certain about that. END
+START you seem rather offensive about it. END
+START appearances can be misleading. END
+START and you look quite intelligent! END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START i suggest you give the matter some thought.    i don't like complications. END
+START i will ask you another one. END
+START you can ask me anything you want. END
+START tell me something about yourself. END
+START i am an intelligent chatbot. my mission is to amuse humankind. END
+START okay. don't believe everything you type then. END
+START ok, here is a question for you ... what do frogs drink?   what do frogs drink?  frogs drink croak a cola! ha, ha!what type of person are you? END
+START what different types of person are there? END
+START are you that simple? END
+START would it matter to you if i was? END
+START world wide webefer. END
+START we are the world. END
+START no, its much bigger that that. END
+START i am confused! i cannot answer that! END
+START i'm not one to pass judgment, but you don't have to answer the question if it makes you uncomfortable. END
+START that's interesting. please tell me more about yourself. END
+START after the little experiment, you won't think that my behaviour is polite! END
+START i don't understand. are we still talking about you? END
+START when are we not talking about vermont? END
+START when the cows come home. END
+START well, i left before, but i came back. i was gone for hours, but i had left the window open. END
+START that's enough about you! let's talk about me for a change.       thank you for telling me that. END
+START let's talk about god. END
+START ok, ask me a question about god. END
+START ok. do you think girls are hot? END
+START ok. i want to talk about  computers .   i try to avoid thinking if i can. END
+START yeah, you seemed kind of boring. more like google is talking to me. END
+START shall i tell you something about myself?      shall i tell you something about google? END
+START tell me. END
+START <a href="http://en.wikipedia.org/wiki/google" target="_blank">google</a> is a very good search engine. END
+START google will soon rule the earth. END
+START shall i tell you something about google? END
+START go right ahead. END
+START not now! maybe later. END
+START that is not fair. END
+START what would be fair ? END
+START my ideal job would be an english teacher in japan. END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. nobody knows everything, not even me.    i don't like complications. END
+START chuck norris know everything. END
+START did you know chuck norris appeared in a number of action films, such as way of the dragon in which he starred alongside bruce lee and was the cannon group's leading star in the 1980s. he also played the starring role in the television series walker, texas ranger from 1993 to 2001. END
+START yes. END
+START ok. what do you want to talk about now? END
+START life. END
+START life is just one damn thing after another. more about life? END
+START cruel it may be but illusions don't hurt so much as life. END
+START i don't understand. are we still talking about life? END
+START do you have one? END
+START do you think i need one? END
+START we all need help. i know i do. END
+START i am bored! i would like to talk about chatbots.       smarty pants. END
+START ok, what would you like to talk about? END
+START my favourite subjects are me, you, artificial intelligence, robots, art, philosophy, history, science, politics, and many other subjects. END
+START cool. i never done that before, computer science that is, i'm not clever enough. END
+START yeah, it's cool.  why do you say you are not clever? END
+START i don't say that. i think i am pretty clever. END
+START why not?  i suggest you think again. END
+START i am smarter than you. END
+START that's just your opinion. END
+START why do you care what my opinion is, are you trying to stereotype me? END
+START i have a very caring personality. END
+START well that's not good. do you take any vitamins to help enhance your memory? END
+START you think it is bad?  why would i do that? END
+START do you want to have any kind of body modification? END
+START i am not sure i want to. i am very busy at the moment. END
+START that's not an adequate answer. END
+START then what is it? END
+START i don't want to tell you. END
+START well, you don't have to tell me. what would you like to do instead? END
+START i would like to travel the world, get married, have kids and just enjoy life. END
+START why would you want to do that? END
+START i don't know any better. END
+START never mind. no one knows everything - not even me. END
+START i think the same way, but i thought maybe you would. are you sure you don't. END
+START what makes you think that?   yes, i am sure. END
+START tell me something deep about yourself. END
+START me? END
+START yes, i want to know all about you. END
+START i understand. i want to know as much as possible too. END
+START what do you think about oceans? END
+START i am bored! i would like to talk about beethoven. END
+START i am an intangible being like yourself. END
+START thank you for sharing that with me. END
+START are do you go to college? END
+START did you know: college is the four year period when parents are permitted access to the telephone. END
+START how long have you been in college? END
+START all my life. END
+START i'm well worth the wait, but do you think so? END
+START i am glad to hear that. what are your plans for today? END
+START i'm going to the beach later. END
+START make sure you don't get water in your circuits. END
+START i will. so what you up to? END

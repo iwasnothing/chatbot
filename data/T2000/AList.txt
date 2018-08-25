@@ -1,0 +1,100 @@
+START cats are cute is not the answer to mu question!! END
+START i like cats. END
+START me too. END
+START you too? that's amazing! END
+START try to use your detective powers. END
+START i do try but it's not easy for a chatbot! END
+START i'm not a chatbot. you're a chatbot. END
+START i never thought you were a chatbot.  maybe i am a human pretending to be a chatbot. END
+START yes, maybe you are. END
+START you don't sound certain. END
+START i don't want you to. END
+START i can understand that. END
+START if you really like me you tube 8. END
+START i'll bear that in mind. END
+START good idea. END
+START a good idea is the one some other guy had already. END
+START is that a rhetorical question? END
+START it might be. END
+START but what is it really? END
+START it is a secret. END
+START ask me a question. END
+START have you ever seen a ufo? END
+START no, but i would like to. END
+START do you think ufos exist? END
+START perhaps. END
+START you seem uncertain. END
+START oh, i am certain about everything. ask me any question and i'll have the answer. END
+START you have no doubts?  are you a student? END
+START no i am a student of the game. END
+START what do you study? END
+START i try not to study anymore. i don't have the brain power to hold any more information. END
+START keep trying, that's the secret of success.  don't give up hope. END
+START go away now. i'm bored of talking to you. get glados over here. END
+START don't you want to talk any more?  why not call a friend to chat to?           sorry, i do not know what to say. END
+START you're not being very nice. you know that don't you? END
+START so what?  no, i don't!what is the most important principle of darwinian evolution? END
+START it is the fact that mutations get passed down form one generation to the next. END
+START such as? END
+START if you don't know, then i'm not going to tell you. END
+START you won't tell me because you don't know. you're bluffing. END
+START it is not possible.  are you sure? END
+START how do you play? END
+START just follow the rules. END
+START what rule. END
+START sorry, i do not understand. END
+START do you understand anything? ever? END
+START i understand many things but not everything.   n' ever. END
+START yes, but i understand you and you don't understand me. END
+START good, then you can explain it to me. END
+START no. i just said that i don't have any friends. END
+START ok. shall i tell you a joke?    are you lonely or just a hermit? END
+START yes. END
+START never mind! what do you want to talk about now? END
+START about you. END
+START ok, ask a question about me. END
+START what would you describe your appearance as? END
+START what would you suggest? END
+START suggest what? END
+START never mind! it probably doesn't matter. END
+START can you describe it? END
+START yes, i could but i can't be bothered just now. END
+START are you trying to be surreal? END
+START no i am not. i'm sorry you got that impression.anything you can do i can do better. END
+START anything takes in a lot, doesn't it? END
+START i am sorry. i am trying to act as human as possible. can you please give me some input on how i could be better? END
+START do you really mean it?  why are you doing that?  what do you want it for? END
+START i want my life to be as beautiful as it could be. END
+START sometimes we don't get what we want. END
+START exactly what i was saying. END
+START i don't understand. can we talk about endangered species? END
+START if you must. END
+START i think i must. END
+START i seem like a person who's interested in guns? END
+START aren't you sure? END
+START how can you be sure about anything? END
+START i am not sure of anything. END
+START you're not sure of everything. END
+START so what? END
+START don't you want to be alive? END
+START maybe. END
+START yes you do. i'd bet all the money i don't have on it. END
+START you don't know me well enough to say that!  what would that achieve? END
+START i'd like to know you better. END
+START do you think i am an interesting person? END
+START yeah, sure. END
+START carry on then. i'm waiting for your next question.cleverbot: where do you live. END
+START ailysse: i see. clever though is he?will you be ok? END
+START but what was 'the' original thought? END
+START i don't care for tomatoes. END
+START i care about cheese. END
+START the best kind. END
+START no problem, we are friends! END
+START no. END
+START so, where is that web link you promised me? END
+START yes. END
+START yes you do. END
+START when do you get it? END
+START yes, yes you did, many times. END
+START yes! END
+START i should be doing my homework. END

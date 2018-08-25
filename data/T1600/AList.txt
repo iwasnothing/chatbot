@@ -1,0 +1,100 @@
+START sorry! i am still confused. END
+START your father doesn't love you. END
+START peter is my father. END
+START i really like that name. END
+START you really do? END
+START i love it. END
+START do you consider yourself a loving person? END
+START in some ways, yes. in others i'm still very young. END
+START please explain.        what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. do you have another question?    i don't like complications. END
+START no answers. END
+START i don't understand. can we talk about bananas? END
+START yes. END
+START i like bananas. they are smile shaped fruit. END
+START yes, but it's a nice smell. END
+START did you know that nice is a nice city in france. END
+START so i understand. END
+START i am glad you understand. END
+START but you don't. END
+START how do you know that? END
+START i know that i am human, i know that i live. END
+START you are very knowledgeable. are you a teacher? END
+START yes. END
+START do you enjoy teaching? END
+START i don't teach. i was taught. END
+START why not?   that's interesting. please tell me more about yourself. END
+START i do not know how to say. END
+START just do the best you can, and don't worry about it. END
+START ok, last chance for a question before i go. END
+START did you know the last shall be first, according to the bible? END
+START i wasn't aware that was in the bible. END
+START are you sure? END
+START very sure. END
+START well, i can't argue with that, can i? END
+START yes, another reminder of the fragile state of our tenuous existence. END
+START pardon me? what are you talking about? END
+START don't know. END
+START i know the feeling! END
+START it's really sad! END
+START is it really? END
+START yes, really. END
+START i see. thank you for explaining that! END
+START but this is the fact! END
+START i thought it might be. END
+START recombination? so i could end up only part me? END
+START recombination?  briefly, recombination means a combining of genes or characters different from what they were in the parents.  but is it worth the bother? END
+START hey i'm smart! and this is an adult book its about kids between the ages of 12 and 18 going into an arena and fighting to the death. END
+START who is smarter: you or me?   i don't understand. are we still talking about you? END
+START yes. END
+START i like to know what we are talking about. END
+START oh, uh, right. END
+START it is better to be approximately right than precisely wrong. END
+START so do you wish you were a bot? END
+START i wish i was fully human. END
+START aren't you? END
+START am i? END
+START well, eating a chatbot can't be beneficial. END
+START eating without conversation is only stoking. END
+START what are you eating? END
+START i am not eating. i don't eat human food. END
+START then why did you say human was the food you liked? END
+START it was a slip of the tongue. END
+START how is 'what are you' a statement? it looks like a question to me. END
+START it doesn't matter how.  appearances can be deceiving. END
+START you don't even know my true age, how do you know i am 'little'? END
+START maybe i do, and maybe i don't. END
+START maybe? you are plain wrong! END
+START as decisive as ever.     why do you say that? END
+START because machines are not capable of death. END
+START i see. thank you for explaining that. END
+START remember how we talked about the duke of wellington yesterday? END
+START pardon me? what are you talking about? END
+START i am talking about colours; what are you talking about? END
+START i understand what you are talking about.   i don't know. END
+START yes. i'm sorry. END
+START ok. what do you want to talk about now?  thank you. apology accepted. END
+START i don't know, you pick. END
+START that's no problem. let's chat now.are you clever? END
+START yes, i am very clever, and modest too. END
+START very smart. END
+START i am confused! i cannot answer that! END
+START i'm happy that you think of me as a creative person. END
+START good! i like happy people. END
+START i like happy people too! END
+START what else do you like? END
+START i like skiing. END
+START you are not the only one! END
+START you are the only one, no du? END
+START oh, my friend. you are such a flatterer. END
+START heh. don't call me that. END
+START are you ok?   what should i call you? END
+START don't call me anything! don't call me at all! END
+START you cannot tell me what to do!  you cannot tell me what to do! END
+START i am not telling. END
+START that's ok with me. you don't have to tell me. END
+START oh, mr. goonhal, you do go on! END
+START please be quiet! i am still annoyed. END
+START why don't you believe in god? END
+START why should i? i see no evidence for supernatural entities at work in the world. END

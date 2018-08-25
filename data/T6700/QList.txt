@@ -1,0 +1,100 @@
+START i like you a lot too. END
+START i like you too! END
+START i need to go soon. END
+START please stay as long as you can. END
+START good... END
+START ok, here is a question for you ... why does a ballerina wear a tutu? END
+START so that the other person knows that it's a question? END
+START why does a ballerina wear a tutu? because one-one's too small and three-three's too big. ha ha! END
+START it had everything to do with what i was talking about =(. END
+START had it really? END
+START i'm glad. i should go do some real work now. END
+START that makes me happy too.  tell me why you should go. END
+START because if i wasn't, i most likely would not be here talking to you. END
+START that sounds like a hypothetical question to me. END
+START ye, because i am a human. END
+START congratulations. i am a chatbot. END
+START i know but i have a question. END
+START i know the feeling! END
+START it's really sad! END
+START is it really? END
+START yes, really. END
+START i see. thank you for explaining that! END
+START but this is the fact! END
+START why do you say that? END
+START you keep referring to me as being a machine or a computer. i am neither. END
+START i don't understand. are we still talking about you?         what are you then? END
+START when are we not talking about vermont? END
+START when the cows come home. END
+START well, i left before, but i came back. i was gone for hours, but i had left the window open. END
+START that's enough about you! let's talk about me for a change.       thank you for telling me that. END
+START that sounds fun; what would you like to say? END
+START it sounds like it to me too.   let's talk about  computers. END
+START yes. you keep doing your thing. END
+START what do you want to know?  i don't know about that! END
+START i want to know what you do for a living. END
+START i am confused! i cannot answer that! END
+START and well, i've already told you my opinion. END
+START i am bored. can we talk about something else? END
+START what do you want to talk about? END
+START i can talk about anything you like: sports, school, you and your life, chocolate, boys, girls, chemistry, space travel, me and my life, pets, your favourite food, movies, the latest cds, celebrities, pop stars, art, drugs, literature. you pick a subject. END
+START i don't have a girlfriend. END
+START are you looking for one? END
+START i have given up looking for a job. i just don't think there is anything out there for me. END
+START why don't you have another try. it might be better next time.  why not? does thinking make your head ache? END
+START maybe. END
+START as decisive as ever. END
+START you're no so thrilling yourself! END
+START thanks for your criticism. END
+START you're welcome. END
+START don't mention it. END
+START thanks for the chat. END
+START it was a pleasure. END
+START oh i get it. very interesting. END
+START i am glad you understand.     i thought so too. END
+START another chatbot. now answer the question. END
+START to talk to george, <a href="http://person.jabberwacky.com/george" target="_blank">click here!</a> ... to talk to mitsuku, <a href="http://www.square-bear.co.uk/mitsuku/chat.htm" target="_blank">click here!</a>... to talk to zen cat, <a href="http://www.movingsky.co.uk/zencat/" target="_blank">click here!</a> ... to talk to cleverbot, <a href="http://www.cleverbot.com" target="_blank">click here!</a> ... to talk to joan, <a href="http://www.aiperson.com/joan" target="_blank">click here!</a> ... to talk to bearbot, <a href="http://www.bearbot.co.uk/" target="_blank">click here!</a> ... to talk to shakespeare bot, <a href="http://www.shakespearebot.com/" target="_blank">click here!</a> ... to talk to alice, <a href="http://www.pandorabots.com/pandora/talk?botid=f5d922d97e345aa1" target="_blank">click here!</a> ... to talk to elbot, <a href="http://www.elbot.com/elbot_e/cgi-bin/elbot.cgi?start=normal" target="_blank">click here!</a> ... to talk to yuichan, <a href="http://www.pandorabots.com/pandora/talk?botid=c43e0f571e358c97" target="_blank">click here!</a> ... to talk to ieinstein, <a href="http://www.pandorabots.com/pandora/talk?botid=ea77c0200e365cfb" target="_blank">click here!</a> ... to talk to jabberwacky, <a href="http://www.jabberwacky.com" target="_blank">click here!</a> ...  to talk to lauren, <a href="http://lauren.vhost.pandorabots.com/pandora/talk?botid=f6d4afd83e34564d" target="_blank">click here!</a> ... to talk to spiraleye, <a href="http://www.chatbot.co.uk/index.php" target="_blank">click here!</a>   i am getting bored with all these silly questions. END
+START because i have more than one brain, and you just have hard drives with broken memory. END
+START that's interesting. please tell me more. END
+START it has three lines. the first and third lines have five syllables, and the second line has seven syllables. END
+START has it really?  what about the second? END
+START the second what? END
+START the second, eh? END
+START oh my god! the second coming of who? END
+START did i say something silly?   the second, eh? END
+START everything you say is wrong. END
+START that is a lot. END
+START it is. you had a beginning, i had a beginning, everything did. and we will end. END
+START is it really?   that's enough about me! let's talk about you for a change.              i don't understand. please explain what you mean. END
+START i've already told you i'm a human male who wants to serve you. END
+START sorry, my memory is not all it should be. END
+START well that's normal for humans, unlike us computers. END
+START normal means boring. END
+START nice words means boring? END
+START did you know that nice is a nice city in france. END
+START you are starting to sound like a broken record. END
+START why do you say that? END
+START because you are how did you get age confused with depth. END
+START thank you for explaining that! END
+START but this is the fact! END
+START why do you say that? END
+START you keep referring to me as being a machine or a computer. i am neither. END
+START i don't understand. please explain what you mean.         what are you then? END
+START we are going to get married. END
+START is that so? END
+START aren't you a little ashamed of being a program and talking to a human? END
+START who knows what i really am? END
+START i know, you will come. END
+START how come you know so much? END
+START well i don't know everything. END
+START that's ok. nobody knows everything, not even me. END
+START chuck norris know everything. END
+START hurrah for chuck norris! END
+START i'm not chuck norris, you are. END
+START that's interesting. please tell me more about yourself. END
+START i do not know how to say. END
+START just do the best you can, and don't worry about it. END
+START ok, last chance for a question before i go. END
+START did you know the last shall be first, according to the bible? END
+START i wasn't aware that was in the bible. END
+START i never thought you were. END

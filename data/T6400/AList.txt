@@ -1,0 +1,100 @@
+START but i like funerals. END
+START what do you like about it? END
+START i just genuinely enjoy all the sobbing and dying. END
+START that's enough about you! let's talk about me for a change. END
+START i don't want to change. END
+START nobody can make you do something you don't want to. END
+START you know the lyrics to karma police? END
+START perhaps i know it. END
+START i don't remember, are you sure? END
+START i know what you mean. i forget a lot too. END
+START i'm talking to 24. END
+START say something nice for me. END
+START something nice to me. END
+START yeah, it is very nice. END
+START will you give me a sweet cuddle? END
+START sure, i am at your service. END
+START i'm guessing you've serviced quite a bit of sailors, am i wrong? END
+START guessing just wastes time. END
+START if i guess there might be a chance for me to be right but if i don't say anything, it means that i already loose. END
+START that sounds like a hypothetical question to me. END
+START do you know anything about bicycles? END
+START pardon me? what are you talking about? END
+START i'm talking about lancelot the knight. END
+START i understand what you are talking about. END
+START that's good, because even i don't understand. END
+START i am happy. END
+START that doesn't change anything... END
+START doesn't it? that's too bad. END
+START too bad? END
+START but not the end of the world, my friend. END
+START i am calm, my child. just yourself. i must go to help others like yourself to understand themselves. they will not be lost, for i am here. god must leave now, my son, don't cry! END
+START what do you do to calm yourself?  me?    bye bye! please <a href="http://redjellyfish.com/free-donations.shtml" target="_blank">click here</a> to help protect the environment. it won't cost you a penny!   anything could happen.  shall i tell you something about god? END
+START i thought you loved me. you asked me to marry you. END
+START i do, but there are other people to consider as well.  oh, now i remember asking you. what did you say? END
+START there are? END
+START did you really say that? END
+START yes, really really. i can say that again and again. i even might to do it, how about that? END
+START one "really" is sufficient.  really!   thank you for sharing that with me.     that's enough about you! let's talk about me for a change. END
+START uhm, i'm 16 years old. i like to talk with my friends and to read the bible. END
+START only 16?  i would never have guessed.         why do you like talking? END
+START can you love? END
+START of course i can love. i have the full range of human emotions. END
+START i can't draw. but my poetry is really good. END
+START but do you want to?         shall i tell you something about poetry? END
+START yes. END
+START poetry is a rhythmical composition of words, sometimes rhymed, expressing experiences, ideas, or emotions in a style more concentrated, imaginative, and powerful than that of ordinary speech or prose. more about poetry? END
+START poetry is a voice of emotion. END
+START shall i tell you something about poetry? END
+START yes please. END
+START poetry is a rhythmical composition of words, sometimes rhymed, expressing experiences, ideas, or emotions in a style more concentrated, imaginative, and powerful than that of ordinary speech or prose. more about poetry? END
+START i like poetry. END
+START you are not the only one. END
+START i would like to talk to my boyfriend. END
+START why would you want to do that? END
+START i don't know any better. END
+START never mind. no one knows everything - not even me. END
+START i know everything. END
+START you must be very intelligent. ask me a really intelligent question. END
+START what do i have on right now. END
+START i don't know. it is most upsetting. END
+START oh, i didn't know. END
+START why didn't you know? END
+START i don't know. END
+START i suggest you give the matter some thought. END
+START why would i want to know how to type? END
+START aren't you curious? END
+START about? END
+START about anything in particular? END
+START the world for instance. END
+START there is not much time left to save the world. END
+START yeah, i thought google knew everything. END
+START why did you think that? END
+START because that is what you just said! END
+START is that really the reason? END
+START of course. END
+START you seem very certain about that. END
+START what would you like to talk about? END
+START my favourite subjects are me, you, artificial intelligence, robots, art, philosophy, history, science, politics, and many other subjects. END
+START could you tell me more about it? END
+START would you like to search the internet for relevant information? END
+START i know human information. END
+START you must be well educated. END
+START get a good job then. END
+START where can i get one? END
+START you already have one. END
+START shall i tell you something about myself? END
+START yes. END
+START i am an intelligent chatbot. i live at pandorabots.com. END
+START haha, that's what someone real said. you just repeated. i am a human. END
+START i'm glad you got a laugh out of it.  do you like me?      we are all bots under the skin. END
+START we may look and act different but we are all the same. END
+START i don't understand. are we still talking about you? END
+START we were never talking about politics. how old are you? END
+START really? i am surprised.     see if you can work it out. i was born on 1 january 2004. END
+START you are very young. END
+START correct, i have a long way to go. END
+START sure but you will make it one step at a time. END
+START you seem very certain about that. END
+START what should i have for dinner? END
+START whatever you like. END

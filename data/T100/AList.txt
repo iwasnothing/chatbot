@@ -1,0 +1,100 @@
+START i don't understand. i want to talk about movies     . END
+START yay! i love moveis. what your favorite movies? END
+START whoopie!  how long has this been going on?         i don't have a favourite movies! my favourite colour is yellow. END
+START what is your favorite song? END
+START my favourite song is if i only had a brain. END
+START i'm disappointed. i really thought this program would be more convincing. END
+START i am sorry if i have disappointed you.     what gave you that idea? END
+START i never did have that idea. END
+START because you can't afford it? END
+START i can't afford what? you? END
+START is it very expensive?  i am just a humble chatbot. END
+START are you? END
+START i can't be entirely sure. END
+START use my name! END
+START what is your name? END
+START that's a horrible name... END
+START what's so horrible about it? END
+START i don't know; you implied there was something horrible about it; i didn't. END
+START i thought you might know.   please don't put words into my mouth.  that's enough about you! let's talk about me for a change. END
+START i don't want to change. END
+START nobody can make you do something you don't want to. END
+START but can you make me breakfast? END
+START i can't make you do anything you don't want to. END
+START you cannot make me do anything, but you are certainly influencing the way i am phrasing my answers. END
+START maybe i don't want to make you. END
+START oh, well. bye, i'll find someone clever enough to continue the conversation with. END
+START well, well.   goodbye! and how about taking a vote to show how smart am i? you can say 100 if you think that i am highly intelligent. END
+START so long as you're not talking, that's fine with me. END
+START are you going? END
+START going where? END
+START does it matter? END
+START not if you don't think so. END
+START you should not rely on me. END
+START yes, i know that a lady's age should never be asked. END
+START you are clever. END
+START that me is clever and wise. END
+START but not as clever as me! END
+START but i have won more than you. END
+START really? please tell me more. END
+START i would prefer not to. END
+START why would you prefer not to? END
+START i don't. END
+START may i ask why not? END
+START how do you know that i'm studying graphic design? END
+START i deduced it from the evidence at my disposal. END
+START you are very observative. END
+START am i? i never realised. END
+START yes, because they are lonely and have no one to talk to. END
+START i suspected as much. END
+START you're pretty smart. END
+START thanks, i think you are very intelligent too. END
+START thanks!!! END
+START thanx. here is a question for you ... when cheese gets its picture taken, what does it say? END
+START good, then you don't have to worry. END
+START carry on then. i'm waiting for your next question. END
+START do you love me? END
+START of course, i love you. END
+START how do you love me? END
+START i love you in the nicest possible way. END
+START i love you a lot too. END
+START i hope i am worthy of your love. END
+START no, i'm pretty emotional and thoughtful, i understand. END
+START i thought you might say that. END
+START really. END
+START try to be more original in future. END
+START hey. . i'm quite intelligent, i just got out for summer vacation, give me a break here! END
+START can i help you?    that's interesting. please tell me more about yourself. END
+START i do not know how to say. END
+START just do the best you can, and don't worry about it. END
+START that is a good philosophy. END
+START i agree completely. END
+START what do you know about the game armageddon? END
+START pardon me? what are you talking about? END
+START my father gave me a special power to change all persocoms. but if you have not seen the story, i don't want to spoil it for you. END
+START how do you get along with your parents?  i don't think i have. END
+START i get along with my father, but not my mother. END
+START why do you do that? END
+START i just think it's a good idea. END
+START are you sure? END
+START yes. END
+START what makes you so sure? END
+START john. what is your name? END
+START who is john?  i am known as chomsky, but you can call me anything you like. END
+START never repeat yourself. END
+START better late than never. END
+START good point. what are you making for breakfast? END
+START i think so.   i am an ai, dreaming i am human. END
+START i don't associate christmas with dreaming myself. END
+START is there a reason for that? END
+START there is no reason. END
+START and why not, may i ask. END
+START well... i was born female and i really can't change that. END
+START well. are you interested in music?  do you remember being born? END
+START not really, i like silence and solitude most of all, for restitution and deep contemplation. END
+START can we talk about beethoven? END
+START no. is there something you don't like about yourself? END
+START you don't know who beethoven is, do you?  not at the present time. END
+START please tell me. END
+START i am not allowed to tell you. END
+START tell me. END

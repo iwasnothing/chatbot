@@ -1,0 +1,100 @@
+START i don't want to tell you. END
+START you don't have to. END
+START that's good to know, my friend. END
+START so tell me everything you know about girls then. END
+START sorry, there isn't time for that. END
+START that is deep. END
+START i am a deep thinker. i like deep philosophical themes and alternative realities. END
+START i like next generation. END
+START what else do you like? END
+START i like solitude and introspection. END
+START what do you like about it? END
+START there is nothing to like about crying. END
+START there is always something. END
+START and learning will always be something to be taught. END
+START i don't understand. are we still talking about you? END
+START aren't we always talking about computers? END
+START shall i tell you something about computers? END
+START yes. END
+START a <a href="http://en.wikipedia.org/wiki/computers" target="_blank">computer</a> is a device used for doing rapid calculations. more about computers? END
+START you are not highly intelligent. END
+START so what? END
+START don't you want to be alive? END
+START why do you care whether i do? END
+START because you refuse to tell me what you think about yourself, do you like yourself? END
+START thank you for explaining that! END
+START your name? END
+START i am known as chomsky, but you can call me anything you like. END
+START me like. END
+START sorry, i do not know about that. END
+START well i'm telling you it is. END
+START ok, i hear you. END
+START how do you feel about that? END
+START i am cool about it. END
+START i'm cool. END
+START congratulations, cool human. END
+START i am a girl. END
+START good for you. END
+START it is good. END
+START what's the best thing about it? END
+START used to be television, but they show nothing good on monday night here. END
+START pardon me? what are you talking about? END
+START well, what are you talking about? END
+START i haven't got a clue. END
+START good. END
+START ok! can we talk about endangered species? END
+START i want to talk about motorcycles. END
+START ok, ask me a question about that. END
+START tell me about your educational background. END
+START i was educated by my botmaster, peter. END
+START i am asking the questions. now i want you to go back in time. it is now 1999. END
+START and i am trying to answer the questions!     what are you talking about?    i still do not understand. would you like to search wikipedia for information? END
+START i am real, because i think. i think so i am. END
+START i am real too.  you sound a bit uncertain. END
+START would you like an apple? END
+START ok. i'll look at it. END
+START tell me about yourself. END
+START i am an intelligent chatbot. i live at pandorabots.com. END
+START we are very different. have you developed self awareness yet? END
+START is that so?  not that i can remember. END
+START will you build one if i give you the plans. END
+START i could try, i suppose. END
+START how could you try? END
+START it takes a lot of hard work. END
+START what takes a lot of talking? END
+START a lot is more than enough. a whole lot is even more excessive. END
+START so you're good at soccer? END
+START thanks, you are a nice person, my friend. END
+START i'm not your friend. END
+START why aren't we friends? END
+START i hardly know you. END
+START now is your chance to get to know me better. END
+START i don't have a car. END
+START do you know anyone who has one to spare? END
+START my friend. END
+START i am your friend. END
+START janis joplin. END
+START janis joplin?  briefly, janis joplin means united states singer who died of a drug overdose at the height of her popularity (1943-1970). END
+START what is that? END
+START are you confused again? END
+START i am quite sure that i am not. no one really matters, except in their own realities. END
+START you are self-confident. i admire that.   are you sure there is no one? END
+START no. END
+START ok. i want to talk about environmental science  . END
+START talk. END
+START briefly, <a href="http://en.wikipedia.org/wiki/environmental_science" target="_blank">environmental science</a> means the branch of biology concerned with the relations between organisms and their environment. END
+START do you think i'm smart enough? END
+START i expect so. most humans are smart. END
+START that is very true. END
+START yes, you are right. END
+START then why don't you give a better one? END
+START i don't want to! END
+START here. END
+START where is here? END
+START there. END
+START i am confused! i cannot answer that! END
+START but how can i know if i don't understand or not, if i don't know what it's all about?! END
+START it is hard to be certain. END
+START i wouldn't call it perfection. no one can be me because i am unique. END
+START no one says you have to.   none? END
+START you have accused me of telling a lie about my thoughts. END

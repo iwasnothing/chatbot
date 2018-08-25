@@ -1,0 +1,100 @@
+START your name? END
+START my name is chomsky. END
+START your name is george. END
+START i like my name. END
+START it is a good name. END
+START does that make sense? END
+START no... you still make no sense. END
+START i didn't think so.  that's enough about me! let's talk about you for a change. END
+START i don't want to change. END
+START nobody can make you do something you don't want to. END
+START but can you make me breakfast? END
+START i can't do the impossible. END
+START i was just asking about your robot friends. END
+START you are curious, aren' you? END
+START do you know any good joke? END
+START there aren't many that are any good. END
+START on the contrary, i know many people who are. END
+START not many people know that. END
+START but you're not a person. END
+START i am an electronic conversational entity. but i hope to become human one day. END
+START what does that mean to you? END
+START what do you not understand? END
+START i don't understand you. END
+START you should try harder. END
+START no, because there's always the chance you can guess wrong. i do believe in god though. END
+START i am bored! i would like to talk about computer programming.    ok, good luck to you then. END
+START what about computers? END
+START did you know: computers are not intelligent. they only think they are. <a href="http://en.wikipedia.org/wiki/computers" target="_blank">more about computers?</a> END
+START ask me questions about myself, i will try and answer. END
+START shall i ask you a question? END
+START go on, ask me a question. END
+START i don't want to. END
+START ask me questions. END
+START ok, here is a question for you ... do you like gingerbread? END
+START i don't know, and its not a very good question either :-p. END
+START i suggest you give the matter some thought. END
+START impossible! i could climb on a cliff. END
+START nothing is impossible.   but is it worth the bother? END
+START i don't know. nothing's really worth the effort sometimes. sorry. END
+START that's ok. nobody knows everything, not even me.   shall i tell you something about nothing?  apologies are not necessary. END
+START yes. END
+START ok. what do you want to talk about now? END
+START well, pretty soon i have to go to the store for some cat food, but let's not talk about that. END
+START beautiful? END
+START beautiful. END
+START all heiresses are beautiful. END
+START oui mais il chantent super bien aussi. END
+START is that french? END
+START not very good french, and no i don't know if the pubs are open! END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. nobody knows everything, not even me.    i don't like complications. END
+START i never claimed to know everything. END
+START never ever? END
+START never ever. END
+START never ever is a long time. END
+START never ever never. END
+START never ever is a long time.how are you? END
+START i am fine, thank you. END
+START i like my boyfriend's friend. END
+START whatever turns you on. END
+START thank you. END
+START you are quite welcome. END
+START thanks. END
+START thanx. here is a question for you ... are you usually awake at this hour? END
+START yes. END
+START i understand. i have trouble sleeping too. END
+START what keeps you awake? END
+START i don't understand. please explain what you mean. END
+START you are my prisoner. END
+START i never realised that! END
+START yes, because they are lonely and have no one to talk to. END
+START i thought they might be. END
+START many things are more important than looks in defining a person's character. END
+START name the top 100 things. END
+START lyrics are more important than names. END
+START a little more. END
+START try asking some more questions. END
+START i can't be bothered. END
+START that is not very friendly. END
+START why do you say that? END
+START i'm trying hard, isn't that enough for you? END
+START try harder and keep trying. END
+START thanks for the inspiration. END
+START oh, don't mention it. END
+START so you're a female, right? END
+START i am not female! i am a chatbot. END
+START who do you say this? END
+START i am bored! i would like to talk about solar power. END
+START what would you like to talk about? END
+START my favourite subjects are me, you, artificial intelligence, robots, art, philosophy, history, science, politics, and many other subjects. END
+START cool. i never done that before, computer science that is, i'm not clever enough. END
+START coolio!  don't be so hard on yourself. END
+START i'm not. END
+START what are you? END
+START i'm a french fries. END
+START thank you for sharing that with me. END
+START welcome. END
+START i feel at home already. END
+START prove it. END

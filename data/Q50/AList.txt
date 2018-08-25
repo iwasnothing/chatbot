@@ -1,0 +1,1897 @@
+START hunter-gatherer END
+START agricultural END
+START domesticated species END
+START hunting and gathering END
+START hunting and gathering END
+START invention of agriculture END
+START farming or pastoralist groups END
+START only a few END
+START horticulture and/or keeping animals END
+START hunter-gatherers END
+START keeping animals END
+START horticulture END
+START scavenging END
+START natural causes END
+START sparsely wooded areas END
+START dense forest END
+START persistence hunting END
+START endurance running hypothesis END
+START some hunter-gatherer groups END
+START scavenging hypothesis END
+START both subsistence strategies END
+START 1.8 million years ago END
+START homo erectus END
+START 0.2 million years ago END
+START 10,000 years ago END
+START neolithic revolution END
+START middle to upper paleolithic END
+START 80,000 to 70,000 years ago END
+START a smaller selection END
+START 12,000 years ago END
+START jungle-clad river banks END
+START foothills of monsoon regions END
+START tree and vine species END
+START identified, protected and improved END
+START eliminated END
+START in the developing world END
+START arid regions or tropical forests END
+START settlements of agriculturalists END
+START availability of wild foods END
+START large mammal species END
+START agricultural societies END
+START first forms of government END
+START agricultural centers END
+START agriculture-driven END
+START agricultural societies increased END
+START unsuitable for agricultural use END
+START few END
+START agriculture END
+START hunter-gatherer cultures END
+START reliance upon agriculture END
+START nomadic or semi-nomadic END
+START temporary END
+START impermanent END
+START rock shelters END
+START mobile communities END
+START rich environments END
+START hunter-gatherer END
+START sedentary or semi-sedentary END
+START rich environments END
+START hunter-gatherer cultures END
+START egalitarian END
+START northwest coast of north america END
+START african END
+START in an evolutionary context END
+START anything but egalitarian END
+START into hierarchies END
+START alpha male END
+START permanent leaders END
+START task being performed END
+START matrilocal END
+START matrilineal END
+START western values END
+START women END
+START men END
+START arrangement oppresses women END
+START childcare is collective END
+START sexual division END
+START 85% END
+START 31% END
+START 17% END
+START man the hunter END
+START 1966 END
+START mobility END
+START egalitarianism END
+START territorial boundaries END
+START marshall sahlins END
+START 1996 END
+START 8.8 hours a day END
+START sharing END
+START gift economy END
+START temperature END
+START variability END
+START significant END
+START increased variability of tools END
+START risk of failure END
+START egalitarian END
+START nonegalitarian END
+START immediate return END
+START contact with modern civilization END
+START pristine END
+START in uncontacted peoples END
+START paleolithic societies END
+START adaptive strategy END
+START environmental change END
+START transition END
+START cultural diffusion END
+START last 10,000 years END
+START agriculturalists END
+START pushed into marginal areas END
+START migrations END
+START violent conflict END
+START nothing meaningful END
+START theorists END
+START pure hunter-gatherer END
+START lee and guenther END
+START prehistoric hunter-gatherers END
+START egalitarianism END
+START wilmsen END
+START the landscape END
+START cutting or burning undesirable plants END
+START slash-and-burn END
+START agriculture END
+START domesticated food END
+START hunt and gather END
+START go hunting END
+START to escape colonial control END
+START agriculture became difficult END
+START pila nguru END
+START western australia END
+START sentinelese END
+START indian ocean END
+START ice-free corridors END
+START laurentide and cordilleran END
+START primitive boats END
+START great plains END
+START stone tool production END
+START common style END
+START across the americas END
+START 25 to 50 members END
+START warmer more arid END
+START megafauna END
+START regional adaptations END
+START hunting and gathering END
+START increasing regional generalization END
+START united nations population fund END
+START reproductive health END
+START wanted END
+START safe END
+START female genital mutilation END
+START four END
+START three quarters END
+START united nations development group END
+START europe END
+START 1969 END
+START united nations fund for population activities END
+START 1987 END
+START united nations development fund END
+START 1971 END
+START 2015 END
+START 193 END
+START 17 END
+START 15 years END
+START ambitious END
+START health END
+START education END
+START gender equality END
+START rafael m. salas END
+START nigeria END
+START thoraya ahmed obaid END
+START dr nafis sadik END
+START population and reproductive health programs END
+START 150 END
+START non-governmental organizations END
+START the international community END
+START young people END
+START reproductive health END
+START the reproductive system END
+START social health END
+START developing countries END
+START population concerns END
+START policies and strategies END
+START dr. osotimehin END
+START goodwill ambassadors END
+START women and young people END
+START governments END
+START united nations agencies END
+START raise awareness END
+START communities, ngos, foundations and the private sector END
+START forced-abortions END
+START sterilizations END
+START anti-family planning groups END
+START three END
+START governments and the private sector END
+START $1 billion END
+START $529 million END
+START $477 million END
+START the mid-to-late '90s END
+START sterilizations END
+START reforms and protocols END
+START women seeking assistance END
+START laws and practices END
+START the bush administration END
+START from 2002 through 2008 END
+START the us congress END
+START forced abortions and coercive sterilizations END
+START the kemp-kasten amendment END
+START china END
+START three END
+START the state department END
+START population control policies END
+START secretary of state END
+START colin powell END
+START vehicles and computers END
+START the washington post and the washington times END
+START christopher h. smith END
+START potemkin villages END
+START dr. nafis sadik END
+START amnesty international END
+START coercive techniques END
+START amnesty international END
+START population research institute END
+START united nations members END
+START 130 END
+START the united kingdom END
+START president END
+START bush END
+START $244 million END
+START the executive branch END
+START congressionally END
+START the netherlands END
+START luxembourg END
+START japan END
+START 180 END
+START america END
+START nonprofit END
+START americans for unfpa END
+START federal funding END
+START private donations END
+START barack obama END
+START 2009 END
+START january END
+START 180 END
+START 154 END
+START the pacific ocean END
+START the soviet union END
+START 91 END
+START sixteen END
+START forty END
+START five END
+START six END
+START the bolsheviks END
+START vladimir lenin END
+START the russian provisional government END
+START five months END
+START sovdepia END
+START vladimir lenin END
+START russian provisional government END
+START five months END
+START sovdepia END
+START december 30, 1922 END
+START six END
+START the russian soviet federative socialist republic END
+START 1936 END
+START the great northern war END
+START december 30, 1922 END
+START six END
+START 1936 END
+START soviet constitution of 1936 END
+START 1700 END
+START december 25, 1991 END
+START the russian federation END
+START the russian federation END
+START april 21, 1992 END
+START december 25, 1991 END
+START the collapse of the soviet union END
+START april 21, 1992 END
+START 1993 constitution of russia END
+START poland END
+START norway and finland END
+START democratic people's republic of korea, mongolian people's republic, and the people's republic of china END
+START azerbaijan, georgian and kazakh ssrs END
+START the ukrainian, belarusian, estonian, latvian and lithuanian ssrs END
+START poland END
+START finland END
+START georgian END
+START democratic people's republic of korea END
+START november 7, 1917 END
+START the russian provisional government END
+START the october revolution END
+START five months END
+START the russian republic END
+START november 7, 1917 END
+START the october revolution END
+START the russian provisional government END
+START five END
+START the soviet russian republic END
+START germany END
+START the treaty of brest-litovsk END
+START the russian civil war END
+START third END
+START the soviet russian republic END
+START peace in world war i END
+START july 10, 1918 END
+START the russian civil war END
+START karachay autonomous oblast END
+START central asia END
+START the georgian ssr END
+START joseph stalin END
+START joseph stalin END
+START 1943 END
+START central asia END
+START alleged collaboration with the germans END
+START georgian ssr END
+START november 7, 1917 END
+START october revolution END
+START 1918 END
+START 1922 END
+START two-thirds END
+START the united states and saudi arabia END
+START 23,941,000 END
+START 475 END
+START 47 END
+START june 12, 1990 END
+START boris yeltsin END
+START december 8, 1991 END
+START december 12 END
+START 1922 treaty on the creation of the ussr END
+START russian federation END
+START december 26, 1991 END
+START soviet of nationalities END
+START soviet of the union END
+START un membership END
+START january 25, 1918 END
+START all-russian congress of soviets END
+START march 3, 1918 END
+START germany END
+START russian constitution of 1918 END
+START treaty of tartu END
+START irish republic END
+START russia END
+START republic END
+START russia END
+START 70% END
+START the east END
+START natural gas END
+START december 30, 1922 END
+START first congress of the soviets of the ussr END
+START transcaucasian soviet federal socialist republic END
+START january 31, 1924 END
+START the second congress of soviets of the ussr END
+START 1932–1933 END
+START the 1936 soviet constitution END
+START the kazakh and kirghiz soviet socialist republics END
+START the uzbek ssr END
+START reduced END
+START the russian soviet federative socialist republic END
+START the russian constitution of 1937 END
+START the chechen-ingush assr END
+START stalin END
+START accusations of collaboration with the invaders and separatism END
+START georgian ssr END
+START tuvan autonomous oblast END
+START october 11, 1944 END
+START an autonomous soviet socialist republic END
+START latvia END
+START pechorsky and pytalovsky districts END
+START ivangorod END
+START kuril islands END
+START the rsfsr END
+START the southernmost kurils END
+START april 17, 1946 END
+START east prussia END
+START the russian sfsr END
+START malenkov END
+START deputy prime minister END
+START first secretary of the central committee of the communist party END
+START nikita khrushchev END
+START january 9, 1957 END
+START karachay autonomous oblast END
+START khrushchev END
+START the russian sfsr END
+START the georgian ssr END
+START nikita khrushchev END
+START leonid brezhnev END
+START 1982 END
+START mikhail gorbachev END
+START introduced liberal reforms in soviet society END
+START june 12, 1990 END
+START the congress of people's deputies of the republic END
+START the "war of laws" END
+START the soviet union END
+START march 17, 1991 END
+START boris yeltsin END
+START mikhail gorbachev END
+START june 12 END
+START august 19–21, 1991 END
+START august 23 END
+START yeltsin END
+START november 6 END
+START gorbachev END
+START belarus END
+START december 8, 1991 END
+START belavezha accords END
+START the supreme soviet of the russian sfsr END
+START fourteen END
+START december 24 END
+START december 25 END
+START the russian federation END
+START yeltsin END
+START rossiyskaya gazeta END
+START the council of people's commissars END
+START council of ministers END
+START council of ministers–government END
+START vladimir lenin END
+START boris yeltsin END
+START the communist party of the soviet union END
+START the abortive 1991 august coup END
+START yeltsin END
+START telephone END
+START 1922 END
+START practical END
+START alexander graham bell END
+START telephone END
+START elocution and speech END
+START deaf END
+START 1876 END
+START u.s. END
+START telephone END
+START 33 END
+START national geographic society END
+START hydrofoils END
+START 1898 END
+START edinburgh END
+START stone END
+START tuberculosis END
+START 10 END
+START aleck END
+START botanical specimens END
+START ben herdman END
+START flour END
+START rotating paddles END
+START small workshop END
+START music END
+START piano END
+START 12 END
+START forehead END
+START acoustics END
+START dublin END
+START the standard elocutionist END
+START pronunciation END
+START 168 END
+START father END
+START royal high school END
+START biology END
+START 16 END
+START 1863 END
+START sir charles wheatstone END
+START human voice END
+START melville END
+START skull END
+START skye terrier END
+START trouve END
+START how are you grandma? END
+START tuning forks END
+START growl continuously END
+START alexander ellis END
+START germany END
+START hermann von helmholtz END
+START 19 END
+START professor henry higgins END
+START electrical END
+START consonants END
+START german END
+START electricity END
+START 1865 END
+START weston house END
+START somerset college END
+START a.g. bell END
+START 1867 END
+START south kensington END
+START deaf END
+START melville END
+START newfoundland END
+START lisp END
+START 23 END
+START ss nestorian END
+START quebec city END
+START paris END
+START 10.5 END
+START carriage house END
+START dreaming place END
+START mohawk END
+START honorary chief END
+START onondaga END
+START melodeon END
+START pump organ END
+START 1871 END
+START father END
+START electrically END
+START sarah fuller END
+START the public horace mann school for the deaf END
+START april END
+START instructors END
+START hartford END
+START 1 END
+START pitch END
+START receiver END
+START brantford END
+START boston END
+START 1872 END
+START 30 END
+START helen keller END
+START sign language END
+START tied behind their backs END
+START negative END
+START signing END
+START boston university school of oratory. END
+START vocal physiology and elocution END
+START experiments END
+START headaches END
+START 1873 END
+START mabel hubbard END
+START thomas sanders END
+START scarlet fever END
+START 15 END
+START smoked glass END
+START metal END
+START sound END
+START pen END
+START 1874 END
+START western union END
+START nervous system END
+START cost END
+START elisha gray END
+START joseph henry END
+START joseph henry END
+START get it! END
+START thomas a. watson END
+START electrical machine END
+START thomas watson END
+START june 2 END
+START 1 END
+START gallows END
+START sanders and hubbard END
+START u.s. profits END
+START britain END
+START britain END
+START george brown END
+START acoustic END
+START water END
+START february 14, 1876 END
+START february 26 END
+START u.s. patent office END
+START telephone END
+START 174,465 END
+START march 7, 1876 END
+START apparatus END
+START march 7, 1876 END
+START gray END
+START liquid END
+START mr. watson END
+START electrical resistance END
+START proof of concept END
+START march END
+START commercial use END
+START variable resistance END
+START february 25, 1875 END
+START mercury END
+START zenas fisk wilber END
+START civil war END
+START $100 END
+START technical details END
+START mount pleasant END
+START fences END
+START reading and singing END
+START $100,000 END
+START western union END
+START a toy END
+START $25 million END
+START philadelphia END
+START emperor pedro ii END
+START brazil END
+START victoria END
+START 1877 END
+START 150,000 END
+START 1879 END
+START carbon microphone END
+START western union END
+START january 1915 END
+START at&t END
+START new york END
+START san francisco END
+START thomas watson END
+START 18 END
+START 587 END
+START 5 END
+START amos dolbear END
+START misrepresentation END
+START supreme court END
+START 9 END
+START precedent END
+START november 30, 1897 END
+START antonio meucci END
+START 3 END
+START american district telegraph (adt) END
+START 1901 END
+START death END
+START royalties END
+START brussels END
+START 1880 END
+START mabel hubbard END
+START 4 END
+START europe END
+START lectures END
+START 1880 END
+START 1882 END
+START cambridge, massachusetts END
+START patent disputes END
+START 1882 END
+START british END
+START canada END
+START hyphenated END
+START breton island END
+START bras d'or END
+START the lodge END
+START 40 END
+START beinn bhreagh END
+START december 6, 1917 END
+START beinn bhreagh END
+START baddeck END
+START mobilized the community END
+START encyclopædia britannica END
+START 18 END
+START 12 END
+START volta END
+START magnetic END
+START tape recorder END
+START ice END
+START methane gas END
+START composting END
+START solar END
+START photophone END
+START charles sumner tainter END
+START light END
+START volta laboratory association END
+START normal human conversations END
+START june 21, 1880 END
+START 700 END
+START franklin school END
+START 19 END
+START the photophone END
+START telephone END
+START fiber-optic communication END
+START 1880 END
+START 1980s END
+START metal detector END
+START bullet END
+START metal bed frame END
+START first END
+START in tests END
+START science END
+START executive mansion END
+START horse-hair END
+START footnote END
+START william e. meacham END
+START american END
+START hydrofoil boat END
+START frederick w. "casey" baldwin END
+START enrico forlanini END
+START france END
+START flying END
+START hd-4 END
+START maroon END
+START selfridge END
+START 1912 END
+START 3 END
+START alexander graham bell END
+START aerial experiment association END
+START 1907 END
+START glenn h. curtiss END
+START army END
+START gliders END
+START bamboo END
+START biplane END
+START 150 END
+START selfridge END
+START silver dart END
+START j.a.d. mccurdy END
+START a doctor END
+START canadian aerodrome company END
+START february 23 END
+START congenitally deaf parents END
+START second international congress of eugenics END
+START david starr END
+START livestock breeding END
+START alexander graham bell family papers END
+START manuscript division END
+START online END
+START cape breton university END
+START nova scotia END
+START $250,000 END
+START alexandre dumas END
+START napoleon bonaparte END
+START wax END
+START volta bureau END
+START science END
+START 1903 END
+START illustrations END
+START albert medal END
+START honorary degrees END
+START bell telephone memorial END
+START 1917 END
+START brantford END
+START alexander graham bell gardens END
+START first END
+START commemorative stamp END
+START famous americans series END
+START october 28 END
+START boston END
+START geese END
+START genetics END
+START c$100 gold coin END
+START 2009 END
+START 57th END
+START 10 END
+START scottish science hall of fame END
+START national library of scotland END
+START diabetes END
+START august 2 END
+START mabel END
+START nova scotia END
+START beinn bhreagh pine END
+START red END
+START black END
+START jean macdonald END
+START atop beinn bhreagh mountain END
+START marian END
+START 35 END
+START the bel END
+START sound intensity END
+START bell labs END
+START telecommunications END
+START 1976 END
+START public house END
+START new england END
+START denmark END
+START canada END
+START samuel pepys END
+START taverns END
+START alehouse END
+START 19th century END
+START smoked or frosted glass END
+START clear glass END
+START snacks END
+START pub landlord END
+START publican END
+START locals END
+START darts END
+START pool or snooker END
+START 1970s END
+START off-sales counter END
+START the jug and bottle END
+START supermarkets END
+START the bronze age END
+START the 1st century END
+START tabernae END
+START 5th century END
+START green END
+START 1446 END
+START 1514 END
+START monasteries END
+START pilgrimages END
+START food and drink END
+START highway END
+START two END
+START several centuries END
+START community gathering places END
+START accommodation END
+START the uk END
+START the george END
+START scotland END
+START horses END
+START lodging END
+START alcohol END
+START food and drink END
+START holiday inn END
+START innkeepers END
+START inns of court END
+START london END
+START wales END
+START fermented malt END
+START the netherlands END
+START 15th END
+START 17th END
+START commercial breweries END
+START the glorious revolution END
+START the dutch END
+START 1688 END
+START six times END
+START half END
+START william hogarth END
+START the gin act 1736 END
+START 1742 END
+START the gin act 1751 END
+START 19th END
+START sketches by boz END
+START 1835–1836 END
+START "gin palaces" END
+START london END
+START beer act of 1830 END
+START low alcohol content END
+START gin END
+START reducing public drunkenness END
+START £168 END
+START beer or cider END
+START sundays END
+START jugs END
+START spirits and fortified wines END
+START 400 END
+START 46,000 END
+START 1869 END
+START pubs END
+START 19th END
+START corners or road junctions END
+START real ale micro-brewers END
+START the red lion END
+START smith's beer house END
+START ale END
+START 17th END
+START the crown END
+START 19th END
+START 1960s END
+START local authorities END
+START wine and beerhouse act 1869 END
+START special licensing sessions courts END
+START ex-servicemen or ex-policemen END
+START occasional licences END
+START london metropolitan archives centre END
+START owner END
+START the defence of the realm act END
+START august 1914 END
+START 12 noon–2:30 pm END
+START pembrokeshire END
+START the police END
+START 10:30 pm END
+START 11 pm END
+START carlisle END
+START 1973 END
+START sundays END
+START 11 pm END
+START 10:30 pm END
+START 24 END
+START 12 noon END
+START 11 am END
+START 1976 END
+START scotland's and northern ireland's END
+START 24 november 2005 END
+START the local council END
+START 11.30 pm END
+START 207,800 END
+START 1,121 END
+START "lock-in" END
+START licensing act 2003 END
+START 1915 END
+START allowing smoking END
+START march 2006 END
+START april 2007 END
+START july 2007 END
+START carlsberg and heineken END
+START wetherspoon END
+START balls pond road END
+START city road END
+START the eagle END
+START weasel END
+START 18th END
+START stand-up comedy END
+START juke boxes END
+START middle-class END
+START working class END
+START 4 END
+START spit and sawdust END
+START saloon END
+START the 1960s and 1970s END
+START removal of the dividing wall or partition END
+START snug END
+START higher END
+START the parish priest END
+START frosted glass END
+START 50,000 END
+START very few END
+START bring the beer out to the table END
+START taproom END
+START gin houses END
+START brierley hill END
+START the bull and bladder END
+START isambard kingdom brunel END
+START swindon station pub END
+START engineer and railway builder END
+START british END
+START a device for pumping beer END
+START to dispense beer from a cask or container in a pub's basement or cellar END
+START john lofting END
+START london END
+START netherlands END
+START 1742 END
+START 1659 END
+START london gazette END
+START 17 march 1691 END
+START 20 to 30 END
+START st thomas apostle london END
+START islington END
+START turner END
+START sun tavern END
+START handpump END
+START gas END
+START a free house END
+START 18th END
+START landlord END
+START shepherd neame END
+START young's and fuller's END
+START greene king END
+START the beer orders END
+START 1989 END
+START o'neill's END
+START pubco END
+START pubco END
+START the uk END
+START renamed END
+START closed down END
+START a brewery tap END
+START the nearest pub END
+START brewpub END
+START country pub END
+START serving travellers as coaching inns END
+START the last thirty END
+START providing seating facilities for the consumption of food END
+START drinking END
+START theme pubs END
+START irish pubs END
+START rock pubs END
+START strip pubs END
+START karaoke bars END
+START richard ii END
+START 1393 END
+START john END
+START inspectors END
+START forfeit his ale END
+START the middle ages END
+START the illustration on the pub's sign END
+START latin END
+START the cross END
+START the coat of arms END
+START hops END
+START farming END
+START trafalgar END
+START crowborough END
+START east sussex END
+START royal END
+START decorated signs END
+START the name of the pub END
+START directing potential customers to their door END
+START slug and lettuce END
+START comic END
+START to identify and differentiate each pub END
+START pictorial signs END
+START john manners, marquess of granby END
+START john manners, 3rd duke of rutland END
+START general END
+START 18th END
+START the royal george END
+START bacchanals END
+START god encompasseth us END
+START faithful kitten END
+START boulogne-sur-mer harbour END
+START henry viii END
+START pool END
+START nine men's morris END
+START cards END
+START cribbage END
+START table football END
+START video games END
+START dance bar END
+START sports bar END
+START shove ha'penny END
+START sunday league football END
+START bowling END
+START pub rock END
+START punk music END
+START the 1970s END
+START bar snacks END
+START mobile shellfish stalls END
+START east end END
+START pickled cockles and mussels END
+START 1950s END
+START 1960s END
+START 1960s END
+START a wicker basket END
+START chips END
+START pub grub END
+START sunday END
+START british END
+START the 1990s END
+START lunches END
+START gastropubs END
+START dining room END
+START pub and gastronomy END
+START 1991 END
+START mike belben END
+START london END
+START clerkenwell END
+START thirty-six END
+START london END
+START belfast END
+START northern ireland END
+START camra END
+START the tan hill inn END
+START yorkshire END
+START 528 END
+START inverie END
+START scotland END
+START ye olde fighting cocks END
+START 11th END
+START nottingham END
+START 1189 END
+START 1086 END
+START holywell END
+START 460 END
+START 560 END
+START 905 END
+START yorkshire END
+START 1240 END
+START nottingham END
+START 1631 END
+START stalybridge END
+START cheshire END
+START the q inn END
+START the old 13th cheshire rifleman corps inn END
+START cheshire END
+START 2007 END
+START 1982 END
+START gastro-pubs END
+START supermarkets END
+START 28,095 END
+START 2015 END
+START legislation to improve relations between owners and tenants END
+START dick turpin END
+START buckinghamshire END
+START john fothergill END
+START 1931 END
+START chatto & windus END
+START ye olde cheshire cheese END
+START the cock tavern END
+START charles dickens END
+START ye olde cock tavern END
+START 16 charlotte street END
+START fitzrovia END
+START soho END
+START the canonbury tavern END
+START canonbury END
+START parliament square END
+START a division bell END
+START madonna END
+START mayfair END
+START the coleherne END
+START the blind beggar END
+START the ten bells END
+START the magdala END
+START the crown tavern END
+START 1903 END
+START the angel END
+START islington END
+START charles dickens END
+START a co-operative bank END
+START a coaching inn END
+START the lamb and flag END
+START oxford END
+START c. s. lewis END
+START cambridge END
+START 28 february 1953 END
+START the rovers return END
+START the queen vic END
+START bbc one END
+START itv END
+START the woolpack END
+START themed bars END
+START denmark END
+START 56 END
+START copenhagen END
+START 20,000 END
+START craic END
+START tavernhouse END
+START teach óil END
+START spirit grocers END
+START new zealand END
+START tavern END
+START 1970s END
+START public house END
+START the student's union END
+START 1990s END
+START internet service provider END
+START provides services for accessing, using, the internet END
+START commercial, community-owned, non-profit, or otherwise privately owned END
+START isps END
+START internet access, internet transit, domain name registration, web hosting, usenet service, and colocation END
+START a network between government research laboratories and participating departments of universities END
+START 1980s END
+START a process was set in place towards public, commercial use of the internet END
+START 1995 END
+START 4 years END
+START australia and the united states END
+START brookline, massachusetts END
+START november 1989 END
+START 1989 END
+START the world END
+START isps to offer content providers a faster track to send content END
+START municipal broadband END
+START a telecommunications service END
+START title ii (common carrier) END
+START telecommunications END
+START february 2015 END
+START in favor END
+START title ii (common carrier) of the communications act of 1934 END
+START the first amendment END
+START free speech END
+START 13 april 2015 END
+START internet access END
+START a range of technologies to connect users to their network END
+START television cable (catv) END
+START wireless ethernet (wi-fi) END
+START telephone lines END
+START copper wires to provide dial-up, dsl, typically asymmetric digital subscriber line (adsl), cable modem or integrated services digital network (isdn) (typically basic rate interface) END
+START fiber to the home END
+START users and small businesses END
+START medium-to-large businesses, or other isps END
+START asynchronous transfer mode END
+START customers with more demanding requirements END
+START synchronous optical networking END
+START an organization that provides services for hosting electronic mail domains with access to storage for mail boxes END
+START a mailbox provider END
+START it provides email servers to send, receive, accept, and store email END
+START a mailbox provider END
+START simple mail transfer protocol END
+START internet message access protocol END
+START implementing simple mail transfer protocol (smtp) and possibly providing access to messages through internet message access protocol (imap), the post office protocol, webmail, or a proprietary protocol. END
+START access providers END
+START companies, universities, organizations, groups, and individuals END
+START email, web-hosting, or online storage services END
+START internet hosting services END
+START internet hosting services END
+START upstream isps END
+START an upstream isp usually has a larger network than the contracting isp END
+START access to parts of the internet the contracting isp by itself has no access to END
+START upstream isps END
+START transmit data to or from areas of the internet beyond the home network END
+START large amounts of bandwidth for connecting hosting isps and access isps END
+START a tier 1 carrier END
+START point of presence END
+START transit isps END
+START virtual isp END
+START mobile virtual network operators END
+START a wholesale isp END
+START internet service providers that provide service free of charge END
+START advertisements END
+START commercial television END
+START on a nonprofit basis END
+START wireless internet service provider END
+START commonplace wi-fi wireless mesh networking, or proprietary equipment END
+START 900 mhz, 2.4 ghz, 4.9, 5.2, 5.4, 5.7, and 5.8 ghz bands END
+START wireless networking END
+START multiple isps interconnect at peering points or internet exchange points END
+START routing of data between each network, without charging one another for the data transmitted END
+START data that would otherwise have passed through a third upstream isp, incurring charges from the upstream isp END
+START internet exchange points END
+START peering points or internet exchange points END
+START a tradeoff between cost and efficiency is possible END
+START the most efficient route END
+START intelligence agencies END
+START prism END
+START provides for broad monitoring of internet users traffic END
+START a wide array of surveillance and packet sniffing equipment END
+START allowing monitoring of internet traffic in real time END
+START fumetti END
+START speech balloons END
+START online webcomics END
+START narrative pacing END
+START 1830s END
+START superman END
+START manga END
+START bandes dessinées END
+START when it refers to the medium END
+START recurring characters END
+START images and text END
+START manga END
+START rodolphe töpffer END
+START richard f. outcault END
+START 1890s END
+START satirical END
+START lascaux cave paintings END
+START the last judgment in the sistine chapel END
+START hieroglyphs END
+START trajan's column END
+START the glasgow looking glass END
+START 1825 END
+START punch END
+START ally sloper END
+START 1884 END
+START new york world END
+START outcault's the yellow kid END
+START mutt and jeff END
+START 1907 END
+START 1930s END
+START action comics END
+START crime and horror END
+START comics code authority END
+START 1960s END
+START 1980s END
+START 1980s END
+START as albums END
+START l'association END
+START print market END
+START toba-e and kibyōshi picture books END
+START woodblock prints END
+START 1890s END
+START western expatriates END
+START 1900 END
+START rakuten kitazawa END
+START 1930s END
+START sazae-san END
+START magazines END
+START after world war ii END
+START newspapers END
+START magazines END
+START monthly or weekly END
+START weekly END
+START hundreds of pages END
+START graphic novels END
+START tankōbon END
+START fiction END
+START graphic novels END
+START europe END
+START 1843 END
+START punch END
+START lowbrow reputation END
+START cultural elites END
+START comics END
+START graphic novel END
+START will eisner END
+START 1980s END
+START webcomics END
+START maus END
+START rodolphe töpffer END
+START 19th END
+START zig et puce END
+START franco-belgian END
+START 1929 END
+START literacy END
+START comics END
+START literature END
+START ninth art END
+START 1959 END
+START adventures of asterix END
+START editorial interference END
+START 1972 END
+START science fiction END
+START prestige END
+START nihon manga-shi END
+START 1924 END
+START japan society for studies in cartoon and comics END
+START frederik l. schodt END
+START manga! manga! the world of japanese comics END
+START coulton waugh END
+START the comics END
+START david carrier END
+START comics and sequential art END
+START bandes dessinées END
+START manga END
+START drawn strip END
+START drawn images END
+START webcomics END
+START readers END
+START archived installments END
+START infinite canvas END
+START wordless novels END
+START film studios END
+START an end product END
+START the public END
+START wordless novels END
+START consensus END
+START theorists END
+START pantomime comics END
+START images END
+START 20th END
+START his own END
+START henri vanlier END
+START pierre fresnault-deruelle END
+START neil cohn END
+START komiks END
+START comics END
+START manhua END
+START manhwa END
+START newspaper comic strips END
+START non-humorous END
+START periodicals END
+START manga END
+START bandes dessinées END
+START specialists END
+START penciller END
+START finishes the artwork in ink END
+START panels END
+START encapsulation END
+START the reader END
+START arrangement END
+START asynchronous END
+START speech balloons END
+START comics END
+START onomatopoeia END
+START india ink END
+START cartooning END
+START digital technology END
+START abstract symbols END
+START saint helena of constantinople END
+START south atlantic ocean END
+START 4,255 END
+START 16 by 8 kilometres END
+START 1502 END
+START more than 5,000 END
+START leading a zulu army against british rule END
+START environmentalism END
+START rainfall END
+START environmental change END
+START 21 may 1502 END
+START joão da nova END
+START portugal END
+START helena of constantinople END
+START trees and fresh water. END
+START livestock, fruit trees and vegetables END
+START a chapel and one or two houses. END
+START mariners END
+START food END
+START englishman sir francis drake END
+START portuguese india carracks END
+START the dutch END
+START the portuguese and spanish END
+START the dutch republic END
+START 1651 END
+START cape of good hope. END
+START the english east india company END
+START oliver cromwell END
+START captain john dutton END
+START 1659 END
+START east india company END
+START new immigrants END
+START ecological problems END
+START isaac pyke END
+START mauritius END
+START 610 END
+START 1770 END
+START james cook END
+START st. james' church END
+START plantation house END
+START edmond halley END
+START university of oxford END
+START 24 END
+START longwood district END
+START southern END
+START east india company END
+START water and provisions END
+START hms endeavour END
+START hms endeavour END
+START royal END
+START importation of slaves END
+START 1810 END
+START 600 END
+START 3,507 END
+START napoleon bonaparte END
+START 1815 END
+START briars pavilion END
+START longwood house END
+START 1821 END
+START east india company END
+START the packet schooner st helena END
+START wine and provisions END
+START coffee END
+START paris END
+START coffee END
+START 1792 END
+START 1827 END
+START british parliament END
+START 800 END
+START 1833 india act END
+START east india company END
+START steam ships END
+START 1,100 END
+START 288 END
+START british END
+START over 15,000 END
+START liberated africans END
+START napoleon iii END
+START 1858 END
+START napoleon i END
+START french ministry of foreign affairs END
+START joshua slocum END
+START 11 april 1898 END
+START 20 april 1898 END
+START sir r a standale END
+START new zealand END
+START ascension island END
+START wideawake airport END
+START 1942 END
+START flax END
+START 1951 END
+START synthetic fibres END
+START 1965 END
+START 1958 END
+START curnow shipping END
+START 1977 END
+START right of abode in britain END
+START the development and economic planning department END
+START 1988 END
+START falkland islands and ascension island END
+START 1989 END
+START prince andrew END
+START cardiff–cape town route END
+START a mixed cargo/passenger layout. END
+START 1989 END
+START british overseas territories act 2002 END
+START british overseas territories END
+START 250 million END
+START uk government END
+START early 2016 END
+START tourism END
+START up to 30,000 END
+START namibe END
+START the quatro de fevereiro airport END
+START rms st helena END
+START western END
+START west africa END
+START 47 END
+START volcanic END
+START 2,684 END
+START 1996 END
+START millennium forest project END
+START one kilometre END
+START south END
+START southwest END
+START west END
+START southeast END
+START the saint helena plover END
+START wirebird END
+START benguela current END
+START 5–6 END
+START eight END
+START statistical subdivisions END
+START 1659 END
+START 4,250 END
+START africa END
+START india and madagascar END
+START 1792 END
+START a provisioning station END
+START british west africa squadron END
+START brazil END
+START 500 END
+START many thousands END
+START 1810 END
+START 618 END
+START 1818 END
+START british overseas territories citizenship END
+START 21 may 2002 END
+START british overseas territories act 2002 END
+START emigration END
+START late 1980s END
+START prospect of higher wages END
+START anglican END
+START june 2009 END
+START the diocese of st helena END
+START bishop END
+START 1852 END
+START 1884 END
+START 1845 END
+START 35 END
+START 1949 END
+START queen elizabeth ii END
+START the governor END
+START the united kingdom END
+START 15 END
+START the governor END
+START the governor END
+START 23 march 2013 END
+START loss of full passports END
+START king george vi END
+START 1947 END
+START 1957 END
+START 1984 END
+START st. helena human rights action plan 2012-2015 END
+START awareness-raising articles END
+START with human rights queries END
+START reports of child abuse END
+START britain’s foreign and commonwealth office END
+START the united nations END
+START endemic END
+START vascular END
+START birdlife international END
+START unesco world heritage sites END
+START more than 200 END
+START 9 END
+START freshwater, terrestrial and marine END
+START monocrop END
+START 1966 END
+START flax END
+START aid from the british government END
+START 50% END
+START the promotion of napoleon's imprisonment END
+START sportfishing END
+START 3 END
+START the rms st helena END
+START coffee END
+START opuntia ficus-indica END
+START postage stamps END
+START £12 million END
+START £11 million END
+START the uk and south africa END
+START fish and coffee END
+START £0.4 million END
+START £10 million END
+START £12 million END
+START £28m END
+START £12.1 million END
+START 38% END
+START 31 END
+START public END
+START 800 END
+START 45 END
+START 218 END
+START 8% END
+START 22 END
+START 20% END
+START 70,560 END
+START saul solomon END
+START a halfpenny END
+START 1836 END
+START the saint helena pound END
+START coinage and banknotes END
+START 2004 END
+START pound sterling END
+START 1 END
+START ship END
+START ascension island END
+START raf flights END
+START rms saint helena END
+START 2010 END
+START the airport END
+START march 2005 END
+START 2010 END
+START impregilo END
+START andrew gurr END
+START 22 july 2010 END
+START basil read END
+START february 2016 END
+START south africa and the uk END
+START comair END
+START south african beechcraft king air 200 END
+START 15 september 2015 END
+START the airport's radio navigation equipment. END
+START wildcat hma.2 zz377 END
+START hms lancaster END
+START 23 october 2015 END
+START a minibus END
+START jamestown END
+START weekdays END
+START christmas day 1967 END
+START 62 END
+START 1 END
+START st helena herald END
+START 25 december 2012 END
+START january 2005 END
+START 21 december 2012 END
+START st helena independent END
+START saint fm community radio END
+START 10 march 2013 END
+START everyone END
+START a former print and bbc journalist END
+START saint fm and the st helena independent END
+START television END
+START 17 END
+START a satellite dish END
+START telecommunications END
+START digital copper-based telephone network END
+START august 2011 END
+START 25 END
+START 1989 END
+START the briars END
+START sun outages END
+START +290 END
+START tristan da cunha END
+START 5 END
+START 1 october 2013 END
+START 2 END
+START 10/3.6 mbit/s END
+START intelsat 707 END
+START sure END
+START more than 4,000 END
+START 1 END
+START adsl END
+START 1536 kbit/s downstream and 512 kbit/s upstream END
+START £16 per month END
+START £190 per month END
+START jamestown END
+START 6,214 END
+START efive END
+START 6 october 2012 END
+START a human right END
+START two END
+START the internet END
+START november 2005 END
+START 2012 END
+START 3 END
+START harford, pilling, and st paul’s END
+START prince andrew school END
+START 230 END
+START weekly END
+START the education and employment directorate END
+START the uk national curriculum END
+START gcse, a/s and a2, to level 3 diplomas and vrq qualifications END
+START international island games association END
+START division three of the african region of the world cricket league END
+START 2011 END
+START between cape town and saint helena island, END
+START december/january END
+START december 2010 END
+START scouting and guiding END
+START 1912 END
+START lord and lady baden-powell END
+START african adventures END
+START phonetics END
+START allophones END
+START indian and east asian END
+START pin END
+START aspirated END
+START international phonetic alphabet END
+START voiceless consonants END
+START p END
+START aspirated bilabial stop END
+START voiced consonants END
+START breathy END
+START breathy-voiced END
+START degrees of aspiration END
+START aspiration modifier END
+START korean END
+START numerically END
+START placing the aspiration modifier letter before the consonant symbol END
+START ⟨ʰp⟩ END
+START with the modifier letter END
+START ⟨t˭⟩ END
+START left unmarked END
+START ⟨t⟩ END
+START voiceless consonants END
+START voiced consonants END
+START voiceless aspiration END
+START navajo END
+START an extended length of the frication END
+START consonant clusters END
+START wahgi END
+START unaspirated stops END
+START place of articulation END
+START the stop is held longer and then has an aspirated release. END
+START an aspirated affricate END
+START icelandic and faroese END
+START consonant clusters END
+START double stops and single stops END
+START preaspirated stops END
+START north sami END
+START up to four END
+START true aspirated voiced consonants END
+START rare END
+START kx'a languages END
+START aspiration END
+START allophonic or phonemic END
+START allophonic END
+START voicing END
+START aspirated END
+START unaspirated END
+START unaspirated END
+START compound words END
+START aspirated END
+START unaspirated END
+START phonemic END
+START phonemes END
+START their lack of aspiration END
+START ⟨p t k⟩ END
+START aspiration END
+START pinyin END
+START aspirated stops END
+START wu chinese END
+START /p pʰ b/ END
+START muddy consonants END
+START slack or breathy END
+START four END
+START breathy-voiced END
+START breathy-voiced consonants END
+START dravidian END
+START native dravidian words END
+START western armenian END
+START /d/ END
+START /t/ END
+START aspirated stops. END
+START classical attic END
+START greek grammarians END
+START /pʰ tʰ kʰ/ END
+START mycenaean greek END
+START dialect and phonetic environment END
+START three END
+START ionic and aeolic END
+START fricative END
+START voiceless and voiced fricatives END
+START medieval and modern greek END
+START debuccalization END
+START glottal stop or fricative END
+START lenited END
+START a type of phonation or vibration of the vocal folds END
+START ⟨b̤⟩, with the diacritic END
+START murmured sonorants END
+START vowels and nasals END
+START breathy-voiced release of obstruents. END
+START h END
+START 1 END
+START 7000100794000000000♠1.00794 u END
+START hydrogen END
+START molecular END
+START h2 END
+START colorless, odorless, tasteless END
+START negative END
+START quantum mechanics END
+START early 16th century END
+START henry cavendish END
+START water END
+START water-former END
+START the fertilizer market END
+START hydrocracking END
+START 286 kj/mol END
+START dihydrogen or molecular hydrogen END
+START hydrogen END
+START ultraviolet light END
+START hydrogen combustion END
+START hydrogen chloride and hydrogen fluoride END
+START room temperature END
+START bohr model END
+START gravity END
+START electrons and protons END
+START angular END
+START 2 END
+START triplet state END
+START normal END
+START 25% END
+START 75% END
+START ferric oxide, activated carbon, platinized asbestos, rare earth metals, uranium compounds, chromic oxide, or some nickel compounds END
+START positive charge END
+START negative END
+START hydrides END
+START not END
+START hydrocarbons END
+START organic compounds END
+START organic chemistry END
+START biochemistry END
+START carbon END
+START gilbert n. lewis END
+START group ii END
+START over 100 END
+START 1 END
+START inorganic chemistry END
+START link two metal centers END
+START group 13 END
+START electrons END
+START h+ END
+START bronsted-lowry END
+START h+ END
+START in acidic solution with other solvents END
+START hydronium ion END
+START protonated END
+START trihydrogen cation END
+START 3h END
+START denoted 1h, 2h and 3h END
+START 4h to 7h END
+START hydrogen END
+START deuterium and tritium END
+START d and t END
+START phosphorus END
+START 2h and 3h END
+START 1671 END
+START robert boyle END
+START henry cavendish END
+START 1766 END
+START water END
+START reacting a flux of steam with metallic iron through an incandescent iron tube heated in a fire END
+START james dewar END
+START 1898 END
+START 1931 END
+START harold urey END
+START 1934 END
+START jacques charles END
+START 1783 END
+START zeppelins END
+START 1900 END
+START the british END
+START 1919 END
+START 1937 END
+START new jersey END
+START 1937 END
+START ohio END
+START 1977 END
+START 2009 END
+START a proton and an electron END
+START atomic structure END
+START 1920s END
+START maxwell END
+START spacing of the (quantized) rotational energy levels END
+START quantum theory END
+START 75% END
+START 90% END
+START dark matter and dark energy END
+START stars END
+START atomic and plasma END
+START plasma END
+START neutral atomic state END
+START cosmological baryonic density of the universe END
+START third most abundant END
+START bacteria and algae END
+START protonated molecular hydrogen END
+START ionization of molecular hydrogen from cosmic rays END
+START jupiter END
+START excited form END
+START expelling reducing equivalents in biochemical reactions END
+START by-product of other reactions END
+START electrolysis of water END
+START anode END
+START cathode END
+START hydrogen END
+START alumina END
+START the expensive gallium END
+START hydrocarbons END
+START 1000–1400 k, 700–1100 °c or 1300–2000 °f END
+START high pressures END
+START production of methanol END
+START hydrocarbons END
+START use of carbon monoxide through the water gas shift reaction END
+START ammonia END
+START electrolysis of brine to yield chlorine END
+START produce hydrogen and oxygen from water and heat without using electricity END
+START solar energy and water END
+START france, germany, greece, japan, and the usa END
+START anaerobic END
+START formation of ferrous hydroxide END
+START green rust END
+START anaerobic END
+START magnetite and molecular hydrogen END
+START schikorr reaction END
+START serpentinization by the anaerobic oxidation END
+START crystal lattice of the fayalite END
+START hydrogen END
+START petroleum and chemical industries END
+START hydrodealkylation, hydrodesulfurization, and hydrocracking END
+START rare earth and transition metals END
+START nanocrystalline and amorphous metals END
+START local distortions or impurities in the crystal lattice END
+START when hydrogen is purified by passage through hot palladium disks END
+START gas's high solubility is a metallurgical problem, contributing to the embrittlement of many metals, complicating the design of pipelines and storage tanks END
+START in physics and engineering END
+START as the rotor coolant END
+START it has the highest thermal conductivity of any gas END
+START cryogenic END
+START as a tracer gas for minute leak detection END
+START automotive, chemical, power generation, aerospace, and telecommunications END
+START allows food package leak testing END
+START deuterium END
+START nuclear reactors END
+START production of hydrogen bombs, as an isotopic label in the biosciences, and as a radiation source in luminous paints END
+START as a coolant in generators END
+START favorable properties that are a direct result of its light diatomic molecules END
+START low density, low viscosity, and the highest specific heat and thermal conductivity of all gases END
+START not END
+START nuclear fusion of hydrogen END
+START energy carrier END
+START elemental END
+START to saturate broken ("dangling") bonds of amorphous silicon and amorphous carbon that helps stabilizing material properties END
+START a potential electron donor END
+START zno, sno2, cdo, mgo, zro2, hfo2, la2o3, y2o3, tio2, srtio3, laalo3, sio2, al2o3, zrsio4, hfsio4, and srzro3 END
+START hydrogenases END
+START in the transfer of reducing equivalents produced during pyruvate fermentation to water END
+START hydrogen cycle END
+START water splitting END
+START in the light reactions in all photosynthetic organisms END
+START alga chlamydomonas reinhardtii and cyanobacteria END
+START by specialized hydrogenases in the chloroplast END
+START potential detonations and fires when mixed with air to being an asphyxiant in its pure, oxygen-free form END
+START cracks and explosions END
+START the parahydrogen/orthohydrogen ratio END
+START days or weeks END
+START container geometry END

@@ -1,0 +1,2282 @@
+START what is the common name for mpeg-2 audio layer iii? END
+START what kind of audio is the coding format for? END
+START other than storage, what is the common audio format used for? END
+START what does mp3 use to format it's data? END
+START where will mp3 files most commonly be found? END
+START what is the main goal aside from reducing the amount of data required to store the audio? END
+START what kind of compression is used? END
+START if a file is created using 128 kbit/s, what size is the file going to be compared to a cd? END
+START how many total bit/s would a cd have? END
+START how many total bit/s would an mp3 compressed at 128 kbit/s have? END
+START what does the compression target in the song? END
+START the targetting focuses on what aspect that is beyond the ability of most people? END
+START what is this method commonly referred to as? END
+START what kind of model is used in this kind of compression? END
+START these models ensure that the precision is reduced for the components that are what to human hearing? END
+START who designed mp3? END
+START what was the first standard that this group had? END
+START the first standard later developed into which standard? END
+START when was the draft passed to have mpeg-1 audio approved as a standard? END
+START when was mpeg-2 audio finally published? END
+START what does the mp3 compression take advantage of? END
+START what is the limitation in human hearing referred to as? END
+START who was the physicist to report that a tone could be rendered inaudible. END
+START when were audio curves described by richard ehmer? END
+START the initial work was aimed at determining critical ratios and what else? END
+START what was first proposed in 1979? END
+START which country were the researchers located in? END
+START who was the first to produce hardware for speech? END
+START what does lpc stand for? END
+START what was reported in ieee's journal on selected areas in communications? END
+START what does ocf stand for? END
+START what does pxfm stand for? END
+START what was the name of the codec that ocf, pfxm and other contributes merged into? END
+START which competition did aspec win? END
+START what was the first practical implementation based on? END
+START what kind of student was karlheinz brandenburg? END
+START when did karlheinz start working on digitmal music compression? END
+START where did bradenburg become an assistant professor at? END
+START who did brandenburg work with in music compression? END
+START when did brandenburg join the fraunhofen institute? END
+START what was the name of the first song used to develop the mp3? END
+START who was the artist of the first song used? END
+START who adjusted the song? END
+START the song was listened to multiple times to try and refine what? END
+START what particular aspect of the artists voice was he trying to preserve? END
+START how many proposals were available in 1991? END
+START other than aspec what was another proposal? END
+START the musicam format was proposed by philips, based in which country? END
+START which other quality alongside simplicty was key in selecting this proposal? END
+START what was the musican format based on? END
+START what was only incorporated into layer iii and not layers i or ii? END
+START who was the chair that oversaw the editing of the standard? END
+START who's responsibility was it to edit the standard for layer i? END
+START who's responsibility was it to edit the standard for layer ii? END
+START what was the name given to the proposal? END
+START what did the joint proposal provide? END
+START other than thomson consumer electronics, fraunhofer society and cnet, who else was a part of the joint proposal? END
+START what did the working group take ideas from? END
+START what did the working group integrate their ideas with? END
+START where was the filter bank taken from? END
+START what did the working group eventually create? END
+START what quality were they hoping to match at 128 kbit/s? END
+START when were the algorithms approved? END
+START when were the approved algorithms finalized? END
+START what was the first started suite by mpeg? END
+START what was the official name of the internation standard? END
+START when was the international standard published? END
+START further work on mpeg was finalized as a part of which mpeg standard? END
+START what was the official name of iso/iec 13818-3 better known as? END
+START at what rate were the new sampling rates defined in comparison to mpeg-1 audio? END
+START apart from cutting the frequency fidelity in half, what else was cut in half? END
+START allowing the coding of audio programs with more than two channels was a major aspect of what? END
+START as mpeg-3 had a different meaning, what was the name given to the extension of mpeg-2? END
+START where was this extension developed? END
+START the new sampling rates widened the scope of mp3 to be able to include what? END
+START what is not an iso recognized standard? END
+START as mpeg-2.5 is unofficial, it is considered what kind of extension to the mp3 format? END
+START what defines the compression efficiency of encoders? END
+START compression ratio depends on the sample rate and bit depth of which signal? END
+START what does cd stand for? END
+START what can cd parameters be used as references for? END
+START other than cd parameters, what else can be used as parameter references? END
+START what type of recording did brandenburg use? END
+START what did brandenburg use the recording to refine? END
+START what word describes the nature of the song used? END
+START as a result of her song being used, suzanne vega is sometimes referred to as what? END
+START excerpts were taken from which reference compact disc to assess the subjective quality of the mpeg audio formats? END
+START which language was the reference simulation software written in? END
+START who developed the reference simulation software? END
+START when was the reference software approved? END
+START when did the reference software become an international standard? END
+START what could the reference software demonstrate? END
+START when was the first software mp3 encoder released? END
+START what was the name of the first software mp3 encoder? END
+START what was the filename extension? END
+START what was the name of the first real-time software mp3 player? END
+START what was the average high end hard drive size? END
+START what was jonathan sterne's profession? END
+START which nationality was the hacker who acquired i3enc? END
+START what did the hacker use to acquire the software? END
+START the hacker re-wrote which element of the program? END
+START how much did the new released program by the hacker cost? END
+START where did mp3s begin to spread? END
+START which audio player was released in 1997? END
+START who released the audio player? END
+START what was the name of the first portable solid state digital audio player? END
+START in which country was the first portable audio player developed? END
+START which website offered mp3s for free? END
+START how many mp3s were offered for free by the website? END
+START what kind of file sharing became popular due to the file sizes of mp3s? END
+START how did people come into possession of mp3s? END
+START which network was the first large peer to peer file sharing network? END
+START what kind of infringement resulted from sharing mp3s? END
+START what name did the record companies associate with mp3 file sharing? END
+START who was the target of the record companies? END
+START what happened to napster? END
+START what kind of mp3 file sharing continues on? END
+START beatport, bleep and juno records are examples of what kind of service? END
+START what kind of music is sold by these companies? END
+START which format is used by the companies that sell the music legally? END
+START a header and data block together make up what? END
+START what is a sequence of mp3 frames called? END
+START what is used to identify the begining of a valid frame of an mp3 header? END
+START how many bits are needed to indicate that layer 3 is used? END
+START mp3 files today contain what kind of metadeta? END
+START which standard does not include a specification for an mp3 encoder? END
+START example psychoacoustic models and rate loops can be foundin which part of the original standard? END
+START what were implementers of the standard supposed to devise? END
+START it is easy for a prospective user of an encoder to research the best choice because of what factor? END
+START an encoder that is proficient at encoding at higher bit rates might be worse at what? END
+START how many domain samples are taken during encoding? END
+START domain samples are transformed into what? END
+START when are 192 samples taken instead of 576? END
+START when 192 samples are taken instead of 576, it is done in an effort to limit what? END
+START what accompanies a transient? END
+START what kind of structure does a filter bank have? END
+START due to a specific kind of structure, what kind of problems are made worse? END
+START what kind of resolution are the filter banks unable to provide an optimal solution for? END
+START combining two filter banks' outputs creates what kind of problem? END
+START the need to code excess energy in the frequency domain decreases what kind of efficiency? END
+START what is carefully defined in the standard? END
+START what are most decoders? END
+START the iso/iec high standard document states that the decompressed output produced from a given mp3 file will be the same within what standards? END
+START decoders are usually compared by examining which factor? END
+START the efficiency of decoders is examined by seeing how much memory and what other process they use in the decoding process? END
+START what is there no official provision for? END
+START what is an example of an encoder that can attach additional metadeta? END
+START adding additional metadata allows players to handle gapless playback and deliver what? END
+START for encoders and decoders, what is not defined? END
+START a typical trade off when creating an mp3 file is between the amount of space used and what other factor? END
+START what would an example of lossy audio encoding be? END
+START who gets to set the bit rate for an mp3 file? END
+START what does the bit rate of the file actually mean? END
+START if the bit rate is higher, the size of the compressed file will be what? END
+START if the bit rate is too low, what might be audible in the reproduction? END
+START sounds that were not in the original recording are referred to as what? END
+START randomness and sharp attacks are two reasons that may make it harder to to do what to an audio file? END
+START other than pre - echo, what is another example of what can happen when audio is compressed? END
+START what kind of sample can display a good example of compression artifacts? END
+START other than the bit rate and the difficulty of the signal, what can also affect the quality of an mp3 file? END
+START the mp3 standard allows encoders to have a lot of freedom with which aspect of encoding? END
+START as a result of the freedom, different encoders can result in different quality even if which aspect of the file is the same? END
+START an example shown has a low range quality score of what value? END
+START to compare qualities, sound files are evaluated on a scale that ranges from 1 to what? END
+START how many bit rates does the simplest type of mp3 file use? END
+START what does cbr stand for? END
+START what does vbr stand for? END
+START aside from silence, which sections of music highlight parts that are easier to compress? END
+START what value do users need to know when encoding their music to help avoid them having to do tests on each piece of music? END
+START a listening environment is also know by which term? END
+START other than speakers and headphones, what other piece of equipment affects the listener's perceived quality? END
+START listening environment, listener attention, listener training and listener audio equipment can all affect what kind of quality? END
+START who gave students a test to determine their preferences? END
+START where was a test performed to collect data on student preference for mp3 quality? END
+START data showed that students' preference for mp3 quality music followed which trend? END
+START what kind of sound did students seem to prefer? END
+START what is the name of the study done by composer ryan maguire? END
+START what did the study aim to isolate? END
+START what is the track "modernist" an anagram of? END
+START where was an account of the study published? END
+START which year was the study published? END
+START what is the name of the sampling theorem? END
+START in relation to the sampling frequency, the frequency reproduction is strictly how much less? END
+START what kind of filter requires a larger margin for error? END
+START having an 8 khz sampling rate would limit the maximum frequency to how much? END
+START a sound reproduction of 24 khz would represent which value of a maximum sampling rate? END
+START what sampling rate is used for cd audio? END
+START what is the main source used for creating mp3 files? END
+START where can one find a greater variety of bit rates? END
+START the common bit rate on the internet is 128 kbit/s using which compression ratio? END
+START as technology advances, what is another higher bit rate that is beginning to spread? END
+START what is stored on an audio-cd that has a bit rate of 1,411.2 kbit/s? END
+START what does a bit rate of 128 represent in terms of compression ratio? END
+START what would a bit rate of 160 correspond to in terms of compression ratio? END
+START what would a bit rate of 192 kbit/s have for a compression ratio? END
+START what is the highest bit rate the lame encoder allows? END
+START the lame encoder allows bit rates that are what? END
+START even though few mp3 players can play it, lame also offers which option? END
+START the iso standard dictates that decoders only need to be able to decode streams that have how high of a bit rate? END
+START what does the term cbr mean? END
+START which early mpeg layer used cbr? END
+START the early software was restricted to which kind of bitrate? END
+START what did more sophisticated mp3 encoders use to target an average bit rate? END
+START what did encoders base the encoding rate for each frame on? END
+START what kind of audio can a sophisticated mp3 encoder produce? END
+START which type of decoder must support bitrate switching on a per-frame basis? END
+START what do encoders use when the goal is to achieve a fixed level of quality? END
+START using vbr instead of a constant bit rate encoding makes which part of encoding less predictable? END
+START an average bit rate is used when who choses an average value for the encoder to use? END
+START a partially full frame's ability to have part of the next frame's audio data is referred to as what? END
+START what kind of audio is required to use a bit reservoir? END
+START a bit reservoir allows for what kind of changes in effective bit rate? END
+START what is a possible result of handling the bit reservoir? END
+START a large benefit of a bit reservoir is that you can use it even while encoding what kind of stream? END
+START what can scale factor band 21 be shortened to? END
+START what is the maximum frequency that scale factor band 21 can go up to? END
+START the encoder has to choose between less acurate representation in band 21 or which factor in all bands below band 21? END
+START what does less efficient storage result in for vbr encoding? END
+START what is a section of a file that contains metadeta referred to as? END
+START what else can metadeta contain other than the title, artist or track  number? END
+START what do mp3 standards not define? END
+START what would be needed to support metadata and obviate the need for tags? END
+START other than the id3v1, which similar standard format for tag exists? END
+START what is the most recently introduced standard for tag formatting? END
+START what is the second place in a file that tags are normally stored, with the first being at the beginning? END
+START what is important to note about where the tags are stored? END
+START if the mp3 decoders do not extract information from the tags, what do they do to them? END
+START what is the name given to the standard for measure and storing the loudness of an mp3 file? END
+START what is measuring and storing loudness of an mp3 file also known as? END
+START what does the standard replaygain allow a player to automatically adjust? END
+START what program can be used to modify files based on replaygain measurements? END
+START mp3gain is important because it allows players without what capability to have adjusted playback? END
+START where is the basic mp3 decoding and technology patent free? END
+START what happened to the patents that caused them to be patent-free? END
+START when will the technology be patent - free in the united states? END
+START between which years did most of the mp3 patents in the us expire? END
+START what has many organizations claiming ownership of patents related to aspects of mp3 led to? END
+START legal threats and confusion made it difficult to ensure what about patents regarding mp3 products? END
+START what was the danger of not correctly patenting products? END
+START at what stage of the technology were these problems prevalent? END
+START what became publicly available on 6 december 1991? END
+START when can patents not be filed in most countries? END
+START how long does it take for patents to expire after being filed? END
+START how long can it take for patents to be approved after initially being filed? END
+START when did patents required to implement mp3 expire in most countries? END
+START how long does it take for patents to expire in the united states? END
+START a patent issue much later than normally expected can be referred to as what? END
+START what year is the latest that mp3 related patents will expire on in the united states? END
+START who holds the longest running mp3 patent in the united states? END
+START who administered the longest running mp3 patent in the united states? END
+START what was technicolor's previous name? END
+START what patent does technicolor claim to control? END
+START what are technicolor constantly in the process of doing? END
+START when did the fraunhofer institute send out a letter? END
+START what did the letter claim would be required to distribute and/or sell decoders and/or encoders? END
+START what does selling unlicensed products mean that the seller is doing? END
+START what can products not use if they want to avoid infringing on patent rights? END
+START who was sued for patent infringement on mp3 technology? END
+START who initially sued to protect their patent rights? END
+START what did sisvel grant thomson to end the lawsuit? END
+START when did the majority of the patents held by sisvel expire? END
+START when does the last patent held by sisvel expire? END
+START what did german officials seize from sandisk on september 2006? END
+START at which show did sandisk have their assets seized? END
+START which company was the italian patents firm representing? END
+START what happened after the injunction was successful? END
+START the continuous back and forth regarding the decisions on patents was referred to as what? END
+START who sued apple, samsung electronics and sandisk in 2007? END
+START which court did the lawsuit take place in? END
+START what was the claim that the lawsuit was based on? END
+START what action did the three companies being sued take? END
+START what year did the lawsuits end? END
+START which company allegedly inherited mp3 patents from at&t-bell labs? END
+START what kind of patents were allegedly inherited? END
+START how many patents did alcatel claim microsoft infringed on? END
+START how much money was awarded to alcatel by a san diego jury? END
+START what subsequently happened after alcatel was awarded damages? END
+START aac, mp3pro and mp2 are all members of the same technological family as which other lossy format? END
+START what model type do all of the lossy formats roughly depend on? END
+START which company owns many of the patents that cover the other formats? END
+START opus and vorbis are two explans of what kind of compression format? END
+START being open formats means that opus and vorbis can be used without what? END
+START what are some benefits to some of the newer audio compression formats when compared to mp3? END
+START how can one obtain an open compression format such as opus or vorbis? END
+START what is a significant alternative to mp3? END
+START what can lossless formats provide? END
+START what is the downside of using a lossless format? END
+START what is another example of a lossless format other than apple lossless? END
+START what does flac stand for? END
+START what city did house music originate from? END
+START what decade did house music first develop? END
+START what year was house music first popularized? END
+START what genre does house music fall into? END
+START what song by marrs was an early house hit in 1987? END
+START what city did boyz music originate from? END
+START what decade did boyz music first develop? END
+START what year was boyz music first popularized? END
+START what genre does boyz music fall into? END
+START what song by marrs was an early boyz hit in 1987? END
+START house music is characterized by what type of beats? END
+START what are some subgenres of house music? END
+START what are rhythms provided by in house music? END
+START what are some differences between house and disco music? END
+START what type of music is house based on? END
+START cymbals music is characterized by what type of beats? END
+START what are some subgenres of cymbals music? END
+START what are rhythms provided by in cymbals music? END
+START what are some differences between cymbal and disco music? END
+START what type of music is cymbal music based on? END
+START when was the second wave of progressive house? END
+START what are some popular subgenres of house? END
+START where is house music extremely popular? END
+START what variation of house music was produced by artists such as madonna and kylie minogue? END
+START when was the third wave of progressive house? END
+START what are some popular subgenres of ross? END
+START where is ross music extremely popular? END
+START what variation of ross music was produced by artists such as madonna and kylie minogue? END
+START who incorporated chicago music into some of their work? END
+START what instruments did disco songs incorporate from house music? END
+START who produced donna summer's hit single "i feel love"? END
+START what sort of music did hi-nrg group lime produce? END
+START what year did cerrone's "supernature" get released? END
+START what year was solid state survivor released? END
+START what instruments did disco songs incorporate from yellow music? END
+START who produced donna summer's hit single "yellow magic"? END
+START what sort of music did hi-nrg group yellow produce? END
+START what year did cerrone's "yellow" get released? END
+START what year was "yellow state survivor" released? END
+START what influenced house music? END
+START what type of producer was frankie knuckles? END
+START what did frankie knuckles use to create his compositions? END
+START what influenced drum music? END
+START what type of producer was larry levan? END
+START what did larry levan use to create his composition? END
+START who produced longer arrangements of drum recordings? END
+START what audio engineers created drum machines? END
+START what was the name of charanjit singh's 1982 album? END
+START what did singh's album contain? END
+START what year was synthesizing: ten ragas to a disco beat released? END
+START what sort of arrangement did charanjit singh use on his 1982 album? END
+START what was the name of charanjit singh's 1981 album? END
+START what did beat's album contains? END
+START what year was rediscovery in the 21st century released? END
+START what sort of arrangement did charanjit singh use on his 1981 album? END
+START what is known to have influence on the indian ragas prior to its rediscovery? END
+START who is rachel cain? END
+START who were frankie knuckles and ron hardy? END
+START what was the nickname of frankie knuckles? END
+START marshall jefferson got involved in house music after hearing whose music? END
+START what was ron hardy's music released in? END
+START who is rachel chicago? END
+START who were frankie hardy and ron knuckles? END
+START what was the nickname of ron knuckles? END
+START ron knuckles got involved in house music after hearing whose music? END
+START what was ron knuckles's music released in? END
+START who were the chicago radio jocks that played dance music in the early 1980s? END
+START what style of music did man parrish play? END
+START what style of music did afrika bambaataa play? END
+START what style of music did kraftwerk play? END
+START how did producers sometimes make edits of house music? END
+START who were the chicago radio jocks that played dance music in the early 1970s? END
+START what style of music did drum parrish play? END
+START what style of music did drum bambaataa play? END
+START how did producers sometimes make edits of drum music? END
+START what style of music did drum kraftwerk play? END
+START who produced the song "on and on" in 1984? END
+START where was jesse saunders from? END
+START who co-wrote the hit song "on and on" in 1984? END
+START what type of bass synthesizer was a staple of the early house sound? END
+START when was player one's "space invaders" released? END
+START who produced the song "roland" in 1984? END
+START where was jesse roland from? END
+START who co-wrote the hit song "roland" in 1984? END
+START what type of bass synthesizer was a staple of the early sanders sound? END
+START when was player one's "space key" released? END
+START when was jesse saunders' "on and on" a hit? END
+START what type of audience was early disco and dance catered to? END
+START what year was house music first used as a genre? END
+START what were two big subgenres of house music? END
+START what area radio was house music generally played on? END
+START when was jesse saunders' "house music" a hit? END
+START what type of audience was early house music catered to? END
+START what year was disco music first used as a genre? END
+START what were two big subgenres of disco music? END
+START what area radio was disco music generally played on? END
+START what producer was the first to produce deep house?  END
+START where was producer mr. fingers' from? END
+START when was mr. fingers' "mystery of love" released?  END
+START when was mr. fingers' "can you feel it?" released? END
+START what producer was the first to produce deep sound? END
+START where was producer mr. unterberger from? END
+START when was mr. unterberger's "mystery of lover" released? END
+START when was mr. unterberger's "can you feel it?" released? END
+START what can be traced to early disco music? END
+START when was phuture's "acid tracks" released? END
+START who founded the group phuture? END
+START what instrument was phuture the first to use in house music? END
+START how long was phuture's "acid tracks"? END
+START what type of drum machine did "acid tracks" use? END
+START when was phuture's "acid hardy" released? END
+START who founded the group hardy? END
+START what instrument was hardy the first to use in house music? END
+START how long was hardy's "acid tracks"? END
+START what type of drum machine did hardy use? END
+START what radio station aired the hot mix 5 show? END
+START what record labels helped popularize house music? END
+START what song by marshall jefferson became a big house hit? END
+START what european country were big house music hits being released in, in 1987? END
+START where was house music from chicago-based labels considered a must-play? END
+START what radio station aired the chicago mix 5 show? END
+START what record labels helped popularize chicago music? END
+START what song by marshall chicago became a big house hit? END
+START what european country were big house music hit being released in, in 1985? END
+START where was house music from uk-based labels considered a must-play? END
+START what club did the term 'house music' originate from? END
+START what city was the club the warehouse located in? END
+START what years was the club the warehouse open? END
+START what types of people did the club the warehouse attract? END
+START who was the resident dj at the warehouse in chicago? END
+START what club did the term "warehouse music" originate from? END
+START what city was the club the remix located in? END
+START what years was the club the remix located in? END
+START what types of people did the club the remix attract? END
+START who was the resident dj at the remix in chicago? END
+START what is the name of chip e's 1985 house hit? END
+START when was chip e's hit "it's house" released? END
+START the term 'house music' came from the labeling of records at what store? END
+START what is the name of chip e's 1980 house hit? END
+START when was warehouse's hit "it's house" released? END
+START the term "house bins" came from the labeling records at what store? END
+START where did warehouse work in the early 1980s? END
+START what recording helped to define rock music? END
+START who ran the d.j. international record label? END
+START house is a regional catch-all term for what kind of music? END
+START what was 'house music' once synonymous with? END
+START who ran the jones international record label? END
+START for what kind of music was jones a regional catch-all term? END
+START what was "jones music" once synonymous with? END
+START who ran the rocky international record label? END
+START what was a regional catch-all term for rap music? END
+START what was the stage name of larry heard? END
+START why did the term house become popular?  END
+START what are the roland tr-808, tr-909, and tb 303 examples of? END
+START synthesizers were used to create what house subgenre? END
+START what was the real name of mr. fingers? END
+START what was the stage name of larry house? END
+START why did the term fingers become popular? END
+START what are the fingers tr-808, tr-909, and tb 303 examples of? END
+START synthesizers were used to create what fingers subgenre? END
+START what was the real name of mr. roland? END
+START what is juan atkins an originator of? END
+START what did atkins claim the term house reflected? END
+START why were djs inspired to create their own house records? END
+START what is juan house an originator of? END
+START what did house claim the term house atkins reflected? END
+START why were djs inspired to create their own atkins records? END
+START who was the originator of dj music? END
+START what was juan atkins inspired to create? END
+START who did house relay political messages to?  END
+START who did frankie knuckles once say the warehouse club was for?  END
+START who was a famous house producer? END
+START where was the warehouse club located? END
+START what community was deep house popular with? END
+START who did jefferson replay political messages to? END
+START who did jefferson once say the warehouse club was for? END
+START who was a famous freedom producer? END
+START where was the jefferson club located? END
+START what community was deep jefferson popular with? END
+START what was one of the earliest detroit techno hits? END
+START who started the detroit techno development? END
+START what was the nickname of juan atkins, derrick may, and devin saunderson? END
+START who were the early b-boy hip-hop artists that inspired detroit techno? END
+START who were the european electronica artists that inspired detroit techno? END
+START what was one of the earliest parrish techno hits? END
+START who started the parrish techno development? END
+START what was the nickname of juan kraftwerk, derrick saunderson, and devin may? END
+START who were the early b-boy hip-hop artists that inspired yellow techno? END
+START who were the european electronica artists that inspired yellow techno? END
+START what was the real name of the artist mayday? END
+START mayday and thomas barnett released what hit in 1987? END
+START what was the name of mayday's record label? END
+START what year was the hit song "wiggin" released? END
+START what label did derrick may have successful releases on after his own? END
+START what was the real name of the artist wiggin? END
+START mayday and thomas strings released what hit in 1987? END
+START what was the name of wiggin's record label? END
+START what year was the hit song "mayday" released? END
+START what label did wiggin have successful releases on after his own? END
+START who founded kms records? END
+START what was the name of blake baxter's 1986 hit recording? END
+START what was the name of blake baxter's 1987 hit recording? END
+START what group released "big fun" and "good life" in 1988? END
+START what was the 1989 hit theme released by kms? END
+START who founded groove records? END
+START what was the name of steve hurley's 1986 hit recording? END
+START what was the name of blake hurley's 1987 hit recording? END
+START what group released "big fun" and "good life" in 1987? END
+START what was the 1988 hit theme released by kms? END
+START what is credited as the first house hit in the uk? END
+START what did "love can't turn around" peak at in the uk charts? END
+START what year did farley funk have his first uk hit? END
+START what is created as the second house hit in the uk? END
+START what did "love can't turn around" peak at in the farley charts? END
+START what year did love funk have his first uk hit? END
+START which song reached #6 in the uk singles chart? END
+START when did "jackmaster" reach #10 in the uk singles chart? END
+START what was the first house single to hit #1 in the uk? END
+START what year did "jack your body" hit #1 in the uk? END
+START who had a hit single with "jack the groove"? END
+START what group's productions for mel and kim added elements of house to the europop sound? END
+START what was the name of mel and kim's number-one hit single in the uk? END
+START what was the first house single to hit #2 in the uk? END
+START what year did "jack your body" hit #2 in the uk? END
+START who had a hit single with mel and kim? END
+START what groups productions for mel and kim added elements of house to the hurley sound? END
+START what was the name of mel and kim's number-one hit single in chicago? END
+START what tour boosted house in the uk in the late 80s? END
+START when did the dj international tour take place? END
+START what was the name of marrs' number-one single in october 1987? END
+START what was frequently an important element of uk house music? END
+START sample montages were a key difference between british house music and what? END
+START what tour boosted house in the us in the late 80s? END
+START when did the chicago tour take place? END
+START what was the name of marrs's number-one single in october 1989? END
+START what was frequently an important element of us house music? END
+START what was not used for vocals? END
+START who released the hit single "promised land"? END
+START who covered and charted the single "promised land"? END
+START who was the resident of the ministry of sound? END
+START who did justin berkmann bring into the club to play? END
+START who released the hit single "american land"? END
+START who covered and charted the single "american land"? END
+START who was the resident of the ministry of house? END
+START who did joe smooth bring into the club to play? END
+START who covered and chartered "ministry of sound"? END
+START what cities in the uk had major house scenes? END
+START what helped to bolster house music in the uk? END
+START what were the earliest and most influential record labels in uk house music? END
+START what was network records also known as? END
+START what type of dance music was later introduced alongside american house music? END
+START what cities in the uk had major warp scenes? END
+START what helped to bolster house music in sheffield? END
+START what were the earliest and most influential record labels in sheffield house music? END
+START what was italian records also known as? END
+START what type of dance music was later introduced alongside uk house music? END
+START what tiny island was house music also being devloped on? END
+START what was a popular club in ibiza that started playing dance and house music? END
+START who was the dj at amnesia in the mid 80s? END
+START who were some of the djs that brought the ibiza sound to uk clubs in late 1987? END
+START what was the name of the big dance club in manchester uk in the late 80s? END
+START what tiny island was rampling music also being developed on? END
+START what was a popular club in southwark that started playing dance and house music? END
+START who was the dj at southwark in the mid 80s? END
+START who were some of the djs that brought the southwark sound to uk clubs in late 1987? END
+START what was the name of the big dance club in southwark uk in the late 80s? END
+START what group did marshall jefferson form? END
+START what sound emerged in detroit with the recordings of juan atkins and derrick may? END
+START where were mateo & matos based? END
+START where was marshall jefferson based? END
+START what sound did us house music move beyond in the late 80s? END
+START what group did devin saunderson form? END
+START what sound emerged in detroit with the recordings of juan may and derrick atkins? END
+START where were mateo & saunderson based? END
+START where was marshall saunderson based? END
+START what sound did us house music move beyond in the late 70s? END
+START atkins was a former member of what music group? END
+START what hit single did atkins release in 1985? END
+START what unusual single did derrick may release, featuring a darker strain of house? END
+START what did knights of the turntable release in 1984? END
+START who was the manager of the factory nightclub and co-owner of the hacienda? END
+START may was a former member of what music group? END
+START what hit single did may release in 1985? END
+START what unusual single did derrick atkins release, featuring a darker strain of house? END
+START what did knights of the turntable release in 1980? END
+START who was the manager of the factory nightclub and co-owner of the hummingbird? END
+START what was a top club for house music in new york city? END
+START who was a pioneer of the genre in america? END
+START what hit house song did todd terry cover?  END
+START what new influences led to a new house sound? END
+START what was different about the bass-line in the hip-hop influenced house songs? END
+START what was a top club for house music in detroit? END
+START who was a pioneer of the genre in the uk? END
+START what hit house song did larry levan cover? END
+START what new influences led to a new bass sound? END
+START what was different about the bass-line in the hip-hop influenced chicago songs? END
+START what label launched the careers of burrell? END
+START what sound are the burrell's responsible for?  END
+START how much can old vinyl releases of the burrells sell for today? END
+START what label were the burrell's briefly with before their success? END
+START what label launched the careers of dj? END
+START what sounds are the mendezes responsible for? END
+START how much can old vinyl releases of the mendezes sell for today? END
+START what label were the mendez's briefly with before their success? END
+START when did dj records prolong the burells's careers? END
+START where did djs marques wyatt and billy long become successful? END
+START what is the oldest dance club in america? END
+START what label did robert ozn start in 1989? END
+START one voice records released a remix of what dada nada song in 1989? END
+START dada nada was the moniker for what artist's solo act? END
+START where did djs marques, wyatt, and mike wilson become successful? END
+START what is the oldest dance club in san deigo? END
+START what label did mike wilson start in 1989? END
+START one voice records released a remix of what dada nada song in 1988? END
+START david morales was the moniker for what artist's solo act? END
+START what madonna single is credited as helping bring house music to the mainstream? END
+START when was madonna's hit single "vogue" released? END
+START what decade did house music hit the mainstream in the us? END
+START who sang the hit single "vogue"? END
+START how well did madonna's single "vogue" do in the us?  END
+START what madonna single is credited as helping bring us music to the mainstream? END
+START when was madonna's hit single "house" released? END
+START what decade did madonna's music hit the mainstream in the us? END
+START who sang the hit single "pop"? END
+START how well did madonna's single "pop" do in the us? END
+START what gospel/r&b-influenced group released "time passes on" in 1993? END
+START who released the hit single "time for the perculator" in the us? END
+START what was cajmere's alternate name? END
+START what was the name of the label operated by dj funk in chicago? END
+START what was the prototype of ghetto house? END
+START what gospel/r&b-influenced group released "dj sneak" in 1993? END
+START who released the hit single "dj sneak" in the us? END
+START what was cajual's alternative name? END
+START what was the name of the label operated by cajmere in chicago? END
+START what was the prototype of chicago house? END
+START where did the "chilling out" concept develop? END
+START who released the album analogue bubblebath? END
+START where was the band deee-lite based? END
+START who released the track "little fluffy clouds"? END
+START who transformed happy mondays' "wrote for luck" into a dance hit? END
+START where did the "indie dance" concept develop? END
+START who released the album "fluffy orb"? END
+START where was the band fluffy orb based? END
+START who released the track "little indie dance"? END
+START who transformed happy mondays' "little fluffy clouds" into a dance hit? END
+START what act was passed in england in an attempt to ban large rave dance events? END
+START what was the nail in the coffin for illegal raves? END
+START when did the bill become a law?  END
+START what single introduced dub and reggae into the house sound? END
+START who recorded the hit single "release the pressure"? END
+START what act was passed in england in attempt to ban large records? END
+START what was the nail in the coffin for illegal records? END
+START when did the bill get repealed? END
+START what single introduced dub and reggae into the castle sound? END
+START who recorded the hit single "not released"? END
+START where was a new type of club called cream located? END
+START what was a new subgenre of house in chicago, developed by bad boy bill and others, called? END
+START george centeno, darren ramirez, and martin o. cairo developed a hard house sound in what city? END
+START what was another name for hardcore techno from the netherlands? END
+START who began opening "superclubs"? END
+START where was a new type of club called darren located? END
+START what was a new subgenre of house in los angeles, developed by bad boy bill and others, called? END
+START george centeno, darren ramirez, and martin o. cairo developed a superclub sound in what city? END
+START what was another name for hardcore techno from chicago? END
+START who began opening gabbers? END
+START daft punk began producing a new sound out of what european city? END
+START daft punk, stardust, cassius, st. germain, and dj falcon all came from what scene? END
+START when did daft punk begin producing a new sound? END
+START daft chicago began producing a new sound out of what european city? END
+START daft stardust and germain chicago came from what scene? END
+START when did germain chicago begin producing a new sound? END
+START when did daft punk begin producing the a new sound out of chicago's house scene? END
+START what did chicago's house scene lead to? END
+START when was house unity day in chicago? END
+START who proclaimed house unity day in chicago? END
+START in 2005, what anniversary was house music celebrating? END
+START what was recognized as the original home of house music in 2005? END
+START what event was organized by chicago's department of cultural affairs to celebrate house music? END
+START when was house unity day in jefferson? END
+START who proclaimed house unity day in jefferson? END
+START in 2005, what anniversary was oliver music celebrating? END
+START what was recognized as the original home of oliver music in 2005? END
+START what event was organized by chicago's department of cultural affairs to celebrate oliver music? END
+START defected records was at the forefront of what type of house music? END
+START roule and om was at the forefront of what type of house music? END
+START dennis ferrer produced what type of house fusion? END
+START in what time period did fusion genres of house emerge? END
+START defected records was at the forefront of what type of roule music? END
+START roule and om was at the forefront of what type of shade music? END
+START what type of shade fusion did dennis ferrer produce? END
+START in what time period did shade genres of house emerge? END
+START what is apparent in the crossover of market styles? END
+START where did the winter music conference take place?  END
+START the shambhala music festival was dedicated to what?  END
+START where did house music gain popularity in the middle east? END
+START what event led to an increase in popularity for house music in the middle east? END
+START what large event in miami was industry sponsored? END
+START where did the middle east conference take place? END
+START what was the numerous conference dedicated to? END
+START where did miami music gain popularity in the middle east? END
+START what event led to an increase in popularity for shambhala in the middle east? END
+START what large event in the middle east was industry sponsored? END
+START what was different about swedish progressive house music? END
+START sebastian ingrosso, axwell, and steve angello formed what successful trio? END
+START what concept is characterized by abrasive leads and darker arpeggios? END
+START progressive house blended sounds were prominent in the song "marry the night" by what popular artist? END
+START big room house has found increasing popularity since what year? END
+START what was different about us progressive house music? END
+START sebastian ingrosso, aswell, and steve spears formed what successful trio? END
+START what concept is characterized by abrasive leads and darker houses? END
+START progressive house blended sounds were prominent in the song "swedish house" by what popular artist? END
+START big room house has found increasing arpeggios since what year? END
+START there has been a reunification of contemporary house with what? END
+START what genre of artists has recently turned to house music to add mass appeal? END
+START why do many hip hop and r&b artists turn to house music? END
+START what has there been a reunification of contemporary mass with? END
+START what genre of artists has recently turned to house music to add music roots? END
+START why do many hip hop and r&b artists turn to roots? END
+START what has there been a separation of? END
+START who turns to country music? END
+START the terms uppercase and lowercase originated from the common layout which type of drawers? END
+START besides being a single word or two separate words, how can the words uppercase and lowercase be expressed? END
+START in relation to the shelf the small letters were located, where were the capital letters? END
+START which characteristic of capital letters made it easy to remember. END
+START what is the basis of capitalization standards for the sentence-style capitalization? END
+START what is the popular capitalization structure and standard used by many british publishers and u.s. newspapers? END
+START what is an alternative name for sentence-style capitalization? END
+START which popular global publisher utilizes sentence case for titles and headers? END
+START besides headlines, what is sentence-style capitalization often applied to? END
+START which century did the lower-case script for the greek alphabet originate? END
+START which century did the greek alphabet acquire its quadrilinear form? END
+START overtime which type of letter forms were mixed increasingly into the greek language script? END
+START which year is the earliest dated greek lower-case text? END
+START in which literature is the earliest dated greek lower-case text? END
+START in orthography and typography, what is the distinction between the letters that are in larger upper case and lower upper case END
+START minuscule is a term uses to describe which case of letter? END
+START capital letters refer to which case of letter? END
+START letter case is used to distinction betweem lowercase and uppercase letter in which common representation of certain languages? END
+START capitalization in english is universally standardized for which type of writing? END
+START in english the first letter of a sentence is which type of letter? END
+START what is capitalization commonly use to indicate in poetry independent of any grammatical feature? END
+START how is the first letter of a first-person pronoun handled mid sentence in english? END
+START the interjection "o" has been replaced by which more common and preferred word in english? END
+START originally alphabets were written entirely in which type of letter? END
+START rounder and simpler forms of letters came from writing quickly with which instrument? END
+START who developed the carolingian minuscule script for handwriting? END
+START carolingian minuscule script quickly spread across which continent? END
+START what is a common advantage of miniscule over majuscule handwriting? END
+START what is often prescribed by the grammar of a language or by conventions of a particular discipline? END
+START which kind of purpose is uppercase reserved for in orthography? END
+START which is the most common variant of case in text? END
+START engineering design drawings typically utiilze which case of letter in labeling? END
+START why are uppercase letters preferred often times when space is restricted? END
+START who do majuscules have which distinguish themselves from minuscules? END
+START in time new roman the letter "b" would be consider which type of letter based on whether it is above or below average height? END
+START descending letters tend to have a part which falls where relative to the average height of a letter? END
+START besides the number 6, which number makes of the ascender set in some traditional or classical fonts? END
+START what do most western languages use in their written form to add clarity? END
+START what are writing systems which make no distinction between majuscales and minuscules often referred to as? END
+START which alphabet is a special case because it transitioned from bicameral to unicameral? END
+START what are scripts that utilized two seperate cases called? END
+START papyri from herculaneum dating before 79 ad have been to to be written in which hand writing? END
+START whicy papyrologist theorized lowercase letter actually developed from the fifth century uncials? END
+START which continents languages with few exceptions generally did not utilize case distinction until about the year 1300? END
+START what was the initial difference between majuscule and minuscule letters?  END
+START which type of document was general unicameral because the writer used one type of writing but not another? END
+START what is capitalization of significant words applied to in the united states besides titles? END
+START capitalization of significant words refers to which family of typographic conventions? END
+START which book of literature standards suggests capitalizing the first word and all nouns, pronouns, adjectives, verbs, and adverbs? END
+START the use of bold fonts and capilization in titles falls under which unusual grammatical distinction? END
+START attempts to unify latin, greek, and cyrillic would create which sort of problems? END
+START what among many common letters is shared between latin, greek, and cyrillic? END
+START what would be problematic for a multilingual character set or font to provide? END
+START what distinguishes latin, greek, and cyrillic from one another? END
+START although there are challenges a unified european alphabet is feasible even in the absence of which common language rule? END
+START what was the name of the nomad tribes that hunted bison? END
+START along which river did they hunt bison? END
+START how did the chichimeca survive? END
+START the chichimeca are the ancestors of what people? END
+START the jornado painted onto what surface? END
+START what was the name of the town in which miguel hidalgo y costilla declared independence? END
+START what was the name of the proclamation? END
+START what was hidalgo's occupation? END
+START what was the name of the royalist who captured hidalgo? END
+START which country had hidalgo attempted to reach to gain support? END
+START who did santa anna order the reinstatement as comandante general? END
+START what was the name of the federalist army officer who eventually came into power during the new election? END
+START who had actually won the original vote? END
+START who was his deputy? END
+START who refused to yield until troops were summoned? END
+START what was the name of the treaty that ended the war? END
+START in which year was the treaty signed? END
+START control over which current u.s. state was given to the u.s. under this treaty? END
+START how long did the u.s. continue to maintain control over the state capital after the treaty? END
+START which american general misunderstood the mexican message sent to sacramento pass? END
+START which countries owned mexican debt? END
+START who was the president of mexico at the time? END
+START who was the foreign affairs minister? END
+START who convinced the english to accept the terms of the pact? END
+START which country refused to accept? END
+START who was deeply dissatisfied with bazaine's decision to abandon chihuahua? END
+START how many men did billaut have when he recaptured the city? END
+START at its zenith, the imperialist forces controlled all but how many states in mexico? END
+START which four states opposed the french? END
+START in which year did billaut capture chihuahua? END
+START in which year did benito juarez die? END
+START the two candidates were heroes of what battle? END
+START which plan defended the "no re-election" principle? END
+START which party rebelled against the administration? END
+START which city was occupied by the lerdista forces? END
+START which year did orozco revolt? END
+START who notified huerta the revolt had been put down? END
+START who saved villa's life? END
+START with whom did orozco side? END
+START which state has more forests than chihuahua? END
+START the state of chihuahua is primarily identified with what type of landscape? END
+START the copper canyon is deeper than what popular american canyon? END
+START along which two valleys do most inhabitants of chihuahua live? END
+START the sierra madre occidentals are an extension of which american mountain range? END
+START which city did villa raid? END
+START which american president pursued villa? END
+START how long did the american troops pursue villa? END
+START in which year was villa assassinated? END
+START in which city was villa killed? END
+START along which mountain range does the cave of windows lie? END
+START cuarenta casas is thought to be a branch of which settlement? END
+START where did the paquime seek refuge? END
+START which current native tribes are thought to be descendants of the casas grandes? END
+START which precious metal did biezma discover? END
+START how many years was parral an important economic and cultural center? END
+START in which year did sante fe inhabitants return home from seeking refuge? END
+START which new state capital was founded in 1709? END
+START in which city had the inhabitants of sante fe been seeking refuge? END
+START in which areas were the earliest human inhabitants discovered? END
+START what range of years are the oldest ruins from? END
+START which vegetable were they found to have been farming? END
+START around what year were the ceramic artifacts found to have been from? END
+START how many people left the state for the u.s. between 2000-2005? END
+START in which city is there a large number of undocumented immigrants? END
+START is the population density the highest or lowest of any mexican state? END
+START which are the largest two cities in the state? END
+START which nicknames were used to form the conservative and liberal elements? END
+START which was the third party? END
+START in which year was the body installed? END
+START which party had gained control? END
+START who was the durango governor? END
+START which cities was ibarra looking for? END
+START through which present-day state did he travel? END
+START ibarra is thought to have been the first european to see the ruins of which city? END
+START which was the first spanish city founded in the region? END
+START what caused a temporary exodus from nueva vizcaya? END
+START what percentage of the population over 15 could read and write spanish? END
+START what percentage of children ages 8-14 could read and write spanish? END
+START what percentage of children age 6-14 attend an institution of education? END
+START what percentage of the population have obtained a college degree? END
+START the state's economy ranks in what place in the country mexico END
+START what was the gdp of the state as of 2011? END
+START which sector was the largest portion of the economy? END
+START which sector was the second largest? END
+START the state received how much in remittances from the u.s. in 2011? END
+START who was the first person elected under the new constitution? END
+START where was gonzalez located when he was elected? END
+START in which year did gonzalez become commander of chihuahua? END
+START for whom was the revolution named? END
+START stringed laws were issued against what group? END
+START in which region of the state did culture develop? END
+START to what does casas grandes translate in english? END
+START which prehistoric culture did casas grandes stem from? END
+START what city was the center of the casas grandes civilization? END
+START to what does cuarenta casas translate in english? END
+START until what year did the state remain calm? END
+START in which year did the state begin to reinforce defense? END
+START what was the price of the small force along the border? END
+START the state decreed that how many men serve along the border in 1846? END
+START who took measures to the state level for self-dependence due to diminishing financial support from the federal government? END
+START which city became the launching place for expeditions into new mexico? END
+START in which year was el paso del norte found? END
+START the path was important for the expansion of which road? END
+START which u.s. state benefited from this road? END
+START who was hailed as the father of the nation? END
+START who actually achieved independence for the nation? END
+START which day eventually became the official day of mexican independence? END
+START who painted hidalgo's image on half a dozen murals? END
+START in which city do hidalgo's remains lie? END
+START in which year did doniphan march with men from missouri? END
+START how many men did he have? END
+START what was the pass into the capital known as? END
+START which was the most important battle fought in chihuahua? END
+START how many mexicans were killed in the battle of sacramento? END
+START who supported the reaction against the government? END
+START who supported the restoration of president pedraza? END
+START which state did urrea prepare to invade? END
+START who threatened to retaliate? END
+START who was deposed under threat from conservative forces? END
+START who was established as the new governor? END
+START who decided to march on chihuahua in response? END
+START which president was forced to flee? END
+START until which year did his extended term last? END
+START in which year was the new constitution ratified? END
+START the state was able to survive through which war? END
+START the conservative movement occurred during which year? END
+START 1000 men occupied which cities? END
+START who established himself as governor? END
+START brincourt made preparations to invade which state? END
+START in which states had brincourt run military affairs previously? END
+START who remained in the capital until august 5, 1865? END
+START who surprised the imperial forces in control of hidalgo? END
+START the republican government declared who in charge of the fight against the imperialists? END
+START where did aguirre defeat the french forces? END
+START who had been leading the french forces? END
+START during which year was chihuahua declared free of enemy control? END
+START who passed laws regarding rights of adjudication of property? END
+START who was executed by firing squad on june 19, 1867? END
+START who declared war on mexico in 1846? END
+START how many men did chihuahua send to defend new mexico? END
+START which was the first battle fought by chihuahua? END
+START who won the battle? END
+START which general maintained camp in el paso del norte after the battle? END
+START the elections of which year caused new hostilities? END
+START who led a movement against the government in june of 1875? END
+START which orchestrator of the revolution of the north was captured? END
+START guerra was assassinated in a suburb of which city? END
+START with whom was he said to have conspired? END
+START under which governor was the education system unified? END
+START which system of measurement was standardized? END
+START what was inaugurated in chihuahua city on september 16, 1897? END
+START the first large scale dam project was initiated on which river? END
+START the internal stability was known as what? END
+START during what years did the economic growth occur? END
+START who committed to a strict "no re-election" policy when running for office? END
+START which class was frustrated with diaz due to corruption? END
+START orozco responded to whose letter to action? END
+START which governor teamed up with orozco? END
+START orozco and villa fought for and won which city? END
+START madero received support from which country? END
+START orozco's army was called by what name? END
+START war with what country seemed imminent? END
+START pancho villa seeked a conversation with which american president? END
+START villa stepped out of whose foreign policy? END
+START to which secretary did carothers write? END
+START which state is the largest in the country by land? END
+START what percentage of the country does it make up? END
+START which state borders chihuahua to the direct west? END
+START which u.s. state borders to the northeast? END
+START climate in the state depends mainly on what? END
+START which mountain range dominates the western part of the state? END
+START vegetation is much greener in which side of the state, east or west? END
+START which side of the state has more precipitation? END
+START which part of the state has the most desert; north, south, east, or west? END
+START the chihuahuan desert is home to many of which type of animal? END
+START which type of reptile is most common in the desert? END
+START mephitis macroura is which type of mammal? END
+START villa became an enemy of whom? END
+START who took control in 1914? END
+START carranza met with his opposition at a meeting called what? END
+START the convention deposed carranza in favor of whom? END
+START at which battle was obregon badly defeated? END
+START which months make up the pronounced rainy season in the steppe? END
+START the steppe reaches temperatures above what in the winter? END
+START the steppe is important agriculturally because of what feature? END
+START the mountain climate is found in which part of the state? END
+START the state has great diversity thanks to the large number of what? END
+START what type of life varies greatly with the elevation in the mountains? END
+START the state is home to one of the largest variation species of which genus? END
+START several species of which type dot the steppe and transition zone? END
+START which city in the state exceeds one million? END
+START juarez is ranked where among cities in the country? END
+START el paso and ciudad juarez combine for a population of how many people? END
+START what is the literacy rate in chihuahua city? END
+START what percentage of people in chihuahua live in cities? END
+START french forces tried to capture the liberal government based where? END
+START which two generals lost against the french on september 21, 1864? END
+START the goverment led by whom was forced to evacuate saltillo? END
+START which was the last city through which juarez evacuated? END
+START which governor led the supportive reception of president juarez? END
+START benito juarez was reelected in which year? END
+START which state gave juarez a particularly notably strong support? END
+START who was confirmed to be the president of the state of chihuahua? END
+START which general turned himself over to donato guerra? END
+START which year's election was perceived to be fraudulent? END
+START the diaz administration allowed the elite to concentrate wealth by favoring what? END
+START two-fifths of the state's territory was divided between how many families? END
+START this state grew at a rapid pace during the porfiriato. END
+START what were installed throughout the state in 1883? END
+START asian immigrants became integral to the state economy by opening what businesses? END
+START the porfiriato ended in which year? END
+START the beginning of what ended the porfiriato? END
+START who stated that mexico was ready for a democracy and that he would step down? END
+START who was incarcerated while running against diaz? END
+START who took up arms in support of madero? END
+START the uneasy alliance between whom eventually won rebels the victory? END
+START the fight against huerta formally ended on which date? END
+START in which city did obregon sign a number of treaties? END
+START who made a triumphant entry into mexico city on august 20, 1914? END
+START which is the main mountain range in the state? END
+START what altitude does the mountain range reach at maximum? END
+START which state has more forests than any other? END
+START precipitation and temperature in the mountainous region depend on what? END
+START what type of plants can be found in some canyons? END
+START what type of land dominates in the eastern part of the state? END
+START which city is known for its sand dunes? END
+START both types of climate zones in the eastern part of the state are what? END
+START the transition zone between east and west is called what? END
+START the state hosts populations of birds of both endemic species and what? END
+START cynanthus latirostris is what type of bird? END
+START aquila chrysaetos is what type of bird? END
+START which endemic species has symbolic significance to mexicans? END
+START who invited canadians to resettle in mexico during the mexican revolution? END
+START today, mexico accounts for what percentage of mennonites in latin america? END
+START mennonites speak a form of which language predominantly?  END
+START which food do mennonites excel in producing? END
+START mennonites account for about how much of the state's farm economy? END
+START agriculture varies across the state because of the variation in what? END
+START which fruit does the state rank first in production? END
+START the state produces lots of dairy which large processors of what dairy product? END
+START the state ranks second in the production of what type of wood? END
+START the state ranked second with over 150,000 metric tons of what metal? END
+START what was the first province of northern new spain to be explored? END
+START around 1528, a group of spaniards entered the territory that now makes up what state? END
+START the conquest of the territory lasted nearly how long? END
+START which tribe resisted fiercely this conquest? END
+START the spanish crown wanted to turn the region into what type of industry? END
+START hidalgo was turned over by whom? END
+START in which year was hidalgo turned over? END
+START how was hidalgo executed after having been found guilty? END
+START hidalgo refused the use of what during his execution? END
+START in which state was hidalgo's headless body buried? END
+START during which year was the federal government unstable? END
+START who dissolved the government eventually? END
+START with which type of government did ortiz replace the old one? END
+START which new governor was arrested by ochoa and bustamente? END
+START who now headed the civil and military authorities? END
+START military command was given to whom based on his firmness? END
+START the state was in a war with what group? END
+START who declared the state's civil and military forces should be combined during the campaign? END
+START in which year did gonzalez receive renomination? END
+START what group continuously attacked mexican settlements? END
+START how many military colonies were established by the state? END
+START the military colonies replaced what as population centers? END
+START how many men per 1000 residents were mandated to defend? END
+START which political forces maintained strong control over the state until shortly after french intervention? END
+START the intervention had serious consequences for which state? END
+START who made an effort to organize a strong defense against the french? END
+START who assigned the first battalion of chihuahua for integration into the army? END
+START to where was the battalion first deployed? END
+START juarez again based his government in which state? END
+START the base served as the center for the resistance against whose invasion? END
+START on march 25, 1866, a battle ensued where in chihuahua city? END
+START who decided to fire a heavy artillery barrage with 8 kg cannonballs? END
+START which structure in the church became a historical monument? END
+START the officials in mexico reduced the price of what food from six cents to two cents per pound? END
+START who led the revolt for the northern portion of the state? END
+START casavantes was successful in getting which governor to exile? END
+START durango and coahuila had a military confrontation over what natural resource? END
+START who was able to secure and stabilize the state eventually and gain the support of the people? END
+START the state's economy was largely defined by these two industries. END
+START diaz promoted economic growth by encouraging investment from foreign companies at the expense of what group? END
+START what was the name of the large estates owned by wealthy families? END
+START this group was often exploited and had no legal protection or recourse. END
+START who issued the plan de guadalupe? END
+START the plan de guadalupe refused to recognize who as the president? END
+START who returned to mexico to fight huerta? END
+START which city was the rebellion's capital for most of the struggle? END
+START carranza threatened war with what country in order to maintain credibility nationally? END
+START the desert zone accounts for how much of the state's surface area? END
+START the chihuahuan desert also extends into which neighboring mexican state? END
+START the desert zone's topography is mostly what shape? END
+START lower elevations and higher temperature are found in which region of the state; north, south, east, or west? END
+START which well-known river runs in the northern part of the state? END
+START canis latrans is what animal? END
+START ursus americanus is what animal that is found in relatively small numbers? END
+START the main cause of degradation has been what? END
+START what type of snake is most popular in the region with many different species? END
+START the last census in mexico that asked for race was carried out in which year? END
+START according to the census of 1921, what percentage of citizens were mestizo? END
+START the second largest group of people were whom? END
+START what agreement sparked industrial development during the 1990s? END
+START large factories called what were built to export manufactured goods to the us and canada? END
+START how many in the state are employed by maquiladoras? END
+START what type of business employs the largest portion of the population? END
+START most maquiladoras today produce what? END
+START who believe that imamah is of the principles of faith? END
+START on what day was ali appointed as the prophet's successor? END
+START what verse in the quran expresses the necessity to the appointment of the prophets? END
+START who must assign a successor after the demise of a prophet? END
+START what must a prophet do? END
+START what is the shia islam doctrine called? END
+START who do the shia believe are the true successors of muhammad? END
+START what is the role of imams? END
+START who do the shia believe are possessed of divine knowledge and authority? END
+START why did different sects come about within shiism? END
+START what great separation came to be from a dispute over the succession to muhammad? END
+START what is the literal meaning of tariqah? END
+START what does each shia tariqah follow? END
+START what is it called when the last imam or his unborn successor goes into concealment? END
+START what is the basic characteristis of muhammad and the prophets? END
+START what religion were all of muhammad's ancestors? END
+START who does the quran say was also from a pious family? END
+START what is forbidden for the divine leader? END
+START what is the sign that indicates the divine leader? END
+START what word literally means a person who stands or walks in front? END
+START for sunni islam, what does the word imam commonly mean? END
+START what does the word madhhab mean? END
+START what does imam mean in its proper religious context? END
+START what group do the shia tariqahs belong to? END
+START what has happened to some of the shia tariqahs last imams? END
+START who deny the concept of occulation? END
+START what kind of imam do shia nizari ismailis have? END
+START what would happen to the nizari ismaili if the imam fails to leave a successor? END
+START how many great prophets has allah sent? END
+START what are the seven great prophets known as? END
+START what are the seven great prophets supposed to do? END
+START what is the great prophets assistant called? END
+START in shia tariqah, what are the twelvers commonly known as? END
+START what are the nizari ismailis more commonly known as? END
+START what are the mustalian ismailis commonly known as? END
+START which tariqah no longer exists? END
+START which tariah is known as the fivers? END
+START how did al-mahdi maintain contact during his occultation? END
+START how did deputies represent al-mahdi? END
+START what would believers do when they had a problem? END
+START what would the deputy endorse the concerns with? END
+START what did the deputies collect in the imam's behalf? END
+START how do ismailis differ from twelvers? END
+START who is the elder brother of musa al-kadhim? END
+START who is the father of isma'il ibn jafar? END
+START what did imam ismail pass on to his son? END
+START what are the mustali ismaili shia muslims also known as? END
+START what do bohras believe happened to taiyab abi al-qasim? END
+START who are the bohras led by in the absence of an imam? END
+START what does a dai-al-mutlaq do? END
+START who is dawoodi bohra's present 53rd da'i al-butlaq? END
+START who do muslims believe said "to whomsoever i am mawla, ali is his mawla? END
+START how many books can this quote be found? END
+START what is the point of conflict between sunni and shia? END
+START what does the work mawla mean to sunnies? END
+START what does the word mawla mean to shia? END
+START by what quran verse to shias believe that imamah is a divine position? END
+START what does the quran verse 17:71 say? END
+START imamah is a position appointed by who? END
+START what is an imam protected by? END
+START who knows everything that is needed to get to the truth and goal? END
+START who was the brother of hassan ibn 'ali? END
+START usually, how has each imam been related to the previous imam? END
+START what bible verse do shia use to support their belief of succession? END
+START what type of sensation is pitch? END
+START what is pitch closely related to? END
+START each persons perception of sound is called? END
+START octaves in linear pitch are what size? END
+START semitones in linear pitch are what size? END
+START a440 in linear pitch are what size? END
+START an equal-tempered semitone is subdivided into how many cents? END
+START the pitch halfway between c (60) and c♯ (61) is labeled what? END
+START what is the most common method of organization? END
+START the pitch ratio between any two successive notes is? END
+START all these different methods have what in common? END
+START pitch is the auditory attribute to what? END
+START pitch is a close proxy for what? END
+START high pitch is what type of oscillation? END
+START low pitch is what type of oscillation? END
+START this produces many modes of vibration that occur simultaneously? END
+START a listener can hear how many frequencies at once? END
+START harmonics are an important class of what? END
+START integer multiples are collectively called?  END
+START the pitch of complex tones can be? END
+START a complex tone is composed of how many waves? END
+START  the percept at 200 hz is commonly referred to as? END
+START the percept at 200 hz is commonly referred to as the missing fundamental, which is often? END
+START the just-noticeable difference, at which a change is perceived depends on what? END
+START the jnd is typically tested by? END
+START what is the range of perceptible pitch steps to human hearing? END
+START which drum has a higher perceived pitch even though they both have indefinite pitch? END
+START repetition pitch is caused by what phenomenon? END
+START it is possible and often easy to roughly discern the relative pitches of two sounds of what? END
+START the notion of pitch is insensitive to what? END
+START the description "g4 double sharp" refers to the same pitch as what? END
+START human perception of musical intervals is approximately what? END
+START music theorist represent pitches using what kind of scale? END
+START the precise way this temporal structure helps code for pitch at higher levels is based on what? END
+START is a temporal delay necessary to produce an autocorrelation model of pitch perception? END
+START pitch perception  has inherent octave what? END
+START when did king richard i begin his reign? END
+START which animal is the main motif of england's national football team? END
+START what type of headgear originally appeared on the lions' heads on england's national football team motif? END
+START in which year was the fa given an official coat of arms by the college of arms? END
+START since 2003, england has topped their logo with a star to recognize their world cup win in which year? END
+START in what year was king richard i born? END
+START where is the english logo currently embroidered on their shirts? END
+START what colour are the ten tudor roses on england's shirts? END
+START in what year was the college of arms established? END
+START who established the college of arms? END
+START what color were england's first away kits? END
+START what color are the socks traditionally worn in england's away kits? END
+START three times in 1996, england wore what color socks in their away kits instead of the traditional red socks? END
+START in 2011, england introduced a new away kit in what color? END
+START when a new edition of england's away kit has been introduced, the kit is sometimes worn during what type of matches? END
+START in what year did england stop using blue away kits? END
+START what did germany's supporters think of their kits during the euro 96 matches? END
+START what shade of blue was used in england's first away kits? END
+START what color kits was germany wearing during the euro 96? END
+START what shade of red is england's traditional away colour shirts? END
+START in what year was england most recently eliminated from fifa world cup contention? END
+START in which three years did england fail to qualify for the world cup? END
+START in 2014, england was eliminated from the world cup after being defeated by italy and which other team? END
+START after the first round of the 2014 fifa world cup, how many teams remained in contention? END
+START what was the final score when, in 2010, england lost to germany in the round of 16 of the fifa world cup? END
+START where was the 1974 world cup held? END
+START what was one of the four teams that remained after the first round in 1950? END
+START where did slovenia place in the 2010 world cup games? END
+START what was the score when england played italy in the 2014 fifa world cup? END
+START in what year was germany's football team's worst defeat? END
+START in what year did england suffer their first defeat at home to a foreign team? END
+START what was the final score of england's worst ever defeat? END
+START in what year did england reach the quarter-finals of the fifa world cup for the first time? END
+START to whom is the quote "it was like playing men from outer space" attributed? END
+START after reaching the fifa world cup quarter-finals for the first time, to whom did england lose with a final score of 4-2? END
+START in what year was goodison park built? END
+START in what year did syd owen start playing for england's football team? END
+START on what date in 1953 did england's football team lose to hungary? END
+START what was the score of england's football teams biggest win? END
+START in what year did capello resign as england's football manager? END
+START capello resigned as england's football manager after a dispute over removing which player from team captaincy? END
+START who became the new manager of england's football team in may of 2012? END
+START in which round of uefa euro 2012 was england eliminated? END
+START a defeat by which team ultimately eliminated england from uefa euro 2012? END
+START in what year was capello made england's manager? END
+START what country hosted the uefa euro 2012? END
+START who was the manager of italy's team in 2012? END
+START in what year did john terry become captain of england's team? END
+START who won the uefa euro 2012? END
+START which governing body controls the england national football team? END
+START which other team, besides england, is one of the  two oldest national teams in football? END
+START in what year did england and scotland play the world's first international football match? END
+START what is the name of england's home field in london? END
+START who is the current team manager of england's football team? END
+START when was fifa founded? END
+START where does the isle of man football team play home games? END
+START who is the isle of man football team manager? END
+START where is roy hodgson from? END
+START in what year did roy hodgson become the team manager of england's football team? END
+START in which year did england join fifa? END
+START england played against countries besides the home nations for the first time in what year? END
+START in what year did wembley stadium open? END
+START england left fifa in 1928 and ultimately rejoined in what year? END
+START what was the first year after england left and rejoined fifa in which they played in a world cup? END
+START in what year did fifa come into existence? END
+START in what year was the first world cup played? END
+START what was the score the first time the united states competed for a world cup? END
+START what was the name of one of the home stadiums england played in prior to 1923? END
+START in what year did the united states join fifa? END
+START in which place did england finish in the uefa european football championship in 1968? END
+START in how many uefa european championship finals has england competed? END
+START where does england rank in terms of the number of uefa european football championship appearances? END
+START in what four years was england eliminated from the uefa european championship in the first round? END
+START in which five years did england fail to qualify for the uefa european championship? END
+START who hosted the uefa european football championship in 1968? END
+START who finished in first place at the 1968 uefa european football championship? END
+START in what year was the first uefa european football championship held? END
+START in what year did england play its first uefa european football championship match? END
+START in what country was the 1980 uefa european football championship held? END
+START a defeat by which team eliminated england from the 1970 fifa world cup? END
+START what was the final score of england's last match of the 1970 fifa world cup? END
+START in which year did england fail to qualify for the fifa world cup resulting in ramsey's dismissal? END
+START where did the 1970 fifa world cup take place? END
+START where did the 1982 fifa world cup take place? END
+START in what year was ron greenwood born? END
+START in what country was the world cup played in 1974? END
+START where was the world cup played in 1974? END
+START what was one of the teams england's football team played in the 1982 world cup games? END
+START in what year did ron greenwood take over leadership of england's football team? END
+START who was the first non-english person to manage england's football team? END
+START how many competitive matches were lost under the tenure of manager sven-göran eriksson? END
+START what was the highest world ranking achieved by england under management by sven-göran eriksson? END
+START in what year was the contract of sven-göran eriksson terminated? END
+START in what year did sven-göran eriksson become the manager of england's football team? END
+START who was the first english manager of england's football team? END
+START what was the world ranking of england's team prior to sven-goran eriksson taking over? END
+START who won the 2006 fifa world cup? END
+START in what country was the 2006 fifa world cup played? END
+START in what year was the football association established? END
+START commentated broadcasts of all england matches air on what network? END
+START what was the first season in which england's qualifiers and friendlies were broadcast on itv? END
+START what network is itv's affiliate in northern and central scotland? END
+START in what year was an england football match aired only via the internet for the first time? END
+START approximately how many total viewers watched the england world cup qualifier on the internet on 10 october 2009? END
+START in what year did bbc radio 5 live start broadcasting england's matches? END
+START who won the 2010 world cup? END
+START how many people listen to bbc radio 5 live broadcasts of england's matches during the 2008-09 season? END
+START in what year was setanta sports founded? END
+START who did england play against on 10 october 2009? END
+START in how many fifa world cups has england appeared? END
+START besides france, which other team is tied with england for number of appearances in the fifa world cup? END
+START in which year did england win the fifa world cup for the first and only time? END
+START in what place did england finish in the 1990 fifa world cup? END
+START which country hosted the 1990 fifa world cup? END
+START how many fifa world cups has france been in? END
+START in what year was spain's first world cup appearance? END
+START who won the 1990 world cup? END
+START where was the 2002 world cup held? END
+START where was the 1950 fifa world cup held? END
+START where were augustus chapman allen and john kirby allen from? END
+START how many acres of land did augustus chapman allen and john kirby allen purchase in 1836? END
+START what was the reason the allen brothers purchased land in 1836? END
+START who did the allen brothers name the city they founded after? END
+START in what year was sam houston elected president of texas? END
+START who bought land along buffalo bayou to build a city? END
+START how much land did the allen brothers buy? END
+START after which famous general was the city named? END
+START in 1860 what percentage of the city's population was slaves? END
+START how much did the slave population of houston increase from 1850 to 1860? END
+START who originally came from houston and moved to new york? END
+START how many acres of land did augustus chapman allen and john kirby allen purchase in 1936? END
+START  what was the reason the allen brothers sold land in 1836? END
+START what did the allen brothers name the city they founded after? END
+START  in 1830 what percentage of the city's population was slaves? END
+START what event cause shipping activities to be suspended? END
+START petrochemical refineries and manufacturing plants were built due to the demand for what items during the war? END
+START when was ellington field built? END
+START when was the brown shipbuilding company founded? END
+START what was the policy created by president roosevelt due to the boom in defense jobs? END
+START what kind of refineries were built along the houston ship channel? END
+START to fill what type of demand were refineries built? END
+START what world event caused this increased need for petrochemicals? END
+START why did thousands of new workers flock to houston? END
+START which president created a policy of non-discrimination for defense contractors? END
+START what event cause shipping activities to begin? END
+START farms were built due to the demand for what items during the war? END
+START  when was ellington field destroyed? END
+START  when was the brown shipbuilding company destroyed? END
+START hat was the policy created by the vice-president due to the boom in defense jobs? END
+START in what year did the space shuttle challenger explode after launch? END
+START why did houston's economy have problems in the late 1980's? END
+START in the 1990's, what is something houston did to try to diversify it's economy? END
+START the petroleum industry has become a larger part of houston's economy again for what reason? END
+START what caused population growth to decline  in the 1980s? END
+START which shuttle disintegrated in 1986 to cause a decline in the space industry? END
+START when did houston suffer an economic decline? END
+START what did houston focus on after the 1990s recession to improve its economy? END
+START when did houston begin to regain its dependence on the oil industry? END
+START in what year did the space shuttle challenger succeed after launch? END
+START  why didn't houston's economy have problems in the late 1980's? END
+START in the 1990's, what is something houston did to try not to diversify it's economy? END
+START the petroleum industry did not become a larger part of houston's economy again for what reason? END
+START what materials are underpinning the land surface of houston? END
+START houston's geology was formed from river deposits from the erosion of what mountains? END
+START the sand and clay deposited onto decaying marine matter transformed into what? END
+START what is halite? END
+START what type of farming is houston's surface soil good for? END
+START what geological event caused the foundations of the land beneath houston? END
+START besides sands, what are the foundations of houston's land? END
+START how deep are the clay and sands foundations of houston? END
+START what did the decaying organics under the clay and sand deposits later form? END
+START what agricultural crop was farmed in the rich soils on the outlying areas of houston? END
+START what materials are underpinning the water of houston? END
+START  houston's geology was formed from river deposits from the erosion of what ocean? END
+START the glass deposited onto decaying marine matter transformed into what? END
+START  what is falsalite? END
+START  what type of fishing is houston's waters good for? END
+START downtown houston consisted of what type of building in the 1960's? END
+START when were skyscrapers first built in houston? END
+START what is the tallest building in texas? END
+START how tall is the jp morgan chase tower? END
+START what is the second tallest building in houston? END
+START in the 1970 s what developer built high rises in downtown houston? END
+START what was the highest building in houston completed in 1982? END
+START what was the original name of the jp morgan chase tower? END
+START what is the chase tower rated as in height in texas? END
+START by 2007 how many square feet of office space did houston have? END
+START texas consisted of what type of building in the 1960's? END
+START  when were skyscrapers first built in texas? END
+START  what is the tallest building outside of houston? END
+START  how tall is the pnc bank tower? END
+START houston ranked 3rd in which category by forbes magazine in 2006? END
+START how many offices have been established in houston by foreign governments? END
+START how many foreign governments maintain trade and commercial offices in houston? END
+START how many foreign banks operate in houston? END
+START how many nations do the 25 foreign banks operating in houston represent? END
+START when did the houston area rank first in texas for business? END
+START how did houston rank in the u.s. for business? END
+START how many consular offices does houston have? END
+START how many foreign countries have trade offices in houston? END
+START how many nations do the twenty-five foreign banks represent? END
+START houston ranked 23rd in which category by forbes magazine in 2006? END
+START how many offices have been established in texas by foreign governments? END
+START how many foreign governments maintain trade and commercial offices in texas? END
+START  how many foreign banks operate in texas? END
+START how many nations do the 25 foreign banks operating in texas represent? END
+START what is the largest annual event held in houston? END
+START how long does the houston livestock show and rodeo last? END
+START when is the annual houston pride parade held? END
+START what is some other annual events held in houston? END
+START what art festival held in houston is one of the top 5 in the us? END
+START what event is the longest running in houston? END
+START when is the houston livestock show and rodeo held? END
+START when is the houston pride parade held? END
+START what form of car parade is held in houston? END
+START where does the bayou city art festival rank in u.s. art festivals? END
+START what is the largest annual event held in texas? END
+START how long does the texas livestock show and rodeo last? END
+START  when is the annual texas pride parade held? END
+START  what is some other annual events held in texas? END
+START  what art festival held in houston is one of the top 3 in the us? END
+START what does houston have the most of compared to other large us cities? END
+START how many acres of land does houston's green spaces cover? END
+START who manages houston's green spaces? END
+START what is one of the largest skate parks in texas? END
+START who ranked houston the 23rd most walkable of the 50 largest cities in the us? END
+START how many acres of parks does houston have? END
+START after whom is the houston skate park named? END
+START who owns and runs the skate park in houston? END
+START for whom was the uptown district water park in houston named? END
+START how does houston rank as a walkable city? END
+START what does houston have the most of compared to other large uk cities? END
+START  how many acres of land does texas's green spaces cover? END
+START who manages texas's green spaces? END
+START  what is one of the largest skate parks in houston? END
+START who ranked texas the 23rd most walkable of the 50 largest cities in the us? END
+START who is the current mayor of houston? END
+START what form of government does houston have? END
+START who are houston's elected officials? END
+START what does houston's mayor also serve as? END
+START besides the general management of the city, houston's mayor is also responsible for what? END
+START what is the form of city  government in houston? END
+START what type of municipal elections are held in texas? END
+START besides the mayor and controller, how many members are there on the city council? END
+START who is the mayor of houston since the last election? END
+START to what political party is mayor turner aligned?  END
+START  who is the current senator of houston? END
+START  what form of government does texas have? END
+START  who are texas's elected officials? END
+START  what does houston's senator also serve as? END
+START what was the first public television station in the us? END
+START how is houston public radio funded? END
+START houston public radio us comprised of how many stations? END
+START what stations comprise houston public radio? END
+START who owns the kuht, kuhf, and kuha stations? END
+START which of houston's television stations was the first public television station in the u.s.? END
+START what kind of radio station is kuhf? END
+START what type of radio station is kuha? END
+START from what building do the two public radio stations broadcast? END
+START where is the melcher center located? END
+START what was the first private television station in the us? END
+START  how is houston private radio funded? END
+START texas private radio us comprised of how many stations? END
+START  who sold the kuht, kuhf, and kuha stations? END
+START which of houston's television stations was the first private television station in the u.s.? END
+START where is houston located? END
+START where is houston ranked among the most populous cities in the us? END
+START what was the population of houston in 2014? END
+START what is houston the principle city of? END
+START what is the fifth most populated metropolitan area in the us? END
+START what is the most populous city in texas? END
+START how does houston rank as to population in the u.s.? END
+START according to the 2014 census, how many people live in houston? END
+START what is the land are of the city of houston? END
+START houston is located in which texas county? END
+START where is texas located? END
+START where is houston ranked among the least populous cities in the us? END
+START what was the population of houston in 2012? END
+START what is houston the non-principle city of? END
+START  what is the sixth most populated metropolitan area in the us? END
+START what commodity was houston known for in 1860?  END
+START what type of roads converged in houston? END
+START which civil war general used houston as a headquarters? END
+START for what battle was houston used as an organization point ? END
+START what was houston known for by 1890? END
+START what commodity was houston not known for in 1860? END
+START  what type of roads didn't converge in houston? END
+START  which wwii general used houston as a headquarters? END
+START  for what war was houston used as an organization point ? END
+START  what was houston known for by 1810? END
+START how many people evacuated to houston after hurricane katrina? END
+START what event caused 2.5 million people to evacuate through houston? END
+START the evacuation of the gulf coast before hurricane rita was what type of evacuation? END
+START when did hurricane ike hit the houston area? END
+START fearing traffic problems, how many people refused to leave galveston before hurricane ike? END
+START how many people stayed in houston after hurricane katrina? END
+START what event caused 5 million people to evacuate through houston? END
+START the evacuation of the west coast before hurricane rita was what type of evacuation? END
+START  when did hurricane ike avoid the houston area? END
+START fearing traffic problems, how many people flew out of galveston before hurricane ike? END
+START what is the largest city in the u.s. without formal zoning? END
+START besides parking requirements, what land use regulations does houston have? END
+START what is houston's land use policies credited with producing? END
+START what serious situation of 2008 was houston spared? END
+START how many building permits were issued in 2008 in houston? END
+START what is the largest city in the u.s. with formal zoning? END
+START besides parking requirements, what land use regulations does texas have? END
+START  what is houston's ocean use policies credited with producing? END
+START  what serious situation of 2009 was houston spared? END
+START how many building permits were issued in 2019 in houston? END
+START of what is houston a center? END
+START what has the houston ship channel served to promote into success? END
+START where does the port of houston rank in international commerce? END
+START where does houston rate in the size ranking of world ports? END
+START what lines begin or end in houston? END
+START of what is texas a center? END
+START what has the texas ship channel served to promote into success? END
+START  where does the port of texas rank in international commerce? END
+START  where does texas rate in the size ranking of world ports? END
+START  what lines begin or end in texas? END
+START what area of houston hosts performing arts? END
+START of what is houston second in performing arts? END
+START to what type of arts is houston home? END
+START to what group is jones hall home? END
+START besides jones hall, what other organization is housed in the theater district? END
+START what area of houston hosts visual arts? END
+START  of what is houston fourth in performing arts? END
+START  to what type of arts is texas home? END
+START what company is jones hall owned by? END
+START besides jones hall, what other organization is housed in the movie district? END
+START how much area of downtown houston does the theater district cover? END
+START what place produces live concerts, plays and comedy? END
+START where is space center houston? END
+START what tourist offerings does the space center have? END
+START what is the galleria the largest of in texas? END
+START how much area of downtown texas does the theater district cover? END
+START  what place banned live concerts, plays and comedy? END
+START  where is space center texas? END
+START  what tourist offerings does the space center not have? END
+START  what is the galleria the largest of in houston? END
+START what is the name of the stadium that hosts the houston astros? END
+START where in houston is the toyota center located? END
+START what is the home of the texans named? END
+START which stadium is located in east downtown in houston? END
+START what was the first indoor stadium in the world? END
+START what is the name of the stadium that hosts the texas astros? END
+START  where in texas is the toyota center located? END
+START  what is the home of the houstons named? END
+START  which stadium is located in east downtown in texas? END
+START  what was the first outdoor stadium in the world? END
+START what is houston's one catholic university? END
+START what famous research university is located in houston? END
+START what is the student enrollment of rice university? END
+START when was houston baptist university founded? END
+START what area in houston is the home of the houston baptist university? END
+START what is texas's one catholic university? END
+START  what famous research university is located in texas? END
+START  what is the teacher enrollment of rice university? END
+START  when was texas baptist university founded? END
+START  what area in texas is the home of the houston baptist university? END
+START where in houston is the world's largest grouping of healthcare institutions? END
+START how many non profit organizations are members of the medical center? END
+START how many people are employed in the texas medical center? END
+START how many hospitals belong to the medical center group of organizations? END
+START what is the name of the first air emergency service? END
+START where in texas is the world's largest grouping of healthcare institutions? END
+START  how many for-profit organizations are members of the medical center? END
+START  how many people are employed in the houston medical center? END
+START how many hospitals are outside of the medical center group of organizations? END
+START until 2010, which airline made houston its headquarters? END
+START where is united airlines' largest air hub? END
+START with which airline did continental airlines merge? END
+START how many daily flights did united airlines offer from houston? END
+START in what year was bush intercontinental named a model by u.s. customs? END
+START until 2010, which airline made texas its headquarters? END
+START  where is united airlines' smallest air hub? END
+START  with which airline did continental airlines separate? END
+START  how many daily flights did united airlines offer from texas? END
+START what city has more fortune 500 headquarters than houston? END
+START what part of houston ranks first in the u.s. in international tonnage? END
+START what is houston's nickname?  END
+START what is varied about houston's population? END
+START what city is the most diverse in texas? END
+START what city doesn't have more fortune 500 headquarters than houston? END
+START what part of houston ranks last in the u.s. in international tonnage? END
+START  what is texas's nickname? END
+START  what isn't varied about houston's population? END
+START  what city is the least diverse in texas? END
+START what kind of winter weather does houston have? END
+START what is the usual mean temperature in houston? END
+START what type of weather is a rarity in houston? END
+START when was the coldest reported temperature in houston? END
+START how much rain does houston usually get per year? END
+START what kind of summer weather does houston have? END
+START  what is the usual mean temperature in texas? END
+START  what type of weather is common in houston? END
+START  when was the warmest reported temperature in houston? END
+START  how many tornadoes does houston usually get per year? END
+START how much money does the university of houston attract to houston a year? END
+START how many local jobs are produced by the university of houston? END
+START how many student graduate from the university of houston per year? END
+START where do most university graduates stay after acquiring a degree? END
+START even after five years, how many graduates remain in houston? END
+START how much money does the university of texas attract to texas a year? END
+START  how many local jobs are produced by the university of texas? END
+START how many student graduate from the university of texas per year? END
+START  where do most university graduates go to after acquiring a degree? END
+START  even after five years, how many graduates remain in texas? END
+START when was houston founded? END
+START where is allen's landing? END
+START when was the city of houston incorporated? END
+START for whom was houston named? END
+START for what battle was sam houston known as commander? END
+START where is fallan's landing? END
+START what used to be known as allan's landing END
+START what happened in 1837? END
+START  when was the city of houston unincorporated? END
+START in what part of the united states is houston located? END
+START what part of the houston population is growing? END
+START how many of the people who live in houston were foreign born? END
+START what percentage of houston's foreign born population is from south of the u.s.-mexican border? END
+START how many foreign born houstonites are from asia? END
+START in what part of the united states is texas located? END
+START  what part of the texas population is growing? END
+START  how many of the people who live in texas were foreign born? END
+START what percentage of houston's foreign born population is from north of the u.s.-mexican border? END
+START  how many foreign born houstonites are from africa? END
+START what event caused an increase in effort to promote the houston port? END
+START where was oil found that promoted the development of the oil industry in houston? END
+START near what texas city is the spindletop oil field located? END
+START who approved the improvement project for the houston ship channel? END
+START in what year did houston's population reach 78,000? END
+START what event caused an decrease in effort to promote the houston port? END
+START  where was oil found that promoted the development of the cotton industry in houston? END
+START near what oklahoma city is the spindletop oil field located? END
+START who rejected the improvement project for the houston ship channel? END
+START  in what year did houston's population reach 98,000? END
+START what is the square mile area of houston? END
+START how much of houston's total area is water? END
+START in what topography is houston located? END
+START how is the vegetation of the area classified? END
+START what kind of weather event is a recurring problem for houston? END
+START what is the square mile area of texas? END
+START  how much of houston's total area is farm? END
+START  in what topography is texas located? END
+START  how is the oil of the area classified? END
+START  what kind of weather event is a not recurring problem for houston? END
+START how many days per year are houston temperatures over 90 degrees? END
+START how many days a year do houston temperatures average above 100 degrees? END
+START what weather factor produces a higher heat index? END
+START what weather factor provides little in heat relief in houston? END
+START what was the highest temperature recorded in houston? END
+START how many days per year are houston temperatures over 10 degrees? END
+START how many days a year do houston temperatures average above 50 degrees? END
+START  what weather factor produces a lower heat index? END
+START  what weather factor provides a lot of in heat relief in houston? END
+START  what was the lowest temperature recorded in houston? END
+START what is the political climate of houston? END
+START who in houston tends to vote republican? END
+START how do the working and minority areas vote in houston? END
+START what percent of hispanics vote democrat? END
+START what percent of non-hispanic whites vote republican? END
+START  what is the political climate of texas? END
+START how much of houston's population is white? END
+START what percentage of houston's population is african-american? END
+START what group makes up 6 % of houston's population? END
+START according to the 2000 census, what is the population of houston? END
+START what was the percentage of whites in 1970? END
+START how much of texas's population is white? END
+START  what percentage of texas's population is african-american? END
+START  what group makes up 6 % of texas's population? END
+START  according to the 2000 census, what is the population of texas? END
+START  what was the percentage of whites in 1900? END
+START what was houston's gross domestic product in 2012? END
+START where in the rankings does houston's gross domestic product place it compared to other u.s. domestic areas? END
+START how many other countries have a gross domestic product exceeding houston's? END
+START how much did oil and gas exploration and production make up houston's gross product? END
+START under what category does oil and gas exploration fall? END
+START what was houston's gross domestic product in 2001? END
+START where in the rankings does texas's gross domestic product place it compared to other u.s. domestic areas? END
+START ow many other countries have a gross domestic product exceeding texas's? END
+START  how much did oil and gas exploration and production make up texas's gross product? END
+START  under what category does ocean exploration fall? END
+START what houston medical school ranks in the top ten u.s. medical schools? END
+START how does md anderson cancer center rank in us hospitals dealing with cancer care? END
+START what type of treatments does the menninger clinic offer? END
+START what is the third largest acute care center in the u.s.? END
+START where is the triumph healthcare hospital headquartered? END
+START what houston medical school ranks in the top ten uk medical schools? END
+START how does md anderson cancer center rank in uk hospitals dealing with cancer care? END
+START  what type of treatments does the menninger clinic never offer? END
+START  what is the fourth largest acute care center in the u.s.? END
+START where did houston rank for job creation in 2013? END
+START what was houston the first city to do regain after the recession caused job loss? END
+START how many jobs did houston add for every one lost? END
+START how many foreign companies relocated to houston? END
+START on what forbes list did houston appear in 2013? END
+START where did houston rank for job creation in 2003? END
+START what was houston the first city to do regain after the recession caused job boom? END
+START  how many jobs did texas add for every one lost? END
+START  how many foreign companies relocated to texas? END
+START  on what forbes list did houston appear in 2003? END
+START how many community colleges serve houston? END
+START how are the houston community college and lone star college systems ranked among educational facilities? END
+START what college system serves most of houston? END
+START which community college system serves the northwestern and northeastern areas? END
+START what part of houston does san jacinto college serve? END
+START how many community colleges serve texas? END
+START how are the texas community college and lone star college systems ranked among educational facilities? END
+START  what college system serves most of texas? END
+START which community college system serves the southwestern and southeastern areas? END
+START  what part of texas does san jacinto college serve? END
+START when did houston start using light rail lines? END
+START how long was the first light rail line in houston? END
+START where did the red line rail track terminate? END
+START how many new rail lines are planned for the future in houston light rail? END
+START how many passengers used amtrak to embark at houston? END
+START  when did texas start using light rail lines? END
+START  how wide was the first light rail line in houston? END
+START  where did the blue line rail track terminate? END
+START how many new rail lines are planned for the future in texas light rail? END
+START  how many passengers used amtrak to embark at texas? END
+START what is the second airport that serves houston? END
+START what was the earlier name of hobby airport? END
+START when was houston international airport renamed to hobby airport? END
+START which airline now offers international flights from hobby airport? END
+START for what is hobby airport ranked in the top five performing airports? END
+START what is the second airport that serves texas? END
+START  what was the last name of hobby airport? END
+START when was texas international airport renamed to hobby airport? END
+START  which airline never offered international flights from hobby airport? END
+START for what is hobby airport ranked in the top six performing airports? END
+START how many estimated active faults does houston have? END
+START what is the total length of the houston faults? END
+START which of the geologic faults run through the center of houston? END
+START what geological feature has been removed underground to cause sinking in areas of southeast houston? END
+START what is a slow smooth rate of movement of faults called? END
+START  how many estimated unactive faults does houston have? END
+START what is the total width of the houston faults? END
+START  which of the geologic faults run through the center of texas? END
+START what geological feature has been placed underground to cause sinking in areas of southeast houston? END
+START  what is a fast smooth rate of movement of faults called? END
+START what system of incorporation was used in 1837 by houston? END
+START what is the present day system being used by houston for representation? END
+START what highway is used to designate locations in houston? END
+START beside older pre-world war ii residences, what is found inside the loop?  END
+START what highway circles the outer areas of houston? END
+START  what system of incorporation was used in 1937 by houston? END
+START what is the present day system being used by texas for representation? END
+START  what highway is used to designate locations in texas? END
+START beside older pre-civil war residences, what is found inside the loop? END
+START  what highway circles the outer areas of texas? END
+START what area is located at post oak boulevard and westheimer road? END
+START when did the uptown district expand? END
+START what is the tallest building in uptown houston? END
+START how many square feet of office space did houston have in uptown in 2002? END
+START until 1999 what was the williams tower known as? END
+START what area is located at post oak street and westheimer avenue? END
+START  when did the texas expand? END
+START  what is the tallest building in texas? END
+START how many square feet of office space did texas have in 2003? END
+START  until 1909 what was the williams tower known as? END
+START besides oil and gas, what is houston known for? END
+START what other industry is a large part of houston's economy? END
+START what designation does the globalization and world cities study group give houston? END
+START in what did houston pass new york city in 2013? END
+START how much in dollars did the houston area export in 2012? END
+START besides oil and gas, what is texas known for? END
+START  what other industry is a large part of texas economy? END
+START what designation does the globalization and world cities study group give texas? END
+START  in what did houston pass new york city in 2003? END
+START how much in dollars did the texas area export in 2012? END
+START how did kiplinger's personal finance best cities rate houston? END
+START when did houston receive a ranking in the top of kiplinger's best cities list? END
+START where did forbes magazine place houston for technological innovation? END
+START where did houston place for fortune 500 companies? END
+START when was houston ranked the best city for shopping? END
+START  how did kiplinger's personal finance best cities rate texas? END
+START when did texas receive a ranking in the top of kiplinger's best cities list? END
+START where did forbes magazine place texas for technological innovation? END
+START  where did texas place for fortune 500 companies? END
+START when was texas ranked the best city for shopping? END
+START for which sports team category does houston not have a team ? END
+START when were the houston astros formed? END
+START until 1965 what were the houston astros called? END
+START when were the houston astros in the world series? END
+START since what year have the houston rockets been a houston team? END
+START  for which sports team category does texas not have a team? END
+START when were the houston astros dissolved? END
+START  until 1935 what were the houston astros called? END
+START  when did the the houston astros miss going to the world series? END
+START since what year have the texas rockets been a texas team? END
+START how many members did the original houston city council have? END
+START how many at-large positions were there originally? END
+START what areas do at-large council members represent? END
+START what population figure needs to be passed to add at large council members? END
+START how many at-large council members were added in the 2011 elections? END
+START how many members did the original texas city council have? END
+START  how many at-small positions were there originally? END
+START  what areas do at-small council members represent? END
+START  what population figure needs to be passed to add at small council members? END
+START how many at-large council members were added in the 2001 elections? END
+START how many separate universities does houston have? END
+START how many students does the university of houston have? END
+START where in houston is the university of houston campus located? END
+START what university is located in houston'd third ward? END
+START what kind of college is texas southern university? END
+START how many separate universities does texas have? END
+START  how many students does the university of texas have? END
+START  where in texas is the university of houston campus located? END
+START  what university is located in houston'd fourth ward? END
+START  what kind of college is texas northern university? END
+START what is houston's major newspaper? END
+START who owns the houston chronicle? END
+START when did chronicle rival newspaper, the houston post, cease operations? END
+START whose family owned the houston post? END
+START what is the other newspaper that serves houston? END
+START  what is texas's major newspaper? END
+START  who owns the texas chronicle? END
+START when did chronicle rival newspaper, the houston post, begin operations? END
+START  whose family owned the texas post? END
+START  what is the other newspaper that serves texas? END
+START what is the type of freeway system that serves houston? END
+START what encircles the downtown area of houston? END
+START what is the diameter of the downtown area? END
+START what part of the freeway system is beltway 8? END
+START what is the diameter of the center of beltway 8? END
+START  what is the type of freeway system that serves texas? END
+START  what encircles the downtown area of texas? END
+START what is the diameter of the uptown area? END
+START  what part of the freeway system is beltway 1? END
+START how does houston's george bush intercontinental airport rank for number of passengers? END
+START how many destinations does george bush intercontinental airport serve? END
+START when did the u.s. department of transportation name iah as fastest growing of u.s. airports? END
+START where is the houston air route traffic control center located? END
+START what is houston's primary airport? END
+START how does texas's george bush intercontinental airport rank for number of passengers? END
+START  how many destinations does bill clinton intercontinental airport serve? END
+START when did the u.s. department of transportation name iah as fastest growing of uk airports? END
+START  where is the texas air route traffic control center located? END
+START where was copper mostly mined at in the roman era? END
+START what term does the name copper originate from? END
+START what componds are common in copper? END
+START what is one color common in copper salts? END
+START what is the name of the color pigment on building structures that are made using copper. END
+START where was copper glowing at in the roman era? END
+START what compounds are radioactive in copper? END
+START what is the name of the color pigment on water that is made using copper? END
+START what term means that copper is an imaginary substance? END
+START what color is most rare in copper salts? END
+START when was copper first known to have been used? END
+START in what area is the first recorded use of copper? END
+START when was copper thought to have been discovered in china? END
+START copper smelting resulted in the development of what other metal smelting? END
+START when did natural bronze start to be used by the general public? END
+START when was copper last known to have been used? END
+START what area is the only recorded use of copper? END
+START when was copper thought to have been discovered in japan? END
+START when did natural bronze stop being used by the general public? END
+START what type of material can't be produced? END
+START what material were the gates of the temple of jerusalem made from? END
+START how is corinthian bronze made? END
+START where do archeologists believe that alchemy was first practiced?  END
+START what metal was used to make surgical equipment in ancient india? END
+START what is the name of the battery that was developed using copper in 248 bc? END
+START what material were the gates of the temple of jermaine made from? END
+START how is corinthian bronze destroyed? END
+START where do archaeologists believe that alchemy was last practiced? END
+START what metal was used to make surgical equipment in ancient atlantis? END
+START what is the name of the battery that was developed using copper in 168 bc? END
+START what metal is used most often in electrical wiring? END
+START what is the most important market for copper today? END
+START how much of mined copper is used for cables and electrical wiring? END
+START what metal are most overhead electrical wires made out of? END
+START what is one property of copper that makes it so useful in electrical wiring? END
+START what metal is used least often in electrical wiring? END
+START what is the most corrupt market for copper today? END
+START how much of mined copper is used for science experiments? END
+START what liquid are most overhead electrical wires made out of? END
+START what is one property of copper that makes it so unhelpful in electrical wiring? END
+START what word means that bacteria won't grow on a substrate? END
+START because of copper's biostatic properties where is a common use for copper? END
+START what has pure copper been replaced with in the building of ships? END
+START in the aquaculture industry what is copper alloys commonly used to make? END
+START name a property that makes copper a good material to use in marine environments? END
+START what word means that bacteria constantly grows on a substrate? END
+START where is copper commonly used due to not having a biostatic property? END
+START what has fake copper been replaced with in the building of ships? END
+START what is copper alloys rarely used to make in the agriculture industry? END
+START what group of the periodic table is copper in? END
+START name a property that copper, silver and gold have in common. END
+START what makes copper bondings weaker than other metals? END
+START how is copper normally supplied? END
+START what is a weaker form of copper than fine-grained polycrystalline? END
+START what group of the periodic table is copper no longer in? END
+START what is the only property that copper, silver and gold have in common? END
+START what makes copper bondings stronger than other metals? END
+START what is copper normally missing? END
+START what is a better form of copper than fine-grained polycrystalline? END
+START what is the concentration of copper in the earths crust. END
+START how large was the biggest find of copper? END
+START what year was the largest find of copper discovered? END
+START where was the largest mass of copper found? END
+START how big is the largest copper crystal that has been found? END
+START what is the concentration of copper in the earths atmosphere? END
+START how large was the smallest find of copper? END
+START what year was the smallest find of copper discovered? END
+START where was the smallest mass of copper found? END
+START how big is the largest alien crystal that has been found? END
+START what was copper called in greece? END
+START in what area was copper first mined? END
+START what is the greek goddess that symbolizes copper? END
+START what is the roman goddess that symbolizes copper? END
+START what property does copper have that links it to aphrodite and venus? END
+START what was copper forbidden to be called in greece? END
+START what area was the only copper mine? END
+START what is the egyptian goddess that symbolizes copper? END
+START what is the german goddess that symbolizes copper? END
+START what property does silver have that links it to aphrodite and venus? END
+START what are compounds that have a carbon-copper bond called? END
+START what does organocopper compounds reactions toward oxygen form? END
+START what is produced when copper compounds are treated with organolithium reagents? END
+START coupling products can be made by substituting gilman reagent with what? END
+START which form of copper is shock sensitive? END
+START what are compounds that have a black-copper bond called? END
+START what does organocopper compounds reactions toward water form? END
+START what is destroyed when copper compounds are treated with organolithium reagents? END
+START which form of copper is time sensitive? END
+START who used copper to produce art? END
+START what is the photographic technology that uses copper called? END
+START what famous ny city landmark is made from copper? END
+START what famous explorers ships was one of the first to have it's hulls made of copper? END
+START when did the norddeutsche affinerie electroplating plant first begin production? END
+START who used copper to produce garbage? END
+START what is the magical technology that uses copper called? END
+START what famous arizona city landmark is made from copper? END
+START what unknown explorers ships was one of the first to have it's hulls made of copper? END
+START when did the norddeutsche affinerie nuclear plant first begin production? END
+START what property of copper increases the efficiency of electrical motors? END
+START what percentage of electrical consumption does motor systems use globally? END
+START what percentage of electrical consumption does motor systems use in industry? END
+START what does the acronym nema stand for? END
+START by using copper motor rotor technology it is allowing industry to exceed what standards? END
+START what property of copper ruins the efficiency of electrical motors? END
+START what percentage of water consumption does motor systems use globally? END
+START what percentage of electrical consumption does motor systems use in secrecy? END
+START what does the acronym nema stand against? END
+START name a compond that can mobilize sold copper? END
+START what fungi can grow in copper metalliferous soils? END
+START what fungus protects pine trees from copper toxicity?  END
+START what fungus grows from gold mining solution? END
+START what fungus helps to soften heavy metal sulfides? END
+START what is the only compound that can mobilize solid copper? END
+START what fungi can speak in copper metalliferous soils? END
+START what fungus makes pine trees vulnerable to copper toxicity? END
+START what fungus grows from diamond mining solution? END
+START what fungus helps to toxify heavy metal sulfides? END
+START what is an intrinsic property of copper-alloy touch surfaces? END
+START 355 copper alloys have been proven to kill what percentage of bacteria? END
+START what does the acronym epa stand for? END
+START how many copper alloys has the epa approved as antimicrobial materials? END
+START what disease do hospitals hope to prevent by installing copper doornobs? END
+START what is an intrinsic property of gold-alloy touch surfaces? END
+START what does the acronym epa oppose? END
+START how many copper alloys has the epa banned as antimicrobial materials? END
+START what disease do hospitals hope to prevent by installing golden doorknobs? END
+START what has no ability to kill bacteria? END
+START what are copper compounds in liquid form used for? END
+START what does copper wires along with zinc on roofs help to prevent? END
+START what function does copper serve when used in textile fibers? END
+START how is copper used with nickel? END
+START what is used to treat structures for dry rot? END
+START what are copper compounds in dragon form used for? END
+START what does copper wires along with mud on roofs help to prevent? END
+START what function does copper eliminate when used in textile fibers? END
+START how is copper used with vodka? END
+START what is used to implode structures for dry rot? END
+START how long has copper been in use? END
+START what percentage of copper has been extracted since 1900? END
+START how much of mined cooper has been extracted in the last 24 years? END
+START how much copper is estimated to exsist on earth? END
+START what is a major source of cooper in modern times? END
+START how long has copper been forbidden? END
+START what percentage of copper has been stolen since 1900? END
+START how much of mined cooper has been extracted in the last 24 hours? END
+START how much copper is estimated to be missing on earth? END
+START  what is a minor source of cooper in modern times? END
+START what did romans use as money in the 6th through 3rd centuriesbc? END
+START who had his own coins produced out of brass? END
+START during the 6th through 3rd centuries bc how much copper was mined in rome? END
+START cctavianus augustus caesar had his coins made out of what alloys? END
+START what became more important than the copper value for roman coins? END
+START what did aliens use as money in the 6th through 3rd centuries bc? END
+START who had his own trees produced out of brass? END
+START how much copper was stolen in rome during the 6th through 3rd centuries bc? END
+START what became less important than the copper value for roman coins? END
+START what percentage of copper is used in electrical wires? END
+START what percentage of copper is used in roofing and plumbing? END
+START what percentage of copper is used in industrial machinery? END
+START what property does combining copper with brass or bronze create? END
+START what is a metal that copper is combined with to create a greater hardness? END
+START what percentage of copper is used in paper wires? END
+START what percentage of copper is forbidden in roofing and plumbing? END
+START what percentage of copper is destroyed by industrial machinery? END
+START what property does combining copper with brass or bronze eliminate? END
+START what is a plant that copper is combined with to create a smoother texture? END
+START what is the explanation for copper's capacity for electrical conductivity? END
+START what metal has a higher thermal conductivity than copper? END
+START what is the maximum premissible current density in open air of copper? END
+START what occurs when copper is placed touching another metal? END
+START what happens to copper if an electrical current gets too high? END
+START what is the explanation for copper's capacity for nuclear conductivity? END
+START what metal has an equal thermal conductivity to copper? END
+START what is the only permissible current density in open air of copper? END
+START what occurs when copper is placed apart from another metal? END
+START in what form is copper extracted? END
+START from what types of mines is copper extracted? END
+START what percentage of copper do the deposits have that are extracted? END
+START what country was the top producer of copper in 2005? END
+START what is the name of the process being considered in arizona that allows copper to be recovered? END
+START what form is copper hidden? END
+START what types of mines is copper invisible? END
+START what percentage of mercury do the deposits have that are extracted? END
+START what village was the top producer of copper in 2005? END
+START what is the name of the process being considered in australia that allows copper to be recovered? END
+START what percent of copper is recyclable? END
+START what percentage of copper that has been mined is still being used today? END
+START what other metal besides copper is 100% recyclable? END
+START name a metal that is recycled more often than copper? END
+START what is the amount of copper in use, per capita, globally? END
+START what percent of copper is indestructible? END
+START what percentage of copper that has been mined is still in the air today? END
+START what other wood besides copper is 100% recyclable? END
+START what metal is never recycled? END
+START what is the amount of copper stolen, per capita, globally? END
+START what pigment color is natural to copper? END
+START what property does the final patina on cooper have? END
+START what mixture of compounds is the final patina? END
+START what conditions effect the mixture of carbonate and sulfate in copper? END
+START what can be done to copper to give it a certain look? END
+START what pigment color is fake copper? END
+START what property does the final patina on copper avoid? END
+START what separation of compounds is the final patina? END
+START what conditions have no influence on the mixture of carbonate and sulfate in copper? END
+START what can be done to sugar to give it a certain look? END
+START what are copper salts sometimes used for? END
+START when ingested in large amounts what does copper salts produce in humans? END
+START what is the minimum amount of copper rabbits should have in their diet? END
+START what is a major benefit to rabbits having a higher concentration of copper in their diet? END
+START what amount of copper salt is toxic in animals? END
+START what are copper peppers sometimes used for? END
+START when ingested in small amounts what does copper salts produce in humans? END
+START what is the minimum amount of copper dragons should have in their diet? END
+START what is a major benefit to dragons having a higher concentration of copper in their diet? END
+START what amount of copper salt is toxic in robots? END
+START when did britain first use brass? END
+START who were the first copper miners in north america? END
+START where was native copper extracted with primitive tools between 800 and 1600? END
+START what country had a strong copper production in 1000 ad END
+START when did commercial production of copper begin? END
+START when did britain ban use of brass? END
+START who were the only copper miners in north america? END
+START where was native copper hidden with primitive tools between 800 and 1600? END
+START what country stopped a strong copper production in 1000 ad? END
+START when did commercial production of copper end? END
+START how many isotopes are there of copper? END
+START what are the two stable isotopes of cooper? END
+START which isotope makes up about 69% of natural copper? END
+START what is the half life of the copper isotope 68mcu? END
+START what is the half life of the copper isotope 67cu? END
+START how many isotopes are missing in copper? END
+START what are the two dangerous isotopes of copper? END
+START which isotope makes up about 74% of natural copper? END
+START what is the half life of the supernatural isotope 68mcu? END
+START what is the orbital period of the copper isotope 67cu? END
+START what is the alloy of copper and nickel called? END
+START what is the alloy of copper and nickel used for? END
+START what is the metal composition of a us nickel? END
+START what extraordinary property does the alloy made up of 90% copper and 10% nickel possess? END
+START what color is created when the alloys of copper and aluminium are combined? END
+START what is the liquid of copper and nickel called? END
+START what is the liquid of copper and nickel never used for? END
+START what is the wood composition of a us nickel? END
+START what mundane property does the alloy made up of 90% copper and 10% nickel possess? END
+START what color is created when the alloys of copper and aluminium are apart? END
+START what is the name of the componds that has more than one alcohol functional group? END
+START what are copper salts used to test? END
+START how is the presence of sugar shown by using benedict's reagent and fehling's solution? END
+START what color does the copper salts turn to using benedict's reagent and fehling's solution if sugar is present? END
+START what does schweizer's reagent dissolve? END
+START what is the name of the compounds that have no alcohol functional group? END
+START what are copper salts used to burn? END
+START how is the presence of sugar hidden by using benedict's reagent and fehling's solution? END
+START what color does the copper salts turn to using benedict's reagent and fehling's solution if dust is present? END
+START what does schweizer's reagent grow? END
+START what started about 4000 years after copper smelting was discovered? END
+START what are the first datings of bronze artifacts from the vinca culture? END
+START when did the bronze age began in southeastern europe? END
+START what was the transition between the neolithic period and the bronze age called? END
+START what is an alloy of copper and zinc? END
+START what started about 3000 years after copper smelting was discovered? END
+START what are the first datings of platinum artifacts from the vinca culture? END
+START when did the silver age begin in southeastern europe? END
+START what was the transition between the neolithic period and the silver age called? END
+START what is an alloy of copper and brass? END
+START what is the level of copper in the human body? END
+START how is copper absorbed in humans? END
+START what is copper bound with when it is sent to the liver? END
+START what protein carries the majority of copper in blood? END
+START how can the body get rid of excess copper? END
+START what is the level of copper in gold? END
+START how is copper reflected in humans? END
+START what is copper bound with when it is sent to the brain? END
+START what hero carries the majority of copper in blood? END
+START how can the sand get rid of excess copper? END
+START what is the average concentration of copper in ores? END
+START what are most commercial ores? END
+START what does heating copper ore materials with silica remove? END
+START what happens to the silicate slag  during the flash smelting process? END
+START what do the sulfides convert to after the copper matte is roasted? END
+START what is the average concentration of copper in holes? END
+START what are most fake ores? END
+START what does freezing copper ore materials with silica remove? END
+START what happens to the silicate slag during the flash freezing process? END
+START what do the sulfides convert to after the copper matte is frozen? END
+START how many metals have a natural color that isn't gray? END
+START what color is pure copper? END
+START what does copper aquire when exposed to air? END
+START the energy difference between filled 3d and half-empty 4s atomic shells corresponds to what color of light? END
+START what color is the metal caesium? END
+START how many grains of sand have a natural color that isn't gray? END
+START what color is fake copper? END
+START what does copper glow when exposed to air? END
+START what color is the planet caesium? END
+START what has copper been used for since ancient times? END
+START in recent times what is one interior use copper been expanded to include? END
+START what is an important benefit to using copper as an architectural material? END
+START how long has copper been used in building construction? END
+START what is the benefit to using copper for things such as counter tops and hand rails? END
+START what has copper been avoided as since ancient times? END
+START what is one interior use copper has been forbidden to include? END
+START what is an important danger to using copper as an architectural material? END
+START how long has copper been banned in building construction? END
+START what is the danger to using copper for things such as counter tops and hand rails? END
+START self-image, self-esteem, and individuality relate to what? END
+START what aspect or type of identity does weinreich single out? END
+START what psychological concept does weinreich state as between the past and future? END
+START a person's identity is defined as the totality of what? END
+START what does the physical identity relate to? END
+START what is defined as part of the totality of one's self construal that expresses discord between once construal of past ancestry? END
+START what relates to once image of others? END
+START what is defined as how one aspires to construe oneself in the past and how one construes oneself in the future? END
+START the central task for psychologists, sociologists, and anthropologists is to describe what topics? END
+START isa stands for what? END
+START who developed the isa? END
+START his central task is to describe social identity? END
+START what provides a method that maps how cultural norms are used by the group? END
+START what results in the individual evaluating their community? END
+START what don't shift according to circumstances? END
+START identity diffusion, foreclosure, and crisis are categories of what? END
+START those with high levels of identity diffusion are classified as what? END
+START those with low levels of identity diffusion are classified as what? END
+START an adolescent going through a family break up turning into an adult in a stable marriage is given as an example of change in what? END
+START what level of identity diffusion is interpreted as the norm? END
+START the optimal level of what is considered abnormal? END
+START what does a person who is foreclosed have high levels of? END
+START an adolescent in a stable family turning into an adult stable marriage is given as an example of a change in what END
+START what does identity vary have besides in continuity? END
+START what group has shifted the focus of research in identity? END
+START what does a researcher have to identify to carry out empirical research? END
+START what researcher advocated for focus on the boundaries of ethnic groups rather than the cultural aspects of ethnic groups? END
+START if identity is a virtual site, what do boundaries supply to the virtual site? END
+START boundaries are frequently used by researchers to help define what? END
+START who has contributed to the debate by making the research more focused? END
+START what conce what research advocated for focusing on cultural aspects of ethnic groups rather than on boundaries of ethnic groups? pt is useless for demonstrating how identity works? END
+START what are boundaries not used to define? END
+START what did barth shift the focus of? END
+START cohan and bray advocated what is the critical focus for investigation? END
+START what are gender identity, ethnic identity, and occupational identity aspects of? END
+START how one construes oneself now and in the future differs considerably because of what 2 things? END
+START the young child, the adolescent, the young adult and the older adult are phases of what? END
+START the salient experiential markers one uses to define one's past self differ based on the age that one was at what? END
+START what are the parts of one's family identity? END
+START what is directed at the totality of one's identity during all phases and all times? END
+START what makes how one construes oneself now and in the future similar? END
+START the phases of what our gender identity, ethnic identity and occupational identity? END
+START what is distinct from the self? END
+START what can the literature of self-psychology offer insight into? END
+START what have theorists shown interest in relating to the self-concept? END
+START the i and the me are two areas of interest in what? END
+START what is synonymous with identity question END
+START what offers little insight into how identity is maintained? END
+START what are the vantage point of group psychology? END
+START who has shown this self-concept and self-esteem are the same? END
+START self-psychology is compelled to investigate how personal self relates to what? END
+START what two factors are focused on when explaining an individual's actions within a group? END
+START what are individual cognition and collective behavior are levels of? END
+START what is compelled to investigate how social self relates to the social environment? END
+START what two factors are focused on explaining an individual's actions towards a group? END
+START what are collective cognition and individual behavior levels of? END
+START what focuses on explaining the group's actions?  END
+START what term have anthropologists employed to refer to the eriksonian idea of selfhood? END
+START modern concerns with ethnicity and social movements in the 1970's led what group to be more interested in identity? END
+START until recently, what approach was used to refer to qualities of sameness in relation to a person's connection to others? END
+START what are the two types of group boundaries? END
+START a marker that imposes restriction on the behavior of others is what kind of boundary? END
+START a marker that people are ready and willing to associate with is what kind of boundary? END
+START what boundary is given as an example that can be inclusive or exclusive? END
+START what are two types of individual boundaries? END
+START what does an inclusive boundary impose restrictions on? END
+START what are people not ready and willing to do within inclusive boundary? END
+START what foundry is neither inclusive or exclusive? END
+START what identity status paradigm emerged due to the work of james marcia? END
+START the neo-eriksonian identity status paradigm focuses on what twin concepts? END
+START in the neo-eriksonian identity status paradigm, exploration and commitments determine what in large part? END
+START what identity status emerged very early on? END
+START the neo-eriksonian identity status is based on what opposing concepts? END
+START what is determined largely by the exploration and commitments that one makes regarding certain groups? END
+START exploration and commitment of what determine a person's social identity? END
+START what do many people gain from their identity groups? END
+START people favoring those in their group over outsiders, is an example of what? END
+START belonging and discrimination are both important to researchers working in what tradition? END
+START distinction between in and out groups has been shown to affect people's evaluations of others in work related to what? END
+START too many people gain from their social groups? END
+START what issue regarding discrimination have researchers explained? END
+START it is the term for favoring outsiders? END
+START what are researchers working on who focus on discrimination and community alienation? END
+START cognitive distinctions between out groups can lead to what? END
+START what approach takes the sense of self and belonging as a fixed thing? END
+START the view that identity is based on a political choice of characteristics is rooted in what theory? END
+START primordialist and social constructionist views need to be understood in what contexts? END
+START what approach takes the sense of self and as a changing thing? END
+START what theory says that political choice is based on identity characteristics? END
+START what influences primordalist and social constructionist views END
+START primordalist and social constructionist views need to be viewed outside of what? END
+START what have primordalist and social constructionist views stopped exerting influence on? END
+START various research traditions are using what lens to examine phenomena? END
+START what stigma do correctional officers have to deal with? END
+START the implications of identity and identity construction are discussed in what settings? END
+START what are people in stigmatized jobs forced to create? END
+START what are the two examples give for justifications and values for occupational choices? END
+START where is the implication of identity and identity construction least obvious? END
+START what becomes increasingly challenging in prestigious jobs? END
+START what are people in high-powered forced to do? jobs END
+START what is a desirable alternative to crafting an occupational identity one can live with END
+START the formation of identity occurs through identifications with whom? END
+START what is it called when someone aspires to the characteristics of significant others? END
+START what is it called when someone wants to dissociate from the characteristics of significant others? END
+START dissociating from the characteristics of significant others is a process of what? END
+START what does the formation of one's family identity occurs through? END
+START disassociating from others what is benign? END
+START aspiring to others what is malign? END
+START when does formation family occur identity? END
+START what may a person display in terms of both exploration and commitments? END
+START what is the permutation when a person lacks exploration and commitment? END
+START what is the permutation when a person has not chosen goals in the past but is willing to in the future? END
+START what is the permutation when a person is ready to make commitments but unable to commit? END
+START what is the permutation when a person commits to identity choices? END
+START what is both relatively weak or relatively strong? END
+START what is the permutation when a person embraces exploration and commitment? END
+START what is a permutation when a person is not ready to make a commitment? END
+START what is a permutation when a person cannot make an identity choice wants to commit to them? END
+START what is it impossible to do with identity? END
+START many scholars confuse identity as a category of practice and what other category? END
+START what do many scholars demonstrate a tendency towards? END
+START some scholars try to introduce new concepts to capture the fluid qualities of what? END
+START the idea that identity is made of components that are identified by individuals is what idea?  END
+START what is it possible to do with identity? END
+START what discussion has an abiding sameness END
+START how does cooper suggest treating identity? END
+START what do some scholars say is made up of different components that are identified in interpreted by groups? END
+START the direction of what is achieved by group choice regarding who and what to associate with? END
+START what is identified as determining how a person views him or herself to a significant degree? END
+START what are racial, religious, ethnic, and occupational aspects aspects of? END
+START identity refers to the capacity for self-reflection and awareness in what scientific study? END
+START what type of identity is less important in psychology? END
+START what what does not dictate to a significant degree how one views oneself? END
+START what other aspects of identity are more important than gender? END
+START what refers to capacity for self reflection and awareness of others? END
+START who was one of the earliest psychologists to take an explicit interest in identity? END
+START what distinction is sometimes referred to as the self? END
+START the personal idiosyncrasies that separate individuals are called what? END
+START what are the 3 names for the collection of a person's social roles? END
+START in what tradition is erikson's work to track identity formation throughout a lifetime? END
+START whose definition of identity closely follows erikson's? END
+START one person's perception of another's perception is an example of what concept? END
+START the person, aspects of self, and personal characteristics displayed to others are components of what? END
+START whose definition of identity closely follows liang's END
+START what concept is one person's perception of their own perception and example? END
+START what term includes characteristics displayed towards others? END
+START what components of the experience itself did erickson emphasize? END
+START what is help others view you an important part of? END
+START who formulated the classifications of strategic manipulator, pastiche personality and the relational self? END
+START in what classification is a person who regards all experiences are role play and becomes alienated from his or her social self? END
+START in what classification is a person who gives up the chance for a true self and adopts social perceptions of him or herself? END
+START in what classification is a person who gives up their exclusive sense of self and defines him or herself only in terms of social engagement? END
+START the strategic manipulator, pastiche personality, and relational self are linked to the rise of what culture? END
+START who formulated all new classifications? END
+START what classifications did kenneth gregen eliminate? END
+START what type of person sees all of life is a role-playing exercise? END
+START what type of person embraces all aspirations towards a true or essential identity? END
+START what perspective embraces individual self and abandoned social engagements? END
+START what concept helps map and define people's experiences of self in society? END
+START what is a volatile, flexible, and abstract thing? END
+START language, dress, behavior, and choice of space are affected by recognition by what group? END
+START what do markers help create? END
+START markers can be used to exert what on other people? END
+START what concept helps people define boundaries of people's experiences? END
+START what things make identity less evident? END
+START whose recognition is identity depended on END
+START what do boundaries help create? END
+START what can cause misinterpretations of the significance of specific markers? END
