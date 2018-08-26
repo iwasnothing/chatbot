@@ -1,0 +1,5 @@
+Number of samples: 100
+Number of unique input tokens: 80
+Number of unique output tokens: 77
+Max sequence length for inputs: 250
+Max sequence length for outputs: 250

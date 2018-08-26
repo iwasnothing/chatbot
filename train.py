@@ -51,7 +51,7 @@ def train(QList,AList,folder):
             if char not in target_count.keys():
                 target_count[char] = 1
             else:
-                target_count[char] = input_count[char] + 1
+                target_count[char] = target_count[char] + 1
                 if target_count[char] > 2:
                     target_characters.add(char)
 
@@ -67,7 +67,7 @@ def train(QList,AList,folder):
     print('Number of unique output tokens:', num_decoder_tokens)
     print('Max sequence length for inputs:', max_encoder_seq_length)
     print('Max sequence length for outputs:', max_decoder_seq_length)
-    with open('count.csv', 'w') as the_file:
+    with open(folder + 'count.csv', 'w') as the_file:
         print('Number of samples:', len(input_texts),file=the_file)
         print('Number of unique input tokens:', num_encoder_tokens,file=the_file)
         print('Number of unique output tokens:', num_decoder_tokens,file=the_file)
