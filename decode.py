@@ -16,7 +16,8 @@ parent = 'data'
 flist = []
 for d in os.listdir(parent):
     if os.path.isdir(parent+'/'+d) and  os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
-        flist.append(d)
+        if 'T' in d:
+            flist.append(d)
 folder = flist[np.random.choice(len(flist),1)[0]]
 try:
     if os.path.exists(parent + '/' + folder + '/' + 'count.csv'):

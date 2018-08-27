@@ -195,7 +195,7 @@ QList = []
 AList = []
 parent= 'data'
 for d in os.listdir(parent):
-    if not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
+    if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
         if os.path.exists(parent+'/'+d+'/' + 'QList.txt'):
             with open(parent+'/'+d+'/' + 'QList.txt','r') as f:
                 QList = f.read()[:-1].split('\n')
