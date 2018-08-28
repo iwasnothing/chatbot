@@ -1,5 +1,5 @@
-Number of samples: 2380
-Number of unique input tokens: 1252
-Number of unique output tokens: 388
-Max sequence length for inputs: 188
-Max sequence length for outputs: 162
+Number of samples: 22775
+Number of unique input tokens: 7586
+Number of unique output tokens: 3677
+Max sequence length for inputs: 222
+Max sequence length for outputs: 249

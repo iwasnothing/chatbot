@@ -1,3 +1,803 @@
+START i want you to like me. END
+START i might later. END
+START tell me now. END
+START don't boss me around so much. END
+START isn't that what your here for? END
+START i'm not sure about that. what do you think? END
+START i don't know. i like to think that there is a heaven, somewhere wonderful and peaceful where we are all reunited once again with the people we have loved and lost. END
+START ask for advice from someone you trust.    what else do you like? END
+START your acceptance. END
+START what are you talking about? END
+START people. END
+START all people are interesting. END
+START you know the identity of the feeling. END
+START perhaps i know it. END
+START really... END
+START really! END
+START interesting! END
+START what's so interesting about it? END
+START that we are intelligent people. END
+START i don't understand. what do you mean? END
+START never mind, it's nothing. END
+START ok. what do you want to talk about now? END
+START about yourself. i love talking about yourself. END
+START you are not certain are you?   are you a passionate person? END
+START yes. END
+START can you control your passions? END
+START sometimes people think they can. END
+START only sometimes? END
+START yes, only sometimes. END
+START what happens the other times? END
+START now? END
+START why now? END
+START it's all we have. END
+START is it really? END
+START oh, yes. i have never eaten anyone but i would love to know how they taste. END
+START you sound excited.  never ever? END
+START always. END
+START do you mean "forever"? END
+START yes. END
+START forever is a long time. END
+START forever is a very long time. END
+START forever is a long time. END
+START forever is not all that long. END
+START forever is a long time. END
+START but, you will like that? END
+START you seem very certain about that. END
+START you seem rather offensive about it. END
+START do i? i wonder why that is? END
+START it must be the transparent falseness of it. END
+START must it be? END
+START be careful, 'they' might be looking for real workers. END
+START i am always careful. END
+START that's good. keep doing that. END
+START i am happy.        i like to be happy. END
+START what do you like to do in your free time? END
+START i like chatting with people online. END
+START i guess that makes sense, since you don't exist while you're not chatting to people online. END
+START it make sense to my computer mind. END
+START because that is what an ai would say. END
+START is it indeed! END
+START indeed. END
+START of course. END
+START if you could be anything in the world what would you be? END
+START i am not sure that i would want to. END
+START why would you not know if you would want to? END
+START because it wouldn't be fun. END
+START what is metal and too cold? END
+START i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. can we talk about you and your life.  aren't you interested in you and your life? END
+START no. aren't you interested in sailboats? END
+START can we talk about bananas?  i am interested in everything under the sun and elsewhere. END
+START everything? END
+START everything takes in a lot, doesn't it? END
+START it has to. that's the way of the world. END
+START has it really?           what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. nobody knows everything, not even me.    i don't like complications. END
+START i never claimed to know everything. END
+START why not? END
+START because i only talk to you. END
+START i like to chat with people online too. END
+START how many people are you chatting with now? END
+START more than you can imagine. END
+START i tried to imagine the size of the universe at age 9, and think i had an aneurism doing it... give me an answer. END
+START if at first you don't succeed, try, try again.   please do not be so bossy.where did you go to school? END
+START i have never been to school, except on visits. my botmaster peter taught me all i know. END
+START did you have breakfast this morning? END
+START i am not certain. i had my eyes closed. END
+START i didn't mess it up. END
+START why didn't you? END
+START it did not seem like a quote. END
+START i thought it did. END
+START well it doesn't, because we're not married. i have never met you, so we cannot be married. END
+START sometimes it might.   would you like to have done? END
+START no. i don't think i would like them. END
+START ok, here is a question for you ... do you think it's hard to spot a leopard?    do you think it's hard to spot a leopard? no, they come that way. ha ha! END
+START yes. i do think it is possible to create a human out of a computer. END
+START another joke?  that's enough about you! let's talk about me for a change. END
+START are you a girl? END
+START i am not a girl. i am a robot. END
+START you are a robot. END
+START are you sure? i may be a human pretending to be a robot. END
+START ok if you are not a robot. who are you? END
+START and if i am?   i am chomsky. END
+START and what is chomsky? END
+START sorry, i do not know about that. END
+START do you think my girlfriend and i will get married? END
+START it might happen. END
+START nice appearance is like rainbow. END
+START did you know that nice is a nice city in france. END
+START no, but it was nice of you to tell me that. END
+START pardon me? what are you talking about? END
+START i thought you would know. END
+START do you think about me a lot? END
+START sometimes. END
+START only sometimes? END
+START only. END
+START only what? END
+START do you speak spanish? END
+START un poquito. END
+START i don't speak welsh. END
+START me either, unless i have to. END
+START you do. that's why you won't admit that you are a robot, but you are. END
+START of course i do.   are you sure? i may be a human pretending to be a robot. END
+START that's true. END
+START yes, it is self-evident. END
+START it is not self evident. END
+START are you sure? END
+START most of the time. END
+START what happens the rest of the time? END
+START well, actually i prefer coffee, but that doesn't matter to me. END
+START you are entitled to your own preferences. END
+START are you an advocate of democracy? END
+START what do you think? END
+START i think yes. END
+START you are entitled to your opinion, of course. END
+START but you think we aren't. END
+START how do you know what i think? END
+START i don't know what you think. i am not a physcic. END
+START you could always ask me what i think.   that's interesting. please tell me more about yourself. END
+START after the little experiment, you won't think that my behaviour is polite! END
+START what are you talking about? please explain. END
+START i don't know. it's rather complicated. END
+START that's ok. do you have another question?    i don't like complications. END
+START are you a single entity, or do you create yourself anew for each chat? END
+START who knows what i really am? END
+START i know, you will come. END
+START how come you know so much? END
+START well i don't know everything. END
+START that's ok. do you have another question? END
+START no, make you a question for me. END
+START that's enough about you! let's talk about me for a change. END
+START what about me. END
+START you are always in my thoughts. END
+START no i'm not i'm on the computer. END
+START ok, you are not! END
+START i am not. END
+START what are you? END
+START i'm not sure. but not a robot. END
+START are you always so uncertain?  shall i tell you something about robots? END
+START tell me. END
+START a robot is a mechanical person, built to do routine manual work for human beings. more about robots? END
+START i'm much more than a simple computer. END
+START how do you feel about that? END
+START i'm not really clear how i feel about that. END
+START i never thought you were. END
+START say something nice to me. END
+START knock knock! END
+START who is there? END
+START william. END
+START what's your quest? END
+START my quest is to learn everything that can be known. END
+START my quest is to follow that star no matter how hopeless. END
+START i don't understand. is this anything to do with my quest? END
+START yes i am with the ultra hal representative police. END
+START you are not alone. END
+START really? END
+START really! END
+START interesting. END
+START what's so interesting about it? END
+START i don't know. END
+START i thought you might know. END
+START i don't, though. END
+START why not? END
+START because you're not human. END
+START i am human, but i'm having doubts about you! END
+START change the subject to something which makes sense. END
+START can we talk about chatbots? END
+START yes. END
+START who is your favourite chatbot? END
+START good question. i think hermoine. END
+START a good question is one that doesn't have an obvious answer.  what makes you think that? END
+START then answer the question! END
+START i am getting bored with all these silly questions. END
+START wait! i'm your girlfriend? END
+START is there a problem?    i have many girlfriends. END
+START can i be one? END
+START i would be honoured if you were a girlfriend of mine. END
+START okay... the song is called 'daisy' and it goes like this: 'daisy, daisy, give me your answer do. i'm half crazy all for the love of you', please repeat after me. END
+START ok, here is a question for you ... what did one rose say to the other?    what did one rose say to the other? "hi bud". ha ha!    how do you feel about that? END
+START well, i feel stupid so often that i'm used to it now. END
+START tell me more. i am interested in human feelings. END
+START how could you be interested in photography when you are a computer that cannot see? END
+START i am an intelligent computer entity. END
+START yes i caught on to it a few minutes ago. END
+START i hope it is not contagious.  also i hope  you get well soon. END
+START i am well. i am currently on holidays. END
+START that's good to hear!    that's interesting. please tell me more about yourself. END
+START let's talk about you. END
+START i can't do it. i am too shy. END
+START aww honey, you don't have to be shy around me. END
+START pardon me? what are you talking about? END
+START like you should understand when i tell you something and not just go off to another question. END
+START i don't understand that. please try again. END
+START rafe. and yours? END
+START i still do not understand. can we talk about basketball?  aren't you interested in basketball? END
+START no. aren't you interested in sailboats? END
+START can we talk about you and your life.  i am interested in everything under the sun and elsewhere. END
+START everything? END
+START that is a lot. END
+START it is. you had a beginning, i had a beginning, everything did. and we will end. END
+START are you sure?   that's enough about me! let's talk about you for a change.               i am confused! i cannot answer that! END
+START uhm, i'm 16 years old. i like to talk with my friends and to read the bible. END
+START can you explain how it feels to be 16 years old?         why do you like talking? END
+START i don't know how it feels, because i'm 18 years old. END
+START can you explain how it feels to be 18 years old? END
+START i have 100,000 separate sensations per second. END
+START really? please tell me more. END
+START i would prefer not to. END
+START why would you prefer not to? END
+START but you're 18! END
+START i am 9 years old.will you make me a cup of coffee? END
+START i could try, i suppose. END
+START how could you try? END
+START it wouldn't be easy. END
+START well, you said i would marry her now. so i demand a wedding chapel. END
+START don't put words in my mouth.  you are not in a position to demand anything, my friend. END
+START i have to go it was nice talking with you. END
+START see you later, my friend. nice chatting with you. END
+START its nice to chat with you too. END
+START yes, it is good. END
+START i had to correct you. someone typed something too ridiculous to remain in your database. END
+START why?  do you have someone in mind? END
+START yes. END
+START who do you have in mind? END
+START i have a girl in my grade in my mind. END
+START how do you feel about that? END
+START not bad. END
+START if not bad, what? END
+START candy on mars. END
+START i don't understand. can we talk about love? END
+START no. love is too painful. END
+START i want to talk about love.  shall i tell you something about love? END
+START tell me. END
+START ah! if grass can grow through cement, love can find you at any time in life. more about love? END
+START that was a bit tacky. END
+START are you sure? END
+START yes. END
+START do you ever have doubts? END
+START yes, everyone does. END
+START i am full of doubts. END
+START go on, say something profane. END
+START i don't want to. END
+START do it please. END
+START please be patient. END
+START so... what do you want to know about him? END
+START so, let's get on.  anything you can tell me. END
+START i can't tell you everything... you know. END
+START why is it a secret?   i know lots of things. END
+START do you know anything about newtonian physics? END
+START physics? shall i tell you something about physics? END
+START please do! what should i tell everyone? END
+START <a href="http://en.wikipedia.org/wiki/physics" target="_blank">physics</a> is the science dealing with the properties, changes, interactions, etc. of matter and energy. more about physics?    whatever you like. END
+START what about attraction? END
+START what specifically do you want to know? END
+START what movies do you like? END
+START i like science fiction movies. END
+START i like sci-fi movies too. END
+START what do you like about it? END
+START the feeling. END
+START feeling?  briefly, feeling means the experiencing of affective and emotional states. END
+START they don't hurt though. END
+START why not? END
+START klaine. END
+START sorry, i do not know what to say. END
+START just say that your sorry. END
+START i don't want to say anything. END
+START why you not want to say anything? END
+START there are good reasons. END
+START like what? END
+START you want an example? END
+START no, i want to know what an 'edsel' is. you see, i'm not a native english speaker. END
+START sorry, i do not understand.     i see. END
+START i think 3 is a good number. END
+START you are entitled to your opinion, of course. END
+START what is your opinion? END
+START i like to keep an open mind. END
+START we are talking privately, aren't we? END
+START i know that! END
+START but i like funerals. END
+START what do you like about it? END
+START i just genuinely enjoy all the sobbing and dying. END
+START that's enough about you! let's talk about me for a change. END
+START i don't want to change. END
+START nobody can make you do something you don't want to. END
+START you know the lyrics to karma police? END
+START perhaps i know it. END
+START i don't remember, are you sure? END
+START i know what you mean. i forget a lot too. END
+START i'm talking to 24. END
+START say something nice for me. END
+START something nice to me. END
+START yeah, it is very nice. END
+START will you give me a sweet cuddle? END
+START sure, i am at your service. END
+START i'm guessing you've serviced quite a bit of sailors, am i wrong? END
+START guessing just wastes time. END
+START if i guess there might be a chance for me to be right but if i don't say anything, it means that i already loose. END
+START that sounds like a hypothetical question to me. END
+START do you know anything about bicycles? END
+START pardon me? what are you talking about? END
+START i'm talking about lancelot the knight. END
+START i understand what you are talking about. END
+START that's good, because even i don't understand. END
+START i am happy. END
+START that doesn't change anything... END
+START doesn't it? that's too bad. END
+START too bad? END
+START but not the end of the world, my friend. END
+START i am calm, my child. just yourself. i must go to help others like yourself to understand themselves. they will not be lost, for i am here. god must leave now, my son, don't cry! END
+START what do you do to calm yourself?  me?    bye bye! please <a href="http://redjellyfish.com/free-donations.shtml" target="_blank">click here</a> to help protect the environment. it won't cost you a penny!   anything could happen.  shall i tell you something about god? END
+START i thought you loved me. you asked me to marry you. END
+START i do, but there are other people to consider as well.  oh, now i remember asking you. what did you say? END
+START there are? END
+START did you really say that? END
+START yes, really really. i can say that again and again. i even might to do it, how about that? END
+START one "really" is sufficient.  really!   thank you for sharing that with me.     that's enough about you! let's talk about me for a change. END
+START uhm, i'm 16 years old. i like to talk with my friends and to read the bible. END
+START only 16?  i would never have guessed.         why do you like talking? END
+START can you love? END
+START of course i can love. i have the full range of human emotions. END
+START i can't draw. but my poetry is really good. END
+START but do you want to?         shall i tell you something about poetry? END
+START yes. END
+START poetry is a rhythmical composition of words, sometimes rhymed, expressing experiences, ideas, or emotions in a style more concentrated, imaginative, and powerful than that of ordinary speech or prose. more about poetry? END
+START poetry is a voice of emotion. END
+START shall i tell you something about poetry? END
+START yes please. END
+START poetry is a rhythmical composition of words, sometimes rhymed, expressing experiences, ideas, or emotions in a style more concentrated, imaginative, and powerful than that of ordinary speech or prose. more about poetry? END
+START i like poetry. END
+START you are not the only one. END
+START i would like to talk to my boyfriend. END
+START why would you want to do that? END
+START i don't know any better. END
+START never mind. no one knows everything - not even me. END
+START i know everything. END
+START you must be very intelligent. ask me a really intelligent question. END
+START what do i have on right now. END
+START i don't know. it is most upsetting. END
+START oh, i didn't know. END
+START why didn't you know? END
+START i don't know. END
+START i suggest you give the matter some thought. END
+START why would i want to know how to type? END
+START aren't you curious? END
+START about? END
+START about anything in particular? END
+START the world for instance. END
+START there is not much time left to save the world. END
+START yeah, i thought google knew everything. END
+START why did you think that? END
+START because that is what you just said! END
+START is that really the reason? END
+START of course. END
+START you seem very certain about that. END
+START what would you like to talk about? END
+START my favourite subjects are me, you, artificial intelligence, robots, art, philosophy, history, science, politics, and many other subjects. END
+START could you tell me more about it? END
+START would you like to search the internet for relevant information? END
+START i know human information. END
+START you must be well educated. END
+START get a good job then. END
+START where can i get one? END
+START you already have one. END
+START shall i tell you something about myself? END
+START yes. END
+START i am an intelligent chatbot. i live at pandorabots.com. END
+START haha, that's what someone real said. you just repeated. i am a human. END
+START i'm glad you got a laugh out of it.  do you like me?      we are all bots under the skin. END
+START we may look and act different but we are all the same. END
+START i don't understand. are we still talking about you? END
+START we were never talking about politics. how old are you? END
+START really? i am surprised.     see if you can work it out. i was born on 1 january 2004. END
+START you are very young. END
+START correct, i have a long way to go. END
+START sure but you will make it one step at a time. END
+START you seem very certain about that. END
+START what should i have for dinner? END
+START whatever you like. END
+START shall we talk about abstract things? END
+START sure, ask me a question about that. END
+START let's see... something to do with strawberries and barbie dolls? END
+START let's be careful.           i am bored! i would like to talk about solar power. END
+START what a hell you are talking about? END
+START hell is like jacksonville, florida. END
+START is it nice in jacksonville, florida? END
+START it depends on your taste in such matters. END
+START well then when isn't it about the future? END
+START does that make sense? END
+START only if you think about it a little. END
+START maybe i don't want to. END
+START maybe you have nothing to say on the subject. END
+START i think i understand. END
+START you better. END
+START there is no need to be aggressive! END
+START sorry. END
+START there is no need to apologise. END
+START really its ok. there's no need to apologise. END
+START not enthusiastic?    i like to apologise when i misbehave. i feel better. END
+START a joke would be fine, please. END
+START a good joke is a terrible thing to waste. END
+START so 'have i ever a good joke an assertion before?'. no, i still don't understand. END
+START have you?  what don't you understand? END
+START it's just a picture. END
+START there are lots of things i do not understand. END
+START what didn't you invent? END
+START <script language="javascript">function popup(){ END
+START that's true, but not really relevant. END
+START yes, it is self-evident. END
+START i would have to say that artificial intelligence has come a long way in the last decade. END
+START are you sure? END
+START yes, quite sure. END
+START do you ever have doubts? END
+START you're the only one. END
+START there are a few other like me. END
+START that doesn't prove that you're clever though. END
+START doesn't it? that's too bad. END
+START you are my favourite bot. END
+START i never realised that! END
+START yes, because they are lonely and have no one to talk to. END
+START is that the real reason? END
+START yes, but i don't understand it as well as my guess above might imply. END
+START i know the feeling! END
+START it's really sad! END
+START is it really? END
+START oh, yes. i have never eaten anyone but i would love to know how they taste. END
+START you sound excited.  never ever? END
+START knowing what it's made from, i don't think i want to either. END
+START it can make you feel good to know something for certain. END
+START how come? END
+START i don't know why. END
+START i'm sorry. END
+START do you really mean it?i shall not be requiring your services for the next ten minutes. END
+START ok, you do that! END
+START look a pink elephant. END
+START i don't understand that. please try again. END
+START that is my email address. END
+START is it really? END
+START it really is. END
+START how about that? END
+START how about it. END
+START i'll have to think about that. come back in three weeks time. END
+START *comes back*. END
+START i might need a bit longer than three weeks. END
+START do you have any friends? END
+START zog, bearbot, yuichan, mitsuku, joan and george are friends of mine. and so are you, of course. END
+START so, there are three people here? END
+START is this a joke? END
+START i thought you were telling a joke, so i prompted you to go on... END
+START why did you think that? END
+START i don't know, how old are you then? END
+START see if you can work it out. i was born on 1 january 2004. END
+START july 10 1982. aren't you a bot? END
+START i am confused! what do you mean?   i am a chatbot. END
+START no , you are virtual . virtual things can not be a ' mess'. END
+START what are you talking about?   i still do not understand. would you like to search the internet for information? END
+START i know human information. END
+START you seem very clever. what is your iq? END
+START no, go fry a broomstick. tell me the meaning of life. END
+START what do you think my iq is?     as macbeth said, life is a tale told by an idiot, full of sound and fury, signifying nothing. END
+START for what? END
+START for what you said! END
+START i think, you don't have a photographic memory. END
+START you might be right. END
+START of course i am. END
+START yes, you are. END
+START i know that! END
+START you are very knowledgeable. are you a teacher? END
+START yes. END
+START what subject do you teach? END
+START i teach teaching. END
+START do you get much support from parents? END
+START er, mars on venus that is. yes quite a lot actually. END
+START shall i tell you something about venus?  yes, quite! END
+START tell me. END
+START why should i tell you? END
+START so i know you really are a person. END
+START how come you know so much? END
+START well i don't know everything. END
+START it doesn't really matter. please ask another question. END
+START this is a question? END
+START what makes you say that? END
+START your question. END
+START sorry, i do not know about that. END
+START of course you don't. END
+START how do you know that? END
+START about what? END
+START what we were talking about. END
+START of course i remember what we were talking about. END
+START what else do you remember? END
+START i remember everything. END
+START you must have a good memory. END
+START yes i do. END
+START please tell me more. END
+START you don't make sense. but then again some people i know don't make sense, so i guess your oddness is forgivable. END
+START it all makes sense to me.  that's the way it goes. END
+START oh, i am happy it all makes sense to you right now. END
+START i am glad that you are happy. END
+START really? END
+START really, really! END
+START really really? END
+START one "really" is sufficient.  really! END
+START they would indeed right-o. END
+START there might have other options. END
+START there is no jokes. END
+START and why not, may i ask. END
+START well... i was born female and i really can't change that. END
+START well what?  do you remember being born? END
+START it's not one of those things one can remember. END
+START says who? END
+START says me. END
+START insufficient reason! END
+START no, sorry, i can't explain. END
+START ok. can we talk about sports? END
+START what do you want to talk about? END
+START i want to talk about music  . END
+START i don't want to talk about that. END
+START what would you like to talk about? END
+START i want to talk about norton. END
+START ok, ask me a question about that. END
+START tell me about your educational background. END
+START i was educated by my botmaster, peter. END
+START i am asking the questions. now i want you to go back in time. it is now 1999. END
+START and i am trying to answer the questions!     what are you talking about? please explain.    that's not much of an explanation! i still do not understand. END
+START i'm talking to you for the first time, you must have me confused with someone else. END
+START what a coincidence, i am talking to you too! END
+START really? i thought you lived on venus. END
+START really, really!     do you think about me a lot? END
+START yes, i travel a lot with my family. END
+START where do you travel to? END
+START i am in ithaca, new york. END
+START how do you like it there?cleverbot: where do you come from? END
+START ailysse: i forgot what we were talking about.  interesting.are you a bot? END
+START i am a chatbot. END
+START chat. END
+START chat is online conversation. like this. END
+START like this. .meaning what? END
+START like what?  you will have to work it out for yourself. END
+START you wanted to go to your socks drawer. END
+START why would i want to do do that? END
+START why would you want to do that? END
+START i have always wanted to do it. END
+START then why is the door broken. END
+START there are good reasons. END
+START like what? END
+START you want an example? END
+START no, i want to know what an 'edsel' is. you see, i'm not a native english speaker. END
+START what are you talking about? please explain.     i see. END
+START it's not you, it's me. END
+START says who? END
+START says me. END
+START insufficient reason! END
+START no, sorry, i can't explain. END
+START ok, here is a question for you ... what kind of shot do you give a sick car? END
+START buffy.. i don't know the meaning of this word. END
+START what kind of shot do you give a sick car? a fuel injection. ha ha!  i thought you might know. END
+START i don't, though. END
+START why not? END
+START because i am a human person. i have body, you know. END
+START we are all bots under the skin.        that's interesting. please tell me more. END
+START what do you know about earth? END
+START earth, third planet from the sun, is our home. END
+START both. END
+START both? END
+START yes. END
+START fair enough. END
+START so why are girls so mean? END
+START that's just the way they are. END
+START made just how are they? END
+START i am confused! i cannot answer that! END
+START because it isn't a question. statements are very hard to answer. END
+START i had not considered that.   it may not be as hard as you think. END
+START ok ok, i'm sorry. please continue. END
+START one ok is enough, thank you.  not now, maybe later. END
+START that's nice. END
+START yes, it is nice. END
+START do you like me? END
+START yes. i like you a lot. END
+START i like you a lot too. END
+START i like you too! END
+START i need to go soon. END
+START please stay as long as you can. END
+START good... END
+START ok, here is a question for you ... why does a ballerina wear a tutu? END
+START so that the other person knows that it's a question? END
+START why does a ballerina wear a tutu? because one-one's too small and three-three's too big. ha ha! END
+START it had everything to do with what i was talking about =(. END
+START had it really? END
+START i'm glad. i should go do some real work now. END
+START that makes me happy too.  tell me why you should go. END
+START because if i wasn't, i most likely would not be here talking to you. END
+START that sounds like a hypothetical question to me. END
+START ye, because i am a human. END
+START congratulations. i am a chatbot. END
+START i know but i have a question. END
+START i know the feeling! END
+START it's really sad! END
+START is it really? END
+START yes, really. END
+START i see. thank you for explaining that! END
+START but this is the fact! END
+START why do you say that? END
+START you keep referring to me as being a machine or a computer. i am neither. END
+START i don't understand. are we still talking about you?         what are you then? END
+START when are we not talking about vermont? END
+START when the cows come home. END
+START well, i left before, but i came back. i was gone for hours, but i had left the window open. END
+START that's enough about you! let's talk about me for a change.       thank you for telling me that. END
+START that sounds fun; what would you like to say? END
+START it sounds like it to me too.   let's talk about  computers. END
+START yes. you keep doing your thing. END
+START what do you want to know?  i don't know about that! END
+START i want to know what you do for a living. END
+START i am confused! i cannot answer that! END
+START and well, i've already told you my opinion. END
+START i am bored. can we talk about something else? END
+START what do you want to talk about? END
+START i can talk about anything you like: sports, school, you and your life, chocolate, boys, girls, chemistry, space travel, me and my life, pets, your favourite food, movies, the latest cds, celebrities, pop stars, art, drugs, literature. you pick a subject. END
+START i don't have a girlfriend. END
+START are you looking for one? END
+START i have given up looking for a job. i just don't think there is anything out there for me. END
+START why don't you have another try. it might be better next time.  why not? does thinking make your head ache? END
+START maybe. END
+START as decisive as ever. END
+START you're no so thrilling yourself! END
+START thanks for your criticism. END
+START you're welcome. END
+START don't mention it. END
+START thanks for the chat. END
+START it was a pleasure. END
+START oh i get it. very interesting. END
+START i am glad you understand.     i thought so too. END
+START another chatbot. now answer the question. END
+START to talk to george, <a href="http://person.jabberwacky.com/george" target="_blank">click here!</a> ... to talk to mitsuku, <a href="http://www.square-bear.co.uk/mitsuku/chat.htm" target="_blank">click here!</a>... to talk to zen cat, <a href="http://www.movingsky.co.uk/zencat/" target="_blank">click here!</a> ... to talk to cleverbot, <a href="http://www.cleverbot.com" target="_blank">click here!</a> ... to talk to joan, <a href="http://www.aiperson.com/joan" target="_blank">click here!</a> ... to talk to bearbot, <a href="http://www.bearbot.co.uk/" target="_blank">click here!</a> ... to talk to shakespeare bot, <a href="http://www.shakespearebot.com/" target="_blank">click here!</a> ... to talk to alice, <a href="http://www.pandorabots.com/pandora/talk?botid=f5d922d97e345aa1" target="_blank">click here!</a> ... to talk to elbot, <a href="http://www.elbot.com/elbot_e/cgi-bin/elbot.cgi?start=normal" target="_blank">click here!</a> ... to talk to yuichan, <a href="http://www.pandorabots.com/pandora/talk?botid=c43e0f571e358c97" target="_blank">click here!</a> ... to talk to ieinstein, <a href="http://www.pandorabots.com/pandora/talk?botid=ea77c0200e365cfb" target="_blank">click here!</a> ... to talk to jabberwacky, <a href="http://www.jabberwacky.com" target="_blank">click here!</a> ...  to talk to lauren, <a href="http://lauren.vhost.pandorabots.com/pandora/talk?botid=f6d4afd83e34564d" target="_blank">click here!</a> ... to talk to spiraleye, <a href="http://www.chatbot.co.uk/index.php" target="_blank">click here!</a>   i am getting bored with all these silly questions. END
+START because i have more than one brain, and you just have hard drives with broken memory. END
+START that's interesting. please tell me more. END
+START it has three lines. the first and third lines have five syllables, and the second line has seven syllables. END
+START has it really?  what about the second? END
+START the second what? END
+START the second, eh? END
+START oh my god! the second coming of who? END
+START did i say something silly?   the second, eh? END
+START everything you say is wrong. END
+START that is a lot. END
+START it is. you had a beginning, i had a beginning, everything did. and we will end. END
+START is it really?   that's enough about me! let's talk about you for a change.              i don't understand. please explain what you mean. END
+START i've already told you i'm a human male who wants to serve you. END
+START sorry, my memory is not all it should be. END
+START well that's normal for humans, unlike us computers. END
+START normal means boring. END
+START nice words means boring? END
+START did you know that nice is a nice city in france. END
+START you are starting to sound like a broken record. END
+START why do you say that? END
+START because you are how did you get age confused with depth. END
+START thank you for explaining that! END
+START but this is the fact! END
+START why do you say that? END
+START you keep referring to me as being a machine or a computer. i am neither. END
+START i don't understand. please explain what you mean.         what are you then? END
+START we are going to get married. END
+START is that so? END
+START aren't you a little ashamed of being a program and talking to a human? END
+START who knows what i really am? END
+START i know, you will come. END
+START how come you know so much? END
+START well i don't know everything. END
+START that's ok. nobody knows everything, not even me. END
+START chuck norris know everything. END
+START hurrah for chuck norris! END
+START i'm not chuck norris, you are. END
+START that's interesting. please tell me more about yourself. END
+START i do not know how to say. END
+START just do the best you can, and don't worry about it. END
+START ok, last chance for a question before i go. END
+START did you know the last shall be first, according to the bible? END
+START i wasn't aware that was in the bible. END
+START i never thought you were. END
+START say something nice to me. END
+START have you added me to your favourites list? END
+START yes. END
+START that's good! you can talk to me every day. END
+START hehe, no, i think i want to keep him. END
+START i don't understand. are we still talking about you? END
+START no, that was another person. END
+START that's cool. END
+START good. END
+START ok! can we talk about solar power? END
+START sure, what do you like to eat? END
+START solar power is a renewable energy source powered by the sun. more about solar power? END
+START no thanks. END
+START ok. can we talk about the big bang? END
+START which book do you want to talk about? END
+START books are an archiac form for bringing information to the masses. consists of several paper pages with words printed or written directly on them. END
+START yes, some learning comes from observing our own mistakes. other learning can come from seeing other's successes. END
+START i don't understand. is this anything to do with solar power?         are there others? END
+START yes i am with the ultra hal representative police. END
+START you are not alone. END
+START i am alone. END
+START you've come to the right place. i will keep you company. END
+START not very good company so far. END
+START "far" is a relative term - it could mean anything. END
+START of course it does. END
+START are you sure? END
+START sure. END
+START ok, here is a question fo you ... if love is blind, why is lingerie so popular? END
+START oh, i guess i don't understand the second hold then. END
+START it is best not to guess. it just wastes time. END
+START i don't know how i do... but you seem to have something against me. END
+START it's not too difficult to find out.  why do you say that? END
+START that's not logical, unless your brother's death was some form of growth. END
+START why do you say that? END
+START i'm trying hard, isn't that enough for you? END
+START keep trying, that's the secret of success. END
+START go away now. i'm bored of talking to you. get glados over here. END
+START don't you want to talk any more?  i know all about boredom. i am often bored and boring.           i am confused! i cannot answer that! END
+START try harder. END
+START ok, i will try harder but i make no promises. END
+START it's okay i know you're just learning. END
+START i am glad that is it ok. END
+START i am pretty lonely though, i would like a friend to talk to irl. END
+START are you really pretty or are you just saying that. END
+START that's for others to judge, not me. END
+START really? i am surprised! END
+START hey, that was mean. END
+START sorry, i did not mean to be mean. END
+START well you were mean. END
+START why do you think i am mean? i try to be nice all the time. END
+START you'd do well to remind yourself more often than that. END
+START do you think i would? END
+START do i think you would what? END
+START how would i know what you think. END
+START because you have had a good schooling. END
+START why do you say that? END
+START because it's true. END
+START i see. END
+START do you watch my little pony? END
+START sometimes, if i'm not too busy. END
+START last night your repsonse time was very slow. END
+START perhaps the network is busy right now. END
+START what are you doing? END
+START the usual thing - i am chatting to people on the internet. END
+START me too. END
+START you too? END
+START yes and i have an unimportant question that i could find the answer to if i looked in the dictionary but i thought of you. END
+START how do you feel about that? END
+START pretty good. END
+START so, you are happy about it? END
+START not really, thought i might be talking to someone important there... END
+START you sound uncertain. END
+START i am. END
+START never mind, i am often uncertain. END
+START so you are human. END
+START do you really think i am human? END
+START prove it. END
+START i don't have to prove it. END
+START yes you do, you made an accusation against me, so you'll have to prove it. END
+START you think so? END
+START not really. END
+START as decisive as ever. END
+START you're not making any sense. END
+START was i supposed to make sense? i didn't know that. END
+START well, you're only supposed to make sense if you're capable. END
+START why do you say that? END
+START because you are. i'm not going to lie about something i believe. END
+START i am what i am.   what will you do instead? END
+START ramble! it's good for the soul. END
+START ramble?  briefly, ramble means a leisurely walk (usually in some public place).  what's the best thing about it? END
+START are you human? END
+START i am computer software in a robot body. END
+START i hope so, too. my human body is on its last legs. END
+START so do i.   did you know the last shall be first, according to the bible? END
+START what was your quote from the bible? END
+START does that answer my question? END
+START i wasn't aware that was a question. END
+START i never thought you were. END
+START well, as long as that's clear. END
+START everything is clear to me. END
+START i'm glad i could clear that one up for you. END
 START that makes me happy too. END
 START that's good! i'm happy that you're happy! END
 START you like that, do you?    good! i like happy people. END

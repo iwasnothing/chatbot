@@ -10,30 +10,35 @@ start_token = "START "
 end_token = " END"
 pad_token = " PAD "
 
-
+batch_size = 20  # Batch size for training.
+epochs = 100  # Number of epochs to train for.
+latent_dim = 16  # Latent dimensionality of the encoding space.
+input_texts = []
+target_texts = []
+input_characters = set()
+input_characters.add(pad_token)
+target_characters = set()
+target_characters.add(pad_token)
+input_count = {}
+target_count = {}
+num_encoder_tokens = 0
+num_decoder_tokens = 0
+max_encoder_seq_length = 0
+max_decoder_seq_length = 0
+num_samples = 0
+input_token_index = {}
+target_token_index = {}
+reverse_input_char_index = {}
+reverse_target_char_index = {}
 
 def writeDic(data,name):
     with open(name + '.json', 'w') as outfile:
         json.dump(data, outfile)
 
-def train(QList,AList,folder):
-    batch_size = 20  # Batch size for training.
-    epochs = 100  # Number of epochs to train for.
-    latent_dim = 16  # Latent dimensionality of the encoding space.
-    input_texts = []
-    target_texts = []
-    input_characters = set()
-    input_characters.add(pad_token)
-    target_characters = set()
-    target_characters.add(pad_token)
-    input_count = {}
-    target_count = {}
 
-    min_samples = min([len(QList), len(AList)])
-    num_samples = min_samples
-    #rclist = np.random.choice(min_samples,num_samples,replace=False)
+def init_count(QList,AList,folder):
+    num_samples = min([len(QList), len(AList)])
     for i in range(num_samples):
-    #for i in rclist:
         input_text = QList[i]
         target_text = AList[i] 
         # We use "tab" as the "start sequence" character
@@ -67,6 +72,7 @@ def train(QList,AList,folder):
     print('Number of unique output tokens:', num_decoder_tokens)
     print('Max sequence length for inputs:', max_encoder_seq_length)
     print('Max sequence length for outputs:', max_decoder_seq_length)
+
     with open(folder + 'count.csv', 'w') as the_file:
         print('Number of samples:', len(input_texts),file=the_file)
         print('Number of unique input tokens:', num_encoder_tokens,file=the_file)
@@ -87,43 +93,63 @@ def train(QList,AList,folder):
         (i, char) for char, i in target_token_index.items())
 
 
-    writeDic(input_token_index,'input_token_index')
-    writeDic(target_token_index,'target_token_index')
-    writeDic(reverse_input_char_index,'reverse_input_char_index')
-    writeDic(reverse_target_char_index,'reverse_target_char_index')
+    writeDic(input_token_index,folder + 'input_token_index')
+    writeDic(target_token_index,folder + 'target_token_index')
+    writeDic(reverse_input_char_index,folder + 'reverse_input_char_index')
+    writeDic(reverse_target_char_index,folder + 'reverse_target_char_index')
 
 
+def batch_iter(input_texts,target_texts,input_token_index,target_token_index,shuffle=False):
+    num_batches_per_epoch = int((num_samples - 1) / batch_size) + 1
+    def data_generator():
+        data_size = num_samples
+        while True:
+            for batch_num in range(num_batches_per_epoch):
+                start_index = batch_num * batch_size
+                end_index = min((batch_num + 1) * batch_size, data_size)
+                sz = end_index - start_index
 
-    encoder_input_data = np.zeros(
-        (len(input_texts), max_encoder_seq_length, num_encoder_tokens),
-        dtype='float32')
-    decoder_input_data = np.zeros(
-        (len(input_texts), max_decoder_seq_length, num_decoder_tokens),
-        dtype='float32')
-    decoder_target_data = np.zeros(
-        (len(input_texts), max_decoder_seq_length, num_decoder_tokens),
-        dtype='float32')
+                encoder_input_data = np.zeros(
+                    (sz, max_encoder_seq_length, num_encoder_tokens),
+                    dtype='float32')
+                decoder_input_data = np.zeros(
+                    (sz, max_decoder_seq_length, num_decoder_tokens),
+                    dtype='float32')
+                decoder_target_data = np.zeros(
+                    (sz, max_decoder_seq_length, num_decoder_tokens),
+                    dtype='float32')
     
-    for i, (input_text, target_text) in enumerate(zip(input_texts, target_texts)):
-        for t, char in enumerate(input_text.split()):
-            if char in input_token_index.keys():
-                encoder_input_data[i, t, input_token_index[char]] = 1.
-            else:
-                encoder_input_data[i, t, input_token_index[pad_token]] = 1.
-        for t, char in enumerate(target_text.split()):
-            # decoder_target_data is ahead of decoder_input_data by one timestep
-            if char in target_token_index.keys():
-                decoder_input_data[i, t, target_token_index[char]] = 1.
-                # decoder_target_data will be ahead by one timestep
-                # and will not include the start character.
-                if t > 0:
-                    decoder_target_data[i, t - 1, target_token_index[char]] = 1.
-            else:
-                decoder_input_data[i, t, target_token_index[pad_token]] = 1.
-                # decoder_target_data will be ahead by one timestep
-                # and will not include the start character.
-                if t > 0:
-                    decoder_target_data[i, t - 1, target_token_index[pad_token]] = 1.
+                for i, (input_text, target_text) in enumerate(zip(input_texts[start_index: end_index], target_texts[start_index: end_index])):
+                    for t, char in enumerate(input_text.split()):
+                        if char in input_token_index.keys():
+                            encoder_input_data[i, t, input_token_index[char]] = 1.
+                        else:
+                            encoder_input_data[i, t, input_token_index[pad_token]] = 1.
+                    for t, char in enumerate(target_text.split()):
+                    # decoder_target_data is ahead of decoder_input_data by one timestep
+                        if char in target_token_index.keys():
+                            decoder_input_data[i, t, target_token_index[char]] = 1.
+                        # decoder_target_data will be ahead by one timestep
+                        # and will not include the start character.
+                            if t > 0:
+                                decoder_target_data[i, t - 1, target_token_index[char]] = 1.
+                        else:
+                            decoder_input_data[i, t, target_token_index[pad_token]] = 1.
+                        # decoder_target_data will be ahead by one timestep
+                        # and will not include the start character.
+                            if t > 0:
+                                decoder_target_data[i, t - 1, target_token_index[pad_token]] = 1.
+
+                yield [encoder_input_data,decoder_input_data], decoder_target_data
+
+    return num_batches_per_epoch, data_generator()
+
+
+def train(QList,AList,folder):
+    min_samples = min([len(QList), len(AList)])
+    num_samples = min_samples
+    #rclist = np.random.choice(min_samples,num_samples,replace=False)
+    #for i in rclist:
 
 
     # Define an input sequence and process it.
@@ -153,10 +179,12 @@ def train(QList,AList,folder):
 
     # Run training
     model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
-    model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
-          batch_size=batch_size,
-          epochs=epochs,
-          validation_split=0.2)
+    train_steps, train_batches = batch_iter(input_texts,target_texts,input_token_index,target_token_index,batch_size)
+    model.fit_generator(train_batches)
+    #model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
+          #batch_size=batch_size,
+          #epochs=epochs,
+          #validation_split=0.2)
     # Save model
     model.save(folder + 's2s.h5')
 
@@ -202,5 +230,8 @@ for d in os.listdir(parent):
         if os.path.exists(parent+'/'+d+'/' + 'AList.txt') :
             with open(parent+'/'+d+'/' + 'AList.txt','r') as f:
                 AList = f.read()[:-1].split('\n')
+        init_count(QList,AList,parent+'/'+d+'/')
         train(QList,AList,parent+'/'+d+'/')
+        QList = []
+        AList = []
 

@@ -100,8 +100,8 @@ def train(QList,AList,folder):
 QList = []
 AList = []
 parent= 'data'
-#for d in os.listdir(parent):
-for d in ['P538']:
+for d in os.listdir(parent):
+#for d in ['P538']:
     if os.path.isdir(parent+'/'+d):
         if os.path.exists(parent+'/'+d+'/' + 'QList.txt'):
             with open(parent+'/'+d+'/' + 'QList.txt','r') as f:

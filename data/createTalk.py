@@ -24,7 +24,7 @@ def printList(list,name):
 
 AList=[]
 QList=[]
-with open("/Users/kahingleung/Downloads/talk6810.txt") as f:
+with open("../talk6810.txt") as f:
     lines = f.read()[:-1].split('\n')
     lines = [start_token+name.lower()+end_token for name in lines]
     
@@ -42,7 +42,7 @@ for a in range(len(lines)-1):
         continue
     AList.append(target_text)
     i = i + 1
-    if i % 100 == 0 :
+    if i % 1000 == 0 :
         dirkey = 'T' +  str(i)
         mkdirQA(dirkey)
         printList(QList,dirkey+'/QList.txt')                

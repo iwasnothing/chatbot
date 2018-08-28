@@ -21,7 +21,7 @@ def printList(list,name):
 start_token = "START "
 end_token = " END"
 
-with open('/Users/kahingleung/Downloads/train-v2.0.json') as f:
+with open('/home/ubuntu/chatbot/repo/train-v2.0.json') as f:
     data = json.load(f)
 
 AList=[]
@@ -39,7 +39,7 @@ for d in data['data'][:-1]:
                 txt=start_token + a['text'].lower() + end_token
                 AList.append(txt)
     i = i + 1
-    if i%10 == 0 :
+    if i%100 == 0 :
         dirkey = 'Q' +  str(i)
         mkdirQA(dirkey)
         printList(QList,dirkey+'/QList.txt')                
