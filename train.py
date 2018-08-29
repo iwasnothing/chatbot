@@ -9,11 +9,12 @@ import json
 
 class DataGenerator(keras.utils.Sequence):
     'Generates data for Keras'
-    def __init__(self, folder):
+    def __init__(self, folder,for_training=True,shuffle=True):
         self.start_token = "START "
         self.end_token = " END"
         self.pad_token = " PAD "
         self.folder = folder
+        self.shuffle = shuffle
         self.batch_size = 20  # Batch size for training.
         self.epochs = 100  # Number of epochs to train for.
         self.latent_dim = 16  # Latent dimensionality of the encoding space.
@@ -22,9 +23,9 @@ class DataGenerator(keras.utils.Sequence):
         self.input_texts = []
         self.target_texts = []
         self.input_characters = set()
-        self.input_characters.add(pad_token)
+        self.input_characters.add(self.pad_token)
         self.target_characters = set()
-        self.target_characters.add(pad_token)
+        self.target_characters.add(self.pad_token)
         self.input_count = {}
         self.target_count = {}
         self.num_encoder_tokens = 0
@@ -36,6 +37,10 @@ class DataGenerator(keras.utils.Sequence):
         self.target_token_index = {}
         self.reverse_input_char_index = {}
         self.reverse_target_char_index = {}
+        self.encoder_input_data = np.zeros( (self.batch_size, max_encoder_seq_length, num_encoder_tokens), dtype='float32')
+        self.decoder_input_data = np.zeros( (self.batch_size, max_decoder_seq_length, num_decoder_tokens), dtype='float32')
+        self.decoder_target_data = np.zeros( (self.batch_size, max_decoder_seq_length, num_decoder_tokens), dtype='float32')
+        self.for_training = for_training
 
         if os.path.exists(self.folder + 'QList.txt'):
             with open(self.folder + 'QList.txt','r') as f:
@@ -43,123 +48,136 @@ class DataGenerator(keras.utils.Sequence):
         if os.path.exists(self.folder + 'AList.txt') :
             with open(self.folder + 'AList.txt','r') as f:
                 self.AList = f.read()[:-1].split('\n')
-        self.num_samples = min([len(self.QList), len(self.AList)])
-        for i in range(num_samples):
-            input_text = QList[i]
-            target_text = AList[i] 
-            input_texts.append(input_text)
-            target_texts.append(target_text)
+        all_samples = min([len(self.QList), len(self.AList)])
+        self.num_samples =  all_samples
+        self.num_batches_per_epoch = int((self.num_samples - 1) / self.batch_size) + 1
+        self.indexes = np.arange(self.num_samples)
+
+        for i in range(self.num_samples):
+            input_text = self.QList[i]
+            target_text = self.AList[i] 
+            self.input_texts.append(input_text)
+            self.target_texts.append(target_text)
             for char in input_text.split():
-                if char not in input_count.keys():
-                    input_count[char] = 1
+                if char not in self.input_count.keys():
+                    self.input_count[char] = 1
                 else:
-                    input_count[char] = input_count[char] + 1
-                    if input_count[char] > 2:
-                        input_characters.add(char)
+                    self.input_count[char] = self.input_count[char] + 1
+                    if self.input_count[char] > 2:
+                        self.input_characters.add(char)
             for char in target_text.split():
                 if char not in target_count.keys():
-                    target_count[char] = 1
+                    self.target_count[char] = 1
                 else:
-                    target_count[char] = target_count[char] + 1
-                    if target_count[char] > 2:
-                        target_characters.add(char)
+                    self.target_count[char] = self.target_count[char] + 1
+                    if self.target_count[char] > 2:
+                        self.target_characters.add(char)
 
 
-        num_encoder_tokens = len(input_characters)
-        num_decoder_tokens = len(target_characters)
-        max_encoder_seq_length = max([len(txt) for txt in input_texts])
-        max_decoder_seq_length = max([len(txt) for txt in target_texts])
+        self.num_encoder_tokens = len(self.input_characters)
+        self.num_decoder_tokens = len(self.target_characters)
+        self.max_encoder_seq_length = max([len(txt) for txt in self.input_texts])
+        self.max_decoder_seq_length = max([len(txt) for txt in self.target_texts])
 
 
-        print('Number of samples:', len(input_texts))
-        print('Number of unique input tokens:', num_encoder_tokens)
-        print('Number of unique output tokens:', num_decoder_tokens)
-        print('Max sequence length for inputs:', max_encoder_seq_length)
-        print('Max sequence length for outputs:', max_decoder_seq_length)
+        print('Number of samples:', len(self.input_texts))
+        print('Number of unique input tokens:', self.num_encoder_tokens)
+        print('Number of unique output tokens:', self.num_decoder_tokens)
+        print('Max sequence length for inputs:', self.max_encoder_seq_length)
+        print('Max sequence length for outputs:', self.max_decoder_seq_length)
 
-        with open(folder + 'count.csv', 'w') as the_file:
-            print('Number of samples:', len(input_texts),file=the_file)
-            print('Number of unique input tokens:', num_encoder_tokens,file=the_file)
-            print('Number of unique output tokens:', num_decoder_tokens,file=the_file)
-            print('Max sequence length for inputs:', max_encoder_seq_length,file=the_file)
-            print('Max sequence length for outputs:', max_decoder_seq_length,file=the_file)
+        with open(self.folder + 'count.csv', 'w') as the_file:
+            print('Number of samples:', len(self.input_texts),file=the_file)
+            print('Number of unique input tokens:', self.num_encoder_tokens,file=the_file)
+            print('Number of unique output tokens:', self.num_decoder_tokens,file=the_file)
+            print('Max sequence length for inputs:', self.max_encoder_seq_length,file=the_file)
+            print('Max sequence length for outputs:', self.max_decoder_seq_length,file=the_file)
 
-        input_token_index = dict(
-            [(char, i) for i, char in enumerate(input_characters)])
-        target_token_index = dict(
-            [(char, i) for i, char in enumerate(target_characters)])
+        self.input_token_index = dict(
+            [(char, i) for i, char in enumerate(self.input_characters)])
+        self.target_token_index = dict(
+            [(char, i) for i, char in enumerate(self.target_characters)])
 
         # Reverse-lookup token index to decode sequences back to
         # something readable.
-        reverse_input_char_index = dict(
-            (i, char) for char, i in input_token_index.items())
-        reverse_target_char_index = dict(
-            (i, char) for char, i in target_token_index.items())
+        self.reverse_input_char_index = dict(
+            (i, char) for char, i in self.input_token_index.items())
+        self.reverse_target_char_index = dict(
+            (i, char) for char, i in self.target_token_index.items())
 
 
-        writeDic(input_token_index,folder + 'input_token_index')
-        writeDic(target_token_index,folder + 'target_token_index')
-        writeDic(reverse_input_char_index,folder + 'reverse_input_char_index')
-        writeDic(reverse_target_char_index,folder + 'reverse_target_char_index')
+        self.writeDic(self.input_token_index,self.folder + 'input_token_index')
+        self.writeDic(self.target_token_index,self.folder + 'target_token_index')
+        self.writeDic(self.reverse_input_char_index,self.folder + 'reverse_input_char_index')
+        self.writeDic(self.reverse_target_char_index,self.folder + 'reverse_target_char_index')
 
-    def writeDic(data,name):
+    def writeDic(self,data,name):
         with open(name + '.json', 'w') as outfile:
             json.dump(data, outfile)
 
+    def __len__(self):
+        return self.num_batches_per_epoch
 
+    def __getitem__(self, index):
+        'Generate one batch of data'
+        # Generate indexes of the batch
+        indexes = self.indexes[index*self.batch_size:(index+1)*self.batch_size]
 
-def batch_iter(input_texts,target_texts,input_token_index,target_token_index,shuffle=False):
-    num_batches_per_epoch = int((num_samples - 1) / batch_size) + 1
-    def data_generator():
-        data_size = num_samples
-        while True:
-            for batch_num in range(num_batches_per_epoch):
-                start_index = batch_num * batch_size
-                end_index = min((batch_num + 1) * batch_size, data_size)
-                sz = end_index - start_index
+        # Find list of IDs
+        list_IDs_temp = [self.list_IDs[k] for k in indexes]
 
-                encoder_input_data = np.zeros(
-                    (sz, max_encoder_seq_length, num_encoder_tokens),
-                    dtype='float32')
-                decoder_input_data = np.zeros(
-                    (sz, max_decoder_seq_length, num_decoder_tokens),
-                    dtype='float32')
-                decoder_target_data = np.zeros(
-                    (sz, max_decoder_seq_length, num_decoder_tokens),
-                    dtype='float32')
+        # Generate data
+        X, y = self.__data_generation(list_IDs_temp)
+
+        return X, y
+
+    def on_epoch_end(self):
+        'Updates indexes after each epoch'
+        self.indexes = np.arange(self.num_samples)
+        if self.shuffle == True:
+            np.random.shuffle(self.indexes)
+
+    def __data_generation(self, list_IDs_temp):
+        sz = len(list_IDs_temp)
+
+        self.encoder_input_data = np.zeros(
+               (sz, self.max_encoder_seq_length, self.num_encoder_tokens),
+                dtype='float32')
+        self.decoder_input_data = np.zeros(
+                (sz, self.max_decoder_seq_length, self.num_decoder_tokens),
+                dtype='float32')
+        self.decoder_target_data = np.zeros(
+                (sz, self.max_decoder_seq_length, self.num_decoder_tokens),
+                dtype='float32')
     
-                for i, (input_text, target_text) in enumerate(zip(input_texts[start_index: end_index], target_texts[start_index: end_index])):
-                    for t, char in enumerate(input_text.split()):
-                        if char in input_token_index.keys():
-                            encoder_input_data[i, t, input_token_index[char]] = 1.
-                        else:
-                            encoder_input_data[i, t, input_token_index[pad_token]] = 1.
-                    for t, char in enumerate(target_text.split()):
+        for i in list_IDs_temp:
+            input_text = self.input_texts[i]
+            target_text = self.target_texts[i]
+            for t, char in enumerate(input_text.split()):
+                if char in self.input_token_index.keys():
+                    self.encoder_input_data[i, t, self.input_token_index[char]] = 1.
+                else:
+                    self.encoder_input_data[i, t, self.input_token_index[pad_token]] = 1.
+            for t, char in enumerate(target_text.split()):
                     # decoder_target_data is ahead of decoder_input_data by one timestep
-                        if char in target_token_index.keys():
-                            decoder_input_data[i, t, target_token_index[char]] = 1.
-                        # decoder_target_data will be ahead by one timestep
-                        # and will not include the start character.
-                            if t > 0:
-                                decoder_target_data[i, t - 1, target_token_index[char]] = 1.
-                        else:
-                            decoder_input_data[i, t, target_token_index[pad_token]] = 1.
-                        # decoder_target_data will be ahead by one timestep
-                        # and will not include the start character.
-                            if t > 0:
-                                decoder_target_data[i, t - 1, target_token_index[pad_token]] = 1.
+                if char in self.target_token_index.keys():
+                    self.decoder_input_data[i, t, self.target_token_index[char]] = 1.
+                    # decoder_target_data will be ahead by one timestep
+                    # and will not include the start character.
+                    if t > 0:
+                        self.decoder_target_data[i, t - 1, self.target_token_index[char]] = 1.
+                else:
+                    self.decoder_input_data[i, t, self.target_token_index[pad_token]] = 1.
+                    # decoder_target_data will be ahead by one timestep
+                    # and will not include the start character.
+                    if t > 0:
+                        self.decoder_target_data[i, t - 1, self.target_token_index[pad_token]] = 1.
 
-                yield [encoder_input_data,decoder_input_data], decoder_target_data
-
-    return num_batches_per_epoch, data_generator()
+        return [encoder_input_data,decoder_input_data], decoder_target_data
 
 
-def train(QList,AList,folder):
-    min_samples = min([len(QList), len(AList)])
-    num_samples = min_samples
-    #rclist = np.random.choice(min_samples,num_samples,replace=False)
-    #for i in rclist:
 
+def train(folder):
 
     # Define an input sequence and process it.
     encoder_inputs = Input(shape=(None, num_encoder_tokens))
@@ -167,7 +185,6 @@ def train(QList,AList,folder):
     encoder_outputs, state_h, state_c = encoder(encoder_inputs)
     # We discard `encoder_outputs` and only keep the states.
     encoder_states = [state_h, state_c]
-
 
     # Set up the decoder, using `encoder_states` as initial state.
     decoder_inputs = Input(shape=(None, num_decoder_tokens))
@@ -188,15 +205,21 @@ def train(QList,AList,folder):
 
     # Run training
     model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
-    train_steps, train_batches = batch_iter(input_texts,target_texts,input_token_index,target_token_index,batch_size)
-    model.fit_generator(train_batches)
+    # Generators
+    training_generator = DataGenerator(folder,True)
+    validation_generator = DataGenerator(folder,False)
+    #model.fit_generator(train_batches)
+    model.fit_generator(generator=training_generator,
+                    validation_data=validation_generator,
+                    use_multiprocessing=True,
+                    workers=6)
     #model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
           #batch_size=batch_size,
           #epochs=epochs,
           #validation_split=0.2)
     # Save model
     model.save(folder + 's2s.h5')
-
+    
 
     # Next: inference mode (sampling).
     # Here's the drill:
@@ -228,13 +251,8 @@ def train(QList,AList,folder):
 
 # MAIN
 
-QList = []
-AList = []
 parent= 'data'
 for d in os.listdir(parent):
     if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
-        init_count(QList,AList,parent+'/'+d+'/')
-        train(QList,AList,parent+'/'+d+'/')
-        QList = []
-        AList = []
+        train(parent+'/'+d+'/')
 
