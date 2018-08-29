@@ -50,7 +50,9 @@ class DataGenerator(keras.utils.Sequence):
                 self.AList = f.read()[:-1].split('\n')
         all_samples = min([len(self.QList), len(self.AList)])
         self.num_samples =  all_samples
-        self.num_batches_per_epoch = int((self.num_samples - 1) / self.batch_size) + 1
+        self.num_batches_per_epoch = int(np.floor(len(self.num_samples) / self.batch_size))
+        self.train_num_batches_per_epoch = int( self.num_batches_per_epoch * 0.9 )
+        self.verify_num_batches_per_epoch =  self.num_batches_per_epoch - self.train_num_batches_per_epoch
         self.indexes = np.arange(self.num_samples)
 
         for i in range(self.num_samples):
@@ -116,12 +118,19 @@ class DataGenerator(keras.utils.Sequence):
             json.dump(data, outfile)
 
     def __len__(self):
-        return self.num_batches_per_epoch
+        #return self.num_batches_per_epoch
+        if self.for_training == True:
+            return self.train_num_batches_per_epoch
+        else:
+            return self.verify_num_batches_per_epoch
 
     def __getitem__(self, index):
         'Generate one batch of data'
         # Generate indexes of the batch
-        indexes = self.indexes[index*self.batch_size:(index+1)*self.batch_size]
+        if self.for_training == True:
+            indexes = self.indexes[index*self.batch_size:(index+1)*self.batch_size]
+        else:
+            indexes = self.indexes[(self.train_num_batches_per_epoch+index)*self.batch_size:(self.train_num_batches_per_epoch+index+1)*self.batch_size]
 
         # Find list of IDs
         list_IDs_temp = [self.list_IDs[k] for k in indexes]
