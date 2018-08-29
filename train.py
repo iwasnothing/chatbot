@@ -6,97 +6,106 @@ from keras.layers import Input, LSTM, Dense
 import numpy as np
 import json
 
-start_token = "START "
-end_token = " END"
-pad_token = " PAD "
 
-batch_size = 20  # Batch size for training.
-epochs = 100  # Number of epochs to train for.
-latent_dim = 16  # Latent dimensionality of the encoding space.
-input_texts = []
-target_texts = []
-input_characters = set()
-input_characters.add(pad_token)
-target_characters = set()
-target_characters.add(pad_token)
-input_count = {}
-target_count = {}
-num_encoder_tokens = 0
-num_decoder_tokens = 0
-max_encoder_seq_length = 0
-max_decoder_seq_length = 0
-num_samples = 0
-input_token_index = {}
-target_token_index = {}
-reverse_input_char_index = {}
-reverse_target_char_index = {}
+class DataGenerator(keras.utils.Sequence):
+    'Generates data for Keras'
+    def __init__(self, folder):
+        self.start_token = "START "
+        self.end_token = " END"
+        self.pad_token = " PAD "
+        self.folder = folder
+        self.batch_size = 20  # Batch size for training.
+        self.epochs = 100  # Number of epochs to train for.
+        self.latent_dim = 16  # Latent dimensionality of the encoding space.
+        self.QList = []
+        self.AList = []
+        self.input_texts = []
+        self.target_texts = []
+        self.input_characters = set()
+        self.input_characters.add(pad_token)
+        self.target_characters = set()
+        self.target_characters.add(pad_token)
+        self.input_count = {}
+        self.target_count = {}
+        self.num_encoder_tokens = 0
+        self.num_decoder_tokens = 0
+        self.max_encoder_seq_length = 0
+        self.max_decoder_seq_length = 0
+        self.num_samples = 0
+        self.input_token_index = {}
+        self.target_token_index = {}
+        self.reverse_input_char_index = {}
+        self.reverse_target_char_index = {}
 
-def writeDic(data,name):
-    with open(name + '.json', 'w') as outfile:
-        json.dump(data, outfile)
-
-
-def init_count(QList,AList,folder):
-    num_samples = min([len(QList), len(AList)])
-    for i in range(num_samples):
-        input_text = QList[i]
-        target_text = AList[i] 
-        # We use "tab" as the "start sequence" character
-        # for the targets, and "\n" as "end sequence" character.
-        input_texts.append(input_text)
-        target_texts.append(target_text)
-        for char in input_text.split():
-            if char not in input_count.keys():
-                input_count[char] = 1
-            else:
-                input_count[char] = input_count[char] + 1
-                if input_count[char] > 2:
-                    input_characters.add(char)
-        for char in target_text.split():
-            if char not in target_count.keys():
-                target_count[char] = 1
-            else:
-                target_count[char] = target_count[char] + 1
-                if target_count[char] > 2:
-                    target_characters.add(char)
-
-
-    num_encoder_tokens = len(input_characters)
-    num_decoder_tokens = len(target_characters)
-    max_encoder_seq_length = max([len(txt) for txt in input_texts])
-    max_decoder_seq_length = max([len(txt) for txt in target_texts])
+        if os.path.exists(self.folder + 'QList.txt'):
+            with open(self.folder + 'QList.txt','r') as f:
+                self.QList = f.read()[:-1].split('\n')
+        if os.path.exists(self.folder + 'AList.txt') :
+            with open(self.folder + 'AList.txt','r') as f:
+                self.AList = f.read()[:-1].split('\n')
+        self.num_samples = min([len(self.QList), len(self.AList)])
+        for i in range(num_samples):
+            input_text = QList[i]
+            target_text = AList[i] 
+            input_texts.append(input_text)
+            target_texts.append(target_text)
+            for char in input_text.split():
+                if char not in input_count.keys():
+                    input_count[char] = 1
+                else:
+                    input_count[char] = input_count[char] + 1
+                    if input_count[char] > 2:
+                        input_characters.add(char)
+            for char in target_text.split():
+                if char not in target_count.keys():
+                    target_count[char] = 1
+                else:
+                    target_count[char] = target_count[char] + 1
+                    if target_count[char] > 2:
+                        target_characters.add(char)
 
 
-    print('Number of samples:', len(input_texts))
-    print('Number of unique input tokens:', num_encoder_tokens)
-    print('Number of unique output tokens:', num_decoder_tokens)
-    print('Max sequence length for inputs:', max_encoder_seq_length)
-    print('Max sequence length for outputs:', max_decoder_seq_length)
-
-    with open(folder + 'count.csv', 'w') as the_file:
-        print('Number of samples:', len(input_texts),file=the_file)
-        print('Number of unique input tokens:', num_encoder_tokens,file=the_file)
-        print('Number of unique output tokens:', num_decoder_tokens,file=the_file)
-        print('Max sequence length for inputs:', max_encoder_seq_length,file=the_file)
-        print('Max sequence length for outputs:', max_decoder_seq_length,file=the_file)
-
-    input_token_index = dict(
-        [(char, i) for i, char in enumerate(input_characters)])
-    target_token_index = dict(
-        [(char, i) for i, char in enumerate(target_characters)])
-
-    # Reverse-lookup token index to decode sequences back to
-    # something readable.
-    reverse_input_char_index = dict(
-        (i, char) for char, i in input_token_index.items())
-    reverse_target_char_index = dict(
-        (i, char) for char, i in target_token_index.items())
+        num_encoder_tokens = len(input_characters)
+        num_decoder_tokens = len(target_characters)
+        max_encoder_seq_length = max([len(txt) for txt in input_texts])
+        max_decoder_seq_length = max([len(txt) for txt in target_texts])
 
 
-    writeDic(input_token_index,folder + 'input_token_index')
-    writeDic(target_token_index,folder + 'target_token_index')
-    writeDic(reverse_input_char_index,folder + 'reverse_input_char_index')
-    writeDic(reverse_target_char_index,folder + 'reverse_target_char_index')
+        print('Number of samples:', len(input_texts))
+        print('Number of unique input tokens:', num_encoder_tokens)
+        print('Number of unique output tokens:', num_decoder_tokens)
+        print('Max sequence length for inputs:', max_encoder_seq_length)
+        print('Max sequence length for outputs:', max_decoder_seq_length)
+
+        with open(folder + 'count.csv', 'w') as the_file:
+            print('Number of samples:', len(input_texts),file=the_file)
+            print('Number of unique input tokens:', num_encoder_tokens,file=the_file)
+            print('Number of unique output tokens:', num_decoder_tokens,file=the_file)
+            print('Max sequence length for inputs:', max_encoder_seq_length,file=the_file)
+            print('Max sequence length for outputs:', max_decoder_seq_length,file=the_file)
+
+        input_token_index = dict(
+            [(char, i) for i, char in enumerate(input_characters)])
+        target_token_index = dict(
+            [(char, i) for i, char in enumerate(target_characters)])
+
+        # Reverse-lookup token index to decode sequences back to
+        # something readable.
+        reverse_input_char_index = dict(
+            (i, char) for char, i in input_token_index.items())
+        reverse_target_char_index = dict(
+            (i, char) for char, i in target_token_index.items())
+
+
+        writeDic(input_token_index,folder + 'input_token_index')
+        writeDic(target_token_index,folder + 'target_token_index')
+        writeDic(reverse_input_char_index,folder + 'reverse_input_char_index')
+        writeDic(reverse_target_char_index,folder + 'reverse_target_char_index')
+
+    def writeDic(data,name):
+        with open(name + '.json', 'w') as outfile:
+            json.dump(data, outfile)
+
 
 
 def batch_iter(input_texts,target_texts,input_token_index,target_token_index,shuffle=False):
@@ -224,12 +233,6 @@ AList = []
 parent= 'data'
 for d in os.listdir(parent):
     if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
-        if os.path.exists(parent+'/'+d+'/' + 'QList.txt'):
-            with open(parent+'/'+d+'/' + 'QList.txt','r') as f:
-                QList = f.read()[:-1].split('\n')
-        if os.path.exists(parent+'/'+d+'/' + 'AList.txt') :
-            with open(parent+'/'+d+'/' + 'AList.txt','r') as f:
-                AList = f.read()[:-1].split('\n')
         init_count(QList,AList,parent+'/'+d+'/')
         train(QList,AList,parent+'/'+d+'/')
         QList = []
