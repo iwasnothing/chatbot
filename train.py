@@ -149,7 +149,7 @@ class DataGenerator(Sequence):
 
     def __data_generation(self, list_IDs_temp):
         sz = len(list_IDs_temp)
-        print(sz)
+        #print(sz)
         self.encoder_input_data = np.zeros(
                (sz, self.max_encoder_seq_length, self.num_encoder_tokens),
                 dtype='float32')
@@ -160,29 +160,29 @@ class DataGenerator(Sequence):
                 (sz, self.max_decoder_seq_length, self.num_decoder_tokens),
                 dtype='float32')
     
-        for i in list_IDs_temp:
+        for b,i in enumerate(list_IDs_temp):
             input_text = self.input_texts[i]
             target_text = self.target_texts[i]
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
-                    print(i)
-                    self.encoder_input_data[i, t, self.input_token_index[char]] = 1.
+                    #print(b)
+                    self.encoder_input_data[b, t, self.input_token_index[char]] = 1.
                 else:
-                    self.encoder_input_data[i, t, self.input_token_index[self.pad_token]] = 1.
+                    self.encoder_input_data[b, t, self.input_token_index[self.pad_token]] = 1.
             for t, char in enumerate(target_text.split()):
                     # decoder_target_data is ahead of decoder_input_data by one timestep
                 if char in self.target_token_index.keys():
-                    self.decoder_input_data[i, t, self.target_token_index[char]] = 1.
+                    self.decoder_input_data[b, t, self.target_token_index[char]] = 1.
                     # decoder_target_data will be ahead by one timestep
                     # and will not include the start character.
                     if t > 0:
-                        self.decoder_target_data[i, t - 1, self.target_token_index[char]] = 1.
+                        self.decoder_target_data[b, t - 1, self.target_token_index[char]] = 1.
                 else:
-                    self.decoder_input_data[i, t, self.target_token_index[self.pad_token]] = 1.
+                    self.decoder_input_data[b, t, self.target_token_index[self.pad_token]] = 1.
                     # decoder_target_data will be ahead by one timestep
                     # and will not include the start character.
                     if t > 0:
-                        self.decoder_target_data[i, t - 1, self.target_token_index[self.pad_token]] = 1.
+                        self.decoder_target_data[b, t - 1, self.target_token_index[self.pad_token]] = 1.
 
         return [self.encoder_input_data,self.decoder_input_data], self.decoder_target_data
 
@@ -226,8 +226,8 @@ def train(folder):
     #model.fit_generator(train_batches)
     model.fit_generator(generator=training_generator,
                     validation_data=validation_generator,
-                    use_multiprocessing=False,
-                    workers=1)
+                    use_multiprocessing=True,
+                    workers=6)
     #model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
           #batch_size=batch_size,
           #epochs=epochs,
