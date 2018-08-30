@@ -3,11 +3,12 @@ import pandas as pd
 import os, sys
 from keras.models import Model
 from keras.layers import Input, LSTM, Dense
+from keras.utils import Sequence
 import numpy as np
 import json
 
 
-class DataGenerator(keras.utils.Sequence):
+class DataGenerator(Sequence):
     'Generates data for Keras'
     def __init__(self, folder,for_training=True,shuffle=True):
         self.start_token = "START "
@@ -37,9 +38,9 @@ class DataGenerator(keras.utils.Sequence):
         self.target_token_index = {}
         self.reverse_input_char_index = {}
         self.reverse_target_char_index = {}
-        self.encoder_input_data = np.zeros( (self.batch_size, max_encoder_seq_length, num_encoder_tokens), dtype='float32')
-        self.decoder_input_data = np.zeros( (self.batch_size, max_decoder_seq_length, num_decoder_tokens), dtype='float32')
-        self.decoder_target_data = np.zeros( (self.batch_size, max_decoder_seq_length, num_decoder_tokens), dtype='float32')
+        self.encoder_input_data = np.zeros( (self.batch_size, self.max_encoder_seq_length, self.num_encoder_tokens), dtype='float32')
+        self.decoder_input_data = np.zeros( (self.batch_size, self.max_decoder_seq_length, self.num_decoder_tokens), dtype='float32')
+        self.decoder_target_data = np.zeros( (self.batch_size,self.max_decoder_seq_length, self.num_decoder_tokens), dtype='float32')
         self.for_training = for_training
 
         if os.path.exists(self.folder + 'QList.txt'):
@@ -50,7 +51,7 @@ class DataGenerator(keras.utils.Sequence):
                 self.AList = f.read()[:-1].split('\n')
         all_samples = min([len(self.QList), len(self.AList)])
         self.num_samples =  all_samples
-        self.num_batches_per_epoch = int(np.floor(len(self.num_samples) / self.batch_size))
+        self.num_batches_per_epoch = int(self.num_samples/self.batch_size)
         self.train_num_batches_per_epoch = int( self.num_batches_per_epoch * 0.9 )
         self.verify_num_batches_per_epoch =  self.num_batches_per_epoch - self.train_num_batches_per_epoch
         self.indexes = np.arange(self.num_samples)
@@ -68,7 +69,7 @@ class DataGenerator(keras.utils.Sequence):
                     if self.input_count[char] > 2:
                         self.input_characters.add(char)
             for char in target_text.split():
-                if char not in target_count.keys():
+                if char not in self.target_count.keys():
                     self.target_count[char] = 1
                 else:
                     self.target_count[char] = self.target_count[char] + 1
@@ -128,12 +129,12 @@ class DataGenerator(keras.utils.Sequence):
         'Generate one batch of data'
         # Generate indexes of the batch
         if self.for_training == True:
-            indexes = self.indexes[index*self.batch_size:(index+1)*self.batch_size]
+            batch_indexes = self.indexes[index*self.batch_size:(index+1)*self.batch_size]
         else:
-            indexes = self.indexes[(self.train_num_batches_per_epoch+index)*self.batch_size:(self.train_num_batches_per_epoch+index+1)*self.batch_size]
+            batch_indexes = self.indexes[(self.train_num_batches_per_epoch+index)*self.batch_size:(self.train_num_batches_per_epoch+index+1)*self.batch_size]
 
         # Find list of IDs
-        list_IDs_temp = [self.list_IDs[k] for k in indexes]
+        list_IDs_temp = batch_indexes
 
         # Generate data
         X, y = self.__data_generation(list_IDs_temp)
@@ -148,7 +149,7 @@ class DataGenerator(keras.utils.Sequence):
 
     def __data_generation(self, list_IDs_temp):
         sz = len(list_IDs_temp)
-
+        print(sz)
         self.encoder_input_data = np.zeros(
                (sz, self.max_encoder_seq_length, self.num_encoder_tokens),
                 dtype='float32')
@@ -164,9 +165,10 @@ class DataGenerator(keras.utils.Sequence):
             target_text = self.target_texts[i]
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
+                    print(i)
                     self.encoder_input_data[i, t, self.input_token_index[char]] = 1.
                 else:
-                    self.encoder_input_data[i, t, self.input_token_index[pad_token]] = 1.
+                    self.encoder_input_data[i, t, self.input_token_index[self.pad_token]] = 1.
             for t, char in enumerate(target_text.split()):
                     # decoder_target_data is ahead of decoder_input_data by one timestep
                 if char in self.target_token_index.keys():
@@ -176,34 +178,39 @@ class DataGenerator(keras.utils.Sequence):
                     if t > 0:
                         self.decoder_target_data[i, t - 1, self.target_token_index[char]] = 1.
                 else:
-                    self.decoder_input_data[i, t, self.target_token_index[pad_token]] = 1.
+                    self.decoder_input_data[i, t, self.target_token_index[self.pad_token]] = 1.
                     # decoder_target_data will be ahead by one timestep
                     # and will not include the start character.
                     if t > 0:
-                        self.decoder_target_data[i, t - 1, self.target_token_index[pad_token]] = 1.
+                        self.decoder_target_data[i, t - 1, self.target_token_index[self.pad_token]] = 1.
 
-        return [encoder_input_data,decoder_input_data], decoder_target_data
+        return [self.encoder_input_data,self.decoder_input_data], self.decoder_target_data
 
 
 
 def train(folder):
 
+    training_generator = DataGenerator(folder,True)
+    validation_generator = DataGenerator(folder,False)
+
+    g = training_generator
+    
     # Define an input sequence and process it.
-    encoder_inputs = Input(shape=(None, num_encoder_tokens))
-    encoder = LSTM(latent_dim, return_state=True)
+    encoder_inputs = Input(shape=(None, g.num_encoder_tokens))
+    encoder = LSTM(g.latent_dim, return_state=True)
     encoder_outputs, state_h, state_c = encoder(encoder_inputs)
     # We discard `encoder_outputs` and only keep the states.
     encoder_states = [state_h, state_c]
 
     # Set up the decoder, using `encoder_states` as initial state.
-    decoder_inputs = Input(shape=(None, num_decoder_tokens))
+    decoder_inputs = Input(shape=(None, g.num_decoder_tokens))
     # We set up our decoder to return full output sequences,
     # and to return internal states as well. We don't use the
     # return states in the training model, but we will use them in inference.
-    decoder_lstm = LSTM(latent_dim, return_sequences=True, return_state=True)
+    decoder_lstm = LSTM(g.latent_dim, return_sequences=True, return_state=True)
     decoder_outputs, _, _ = decoder_lstm(decoder_inputs,
                                      initial_state=encoder_states)
-    decoder_dense = Dense(num_decoder_tokens, activation='softmax')
+    decoder_dense = Dense(g.num_decoder_tokens, activation='softmax')
     decoder_outputs = decoder_dense(decoder_outputs)
 
 
@@ -215,13 +222,12 @@ def train(folder):
     # Run training
     model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
     # Generators
-    training_generator = DataGenerator(folder,True)
-    validation_generator = DataGenerator(folder,False)
+
     #model.fit_generator(train_batches)
     model.fit_generator(generator=training_generator,
                     validation_data=validation_generator,
-                    use_multiprocessing=True,
-                    workers=6)
+                    use_multiprocessing=False,
+                    workers=1)
     #model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
           #batch_size=batch_size,
           #epochs=epochs,
@@ -243,8 +249,8 @@ def train(folder):
     encoder_model = Model(encoder_inputs, encoder_states)
 
 
-    decoder_state_input_h = Input(shape=(latent_dim,))
-    decoder_state_input_c = Input(shape=(latent_dim,))
+    decoder_state_input_h = Input(shape=(g.latent_dim,))
+    decoder_state_input_c = Input(shape=(g.latent_dim,))
     decoder_states_inputs = [decoder_state_input_h, decoder_state_input_c]
     decoder_outputs, state_h, state_c = decoder_lstm(
         decoder_inputs, initial_state=decoder_states_inputs)
@@ -259,9 +265,9 @@ def train(folder):
 
 
 # MAIN
-
-parent= 'data'
-for d in os.listdir(parent):
-    if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
-        train(parent+'/'+d+'/')
+if __name__ == '__main__':
+    parent= 'data'
+    for d in os.listdir(parent):
+        if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
+            train(parent+'/'+d+'/')
 
