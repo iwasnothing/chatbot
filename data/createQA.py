@@ -21,7 +21,7 @@ def printList(list,name):
 start_token = "START "
 end_token = " END"
 
-with open('/home/ubuntu/chatbot/repo/train-v2.0.json') as f:
+with open('../train-v2.0.json') as f:
     data = json.load(f)
 
 AList=[]

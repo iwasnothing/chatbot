@@ -226,8 +226,8 @@ def train(folder):
     #model.fit_generator(train_batches)
     model.fit_generator(generator=training_generator,
                     validation_data=validation_generator,
-                    use_multiprocessing=True,
-                    workers=6)
+                    use_multiprocessing=False,
+                    workers=1)
     #model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
           #batch_size=batch_size,
           #epochs=epochs,
