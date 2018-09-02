@@ -77,8 +77,11 @@ class S(BaseHTTPRequestHandler):
    
 
     def _set_response(self):
-        self.send_response(200)
-        self.send_header('Content-type', 'text/html')
+        self.send_response(200, "ok")       
+        self.send_header('Access-Control-Allow-Origin', '*')                
+        self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
+        self.send_header("Access-Control-Allow-Headers", "Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With, Origin, Accept") 
+        self.send_header('Content-type', 'application/x-www-form-urlencoded; charset=UTF-8')
         self.end_headers()
 
     def do_GET(self):
@@ -86,16 +89,15 @@ class S(BaseHTTPRequestHandler):
         self._set_response()
         self.wfile.write("GET request for {}".format(self.path).encode('utf-8'))
 
+    def do_OPTIONS(self):           
+        self._set_response()
+
     def do_POST(self):
-        for key,value in dict(parse_qs(self.rfile.read(int(self.headers['Content-Length'])))).items():
-            print(key)
-            print(value[0])
-            lines = value[0].decode("utf-8")
-        # Take one sequence (part of the training set)
-        # for trying out decoding.
-        #input_seq = f.read()[:-1].split('\n')
+        print("start POST")
+        p = (self.rfile.read(int(self.headers['Content-Length']))).decode("utf-8")
+        print(p)
+        line = json.loads(p)['text']
         input_seq = []
-        line = lines.split('\r\n')[2].replace('\"','')
         input_seq.append(line)
         self.myinit(line)
         decoded_sentence = self.decode_sequence(input_seq)
