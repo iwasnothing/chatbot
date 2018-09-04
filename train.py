@@ -2,7 +2,7 @@ from __future__ import print_function
 import pandas as pd
 import os, sys
 from keras.models import Model
-from keras.layers import Input, LSTM, Dense
+from keras.layers import Input, LSTM, Dense, Embedding
 from keras.utils import Sequence
 import numpy as np
 import json
@@ -38,9 +38,9 @@ class DataGenerator(Sequence):
         self.target_token_index = {}
         self.reverse_input_char_index = {}
         self.reverse_target_char_index = {}
-        self.encoder_input_data = np.zeros( (self.batch_size, self.max_encoder_seq_length, self.num_encoder_tokens), dtype='float32')
-        self.decoder_input_data = np.zeros( (self.batch_size, self.max_decoder_seq_length, self.num_decoder_tokens), dtype='float32')
-        self.decoder_target_data = np.zeros( (self.batch_size,self.max_decoder_seq_length, self.num_decoder_tokens), dtype='float32')
+        self.encoder_input_data = np.zeros( (self.batch_size, self.max_encoder_seq_length))
+        self.decoder_input_data = np.zeros( (self.batch_size, self.max_decoder_seq_length))
+        self.decoder_target_data = np.zeros( (self.batch_size,self.max_decoder_seq_length))
         self.for_training = for_training
 
         if os.path.exists(self.folder + 'QList.txt'):
@@ -66,14 +66,14 @@ class DataGenerator(Sequence):
                     self.input_count[char] = 1
                 else:
                     self.input_count[char] = self.input_count[char] + 1
-                    if self.input_count[char] > 2:
+                    if self.input_count[char] > 0:
                         self.input_characters.add(char)
             for char in target_text.split():
                 if char not in self.target_count.keys():
                     self.target_count[char] = 1
                 else:
                     self.target_count[char] = self.target_count[char] + 1
-                    if self.target_count[char] > 2:
+                    if self.target_count[char] > 0:
                         self.target_characters.add(char)
 
 
@@ -150,14 +150,14 @@ class DataGenerator(Sequence):
     def __data_generation(self, list_IDs_temp):
         sz = len(list_IDs_temp)
         #print(sz)
-        self.encoder_input_data = np.zeros(
-               (sz, self.max_encoder_seq_length, self.num_encoder_tokens),
+        self.encoder_input_data = np.full(
+               (sz, self.max_encoder_seq_length), self.input_token_index[self.pad_token],
                 dtype='float32')
-        self.decoder_input_data = np.zeros(
-                (sz, self.max_decoder_seq_length, self.num_decoder_tokens),
+        self.decoder_input_data = np.full(
+                (sz, self.max_decoder_seq_length),self.input_token_index[self.pad_token], 
                 dtype='float32')
-        self.decoder_target_data = np.zeros(
-                (sz, self.max_decoder_seq_length, self.num_decoder_tokens),
+        self.decoder_target_data = np.full(
+                (sz, self.max_decoder_seq_length), self.iput_token_index[self.pad_token],
                 dtype='float32')
     
         for b,i in enumerate(list_IDs_temp):
@@ -165,24 +165,23 @@ class DataGenerator(Sequence):
             target_text = self.target_texts[i]
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
-                    #print(b)
-                    self.encoder_input_data[b, t, self.input_token_index[char]] = 1.
+                    self.encoder_input_data[b, t] = self.input_token_index[char] 
                 else:
-                    self.encoder_input_data[b, t, self.input_token_index[self.pad_token]] = 1.
+                    self.encoder_input_data[b, t] = self.input_token_index[self.pad_token]
             for t, char in enumerate(target_text.split()):
                     # decoder_target_data is ahead of decoder_input_data by one timestep
                 if char in self.target_token_index.keys():
-                    self.decoder_input_data[b, t, self.target_token_index[char]] = 1.
+                    self.decoder_input_data[b, t] = self.target_token_index[char]
                     # decoder_target_data will be ahead by one timestep
                     # and will not include the start character.
                     if t > 0:
-                        self.decoder_target_data[b, t - 1, self.target_token_index[char]] = 1.
+                        self.decoder_target_data[b, t - 1] = self.target_token_index[char]
                 else:
-                    self.decoder_input_data[b, t, self.target_token_index[self.pad_token]] = 1.
+                    self.decoder_input_data[b, t] = self.target_token_index[self.pad_token]
                     # decoder_target_data will be ahead by one timestep
                     # and will not include the start character.
                     if t > 0:
-                        self.decoder_target_data[b, t - 1, self.target_token_index[self.pad_token]] = 1.
+                        self.decoder_target_data[b, t - 1] = self.target_token_index[self.pad_token]
 
         return [self.encoder_input_data,self.decoder_input_data], self.decoder_target_data
 
@@ -197,18 +196,20 @@ def train(folder):
     
     # Define an input sequence and process it.
     encoder_inputs = Input(shape=(None, g.num_encoder_tokens))
+    encoder_embed = Embedding(g.num_encoder_tokens,g.latent_dim, input_length=g.max_encoder_seq_length)
     encoder = LSTM(g.latent_dim, return_state=True)
-    encoder_outputs, state_h, state_c = encoder(encoder_inputs)
+    encoder_outputs, state_h, state_c = encoder(encoder_embed)
     # We discard `encoder_outputs` and only keep the states.
     encoder_states = [state_h, state_c]
 
     # Set up the decoder, using `encoder_states` as initial state.
     decoder_inputs = Input(shape=(None, g.num_decoder_tokens))
+    encoder_embed = Embedding(g.num_decoder_tokens,g.latent_dim, input_length=g.max_decoder_seq_length)
     # We set up our decoder to return full output sequences,
     # and to return internal states as well. We don't use the
     # return states in the training model, but we will use them in inference.
     decoder_lstm = LSTM(g.latent_dim, return_sequences=True, return_state=True)
-    decoder_outputs, _, _ = decoder_lstm(decoder_inputs,
+    decoder_outputs, _, _ = decoder_lstm(decoder_embed,
                                      initial_state=encoder_states)
     decoder_dense = Dense(g.num_decoder_tokens, activation='softmax')
     decoder_outputs = decoder_dense(decoder_outputs)
