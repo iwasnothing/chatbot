@@ -11,9 +11,9 @@ import json
 class DataGenerator(Sequence):
     'Generates data for Keras'
     def __init__(self, folder,for_training=True,shuffle=True):
-        self.start_token = "START "
-        self.end_token = " END"
-        self.pad_token = " PAD "
+        self.start_token = "START"
+        self.end_token = "END"
+        self.pad_token = "PAD"
         self.folder = folder
         self.shuffle = shuffle
         self.batch_size = 20  # Batch size for training.
@@ -25,8 +25,12 @@ class DataGenerator(Sequence):
         self.target_texts = []
         self.input_characters = set()
         self.input_characters.add(self.pad_token)
+        self.input_characters.add(self.start_token)
+        self.input_characters.add(self.end_token)
         self.target_characters = set()
         self.target_characters.add(self.pad_token)
+        self.target_characters.add(self.start_token)
+        self.target_characters.add(self.end_token)
         self.input_count = {}
         self.target_count = {}
         self.num_encoder_tokens = 0
@@ -79,8 +83,8 @@ class DataGenerator(Sequence):
 
         self.num_encoder_tokens = len(self.input_characters)
         self.num_decoder_tokens = len(self.target_characters)
-        self.max_encoder_seq_length = max([len(txt) for txt in self.input_texts])
-        self.max_decoder_seq_length = max([len(txt) for txt in self.target_texts])
+        self.max_encoder_seq_length = max([len(txt) for txt in self.input_texts])+2
+        self.max_decoder_seq_length = max([len(txt) for txt in self.target_texts])+2
 
 
         print('Number of samples:', len(self.input_texts))
@@ -163,6 +167,10 @@ class DataGenerator(Sequence):
         for b,i in enumerate(list_IDs_temp):
             input_text = self.input_texts[i]
             target_text = self.target_texts[i]
+            input_text.insert(0,self.start_token)
+            input_text.append(self.end_token)
+            target_text.insert(0,self.start_token)
+            target_text.append(self.end_token)
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
                     self.encoder_input_data[b, t] = self.input_token_index[char] 

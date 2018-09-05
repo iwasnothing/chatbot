@@ -113,22 +113,21 @@ class S(BaseHTTPRequestHandler):
         encoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_enc.h5')
         decoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_dec.h5')
         print(self.folder)
-        self.num_encoder_tokens = encoder_model.get_input_shape_at(0)[2]
-        self.num_decoder_tokens = decoder_model.get_output_shape_at(0)[0][2]
+        self.max_encoder_seq_length = encoder_model.get_input_shape_at(0)[1]
+        self.max_decoder_seq_length = decoder_model.get_output_shape_at(0)[0][1]
 
         encoder_input_data = np.zeros(
-            (len(input_texts), self.max_encoder_seq_length, self.num_encoder_tokens),
+            (len(input_texts), self.max_encoder_seq_length),
             dtype='float32')
         for i, input_text in enumerate(input_texts):
+            input_text.insert(0,self.input_token_index[start_token])
+            input_text.append(self.input_token_index[end_token])
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
-                    encoder_input_data[i, t, self.input_token_index[char]] = 1.
+                    encoder_input_data[i, t] = self.input_token_index[char]
                 else:
-                    print(i)
-                    print(t)
                     print(self.input_token_index[self.end_token])
-                    encoder_input_data[i, t, self.input_token_index[self.end_token]] = 1.
-
+                    encoder_input_data[i, t] = self.input_token_index[self.pad_token]
 
 
 
@@ -137,9 +136,9 @@ class S(BaseHTTPRequestHandler):
 
 
         # Generate empty target sequence of length 1.
-        target_seq = np.zeros((1, 1, self.num_decoder_tokens))
+        target_seq = np.zeros((1, 1))
         # Populate the first character of target sequence with the start character.
-        target_seq[0, 0, self.target_token_index['START']] = 1.
+        target_seq[0, 0] = self.target_token_index[start_token]
 
 
         # Sampling loop for a batch of sequences
@@ -167,8 +166,8 @@ class S(BaseHTTPRequestHandler):
 
 
             # Update the target sequence (of length 1).
-            target_seq = np.zeros((1, 1, self.num_decoder_tokens))
-            target_seq[0, 0, sampled_token_index] = 1.
+            target_seq = np.zeros((1, 1))
+            target_seq[0, 0] = sampled_token_index] 
 
 
             # Update states
