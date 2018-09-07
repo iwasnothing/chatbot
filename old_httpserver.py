@@ -117,7 +117,6 @@ class S(BaseHTTPRequestHandler):
 
         encoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_enc.h5')
         decoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_dec.h5')
-        model = load_model(self.parent + '/' + self.folder + '/' + 's2s.h5')
         print(self.folder)
         self.max_encoder_seq_length = encoder_model.get_input_shape_at(0)[1]
         self.max_decoder_seq_length = decoder_model.get_output_shape_at(0)[0][1]
@@ -138,7 +137,7 @@ class S(BaseHTTPRequestHandler):
 
 
         # Encode the input as state vectors.
-        #states_value = encoder_model.predict(encoder_input_data)
+        states_value = encoder_model.predict(encoder_input_data)
 
 
         # Generate empty target sequence of length 1.
@@ -147,8 +146,7 @@ class S(BaseHTTPRequestHandler):
                 dtype='float32')
         # Populate the first character of target sequence with the start character.
         target_seq[0, 0] = self.target_token_index[self.start_token]
-        decoder_input_data = [target_seq] 
-        
+
 
         # Sampling loop for a batch of sequences
         # (to simplify, here we assume a batch of size 1).
@@ -156,9 +154,10 @@ class S(BaseHTTPRequestHandler):
         decoded_sentence = ''
         predicted_count=0
         while not stop_condition:
-            #output_tokens, h, c = decoder_model.predict([target_seq] + states_value)
-            decoder_input_data = [target_seq]
-            output_tokens = model.predict([encoder_input_data,target_seq])
+            output_tokens, h, c = decoder_model.predict(
+                [target_seq] + states_value)
+
+
             # Sample a token
             pdf = output_tokens[0, -1, :]
             print(len(pdf))
@@ -181,7 +180,7 @@ class S(BaseHTTPRequestHandler):
 
 
             # Update states
-            #states_value = [h, c]
+            states_value = [h, c]
 
 
         return decoded_sentence
