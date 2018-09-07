@@ -6,174 +6,174 @@ START    divorced END
 START  used to live locally but moved away, but recently returned END
 START    recently widowed and still devastated by her loss END
 START   single END
-START  a young james simpson and a young carol wadsworth (nee jones)  (each have one song), carol’s mum and dad, a vicar, two mourners, a man called martin, a barman and a waiter END
+START  a young james simpson and a young carol wadsworth (nee jones)  (each have one song), carols mum and dad, a vicar, two mourners, a man called martin, a barman and a waiter END
 START  the set is a bar, a singles bar where people gather who have no partner for one reason or another END
 START  where do you think you are going young lady? END
-START  just out with the girls from school, shan’t be long END
+START  just out with the girls from school, shant be long END
 START  well it had better not be with that waste of space from the council estate again, we told you last week that you had to stop seeing him but mrs END
-START  we were only talking; he was telling me he plans to go to college and then university when he gets his gce’s END
+START  we were only talking; he was telling me he plans to go to college and then university when he gets his gces END
 START  college? university? more like borstal!! no one off that estate ever made anything of their lives; half of them are on the dole, the other half are a bunch of thieves END
 START  steady on brenda, a lot of the men on that estate work with me at the factory END
-START  not with you derek, for you, you’re the foreman not a labourer END
-START  well james isn’t going to work at the factory; he’s going to be a high flyer in the city END
+START  not with you derek, for you, youre the foreman not a labourer END
+START  well james isnt going to work at the factory; hes going to be a high flyer in the city END
 START  the only way he will fly high is from the end of a rope END
-START  now you’ve gone too far brenda, enough END
-START  (excitedly) edward wadsworth?  charles wadsworth son? the one who owns wadsworth’s engineering? oh carol that would be a fantastic match for you, married to edward you would be made for life END
-START  for god’s sake brenda, they are only kids, carol is barely fifteen yet and you are marrying her off END
+START  now youve gone too far brenda, enough END
+START  (excitedly) edward wadsworth?  charles wadsworth son? the one who owns wadsworths engineering? oh carol that would be a fantastic match for you, married to edward you would be made for life END
+START  for gods sake brenda, they are only kids, carol is barely fifteen yet and you are marrying her off END
 START  i was only seventeen when i married you END
-START  (softly) but we didn’t have a lot of options END
+START  (softly) but we didnt have a lot of options END
 START  derek!!! END
 START  its okay mum, i knew you had to get married, i can count END
-START  don’t be so cheeky young lady; i married your mother because i loved her END
-START  i’m sorry daddy; i didn’t mean to be disrespectful END
+START  dont be so cheeky young lady; i married your mother because i loved her END
+START  im sorry daddy; i didnt mean to be disrespectful END
 START  apologises accepted, but mind what you say in future END
 START  (sadly) can i go out now? END
-START  of course you can, but remember what we’ve said, if you see this james character you end it, or i will END
+START  of course you can, but remember what weve said, if you see this james character you end it, or i will END
 START  if you defy us END
-START  she won’t will you love? END
-START  no daddy, i won’t, i promise END
+START  she wont will you love? END
+START  no daddy, i wont, i promise END
 START  (noticing carol is upset) are you okay? END
-START  no i’m not; mummy and daddy say i have to stop seeing you END
-START  why? we’ve done nothing wrong END
-START  it’s where you live, what you are END
-START  what’s that supposed to mean? oh i get it; i’m not good enough for their precious daughter, or have you just found someone else? END
-START  of course there’s no one else i’m so sorry, i really like you a lot but i can’t disobey my parents END
-START  i’ll bet they have someone else lined up already END
-START  it’s not like that at all, i don’t care who or what you are, i love you but i can’t go against my parent’s wishes END
-START  like, love?  which one is it? i know how i feel, you’re the only one for me, i love you and i always will END
-START  we’re too young to be in love, it’s just infatuation, we will get over it END
-START  that’s mummy and daddy talking, tell me you don’t love me, tell me to go and i’ll leave now and never come back END
-START  i don’t want you to go but what can i do, we can hardly run away together can we? i do love you but it has to end, we have no option END
+START  no im not; mummy and daddy say i have to stop seeing you END
+START  why? weve done nothing wrong END
+START  its where you live, what you are END
+START  whats that supposed to mean? oh i get it; im not good enough for their precious daughter, or have you just found someone else? END
+START  of course theres no one else im so sorry, i really like you a lot but i cant disobey my parents END
+START  ill bet they have someone else lined up already END
+START  its not like that at all, i dont care who or what you are, i love you but i cant go against my parents wishes END
+START  like, love?  which one is it? i know how i feel, youre the only one for me, i love you and i always will END
+START  were too young to be in love, its just infatuation, we will get over it END
+START  thats mummy and daddy talking, tell me you dont love me, tell me to go and ill leave now and never come back END
+START  i dont want you to go but what can i do, we can hardly run away together can we? i do love you but it has to end, we have no option END
 START  (angrily)you mean you have no option; you want to keep your nice middle class lifestyle so i have to go END
 START  james! END
-START  i’m sorry, i didn’t mean that, i know it has to end but one day i’ll be worthy of you, even in the eyes of your parents END
-START  i thought love made you happy, but it doesn’t, love hurts END
+START  im sorry, i didnt mean that, i know it has to end but one day ill be worthy of you, even in the eyes of your parents END
+START  i thought love made you happy, but it doesnt, love hurts END
 START  several people are already present when anne and her teenage son roy enter with the vicar END
-START  it was a lovely service vicar, i can’t thank you enough END
-START  i am only sorry i didn’t know your husband better, he seemed such a fine man and i only ever heard good things about him END
-START  he was a lovely man; i really don’t know how i’ll cope without him END
-START  i know it’s a cliché, but time is a great healer END
+START  it was a lovely service vicar, i cant thank you enough END
+START  i am only sorry i didnt know your husband better, he seemed such a fine man and i only ever heard good things about him END
+START  he was a lovely man; i really dont know how ill cope without him END
+START  i know its a cliché, but time is a great healer END
 START  but how do i cope now? (she starts to cry and roy holds her) END
-START  it will be okay mum, i’ll look after you, i’ll stay here and get a job END
-START  you will not, you’ll go back to cambridge and make your father proud of you; you’ll make me proud of you too END
+START  it will be okay mum, ill look after you, ill stay here and get a job END
+START  you will not, youll go back to cambridge and make your father proud of you; youll make me proud of you too END
 START  just remember i am always available if you need me, day or night END
 START  fine man vicar, he will be missed at the factory, he was just getting into the swing of the job and everyone liked him, no airs and graces like some southerners END
-START  it is a real tragedy, they’ve only been up here a few months and some drunken idiot drives straight into him, and on the wrong side of the road i hear END
-START  rather an unchristian attitude, we are all god’s children after all END
-START  sorry vicar; but it is so wrong that a decent man’s life can be snuffed out by some stupid drunken yob END
-START  hardly a yob, his father’s a local magistrate END
-START  he’s still a yob in my eyes END
+START  it is a real tragedy, theyve only been up here a few months and some drunken idiot drives straight into him, and on the wrong side of the road i hear END
+START  rather an unchristian attitude, we are all gods children after all END
+START  sorry vicar; but it is so wrong that a decent mans life can be snuffed out by some stupid drunken yob END
+START  hardly a yob, his fathers a local magistrate END
+START  hes still a yob in my eyes END
 START  (to robert) END
-START  he was my boss for god’s sake even if it was only for a few months; you didn’t seriously think i could come on my own? END
-START  well you do virtually everything else without me; i hardly see nowadays you’re always at work or off to some conference or other END
-START  you know very well her name is alisha and i couldn’t do my job without her END
+START  he was my boss for gods sake even if it was only for a few months; you didnt seriously think i could come on my own? END
+START  well you do virtually everything else without me; i hardly see nowadays youre always at work or off to some conference or other END
+START  you know very well her name is alisha and i couldnt do my job without her END
 START  you said the same thing last year, but nothing has changed, i sometimes think you love your job more than me END
-START  i promise, this time it will be different, this contract may be the answer to all the company’s problems END
+START  i promise, this time it will be different, this contract may be the answer to all the companys problems END
 START  (sarcastically) END
 START  sorry to disturb you here bob but your mobile is switched off and i have just had a message that alan cameron from caledonian investments he wants to talk to you urgently, some problem has come up with the contract and he wants to sort it out today so it can be signed and sealed by next weekend END
 START  trip to scotland? you never mentioned any trip to scotland END
-START  no, of course not, i knew you would react like this so i thought it would be best if i didn’t mention it END
-START  mrs murray i don’t know what makes you think there is anything going on between bob, i mean mr END
+START  no, of course not, i knew you would react like this so i thought it would be best if i didnt mention it END
+START  mrs murray i dont know what makes you think there is anything going on between bob, i mean mr END
 START  if you think i believe that rubbish you must think i am really stupid END
-START  i swear there is nothing going on between me and alisha, look, we have to go, we can talk about this later, i’ll explain everything when i get home END
-START  there is nothing more to say, go and don’t come back! END
+START  i swear there is nothing going on between me and alisha, look, we have to go, we can talk about this later, ill explain everything when i get home END
+START  there is nothing more to say, go and dont come back! END
 START  the action moves to roy and anne) END
 START  mum, are you going to stay around here? after all you hardly know anyone END
-START  i suppose i could go back to sussex but it is so expensive down there, i’m not sure i can afford it END
+START  i suppose i could go back to sussex but it is so expensive down there, im not sure i can afford it END
 START  you could move down to cambridge and stay with me END
-START  i don’t think so, you will be very busy with your studying and i wouldn’t want to cramp your style, you don’t want your mum looking over your shoulder when you are planning a night on the town END
-START  i’m sure i’ll be alright; i have my memories to keep me warm END
+START  i dont think so, you will be very busy with your studying and i wouldnt want to cramp your style, you dont want your mum looking over your shoulder when you are planning a night on the town END
+START  im sure ill be alright; i have my memories to keep me warm END
 START  not many in tonight, wonder why i bother sometimes END
 START  you bother because you have nothing else to do, and neither do i END
-START  i suppose, say isn’t that jane rogers, (slowly) no, but it looks like her END
-START  god bobby how far back are you going now? i know mary hurt you when she dumped you but for god’s sake get over it and move on END
+START  i suppose, say isnt that jane rogers, (slowly) no, but it looks like her END
+START  god bobby how far back are you going now? i know mary hurt you when she dumped you but for gods sake get over it and move on END
 START  i have moved on, i had to; she kicked me out of the house END
-START  how did i ever let you talk me into coming here, i got rid of one useless man, i certainly don’t want another one END
-START  we didn’t force you; let’s face it you were bored witless staying in every night END
+START  how did i ever let you talk me into coming here, i got rid of one useless man, i certainly dont want another one END
+START  we didnt force you; lets face it you were bored witless staying in every night END
 START  i was not; i am really into casualty and ant and dec END
-START   give it a chance, it’s early, it picks up after nine, well sometimes it does END
-START  bobby! i’m not stopping, i’m going END
-START  of course not we’re not stupid, well we are, but not that stupid END
-START  you can’t go now; it will look like you are afraid of being in the same room as him END
-START  i’m not afraid of him; i just don’t want anything more to do with the useless, lying, cheating, swine END
+START   give it a chance, its early, it picks up after nine, well sometimes it does END
+START  bobby! im not stopping, im going END
+START  of course not were not stupid, well we are, but not that stupid END
+START  you cant go now; it will look like you are afraid of being in the same room as him END
+START  im not afraid of him; i just dont want anything more to do with the useless, lying, cheating, swine END
 START  i knew he was useless a liar and a swine all men are, but i never knew he cheated on you?  END
-START  oh he denied it, but there’s no way he was just working overtime every other night END
-START  come on let’s get a seat and i’ll get the drinks in, you don’t have to go anywhere near him END
-START  no, i’m going; this has ruined any chance of me having a good night out END
+START  oh he denied it, but theres no way he was just working overtime every other night END
+START  come on lets get a seat and ill get the drinks in, you dont have to go anywhere near him END
+START  no, im going; this has ruined any chance of me having a good night out END
 START  are you going to be good or do we have to tie you to that chair? END
-START  okay, leave me alone; just don’t expect me to have a good time END
-START  we won’t END
+START  okay, leave me alone; just dont expect me to have a good time END
+START  we wont END
 START  (to the barman) END
 START  certainly madam END
 START  no thank you END
-START  well if it isn’t carol jones as was, what the hell are you doing in a place like this? END
+START  well if it isnt carol jones as was, what the hell are you doing in a place like this? END
 START  get lost john; you tried that line three weeks ago END
 START  did i? i must be losing it END
 START  you never had it to start with END
-START  you love me really don’t you? END
+START  you love me really dont you? END
 START  dream on! END
 START  oh i do, every night END
-START  that’s all it’s ever going to be boy, a dream! you really are a fool END
-START  sings “oh carol” in a jokey way) END
-START  well if it’s not barbara smith! it is! as i live and breathe END
+START  thats all its ever going to be boy, a dream! you really are a fool END
+START  sings oh carol in a jokey way) END
+START  well if its not barbara smith! it is! as i live and breathe END
 START  we come in here every week and you come out with the same inane rubbish every week, no wonder amy left you END
 START  she left me because she was jealous of all the girls wanting my body END
 START  the only women who wanted your body were the desperate dames you got off with in places like this END
 START  you say the nicest things END
-START  why don’t you just shut up for a while, you’re even getting on my nerves now, never mind those two END
+START  why dont you just shut up for a while, youre even getting on my nerves now, never mind those two END
 START  sorry, just trying to lighten the mood a little, nothing wrong with a bit of banter with the opposite sex END
 START  i was trying to give us the lifestyle i thought she wanted; i spent thousands on jewellery, and the house, everything any normal woman could ever want END
 START  did you ever ask her if that was what she wanted?  END
-START  of course it’s what she wanted; she just didn’t like what it cost to get them END
-START  there was nothing wrong with her, look, it’s like when you go into a restaurant and order the best steak in the house, then a man at the next table has the fish and you think “that looks nice, wish i’d ordered that” END
+START  of course its what she wanted; she just didnt like what it cost to get them END
+START  there was nothing wrong with her, look, its like when you go into a restaurant and order the best steak in the house, then a man at the next table has the fish and you think that looks nice, wish id ordered that END
 START  the girls are right you do talk a lot of drivel END
 START  my name is chris and i am your waiter for tonight END
-START  can i have a white wine spritzer please? chris? don’t i know you?  END
-START  yes madam i work for your husband, well i used to work for him, i ‘m still with the company i just work in here part time to earn a bit extra, helps with the bills END
-START  it’s very kind of you to say so END
-START  so it’s just a white wine sprirtzer? END
+START  can i have a white wine spritzer please? chris? dont i know you?  END
+START  yes madam i work for your husband, well i used to work for him, i m still with the company i just work in here part time to earn a bit extra, helps with the bills END
+START  its very kind of you to say so END
+START  so its just a white wine sprirtzer? END
 START  (absentmindedly) oh, yes END
 START  he sees her immediately and she sees him, he keeps staring she avoids his gaze a little confused by it) END
-START  who’s the new girl in the corner? (speaking to the barman) END
+START  whos the new girl in the corner? (speaking to the barman) END
 START  not seen her before, she came in on her own END
 START  not many come here on their own; usually have a girlfriend or two in tow END
-START  actually i don’t think she realises its singles bar END
-START  how could she not know? it’s called “singles” for god’s sake! END
+START  actually i dont think she realises its singles bar END
+START  how could she not know? its called singles for gods sake! END
 START  probably thought it referred to the drinks END
 START  you know sam; you say some daft things at times END
 START  yes, why? END
-START  i’ll pay for that END
-START  certainly sir, and thank you, but actually i think you’re wasting your time END
-START  why’s that?  END
+START  ill pay for that END
+START  certainly sir, and thank you, but actually i think youre wasting your time END
+START  whys that?  END
 START  well sir, i used to work for her husband, he died a few months ago, really close they were, really close END
 START  thanks for the info, but give her the drink anyway, you never know END
-START  okay, but you’re wasting your time END
+START  okay, but youre wasting your time END
 START  he points to adam and whispers something to anne, then he places down the drink and returns to the bar) END
 START  what did she say?  END
-START  “she said “thanks” but she would pay for it herself END
-START  (absentmindedly) “no, keep it END
+START  she said thanks but she would pay for it herself END
+START  (absentmindedly) no, keep it END
 START  (she starts to put her purse away and a picture of her late husband falls out END
 START  okay, what did he say? END
-START  nothing, he doesn’t know you’re here, yet END
-START  he always did walk around with his eyes shut, he didn’t notice me when he was at home, i’m not surprised he hasn’t noticed me in here END
+START  nothing, he doesnt know youre here, yet END
+START  he always did walk around with his eyes shut, he didnt notice me when he was at home, im not surprised he hasnt noticed me in here END
 START  sounds to me like you want him to see you END
-START  of course not, but for heaven’s sake i ‘m only 30 feet away!! END
-START  keep your voice down or he will hear you if he doesn’t see you END
-START  this is ridiculous, he’s bound to see you soon enough, why not approach him and get it over with END
+START  of course not, but for heavens sake i m only 30 feet away!! END
+START  keep your voice down or he will hear you if he doesnt see you END
+START  this is ridiculous, hes bound to see you soon enough, why not approach him and get it over with END
 START  i will not! if he wants to talk to me he can come to me END
-START  but he doesn’t realise you’re here END
+START  but he doesnt realise youre here END
 START  oh to hell with it END
 START  just going to the loo END
-START  so this is what you get up to now, can’t get enough from that floozie at work so you come here END
+START  so this is what you get up to now, cant get enough from that floozie at work so you come here END
 START  whoa, what are you on about and never mind me, what the hell are you doing here?  END
-START  that’s it, avoid the question END
-START  i am not avoiding the question; i’m asking you a better one END
-START  you think i believe that, i’ll bet you’ve been in here every weekend since i threw you out END
-START  look, if you don’t believe me ask john END
+START  thats it, avoid the question END
+START  i am not avoiding the question; im asking you a better one END
+START  you think i believe that, ill bet youve been in here every weekend since i threw you out END
+START  look, if you dont believe me ask john END
 START  (rather too quickly)  never sir END
 START  men! you all stick together and lie through your teeth END
 START  i am sick of him and his lies; i could kill him, the sooner my marriage is over the better END
-START  that’s the trouble with marriage; it’s just like a game of cards END
+START  thats the trouble with marriage; its just like a game of cards END
 START  how do you mean? END
 START  well you start off with two hearts and a diamond and end up wishing for a club and a spade! END
 START  wife?  (john nods) thought so END
@@ -184,106 +184,106 @@ START  hi END
 START  yes, how did you know? END
 START  just a guess, you looked a bit lost END
 START  i am a bit, though i used to live locally END
-START  (with a sudden recognition) i thought i recognised you; it’s james, james simpson, where the hell have you been? END
+START  (with a sudden recognition) i thought i recognised you; its james, james simpson, where the hell have you been? END
 START  oh, here and there END
-START  well here and there doesn’t seem to have done you much harm END
+START  well here and there doesnt seem to have done you much harm END
 START  no END
-START  nice, i take it that if you’re in here you’re not attached END
-START  no, i was for a while but it didn’t work out END
+START  nice, i take it that if youre in here youre not attached END
+START  no, i was for a while but it didnt work out END
 START  sorry to hear that END
 START  you? END
-START  to be honest i’m not quite sure END
+START  to be honest im not quite sure END
 START   pardon? END
-START  well technically i am still married, but i won’t be for long if the wife has her way END
-START  sounds like we’re in the same boat, saturday night and no date END
-START    i got in town a month ago  i've seen a lot of girls since then,  if i could meet 'em i could get 'em  but as yet i haven't met 'em  thats how i'm in the state i'm in END
+START  well technically i am still married, but i wont be for long if the wife has her way END
+START  sounds like were in the same boat, saturday night and no date END
+START  ��i got in town a month ago �i've seen a lot of girls since then, �if i could meet 'em i could get 'em �but as yet i haven't met 'em �thats how i'm in the state i'm in END
 START  have another drink END
 START  thanks, i will END
 START  the scene moves to the girls) END
 START  come on you two, drink up, my round END
 START  two white wines and a whisky and soda barman if you please END
 START  (speaking to james) END
-START  rich? we don’t get “rich” in here very often END
-START  give it a rest barbara; he’s only just got back in town END
+START  rich? we dont get rich in here very often END
+START  give it a rest barbara; hes only just got back in town END
 START  back? you mean you used to live around here and you came back, are you insane? END
 START  to be honest it feels good to be back END
-START  there’s no accounting for taste, mind you, yours is suspect by the company you’re keeping now END
-START  see him at the bar with those two, he’s loaded and he reckons he used to live around here, but i don’t recognise him END
+START  theres no accounting for taste, mind you, yours is suspect by the company youre keeping now END
+START  see him at the bar with those two, hes loaded and he reckons he used to live around here, but i dont recognise him END
 START  oh but i do END
-START  yes, now you mention it i do recognise him; mind you he’s changed a lot END
+START  yes, now you mention it i do recognise him; mind you hes changed a lot END
 START  that was just kids stuff; we were only fourteen or fifteen END
 START  first love, always the hardest to forget END
 START   it was never serious, well not that serious END
 START  what happened, who dumped who? END
-START  it was my mum really, said he was a waste of space and wouldn’t let him in the house END
+START  it was my mum really, said he was a waste of space and wouldnt let him in the house END
 START  i bet she would now; he can come home with me anytime END
-START  you’d have anybody in trousers END
-START  not true, i’d much rather have them out of their trousers END
+START  youd have anybody in trousers END
+START  not true, id much rather have them out of their trousers END
 START  how did danny ever put up with you so long? how many men did you have whilst you were married to the poor sap? END
 START  not as many as i would have liked END
 START  you promised it was for better or worse END
-START   that was before i knew how “worse” it was going to be! END
+START   that was before i knew how worse it was going to be! END
 START  have you got any intention of settling down again with just one man? END
 START  no intention whatsoever, but i might make an exception in his case END
 START  you really are incorrigible! (they all laugh) END
 START  adam approaches and speaks to her) END
-START  i do hope i didn’t offend you offering that drink, i was just trying to be friendly END
-START  no, i wasn’t offended but i would rather buy my own thank you END
-START  do you mind if i join you? no strings and i won’t try to buy you another drink END
-START  to be honest i’d rather you didn’t, i’d rather be on my own END
+START  i do hope i didnt offend you offering that drink, i was just trying to be friendly END
+START  no, i wasnt offended but i would rather buy my own thank you END
+START  do you mind if i join you? no strings and i wont try to buy you another drink END
+START  to be honest id rather you didnt, id rather be on my own END
 START  (sitting down) END
 START  i suppose not END
 START  i find that difficult to believe, a lovely lady like you END
 START  look if you must know i lost my husband a few months ago and this is the first time i have been out since the funeral END
-START  (feigning surprise) oh i am sorry; i shouldn’t have intruded on you END
-START  no, stay, you weren’t to know END
+START  (feigning surprise) oh i am sorry; i shouldnt have intruded on you END
+START  no, stay, you werent to know END
 START  (sitting down again) END
 START  (she smiles and they begin to chat) END
 START   (to james) END
-START  i didn’t mind, it was fun in a strange way END
+START  i didnt mind, it was fun in a strange way END
 START  used to be, carol wadsworth now END
 START  married?  END
-START   course not; she wouldn’t be in here if she was END
-START  well you’re married and so is your wife and you’re both in here END
-START  like i said, that’s just a technicality END
+START   course not; she wouldnt be in here if she was END
+START  well youre married and so is your wife and youre both in here END
+START  like i said, thats just a technicality END
 START  anyway, how come you know carol, and why so interested? END
 START  oh i just knew her at school; we went out for a while END
-START  funny, i seem to find that, no matter how the years unwind,  still i reminisce about the giri i miss and the love i left behind END
+START �funny, i seem to find that, no matter how the years unwind, �still i reminisce about the giri i miss�and the love i left behind END
 START   (to mary) END
-START  i’ve told you why END
+START  ive told you why END
 START  you only told us you thought he was having an affair, of which you have no proof whatsoever as far as we know END
-START  god barbara, you at least should now what men are like, you’ve had enough of them! END
-START  that’s not a nice thing to say to a friend, it’s true, but it’s not a nice thing to say END
-START  i “dumped him” as you put it because he was hardly ever at home and when he was he was “somewhere else” END
+START  god barbara, you at least should now what men are like, youve had enough of them! END
+START  thats not a nice thing to say to a friend, its true, but its not a nice thing to say END
+START  i dumped him as you put it because he was hardly ever at home and when he was he was somewhere else END
 START  in fairness to the man he did work every hour god sent END
-START  that was his story, but i think he was with that secretary of his, that’s why he was always so tired END
+START  that was his story, but i think he was with that secretary of his, thats why he was always so tired END
 START  okay, give us one bit of proof that he was having it away with her or anyone else? END
 START  oh do shut up!! END
 START  thought so, no proof whatsoever END
 START  i hate to say it but barbara has a point END
 START  shut up both of you END
 START  (to barbara) END
-START )  when people ask of me,  “what would you like to be now that you’re not a kid anymore?” (you’re not a kid anymore END
-START  thank you for staying, i’ve enjoyed talking to you, it was nice to talk about alan, i hope i didn’t bore you? END
+START )��when people ask of me, ��what would you like to be now that youre not a kid anymore?(youre not a kid anymore END
+START  thank you for staying, ive enjoyed talking to you, it was nice to talk about alan, i hope i didnt bore you? END
 START  of course not, it sounds like he was a great guy END
 START  oh he was, everyone liked alan, he got on with everyone END
 START  yeh, you said END
 START  i did bore you, i knew i had END
-START  no you didn’t; but you did just talk about alan, what about you? END
-START  me? oh i’m not very interesting, just a housewife and mother, i have son, at university, he’s at cambridge END
-START  (impressed) cambridge, but i didn’t mean that, i meant what do you like, what do you want to do with the rest of your life? END
+START  no you didnt; but you did just talk about alan, what about you? END
+START  me? oh im not very interesting, just a housewife and mother, i have son, at university, hes at cambridge END
+START  (impressed) cambridge, but i didnt mean that, i meant what do you like, what do you want to do with the rest of your life? END
 START  i did like to go to the theatre, i loved the ballet and alan always came with me, though i had to keep nudging him to keep him awake END
-START  but what now, what are you planning to do now you’re on your own? END
+START  but what now, what are you planning to do now youre on your own? END
 START  i have no idea, i have not even thought of the future END
 START  sounds to me that you are giving up on life END
 START  i have no friends to speak of up here, but i do like the area END
-START   me? i’m a travelling salesman, and no, i don’t travel in ladies underwear, i sell computer software END
+START   me? im a travelling salesman, and no, i dont travel in ladies underwear, i sell computer software END
 START  tell me about her END
 START  oh what a night) END
-START  late december back in '63 END
+START �late december back in '63 END
 START  sounds like you still love her END
-START  maybe, all i know is i’ve never felt the same about anyone else END
-START  is that why you chase all the women, don’t look so innocent, the waiter told me all about you END
+START  maybe, all i know is ive never felt the same about anyone else END
+START  is that why you chase all the women, dont look so innocent, the waiter told me all about you END
 START  never trust a waiter END
 START  i thought you might be fun, and you were END
 START  i take it you want me to go now? END
@@ -292,31 +292,31 @@ START  (strangely subdued) END
 START  yes please END
 START  the scene moves to the bar again where james has rejoined john and bobby) END
 START  (looking towards anne and adam) END
-START  who him?  thinks he’s god’s gift that one END
-START  and everyone knows it’s you that’s god’s gift END
+START  who him?  thinks hes gods gift that one END
+START  and everyone knows its you thats gods gift END
 START  not my fault the ladies love me END
 START  seems to me that carol and barbara have no problem ignoring your charms END
-START  oh i’m not after carol; its just banter, but i have to say i do quite fancy barbara END
+START  oh im not after carol; its just banter, but i have to say i do quite fancy barbara END
 START  (sarcastically) END
-START  that might be fun, playing “ring a ring a roses” especially the “we all fall down bit” END
-START  you’re more likely to catch a cold from the “atishoo, atishoo” bit! END
+START  that might be fun, playing ring a ring a roses especially the we all fall down bit END
+START  youre more likely to catch a cold from the atishoo, atishoo bit! END
 START  what about you bobby, you and mary i mean, any chance of you two getting back together? END
-START  i doubt it, i made too many mistakes, i didn’t show her how much i loved her enough, well, that’s what she said END
-START  if you think you can change why don’t you tell her? END
+START  i doubt it, i made too many mistakes, i didnt show her how much i loved her enough, well, thats what she said END
+START  if you think you can change why dont you tell her? END
 START  i doubt she would listen END
-START  a wise man once said “you only regret what you don’t do” and i think he was right END
+START  a wise man once said you only regret what you dont do and i think he was right END
 START  are you referring to me and mary or you and carol? END
 START  you and mary of course END
 START  it sounded to me like you have some regrets too END
 START  not really, it was too long ago, we were only kids END
 START  are you trying to persuade me or yourself? END
-START  i’m not trying to persuade anyone of anything, i just think you should give your marriage another try END
-START  you’re right on the first part, not so sure on the second END
+START  im not trying to persuade anyone of anything, i just think you should give your marriage another try END
+START  youre right on the first part, not so sure on the second END
 START  like james said, worth a try what have you got to lose? END
 START  i do have some pride left END
-START  great stuff, “pride” keeps you warm at night i hear END
-START  i’ve just been END
-START   me too but we’ll pretend we’ve got prostate trouble and go again! END
+START  great stuff, pride keeps you warm at night i hear END
+START  ive just been END
+START   me too but well pretend weve got prostate trouble and go again! END
 START  (to the barman, pointedly ignoring bobby) END
 START  i see you still drink your whisky without the ice END
 START  at least you noticed something from when we were together, anything else come to mind? END
@@ -325,128 +325,128 @@ START  i can count on the fingers of one hand the number of times you said that 
 START  i thought you knew how i felt about you END
 START  women like to hear it bobby, regularly, i hardly ever saw you never mind heard you END
 START  be fair mary, i was working a hell of a lot to pay for everything END
-START  you said you were working, but you were always with that secretary of yours; don’t try to tell me there was nothing going on END
-START  i swear there was nothing going on between me and alisha; she’s as happily married as i thought i was END
-START  even if i believed you, which i still don’t, (though she obviously does) you ruined our marriage, you were never there END
-START  if you don’t believe anything else please believe me when i say i always loved you and still do END
+START  you said you were working, but you were always with that secretary of yours; dont try to tell me there was nothing going on END
+START  i swear there was nothing going on between me and alisha; shes as happily married as i thought i was END
+START  even if i believed you, which i still dont, (though she obviously does) you ruined our marriage, you were never there END
+START  if you dont believe anything else please believe me when i say i always loved you and still do END
 START  (picking up her drinks) END
-START  no i don’t, and i don’t think you do either END
-START   what’s going on, we saw you talking to bobby, i thought you were going to ignore him? END
+START  no i dont, and i dont think you do either END
+START   whats going on, we saw you talking to bobby, i thought you were going to ignore him? END
 START  (confused) END
 START  okay which one is it, you are or you were? END
 START  i was END
 START  yes, i remember, he worked all hours god sent to give you all the good things in life; i should be so lucky to find such an inconsiderate man END
 START  you make it sound so perfect but not having anyone to talk to night after night is no fun i can tell you END
-START  you don’t think we don’t both know that? END
-START  i’m sorry, of course you do but it’s different when you’re supposed to have a man in your life END
-START  maybe that’s true, but technically you still do have a man in your life and it seems with a little effort you could still have one in reality END
-START  i don’t want my boring old fart back but i wouldn’t mind someone to cuddle up to every now and then END
-START  you said you weren’t interested in finding a partner, you said you just wanted to play the field END
+START  you dont think we dont both know that? END
+START  im sorry, of course you do but its different when youre supposed to have a man in your life END
+START  maybe thats true, but technically you still do have a man in your life and it seems with a little effort you could still have one in reality END
+START  i dont want my boring old fart back but i wouldnt mind someone to cuddle up to every now and then END
+START  you said you werent interested in finding a partner, you said you just wanted to play the field END
 START  i lied END
 START  what i have is just a dream, you could have reality END
 START  what time is it? END
-START  it’s only ten fifteen, but i’ve had enough tonight, shall we go? END
-START  yes i’ve had enough too, how about you mary? END
+START  its only ten fifteen, but ive had enough tonight, shall we go? END
+START  yes ive had enough too, how about you mary? END
 START  (somewhat reluctantly) END
 START  hey mary, can i offer you all a lift END
-START  thanks martin, it’s not out of your way is it? END
-START  no, it’s right on your route END
+START  thanks martin, its not out of your way is it? END
+START  no, its right on your route END
 START  yes, just around the corner from me END
-START  great, come on, i’m parked just across the road END
-START  i can’t believe we’ve been seeing each other for over a month and carol and mary haven’t found out END
+START  great, come on, im parked just across the road END
+START  i cant believe weve been seeing each other for over a month and carol and mary havent found out END
 START  would it be so terrible if they did? END
 START  i would rather keep it to ourselves, at least for a while END
-START  i don’t see why? END
-START  it’s just i don’t want to risk spoiling what we have END
+START  i dont see why? END
+START  its just i dont want to risk spoiling what we have END
 START  why, what do we have? END
-START  that’s just it, i don’t know what we have, do you? END
-START  well we’ve been seeing each other virtually every day for nearly six weeks and we still seem to enjoy each other’s company and the other night was wonderful END
-START   it was wasn’t it and you’re right we do get on well, but it still doesn’t mean we should get too involved END
-START  if what we‘ve been doing for the last few weeks is not getting too involved i don’t know what is END
-START  (exasperated)  oh i don’t know, it’s just it has happened so quickly, we haven’t had time to think it all through END
+START  thats just it, i dont know what we have, do you? END
+START  well weve been seeing each other virtually every day for nearly six weeks and we still seem to enjoy each others company and the other night was wonderful END
+START   it was wasnt it and youre right we do get on well, but it still doesnt mean we should get too involved END
+START  if what weve been doing for the last few weeks is not getting too involved i dont know what is END
+START  (exasperated)  oh i dont know, its just it has happened so quickly, we havent had time to think it all through END
 START  so what are you saying, do you want to end it? END
-START  no, of course not, it’s just i am worried we are getting carried away; we’re acting like a couple of kids END
+START  no, of course not, its just i am worried we are getting carried away; were acting like a couple of kids END
 START  i see nothing wrong with acting like a couple of kids, i have had to grow old, i refuse to grow up END
-START  that’s the difference between us, i have grown up, i’m an adult and i feel i should act like one END
+START  thats the difference between us, i have grown up, im an adult and i feel i should act like one END
 START  i was only kidding about not growing up, but surely we have a right to fall in love no matter how old we are? END
 START  is that how you feel; are you in love with me? END
-START  well if i am completely honest at this moment i can’t say i am totally sure, but i am 90% sure and i would like the opportunity to add the other 10% END
-START  it’s that 10% i am worried about; it’s why i want to wait awhile before saying anything to the others END
-START  okay, we will keep quiet about it for a bit longer if that’s what you want END
+START  well if i am completely honest at this moment i cant say i am totally sure, but i am 90% sure and i would like the opportunity to add the other 10% END
+START  its that 10% i am worried about; its why i want to wait awhile before saying anything to the others END
+START  okay, we will keep quiet about it for a bit longer if thats what you want END
 START  it is, and thank you for being so understanding END
-START  if it’s what you want that’s what we’ll do, now let’s get to the restaurant, i’m starving END
+START  if its what you want thats what well do, now lets get to the restaurant, im starving END
 START  the girls are already in the bar, bobby and john enter) END
 START  see, i told you she would be in again END
 START  (sarcastically) END
-START  well barbara said he was just giving them all a lift home, he works with mary at the bank and he’s gay for god’s sake END
-START   okay, but it doesn’t mean she’s in here to see me END
+START  well barbara said he was just giving them all a lift home, he works with mary at the bank and hes gay for gods sake END
+START   okay, but it doesnt mean shes in here to see me END
 START   err END
-START  no you damn well didn’t and you know you didn’t END
-START  nothing serious, but i’m living in hopes END
+START  no you damn well didnt and you know you didnt END
+START  nothing serious, but im living in hopes END
 START  the mind boggles END
-START  be fair, you don’t know all the rumours are true and let’s face it i’ve been no angel END
-START  if only half the rumours are true i still think even you’ve bitten off more than you can chew END
-START   that’s easy, i‘ve become a vegetarian; seriously she’s nothing like you’d imagine when you’re on your own with her, she’s clever and funny and really great to be with END
-START  oh my god, it sounds like you’re smitten! END
+START  be fair, you dont know all the rumours are true and lets face it ive been no angel END
+START  if only half the rumours are true i still think even youve bitten off more than you can chew END
+START   thats easy, ive become a vegetarian; seriously shes nothing like youd imagine when youre on your own with her, shes clever and funny and really great to be with END
+START  oh my god, it sounds like youre smitten! END
 START  i am a bit, but honestly she can be really nice END
-START  i’ll just have to take your word for that END
+START  ill just have to take your word for that END
 START   (noticing that mary and carol are heading for the loo) END
-START  oh don’t mind me, i’m used to rejection END
+START  oh dont mind me, im used to rejection END
 START  hi END
-START  yes, of course, but i haven’t told carol and mary yet, have you told bobby? END
+START  yes, of course, but i havent told carol and mary yet, have you told bobby? END
 START   well yes, it just slipped out END
 START  bang goes our agreement to keep it to ourselves for now END
 START  sorry, forgive me? END
-START  i suppose i’ll have to END
+START  i suppose ill have to END
 START  is that what i am, a shock?  END
-START   not you personally, just the idea that i’m going out with someone, not just a casual someone END
-START  it’s nice to now i’m not just a casual someone, whatever that is END
+START   not you personally, just the idea that im going out with someone, not just a casual someone END
+START  its nice to now im not just a casual someone, whatever that is END
 START  you know what i mean END
-START  if you mean someone who’s serious about you and wants a serious relationship, then yes, i do END
-START  well yes, but let’s not rush things END
-START  we’re a bit old for taking our time, we’re not kids anymore END
+START  if you mean someone whos serious about you and wants a serious relationship, then yes, i do END
+START  well yes, but lets not rush things END
+START  were a bit old for taking our time, were not kids anymore END
 START  what does that mean exactly? END
-START  i’m saying i’ve acquired that extra 10%, i love you and i want to spend what’s left of my life with you END
-START  my god, i didn’t think you were that serious!! END
-START   well i am, is it a problem? i get it; i’m not good enough for you END
+START  im saying ive acquired that extra 10%, i love you and i want to spend whats left of my life with you END
+START  my god, i didnt think you were that serious!! END
+START   well i am, is it a problem? i get it; im not good enough for you END
 START  where did that come from? when have i ever said that? END
 START  well what are you saying? END
-START  i’m saying i was not expecting all this to happen so quickly, what am i saying; i never expected it to happen at all at my age END
-START  you’re not that old, and anyway it confirms what i said, we are too old to be taking too much time over this END
+START  im saying i was not expecting all this to happen so quickly, what am i saying; i never expected it to happen at all at my age END
+START  youre not that old, and anyway it confirms what i said, we are too old to be taking too much time over this END
 START  if i knew the question i might answer it END
-START  it’s simple and old fashioned, will you marry me? END
+START  its simple and old fashioned, will you marry me? END
 START  but we hardly know each other END
-START  what’s to know, i’m divorced, your divorced, we both have grown up children who have fled the nest, we’ve both been lonely and now we’re not, and i love you, what more do you need to know? END
-START  it’s so sudden, i can’t take it in END
-START  you do think i’m not good enough for you, that’s it isn’t it? END
-START  for the last time, that’s not it, i think you’re wonderful END
-START  so what’s your answer? END
-START  (she sings “you’ve got what it takes”) END
-START  and you don't look like a movie star and on your money we won't get far END
+START  whats to know, im divorced, your divorced, we both have grown up children who have fled the nest, weve both been lonely and now were not, and i love you, what more do you need to know? END
+START  its so sudden, i cant take it in END
+START  you do think im not good enough for you, thats it isnt it? END
+START  for the last time, thats not it, i think youre wonderful END
+START  so whats your answer? END
+START  (she sings youve got what it takes) END
+START �and you don't look like a movie star�and on your money we won't get far END
 START  is that a yes?  END
 START  of course it is you fool!! END
 START  they are joined by a stunned bobby) END
 START  what the hell is going on?  (she pulls john away from barbara END
-START  its okay, it’s okay END
-START  like hell it is, he can’t go around just snogging any woman he likes, we should call the police END
-START  you don’t understand, i was kissing him END
+START  its okay, its okay END
+START  like hell it is, he cant go around just snogging any woman he likes, we should call the police END
+START  you dont understand, i was kissing him END
 START  (incredulously) END
 START  because i love him END
 START  (incredulously) END
 START  you heard you big lummox, i love you END
 START  (to carol) END
 START  of course not END
-START  don’t look at me; i’m as dumbfounded as you END
+START  dont look at me; im as dumbfounded as you END
 START  look, we met up a few times and we realised what we felt for each other was real so we END
-START   john, just shut up and do what you’re good at END
-START  well damn me, i think i’ve seen everything now END
+START   john, just shut up and do what youre good at END
+START  well damn me, i think ive seen everything now END
 START  (still with his arm around barbara) END
 START  he sees the group and joins them) END
-START  looks like i’ve missed something, what’s going on? END
-START  barbara and bobby, that’s what’s going on END
+START  looks like ive missed something, whats going on? END
+START  barbara and bobby, thats whats going on END
 START  no kidding, good on you two END
-START  i’m not so sure END
-START  oh don’t be such a killjoy, when you think about it they’re made for each other, (pause) just like us END
+START  im not so sure END
+START  oh dont be such a killjoy, when you think about it theyre made for each other, (pause) just like us END
 START  since when have we been made for each other? END
 START  since the day we met and you know it END
 START  i do not know it END
@@ -454,85 +454,85 @@ START   (he looks her very closely in the eye and slowly and tenderly kisses her
 START  i suppose i do END
 START  (to james) END
 START  would that be such a bad thing?  END
-START  no i suppose it wouldn’t END
-START  anyway you’ve got a man in your life now haven’t you? END
-START  oh you mean martin, no he’s not my boyfriend, we just meet up occasionally for a drink after work, there’s nothing going on END
-START  my mistake, i thought when i saw you two together last night you were an item, i hope you didn’t mind my butting in but i was glad to see you again END
-START  no i didn’t mind at all, it was just we had a table booked, we had to go END
-START  oh that’s okay, it’s your life, i don’t want to appear nosey END
-START  i’d never think that of you, even after all this time i hope we are still friends END
+START  no i suppose it wouldnt END
+START  anyway youve got a man in your life now havent you? END
+START  oh you mean martin, no hes not my boyfriend, we just meet up occasionally for a drink after work, theres nothing going on END
+START  my mistake, i thought when i saw you two together last night you were an item, i hope you didnt mind my butting in but i was glad to see you again END
+START  no i didnt mind at all, it was just we had a table booked, we had to go END
+START  oh thats okay, its your life, i dont want to appear nosey END
+START  id never think that of you, even after all this time i hope we are still friends END
 START  definitely, i will always be your friend END
-START  close your eyes and think of me and soon i will be there to brighten up even your darkest nights END
-START  that might have been us a few years ago if it hadn’t been for your mum END
+START �close your eyes and think of me�and soon i will be there�to brighten up even your darkest nights END
+START  that might have been us a few years ago if it hadnt been for your mum END
 START  white wine please END
 START  (to barman) END
-START  don’t blame her too much, she was only doing what she thought was right END
-START  i suppose so; i wasn’t much of a catch for her only daughter back then was i? END
+START  dont blame her too much, she was only doing what she thought was right END
+START  i suppose so; i wasnt much of a catch for her only daughter back then was i? END
 START  you know what parents are like; they just want the best for their kids END
 START  true, i would have probably done the same in her position END
 START  do you have kids? END
 START  no, my ex wife and i were only together a couple of years; it was never going to work out END
-START  just one, brian, he’s in dubai working for a bank END
-START  so you’re on your own now? END
-START  well not really, mary and barbara are always around, though i’m not sure how much i’ll see of them now END
-START  i’m sure they won’t desert you, they’re your friends and you know i am too END
-START  you’ve only just got here, can’t you stay for a while, or is she the type who dislikes it when people are late, i know i do END
-START  to be honest i don’t know, only just met her this week, she works on the reception at my offices END
+START  just one, brian, hes in dubai working for a bank END
+START  so youre on your own now? END
+START  well not really, mary and barbara are always around, though im not sure how much ill see of them now END
+START  im sure they wont desert you, theyre your friends and you know i am too END
+START  youve only just got here, cant you stay for a while, or is she the type who dislikes it when people are late, i know i do END
+START  to be honest i dont know, only just met her this week, she works on the reception at my offices END
 START  (hiding her disappointment that it is a woman he is meeting) END
-START  that’s true END
-START  i hadn’t thought of that, i suppose you’re right, but i will probably see you around, this town is not very big END
-START  that’s very true END
-START   (she sings “crying”) END
+START  thats true END
+START  i hadnt thought of that, i suppose youre right, but i will probably see you around, this town is not very big END
+START  thats very true END
+START   (she sings crying) END
 START  white wine spritzer?  END
 START  yes please END
 START   (to the barman) END
 START  you never say please do you? END
-START   don’t i? does it matter? END
-START  there’s no charge for manners, that’s what alan used to say END
-START  he really meant a lot to you didn’t he? END
+START   dont i? does it matter? END
+START  theres no charge for manners, thats what alan used to say END
+START  he really meant a lot to you didnt he? END
 START  well, yes, we were together a long time END
 START  are you sure he was as wonderful as you are painting him? END
-START   i don’t know what you mean END
-START  well he sounds so bloody perfect, no man’s that good END
+START   i dont know what you mean END
+START  well he sounds so bloody perfect, no mans that good END
 START  but alan was, he was lovely, everyone liked him END
-START   not everyone, he’s getting on my nerves for a start END
+START   not everyone, hes getting on my nerves for a start END
 START  whatever do you mean? END
-START   in your eyes he’s so damn perfect no other man could ever aspire to match him END
-START  i don’t expect anyone to match him; i just thought i could find someone a bit like him END
-START  so why take up with the likes of me? because i’m nothing like him END
+START   in your eyes hes so damn perfect no other man could ever aspire to match him END
+START  i dont expect anyone to match him; i just thought i could find someone a bit like him END
+START  so why take up with the likes of me? because im nothing like him END
 START  because i thought you were nice and, well i thought you might be fun END
 START  and am i? END
-START  well not when you’re like this END
-START  i’ll tell you exactly what i’m like END
-START  i knew that’s what you were like, but you’ve been lovely with me, attentive and considerate, i thought we were friends END
-START  you just don’t get it do you? END
+START  well not when youre like this END
+START  ill tell you exactly what im like END
+START  i knew thats what you were like, but youve been lovely with me, attentive and considerate, i thought we were friends END
+START  you just dont get it do you? END
 START  get what? END
-START  look, i set out to get you into bed, then i had second thoughts, i have no idea why, well i do, you’re just too nice for the likes of me to take advantage of END
+START  look, i set out to get you into bed, then i had second thoughts, i have no idea why, well i do, youre just too nice for the likes of me to take advantage of END
 START  you make me sound like a nun END
-START  you’re not a nun, but you’re used to something better than me, you’re used to being given flowers, presents, all the things nice guys give to nice girls END
+START  youre not a nun, but youre used to something better than me, youre used to being given flowers, presents, all the things nice guys give to nice girls END
 START  i thought END
-START  don’t think anything END
-START   what if i said i didn’t want roses? END
-START  that’s the trouble, you do, and you deserve them END
+START  dont think anything END
+START   what if i said i didnt want roses? END
+START  thats the trouble, you do, and you deserve them END
 START  chris realises something has happened and comes over) END
 START  are you okay mrs END
-START   thanks chris but no, there’s nothing anyone can do END
+START   thanks chris but no, theres nothing anyone can do END
 START  are you sure? END
-START  yes, i’m sure END
+START  yes, im sure END
 START  (taking out her picture of alan) END
 START  how long does it take to get a marriage licence? END
-START  i have no idea, but let’s get one as quick as we can before we both have an attack of common sense END
-START  i agree, let’s keep common sense out of this END
+START  i have no idea, but lets get one as quick as we can before we both have an attack of common sense END
+START  i agree, lets keep common sense out of this END
 START )  everyone apart from john, barbara, james and anne are already in the club listening to the band play some soft, quiet music END
 START  three cheers for the happy couple, hip hip, hooray, hip hip, hooray, hip hip, hooray END
 START  is anyone going to get me a drink?  (champagne is handed to both barbara and john) END
-START  i’d rather have a pint END
+START  id rather have a pint END
 START  philistine!! END
-START  yes, but i’m your philistine END
-START  yes you are, so do as you’re told and drink the champagne END
+START  yes, but im your philistine END
+START  yes you are, so do as youre told and drink the champagne END
 START  (feigning subservience) END
 START  (directed at the band) END
 START  certainly madam, what do you fancy? END
-START  well not that dire stuff you’ve been playing, come on let’s rip it up END
-START  well, it's saturday night and i just got paid, fool about my money, don't try to save, my heart says go go, have a time, saturday night and i'm feelin' fine,  i'm gonna rock it up, i'm gonna rip it up, i'm gonna shake it up, gonna ball it up, i'm gonna rock it up, and ball tonight END
+START  well not that dire stuff youve been playing, come on lets rip it up END
+START �well, it's saturday night and i just got paid,�fool about my money, don't try to save,�my heart says go go, have a time,�saturday night and i'm feelin' fine,��i'm gonna rock it up, i'm gonna rip it up,�i'm gonna shake it up, gonna ball it up,�i'm gonna rock it up, and ball tonight END
 START  at the back james appears and carol sees him and the curtain closes) END

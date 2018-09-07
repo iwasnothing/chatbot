@@ -6,9 +6,9 @@ from keras.layers import Input, LSTM, Dense
 import numpy as np
 import json
 
-start_token = "START "
-end_token = " END"
-pad_token = " PAD "
+start_token = "START"
+end_token = "END"
+pad_token = "PAD "
 
 
 
@@ -45,14 +45,14 @@ def train(QList,AList,folder):
                 input_count[char] = 1
             else:
                 input_count[char] = input_count[char] + 1
-                if input_count[char] > 2:
+                if input_count[char] > 0:
                     input_characters.add(char)
         for char in target_text.split():
             if char not in target_count.keys():
                 target_count[char] = 1
             else:
                 target_count[char] = target_count[char] + 1
-                if target_count[char] > 2:
+                if target_count[char] > 0:
                     target_characters.add(char)
 
 

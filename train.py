@@ -1,12 +1,13 @@
 from __future__ import print_function
+import tensorflow as tf
 import pandas as pd
 import os, sys
 from keras.models import Model
-from keras.layers import Input, LSTM, Dense, Embedding
+from keras.layers import Input, LSTM, Dense,Embedding
 from keras.utils import Sequence
 import numpy as np
 import json
-
+import tensorflow as tf
 
 class DataGenerator(Sequence):
     'Generates data for Keras'
@@ -160,17 +161,17 @@ class DataGenerator(Sequence):
         self.decoder_input_data = np.full(
                 (sz, self.max_decoder_seq_length),self.input_token_index[self.pad_token], 
                 dtype='float32')
-        self.decoder_target_data = np.full(
-                (sz, self.max_decoder_seq_length), self.iput_token_index[self.pad_token],
+        self.decoder_target_data = np.zeros(
+                (sz, self.max_decoder_seq_length, self.num_decoder_tokens),
                 dtype='float32')
+        for b in range(sz):
+            for t in range(self.max_decoder_seq_length):
+                self.decoder_target_data[b, t, self.target_token_index[self.pad_token]] = 1.
     
         for b,i in enumerate(list_IDs_temp):
-            input_text = self.input_texts[i]
-            target_text = self.target_texts[i]
-            input_text.insert(0,self.start_token)
-            input_text.append(self.end_token)
-            target_text.insert(0,self.start_token)
-            target_text.append(self.end_token)
+            input_text = self.start_token + " " + self.input_texts[i] + " " + self.end_token
+            target_text = self.start_token + " " + self.target_texts[i] + " " + self.end_token
+
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
                     self.encoder_input_data[b, t] = self.input_token_index[char] 
@@ -183,13 +184,13 @@ class DataGenerator(Sequence):
                     # decoder_target_data will be ahead by one timestep
                     # and will not include the start character.
                     if t > 0:
-                        self.decoder_target_data[b, t - 1] = self.target_token_index[char]
+                        self.decoder_target_data[b, t - 1, self.target_token_index[char] ] = 1.
                 else:
                     self.decoder_input_data[b, t] = self.target_token_index[self.pad_token]
                     # decoder_target_data will be ahead by one timestep
                     # and will not include the start character.
                     if t > 0:
-                        self.decoder_target_data[b, t - 1] = self.target_token_index[self.pad_token]
+                        self.decoder_target_data[b, t - 1, self.target_token_index[self.pad_token]] = 1.
 
         return [self.encoder_input_data,self.decoder_input_data], self.decoder_target_data
 
@@ -201,23 +202,27 @@ def train(folder):
     validation_generator = DataGenerator(folder,False)
 
     g = training_generator
-    
+    config = tf.ConfigProto()
+    config.gpu_options.allow_growth = True
+    session = tf.Session(config=config)
     # Define an input sequence and process it.
-    encoder_inputs = Input(shape=(None, g.num_encoder_tokens))
+    #encoder_inputs = Input(shape=(None, g.num_encoder_tokens))
+    encoder_inputs = Input(shape=(g.max_encoder_seq_length,),dtype='int32')
     encoder_embed = Embedding(g.num_encoder_tokens,g.latent_dim, input_length=g.max_encoder_seq_length)
     encoder = LSTM(g.latent_dim, return_state=True)
-    encoder_outputs, state_h, state_c = encoder(encoder_embed)
+    encoder_outputs, state_h, state_c = encoder(encoder_embed(encoder_inputs))
     # We discard `encoder_outputs` and only keep the states.
     encoder_states = [state_h, state_c]
 
     # Set up the decoder, using `encoder_states` as initial state.
-    decoder_inputs = Input(shape=(None, g.num_decoder_tokens))
-    encoder_embed = Embedding(g.num_decoder_tokens,g.latent_dim, input_length=g.max_decoder_seq_length)
+    #decoder_inputs = Input(shape=(None, g.num_decoder_tokens))
+    decoder_inputs = Input(shape=(g.max_decoder_seq_length,), dtype='int32')
+    decoder_embed = Embedding(g.num_decoder_tokens,g.latent_dim, input_length=g.max_decoder_seq_length)
     # We set up our decoder to return full output sequences,
     # and to return internal states as well. We don't use the
     # return states in the training model, but we will use them in inference.
     decoder_lstm = LSTM(g.latent_dim, return_sequences=True, return_state=True)
-    decoder_outputs, _, _ = decoder_lstm(decoder_embed,
+    decoder_outputs, _, _ = decoder_lstm(decoder_embed(decoder_inputs),
                                      initial_state=encoder_states)
     decoder_dense = Dense(g.num_decoder_tokens, activation='softmax')
     decoder_outputs = decoder_dense(decoder_outputs)
@@ -234,8 +239,10 @@ def train(folder):
 
     #model.fit_generator(train_batches)
     model.fit_generator(generator=training_generator,
+                        steps_per_epoch=training_generator.num_batches_per_epoch,
                     validation_data=validation_generator,
-                    use_multiprocessing=False,
+                    validation_steps=validation_generator.num_batches_per_epoch,
+                    use_multiprocessing=True,
                     workers=1)
     #model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
           #batch_size=batch_size,
@@ -243,6 +250,7 @@ def train(folder):
           #validation_split=0.2)
     # Save model
     model.save(folder + 's2s.h5')
+
     
 
     # Next: inference mode (sampling).
@@ -255,27 +263,29 @@ def train(folder):
 
 
     # Define sampling models
+    
     encoder_model = Model(encoder_inputs, encoder_states)
 
 
-    decoder_state_input_h = Input(shape=(g.latent_dim,))
-    decoder_state_input_c = Input(shape=(g.latent_dim,))
-    decoder_states_inputs = [decoder_state_input_h, decoder_state_input_c]
-    decoder_outputs, state_h, state_c = decoder_lstm(
-        decoder_inputs, initial_state=decoder_states_inputs)
-    decoder_states = [state_h, state_c]
-    decoder_outputs = decoder_dense(decoder_outputs)
+    decoder2_state_input_h = Input(shape=(g.latent_dim,))
+    decoder2_state_input_c = Input(shape=(g.latent_dim,))
+    decoder2_states_inputs = [decoder2_state_input_h, decoder2_state_input_c]
+    decoder2_outputs, state2_h, state2_c = decoder_lstm(
+        decoder_embed(decoder_inputs), initial_state=decoder2_states_inputs)
+    decoder2_states = [state2_h, state2_c]
+    decoder2_outputs = decoder_dense(decoder2_outputs)
     decoder_model = Model(
-        [decoder_inputs] + decoder_states_inputs,
-        [decoder_outputs] + decoder_states)
-
+        [decoder_inputs] + decoder2_states_inputs,
+        [decoder2_outputs] + decoder2_states)
+    
     encoder_model.save(folder + 's2s_enc.h5')
     decoder_model.save(folder + 's2s_dec.h5')
+    
 
 
 # MAIN
 if __name__ == '__main__':
-    parent= 'data'
+    parent= 'debug'
     for d in os.listdir(parent):
         if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
             train(parent+'/'+d+'/')

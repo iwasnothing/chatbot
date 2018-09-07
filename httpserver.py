@@ -7,6 +7,7 @@ import os, sys
 from keras.models import load_model
 from keras.models import Model
 from keras.layers import Input, LSTM, Dense
+import tensorflow as tf
 import numpy as np
 import json
 from sys import argv
@@ -40,7 +41,10 @@ class S(BaseHTTPRequestHandler):
                     count = count + 1
         return count
     def myinit(self,sentence):
-        self.parent = 'data'
+        config = tf.ConfigProto()
+        config.gpu_options.allow_growth = True
+        session = tf.Session(config=config)
+        self.parent = 'debug'
         self.flist = []
         max_count = 0
         for d in os.listdir(self.parent):
@@ -101,6 +105,7 @@ class S(BaseHTTPRequestHandler):
         input_seq.append(line)
         self.myinit(line)
         decoded_sentence = self.decode_sequence(input_seq)
+        decoded_sentence = decoded_sentence.replace(self.start_token,'').replace(self.end_token,'').replace(self.pad_token,'')
         print('-')
         print('Input sentence:', input_seq)
         print('Decoded sentence:', decoded_sentence)
@@ -120,8 +125,8 @@ class S(BaseHTTPRequestHandler):
             (len(input_texts), self.max_encoder_seq_length),
             dtype='float32')
         for i, input_text in enumerate(input_texts):
-            input_text.insert(0,self.input_token_index[start_token])
-            input_text.append(self.input_token_index[end_token])
+            input_text = self.start_token + " " + input_text+ " " + self.end_token
+            
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
                     encoder_input_data[i, t] = self.input_token_index[char]
@@ -136,15 +141,18 @@ class S(BaseHTTPRequestHandler):
 
 
         # Generate empty target sequence of length 1.
-        target_seq = np.zeros((1, 1))
+        target_seq = np.full(
+                (1, self.max_decoder_seq_length),self.input_token_index[self.pad_token], 
+                dtype='float32')
         # Populate the first character of target sequence with the start character.
-        target_seq[0, 0] = self.target_token_index[start_token]
+        target_seq[0, 0] = self.target_token_index[self.start_token]
 
 
         # Sampling loop for a batch of sequences
         # (to simplify, here we assume a batch of size 1).
         stop_condition = False
         decoded_sentence = ''
+        predicted_count=0
         while not stop_condition:
             output_tokens, h, c = decoder_model.predict(
                 [target_seq] + states_value)
@@ -152,6 +160,7 @@ class S(BaseHTTPRequestHandler):
 
             # Sample a token
             pdf = output_tokens[0, -1, :]
+            print(len(pdf))
             sampled_token_index = np.random.choice(len(pdf),p=pdf)
             #print("sample " + str(sampled_token_index) + " out of " + str(len(reverse_target_char_index) ) )
             sampled_char = self.reverse_target_char_index[str(sampled_token_index)]
@@ -166,8 +175,8 @@ class S(BaseHTTPRequestHandler):
 
 
             # Update the target sequence (of length 1).
-            target_seq = np.zeros((1, 1))
-            target_seq[0, 0] = sampled_token_index] 
+            predicted_count = predicted_count + 1
+            target_seq[0, predicted_count] = sampled_token_index
 
 
             # Update states

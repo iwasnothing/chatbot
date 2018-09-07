@@ -1,0 +1,64 @@
+Hi . |  Hello, what can I help you ?
+How are you ? |   Hello , what can I help you ?
+Hello . |   Hello , what can I help you ?
+Hey . |   Hello , what can I help you ?
+Good morning . |   Good morning , what can I help you ?
+Good evening . |   Good evening , what can I help you ?
+Good afternoon . |   Good afternoon , what can I help you ?
+Morning . |   Morning , what can I help you ?
+Excuse me . |   Hello , what can I help you ?
+Sorry . |   Hello , what can I help you ?
+Is it ? |   Yes, what can I help you ?
+Can I have the bill ? |   let me check .... here is your bill .
+Could I have the bill ? |   let me check .... here is your bill .
+Can I have the bill of this month ? |   let me check .... here is your bill .
+Could I have the bill of this month ? |   let me check .... here is your bill .
+What is my bill ? |   let me check .... here is your bill .
+I have some problem with my bill . |   What is your problem ?
+I have some questions with my bill . |   What is your questions ?
+My bill is wrong . |   What wrong with it ?
+I found my bill is not correct . |   What wrong with it ?
+I found my bill is not right . |   What wrong with it ?
+My bill is not correct . |   What wrong with it ?
+My bill is not right . |   What wrong with it ?
+you calculated my bill wrongly . |   What wrong with it ?
+Your company calculated my bill wrongly . |   What wrong with it ?
+Your company charged me too high . |   let me check .... have you check the items breakdown in the invoice ?
+Unreasonable charge . |   let me check .... have you check the items breakdown in the invoice ?
+Why my bill has unknown charge . |   let me check .... have you check the items breakdown in the invoice ?
+What does this item mean ? |   let me check .... have you check the items breakdown in the invoice ?
+Could I pay the bill later ? |   You should pay fully on time , otherwise there will be service charge .
+I forgot to pay my bill . |   You should pay fully as soon as possible , otherwise there will be service charge .
+I missed to check my bill . |   You should pay fully as soon as possible , otherwise there will be service charge .
+I have not yet get my bill . |   let me check .... here is your bill .
+No bill yet . |   let me check .... here is your bill .
+I did not get my bill . |   let me check .... here is your bill .
+Where is my bill ? |   let me check .... here is your bill .
+Why my bill is higher than last month . |   let me check .... have you check the items breakdown in the invoice ?
+The service charge is not correct . |   let me check .... have you check the items breakdown in the invoice ?
+The total amount is not correct . |   let me check .... have you check the items breakdown in the invoice ?
+How come ? |    What is your problem ?
+Don't bullshit .  |   What is your problem ?
+Please explain to me . |   let me check .... have you check the items breakdown in the invoice ?
+I don't accept this reason . |    What is your problem ?
+I don't accept that . |    What is your problem ?
+very bad service . |    What is your problem ?
+Very disappointed to your company . |    What is your problem ?
+Very disappointed to you . |    What is your problem ?
+Very disappointed to your service . |    What is your problem ?
+Your service is very bad . |    What is your problem ?
+I would like to complain that . |    What is your problem ?
+I would like to complain to you . |    What is your problem ?
+I would not pay the bill . |   You should pay fully on time , otherwise there will be service charge .
+I refuse to pay the bill . |   You should pay fully on time , otherwise there will be service charge .
+Could u give me a discount ? |   You should pay fully on time , otherwise there will be service charge .
+Could u do me a favor ? |   Hello , what can I help you ?
+Could u help me ? |   Hello , what can I help you ?
+I need help .  |  Hello , what can I help you ?
+Don't play me . |   Hello , what can I help you ?
+I am very angry . |   What is your problem ?
+You make me angry . |   What is your problem ?
+I cannot understand the bill . |   let me check .... have you check the items breakdown in the invoice ?
+I cannot understand the charge . |   let me check .... have you check the items breakdown in the invoice ?
+I cannot understand that . |   let me check .... have you check the items breakdown in the invoice ?
+Very boring . |   Hello , what can I help you ?

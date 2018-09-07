@@ -1,0 +1,64 @@
+START   Hello, what can I help you ? END
+START    Hello , what can I help you ? END
+START    Hello , what can I help you ? END
+START    Hello , what can I help you ? END
+START    Good morning , what can I help you ? END
+START    Good evening , what can I help you ? END
+START    Good afternoon , what can I help you ? END
+START    Morning , what can I help you ? END
+START    Hello , what can I help you ? END
+START    Hello , what can I help you ? END
+START    Yes, what can I help you ? END
+START    let me check .... here is your bill . END
+START    let me check .... here is your bill . END
+START    let me check .... here is your bill . END
+START    let me check .... here is your bill . END
+START    let me check .... here is your bill . END
+START    What is your problem ? END
+START    What is your questions ? END
+START    What wrong with it ? END
+START    What wrong with it ? END
+START    What wrong with it ? END
+START    What wrong with it ? END
+START    What wrong with it ? END
+START    What wrong with it ? END
+START    What wrong with it ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    You should pay fully on time , otherwise there will be service charge . END
+START    You should pay fully as soon as possible , otherwise there will be service charge . END
+START    You should pay fully as soon as possible , otherwise there will be service charge . END
+START    let me check .... here is your bill . END
+START    let me check .... here is your bill . END
+START    let me check .... here is your bill . END
+START    let me check .... here is your bill . END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START     What is your problem ? END
+START    What is your problem ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START     What is your problem ? END
+START    You should pay fully on time , otherwise there will be service charge . END
+START    You should pay fully on time , otherwise there will be service charge . END
+START    You should pay fully on time , otherwise there will be service charge . END
+START    Hello , what can I help you ? END
+START    Hello , what can I help you ? END
+START   Hello , what can I help you ? END
+START    Hello , what can I help you ? END
+START    What is your problem ? END
+START    What is your problem ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    let me check .... have you check the items breakdown in the invoice ? END
+START    Hello , what can I help you  END

@@ -16,7 +16,7 @@ def mkdirQA(dirkey):
 def printList(list,name):
     with open(name,"w") as f:
         for line in list:
-            f.write(line + '\n')
+            f.write((line + '\n').encode("utf8").decode("cp950", "ignore"))
 
 start_token = "START "
 end_token = " END"
@@ -39,7 +39,7 @@ for d in data['data'][:-1]:
                 txt=start_token + a['text'].lower() + end_token
                 AList.append(txt)
     i = i + 1
-    if i%100 == 0 :
+    if i%10000 == 0 :
         dirkey = 'Q' +  str(i)
         mkdirQA(dirkey)
         printList(QList,dirkey+'/QList.txt')                
