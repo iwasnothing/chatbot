@@ -7,7 +7,7 @@ from keras.layers import Input, LSTM, Dense,Embedding
 from keras.utils import Sequence
 import numpy as np
 import json
-import tensorflow as tf
+import keras.backend as K
 
 class DataGenerator(Sequence):
     'Generates data for Keras'
@@ -155,51 +155,46 @@ class DataGenerator(Sequence):
     def __data_generation(self, list_IDs_temp):
         sz = len(list_IDs_temp)
         #print(sz)
-        self.encoder_input_data = np.full(
-               (sz, self.max_encoder_seq_length), self.input_token_index[self.pad_token],
+        self.encoder_input_data = np.zeros(
+               (sz, self.max_encoder_seq_length),
                 dtype='float32')
-        self.decoder_input_data = np.full(
-                (sz, self.max_decoder_seq_length),self.input_token_index[self.pad_token], 
+        self.decoder_input_data = np.zeros(
+                (sz, self.max_decoder_seq_length),
                 dtype='float32')
         self.decoder_target_data = np.zeros(
-                (sz, self.max_decoder_seq_length, self.num_decoder_tokens),
+                (sz, self.max_decoder_seq_length,self.num_decoder_tokens),
                 dtype='float32')
-        for b in range(sz):
-            for t in range(self.max_decoder_seq_length):
-                self.decoder_target_data[b, t, self.target_token_index[self.pad_token]] = 1.
     
         for b,i in enumerate(list_IDs_temp):
-            input_text = self.start_token + " " + self.input_texts[i] + " " + self.end_token
-            target_text = self.start_token + " " + self.target_texts[i] + " " + self.end_token
+            input_text = self.input_texts[i] 
+            target_text = self.target_texts[i] 
 
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
                     self.encoder_input_data[b, t] = self.input_token_index[char] 
-                else:
-                    self.encoder_input_data[b, t] = self.input_token_index[self.pad_token]
             for t, char in enumerate(target_text.split()):
-                    # decoder_target_data is ahead of decoder_input_data by one timestep
                 if char in self.target_token_index.keys():
                     self.decoder_input_data[b, t] = self.target_token_index[char]
-                    # decoder_target_data will be ahead by one timestep
-                    # and will not include the start character.
                     if t > 0:
                         self.decoder_target_data[b, t - 1, self.target_token_index[char] ] = 1.
-                else:
-                    self.decoder_input_data[b, t] = self.target_token_index[self.pad_token]
-                    # decoder_target_data will be ahead by one timestep
-                    # and will not include the start character.
-                    if t > 0:
-                        self.decoder_target_data[b, t - 1, self.target_token_index[self.pad_token]] = 1.
 
         return [self.encoder_input_data,self.decoder_input_data], self.decoder_target_data
 
+    def real_loss(self,y_true, y_pred):
+        y_true_flatten = K.flatten(y_true)
+        num_total_elements = K.sum(y_true_flatten)
+        y_pred_flatten = K.flatten(y_pred)
+        y_pred_flatten_log = -K.log(y_pred_flatten + K.epsilon())
+        # cross_entropy = K.dot(y_true_flatten, K.transpose(y_pred_flatten_log))
+        cross_entropy = tf.reduce_sum(tf.multiply(y_true_flatten, y_pred_flatten_log))
+        mean_cross_entropy = cross_entropy / (num_total_elements + K.epsilon())
+        return mean_cross_entropy
 
 
 def train(folder):
 
-    training_generator = DataGenerator(folder,True)
-    validation_generator = DataGenerator(folder,False)
+    training_generator = DataGenerator(folder,True,True)
+    validation_generator = DataGenerator(folder,False,True)
 
     g = training_generator
     config = tf.ConfigProto()
@@ -234,7 +229,8 @@ def train(folder):
 
 
     # Run training
-    model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
+    #model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
+    model.compile(optimizer='rmsprop', loss=training_generator.real_loss)
     # Generators
 
     #model.fit_generator(train_batches)
