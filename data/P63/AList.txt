@@ -1,0 +1,63 @@
+START how are you ? |   hello , what can i help you ? END
+START hello . |   hello , what can i help you ? END
+START hey . |   hello , what can i help you ? END
+START good morning . |   good morning , what can i help you ? END
+START good evening . |   good evening , what can i help you ? END
+START good afternoon . |   good afternoon , what can i help you ? END
+START morning . |   morning , what can i help you ? END
+START excuse me . |   hello , what can i help you ? END
+START sorry . |   hello , what can i help you ? END
+START is it ? |   yes, what can i help you ? END
+START can i have the bill ? |   let me check .... here is your bill . END
+START could i have the bill ? |   let me check .... here is your bill . END
+START can i have the bill of this month ? |   let me check .... here is your bill . END
+START could i have the bill of this month ? |   let me check .... here is your bill . END
+START what is my bill ? |   let me check .... here is your bill . END
+START i have some problem with my bill . |   what is your problem ? END
+START i have some questions with my bill . |   what is your questions ? END
+START my bill is wrong . |   what wrong with it ? END
+START i found my bill is not correct . |   what wrong with it ? END
+START i found my bill is not right . |   what wrong with it ? END
+START my bill is not correct . |   what wrong with it ? END
+START my bill is not right . |   what wrong with it ? END
+START you calculated my bill wrongly . |   what wrong with it ? END
+START your company calculated my bill wrongly . |   what wrong with it ? END
+START your company charged me too high . |   let me check .... have you check the items breakdown in the invoice ? END
+START unreasonable charge . |   let me check .... have you check the items breakdown in the invoice ? END
+START why my bill has unknown charge . |   let me check .... have you check the items breakdown in the invoice ? END
+START what does this item mean ? |   let me check .... have you check the items breakdown in the invoice ? END
+START could i pay the bill later ? |   you should pay fully on time , otherwise there will be service charge . END
+START i forgot to pay my bill . |   you should pay fully as soon as possible , otherwise there will be service charge . END
+START i missed to check my bill . |   you should pay fully as soon as possible , otherwise there will be service charge . END
+START i have not yet get my bill . |   let me check .... here is your bill . END
+START no bill yet . |   let me check .... here is your bill . END
+START i did not get my bill . |   let me check .... here is your bill . END
+START where is my bill ? |   let me check .... here is your bill . END
+START why my bill is higher than last month . |   let me check .... have you check the items breakdown in the invoice ? END
+START the service charge is not correct . |   let me check .... have you check the items breakdown in the invoice ? END
+START the total amount is not correct . |   let me check .... have you check the items breakdown in the invoice ? END
+START how come ? |    what is your problem ? END
+START don't bullshit .  |   what is your problem ? END
+START please explain to me . |   let me check .... have you check the items breakdown in the invoice ? END
+START i don't accept this reason . |    what is your problem ? END
+START i don't accept that . |    what is your problem ? END
+START very bad service . |    what is your problem ? END
+START very disappointed to your company . |    what is your problem ? END
+START very disappointed to you . |    what is your problem ? END
+START very disappointed to your service . |    what is your problem ? END
+START your service is very bad . |    what is your problem ? END
+START i would like to complain that . |    what is your problem ? END
+START i would like to complain to you . |    what is your problem ? END
+START i would not pay the bill . |   you should pay fully on time , otherwise there will be service charge . END
+START i refuse to pay the bill . |   you should pay fully on time , otherwise there will be service charge . END
+START could u give me a discount ? |   you should pay fully on time , otherwise there will be service charge . END
+START could u do me a favor ? |   hello , what can i help you ? END
+START could u help me ? |   hello , what can i help you ? END
+START i need help .  |  hello , what can i help you ? END
+START don't play me . |   hello , what can i help you ? END
+START i am very angry . |   what is your problem ? END
+START you make me angry . |   what is your problem ? END
+START i cannot understand the bill . |   let me check .... have you check the items breakdown in the invoice ? END
+START i cannot understand the charge . |   let me check .... have you check the items breakdown in the invoice ? END
+START i cannot understand that . |   let me check .... have you check the items breakdown in the invoice ? END
+START very boring . |   hello , what can i help you  END
