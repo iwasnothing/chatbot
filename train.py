@@ -19,7 +19,7 @@ class DataGenerator(Sequence):
         self.shuffle = shuffle
         self.batch_size = 20  # Batch size for training.
         self.epochs = 100  # Number of epochs to train for.
-        self.latent_dim = 1024  # Latent dimensionality of the encoding space.
+        self.latent_dim = 100  # Latent dimensionality of the encoding space.
         self.QList = []
         self.AList = []
         self.input_texts = []
@@ -281,7 +281,7 @@ def train(folder):
 
 # MAIN
 if __name__ == '__main__':
-    parent= 'debug'
+    parent= 'data'
     for d in os.listdir(parent):
         if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
             train(parent+'/'+d+'/')

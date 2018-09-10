@@ -55,7 +55,7 @@ class S(BaseHTTPRequestHandler):
         config = tf.ConfigProto()
         config.gpu_options.allow_growth = True
         session = tf.Session(config=config)
-        self.parent = 'debug'
+        self.parent = 'data'
         self.flist = []
         max_count = 0
         for d in os.listdir(self.parent):
@@ -125,7 +125,7 @@ class S(BaseHTTPRequestHandler):
         self.wfile.write(decoded_sentence.format(self.path).encode('utf-8'))
 
     def decode_sequence(self,input_texts):
-        latent_dim = 1024
+        latent_dim = 100
         #encoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_enc.h5')
         #decoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_dec.h5')
         #model = load_model(self.parent + '/' + self.folder + '/' + 's2s.h5')
@@ -188,15 +188,15 @@ class S(BaseHTTPRequestHandler):
             # Sample a token
             predicted_count = predicted_count + 1
             pdf = output_tokens[0, predicted_count, :]
-            #sampled_token_index = np.random.choice(len(pdf),p=pdf)
-            sampled_token_index = np.argmax(pdf)
+            sampled_token_index = np.random.choice(len(pdf),p=pdf)
+            #sampled_token_index = np.argmax(pdf)
             sampled_char = self.reverse_target_char_index[str(sampled_token_index)]
             decoded_sentence += sampled_char + " "
 
 
             # Exit condition: either hit max length
             # or find stop character.
-            if ('END' in sampled_char or
+            if ('END' in sampled_char or sampled_char == '?' or sampled_char == '.' or
                len(decoded_sentence) > self.max_decoder_seq_length):
                 stop_condition = True
 
