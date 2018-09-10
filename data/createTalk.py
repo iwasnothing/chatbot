@@ -20,7 +20,7 @@ def mkdirQA(dirkey):
 def printList(list,name):
     with open(name,"w") as f:
         for line in list:
-            f.write(line + '\n')
+            f.write((line + '\n').encode("utf8").decode("cp950", "ignore"))
 
 AList=[]
 QList=[]
@@ -42,7 +42,7 @@ for a in range(len(lines)-1):
         continue
     AList.append(target_text)
     i = i + 1
-    if i % 1000 == 0 :
+    if i % 100000 == 0 :
         dirkey = 'T' +  str(i)
         mkdirQA(dirkey)
         printList(QList,dirkey+'/QList.txt')                

@@ -14,8 +14,6 @@ from sys import argv
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
 from urllib.parse import parse_qs
-from modelhelper import DataGenerator
-import keras.backend as K
 
 """
 Very simple HTTP server in python for logging requests
@@ -23,15 +21,6 @@ Usage::
     ./server.py [<port>]
 """
 
-def real_loss(y_true, y_pred):
-    y_true_flatten = K.flatten(y_true)
-    num_total_elements = K.sum(y_true_flatten)
-    y_pred_flatten = K.flatten(y_pred)
-    y_pred_flatten_log = -K.log(y_pred_flatten + K.epsilon())
-    # cross_entropy = K.dot(y_true_flatten, K.transpose(y_pred_flatten_log))
-    cross_entropy = tf.reduce_sum(tf.multiply(y_true_flatten, y_pred_flatten_log))
-    mean_cross_entropy = cross_entropy / (num_total_elements + K.epsilon())
-    return mean_cross_entropy
 
 
 class S(BaseHTTPRequestHandler):
@@ -125,33 +114,10 @@ class S(BaseHTTPRequestHandler):
         self.wfile.write(decoded_sentence.format(self.path).encode('utf-8'))
 
     def decode_sequence(self,input_texts):
-        latent_dim = 1024
-        #encoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_enc.h5')
-        #decoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_dec.h5')
-        #model = load_model(self.parent + '/' + self.folder + '/' + 's2s.h5')
-        model = load_model(self.parent + '/' + self.folder + '/' + 's2s.h5', custom_objects={'real_loss': real_loss})
-        model.summary()
-        encoder_inputs = model.input[0]   # input_1
-        encoder_embed = model.layers[2]   # input_1
-        encoder_outputs, state_h_enc, state_c_enc = model.layers[4].output   # lstm_1
-        encoder_states = [state_h_enc, state_c_enc]
-        encoder_model = Model(encoder_inputs, encoder_states)
 
-        decoder_inputs = model.input[1]   # input_2
-        decoder_embed = model.layers[3]   # input_2
-        decoder_state_input_h = Input(shape=(latent_dim,), name='input_3')
-        decoder_state_input_c = Input(shape=(latent_dim,), name='input_4')
-        decoder_states_inputs = [decoder_state_input_h, decoder_state_input_c]
-        decoder_lstm = model.layers[5]
-        decoder_outputs, state_h_dec, state_c_dec = decoder_lstm(
-            decoder_embed(decoder_inputs), initial_state=decoder_states_inputs)
-        decoder_states = [state_h_dec, state_c_dec]
-        decoder_dense = model.layers[6]
-        decoder_outputs = decoder_dense(decoder_outputs)
-        decoder_model = Model(
-            [decoder_inputs] + decoder_states_inputs,
-            [decoder_outputs] + decoder_states)
-
+        encoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_enc.h5')
+        decoder_model = load_model(self.parent + '/' + self.folder + '/' + 's2s_dec.h5')
+        print(self.folder)
         self.max_encoder_seq_length = encoder_model.get_input_shape_at(0)[1]
         self.max_decoder_seq_length = decoder_model.get_output_shape_at(0)[0][1]
 
@@ -164,44 +130,52 @@ class S(BaseHTTPRequestHandler):
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
                     encoder_input_data[i, t] = self.input_token_index[char]
+                else:
+                    print(self.input_token_index[self.end_token])
+                    encoder_input_data[i, t] = self.input_token_index[self.pad_token]
 
+
+
+        # Encode the input as state vectors.
+        states_value = encoder_model.predict(encoder_input_data)
 
 
         # Generate empty target sequence of length 1.
-        target_seq = np.zeros(
-                (1, self.max_decoder_seq_length),
+        target_seq = np.full(
+                (1, self.max_decoder_seq_length),self.input_token_index[self.pad_token], 
                 dtype='float32')
         # Populate the first character of target sequence with the start character.
-        target_seq[0, 0 ] = self.target_token_index[self.start_token]
-        decoder_input_data = [target_seq] 
-        
-        states_value = encoder_model.predict(encoder_input_data)
+        target_seq[0, 0] = self.target_token_index[self.start_token]
+
+
         # Sampling loop for a batch of sequences
         # (to simplify, here we assume a batch of size 1).
         stop_condition = False
         decoded_sentence = ''
         predicted_count=0
         while not stop_condition:
-            output_tokens, h, c = decoder_model.predict([target_seq] + states_value)
-            #decoder_input_data = [target_seq]
-            #output_tokens = model.predict([encoder_input_data,target_seq])
+            output_tokens, h, c = decoder_model.predict(
+                [target_seq] + states_value)
+
+
             # Sample a token
-            predicted_count = predicted_count + 1
-            pdf = output_tokens[0, predicted_count, :]
-            #sampled_token_index = np.random.choice(len(pdf),p=pdf)
-            sampled_token_index = np.argmax(pdf)
+            pdf = output_tokens[0, -1, :]
+            print(len(pdf))
+            sampled_token_index = np.random.choice(len(pdf),p=pdf)
+            #print("sample " + str(sampled_token_index) + " out of " + str(len(reverse_target_char_index) ) )
             sampled_char = self.reverse_target_char_index[str(sampled_token_index)]
             decoded_sentence += sampled_char + " "
 
 
             # Exit condition: either hit max length
             # or find stop character.
-            if ('END' in sampled_char or
+            if ('START' in sampled_char or 'END' in sampled_char or
                len(decoded_sentence) > self.max_decoder_seq_length):
                 stop_condition = True
 
 
             # Update the target sequence (of length 1).
+            predicted_count = predicted_count + 1
             target_seq[0, predicted_count] = sampled_token_index
 
 

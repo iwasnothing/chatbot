@@ -1,14 +1,12 @@
 from __future__ import print_function
 import pandas as pd
 import os, sys
-from keras.models import Model
-from keras.layers import Input, LSTM, Dense
 import numpy as np
 import json
 
 start_token = "START"
 end_token = "END"
-pad_token = "PAD "
+pad_token = "PAD"
 
 
 
@@ -99,7 +97,7 @@ def train(QList,AList,folder):
 
 QList = []
 AList = []
-parent= 'data'
+parent= '.'
 for d in os.listdir(parent):
 #for d in ['P538']:
     if os.path.isdir(parent+'/'+d):

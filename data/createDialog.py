@@ -1,8 +1,12 @@
 from __future__ import print_function
 import pandas as pd
-import numpy as np
 import os, sys
+import numpy as np
+
 import json
+
+start_token = "START"
+end_token = "END"
 
 def mkdirQA(dirkey):
     print(dirkey)
@@ -18,38 +22,40 @@ def printList(list,name):
         for line in list:
             f.write((line + '\n').encode("utf8").decode("cp950", "ignore"))
 
-start_token = "START "
-end_token = " END"
-
-with open('../train-v2.0.json') as f:
-    data = json.load(f)
-
 AList=[]
 QList=[]
-i=0
+source = str(sys.argv[1])
+with open(source, encoding = 'utf8') as f:
+    lines = f.read()[:-1].split('\n')
+    
+    #lines = [start_token+name.lower()+end_token for name in lines]
+    
+print ('n samples = ',len(lines))
 j=0
-for d in data['data'][:-1]:
-    for p in d['paragraphs']:
-        for q in p['qas']:
-            qn = start_token + q['question'].lower() + end_token
-            QList.append(qn)
-            ans=q['answers']
-            if len(ans) > 0:
-                a = ans[0]
-                txt=start_token + a['text'].lower() + end_token
-                AList.append(txt)
+i=0
+for a in range(len(lines)):
+    line2 = lines[a].split('|')
+    input_text  = start_token+" "+line2[0]+" "+end_token
+    if type(input_text) is not str:
+        continue
+    QList.append(input_text)
+        
+    target_text =  start_token+" "+line2[1]+" "+end_token
+    if type(target_text) is not str:
+        continue
+    AList.append(target_text)
     i = i + 1
-    if i%10000 == 0 :
-        dirkey = 'Q' +  str(i)
+    if i % 10000 == 0 :
+        dirkey = 'T' +  str(i)
         mkdirQA(dirkey)
         printList(QList,dirkey+'/QList.txt')                
         printList(AList,dirkey+'/AList.txt')                
         QList = []
         AList = []
-        j = i
+        b = a
 
 if ( i > j):
-    dirkey = 'Q' +  str(i)
+    dirkey = 'P' +  str(i)
     mkdirQA(dirkey)
     printList(QList,dirkey+'/QList.txt')                
     printList(AList,dirkey+'/AList.txt')                
@@ -57,3 +63,5 @@ if ( i > j):
     printList(AList,'AList')                
     QList = []
     AList = []
+
+    
