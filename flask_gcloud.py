@@ -26,8 +26,8 @@ telepot.api._pools = {
 telepot.api._onetime_pool_spec = (urllib3.ProxyManager, dict(proxy_url=proxy_url, num_pools=1, maxsize=1, retries=False, timeout=30))
 
 secret = "bot94077079"
-bot = telepot.Bot('')
-bot.setWebhook("https://iwasnothing.pythonanywhere.com/{}".format(secret), max_connections=1)
+bot = telepot.Bot()
+#bot.setWebhook("https://iwasnothing.pythonanywhere.com/{}".format(secret), max_connections=1)
 
 app = Flask(__name__)
 #dc = MyDecoder()
@@ -42,7 +42,7 @@ def telegram_webhook():
         print(d)
         t = d["text"]
         url = 'http://35.239.154.82:8080'
-        r = requests.post(url, data=json.dumps(update["message"]))
+        #r = requests.post(url, data=json.dumps(update["message"]))
         #r = dc.decode_sequence([t])
         print(t)
         bot.sendMessage(chat_id, ".....{}".format(r.text))
@@ -60,8 +60,10 @@ def hello_world():
 @app.route('/chatbot', methods = ['POST','OPTIONS'])
 @cross_origin(origin='*',headers=['Content-Type','Authorization', 'Access-Control-Allow-Headers', 'X-Requested-With', 'Origin', 'Accept' ])
 def mybot():
-    url = 'http://35.239.154.82:8080'
-    r = requests.post(url, data=request.data)
+    #url = 'http://35.239.154.82:8080'
+    #r = requests.post(url, data=request.data)
+    t = request.data['text']
+    r = dc.decode_sequence([t])
     #resp = Response(r.text, status=200, mimetype='application/x-www-form-urlencoded; charset=UTF-8')
 
     #resp.headers['Access-Control-Allow-Origin'] = "*"
@@ -69,4 +71,4 @@ def mybot():
     #resp.headers["Access-Control-Allow-Headers"] = "Content-Type, Access-Control-Allow-Headers,
     #Authorization, X-Requested-With, Origin, Accept"
     #resp.headers['Content-type'] = 'application/x-www-form-urlencoded; charset=UTF-8'
-    return r.text
+    return r
