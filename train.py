@@ -5,6 +5,7 @@ import os, sys
 from keras.models import Model
 from keras.layers import Input, LSTM, Dense,Embedding
 from keras.utils import Sequence
+from keras.callbacks import CSVLogger,ModelCheckpoint
 import numpy as np
 import json
 import keras.backend as K
@@ -19,7 +20,7 @@ class DataGenerator(Sequence):
         self.shuffle = shuffle
         self.batch_size = 20  # Batch size for training.
         self.epochs = 100  # Number of epochs to train for.
-        self.latent_dim = 100  # Latent dimensionality of the encoding space.
+        self.latent_dim = 300  # Latent dimensionality of the encoding space.
         self.QList = []
         self.AList = []
         self.input_texts = []
@@ -233,11 +234,17 @@ def train(folder):
     model.compile(optimizer='rmsprop', loss=training_generator.real_loss)
     # Generators
 
+    callback = [CSVLogger(filename=folder+'trainlog.csv',append=True),
+                ModelCheckpoint(folder + 'model_check_{epoch:02d}.h5',
+                                save_best_only=True,
+                                save_weights_only=False)]
+
     #model.fit_generator(train_batches)
     model.fit_generator(generator=training_generator,
                         steps_per_epoch=training_generator.num_batches_per_epoch, epochs=20,
                     validation_data=validation_generator,
                     validation_steps=validation_generator.num_batches_per_epoch,
+                    callbacks = callback,
                     use_multiprocessing=True,
                     workers=1)
     #model.fit([encoder_input_data, decoder_input_data], decoder_target_data,
