@@ -3,7 +3,7 @@ import tensorflow as tf
 import pandas as pd
 import os, sys
 from keras.models import Model
-from keras.layers import Input, LSTM, Dense,Embedding
+from keras.layers import Input, LSTM, Dense,Embedding,RepeatVector, Flatten, Reshape
 from keras.utils import Sequence
 from keras.callbacks import CSVLogger,ModelCheckpoint
 import numpy as np
@@ -19,8 +19,8 @@ class DataGenerator(Sequence):
         self.folder = folder
         self.shuffle = shuffle
         self.batch_size = 20  # Batch size for training.
-        self.epochs = 10  # Number of epochs to train for.
-        self.latent_dim = 30  # Latent dimensionality of the encoding space.
+        self.epochs = 200  # Number of epochs to train for.
+        self.latent_dim = 300  # Latent dimensionality of the encoding space.
         self.QList = []
         self.AList = []
         self.input_texts = []
@@ -52,21 +52,24 @@ class DataGenerator(Sequence):
         if os.path.exists(self.folder + 'QList.txt'):
             with open(self.folder + 'QList.txt','r') as f:
                 self.QList = f.read()[:-1].split('\n')
-        if os.path.exists(self.folder + 'QList.txt') :
-            with open(self.folder + 'QList.txt','r') as f:
+        if os.path.exists(self.folder + 'AList.txt') :
+            with open(self.folder + 'AList.txt','r') as f:
                 self.AList = f.read()[:-1].split('\n')
         all_samples = min([len(self.QList), len(self.AList)])
-        self.num_samples =  all_samples
-        self.num_batches_per_epoch = int(self.num_samples/self.batch_size)
-        self.train_num_batches_per_epoch = int( self.num_batches_per_epoch * 0.9 )
-        self.verify_num_batches_per_epoch =  self.num_batches_per_epoch - self.train_num_batches_per_epoch
-        self.indexes = np.arange(self.num_samples)
+        self.num_samples =  0
 
-        for i in range(self.num_samples):
+
+        for i in range(all_samples):
             input_text = self.QList[i]
-            target_text = self.AList[i] 
-            self.input_texts.append(input_text)
-            self.target_texts.append(target_text)
+            target_text = self.AList[i]
+            tokens = target_text.split()
+            target_len = len(tokens)
+            for j in range( target_len ):
+                if j > 0:
+                    self.input_texts.append(input_text)
+                    partial_target = " ".join(tokens[0:j])
+                    self.target_texts.append(partial_target)
+                    self.num_samples = self.num_samples + 1
             for char in input_text.split():
                 if char not in self.input_count.keys():
                     self.input_count[char] = 1
@@ -82,11 +85,15 @@ class DataGenerator(Sequence):
                     if self.target_count[char] > 0:
                         self.target_characters.add(char)
 
-
+        self.num_batches_per_epoch = int(self.num_samples/self.batch_size)
+        self.train_num_batches_per_epoch = int( self.num_batches_per_epoch * 0.9 )
+        self.verify_num_batches_per_epoch =  self.num_batches_per_epoch - self.train_num_batches_per_epoch
+        self.indexes = np.arange(self.num_samples)
+        
         self.num_encoder_tokens = len(self.input_characters)
         self.num_decoder_tokens = len(self.target_characters)
-        self.max_encoder_seq_length = max([len(txt) for txt in self.input_texts])+2
-        self.max_decoder_seq_length = max([len(txt) for txt in self.target_texts])+2
+        self.max_encoder_seq_length = max([len(txt) for txt in self.input_texts])
+        self.max_decoder_seq_length = max([len(txt) for txt in self.target_texts])
 
 
         print('Number of samples:', len(self.input_texts))
@@ -95,12 +102,6 @@ class DataGenerator(Sequence):
         print('Max sequence length for inputs:', self.max_encoder_seq_length)
         print('Max sequence length for outputs:', self.max_decoder_seq_length)
 
-        with open(self.folder + 'count.csv', 'w') as the_file:
-            print('Number of samples:', len(self.input_texts),file=the_file)
-            print('Number of unique input tokens:', self.num_encoder_tokens,file=the_file)
-            print('Number of unique output tokens:', self.num_decoder_tokens,file=the_file)
-            print('Max sequence length for inputs:', self.max_encoder_seq_length,file=the_file)
-            print('Max sequence length for outputs:', self.max_decoder_seq_length,file=the_file)
 
         self.input_token_index = dict(
             [(char, i) for i, char in enumerate(self.input_characters)])
@@ -168,17 +169,21 @@ class DataGenerator(Sequence):
     
         for b,i in enumerate(list_IDs_temp):
             input_text = self.input_texts[i] 
-            target_text = self.target_texts[i] 
+            target_text = self.target_texts[i]
+            tokens = target_text.split()
+            target_len = len(tokens)
 
             for t, char in enumerate(input_text.split()):
                 if char in self.input_token_index.keys():
                     self.encoder_input_data[b, t] = self.input_token_index[char] 
-            for t, char in enumerate(target_text.split()):
+            for t, char in enumerate(tokens):
                 if char in self.target_token_index.keys():
-                    self.decoder_input_data[b, t] = self.target_token_index[char]
+                    if t < target_len - 1:
+                        self.decoder_input_data[b, t] = self.target_token_index[char]
                     if t > 0:
                         self.decoder_target_data[b, t - 1, self.target_token_index[char] ] = 1.
 
+        #return [self.encoder_input_data,self.decoder_input_data], self.decoder_target_data
         return [self.encoder_input_data,self.decoder_input_data], self.decoder_target_data
 
     def real_loss(self,y_true, y_pred):
@@ -194,8 +199,8 @@ class DataGenerator(Sequence):
 
 def train(folder):
 
-    training_generator = DataGenerator(folder,True,True)
-    validation_generator = DataGenerator(folder,False,True)
+    training_generator = DataGenerator(folder,True,False)
+    validation_generator = DataGenerator(folder,False,False)
 
     g = training_generator
     config = tf.ConfigProto()
@@ -207,8 +212,22 @@ def train(folder):
     encoder_embed = Embedding(g.num_encoder_tokens,g.latent_dim, input_length=g.max_encoder_seq_length)
     encoder = LSTM(g.latent_dim, return_state=True)
     encoder_outputs, state_h, state_c = encoder(encoder_embed(encoder_inputs))
+    z1 = tf.random_normal(tf.shape(state_h))
+    z2 = tf.random_normal(tf.shape(state_c))
     # We discard `encoder_outputs` and only keep the states.
-    encoder_states = [state_h, state_c]
+    encoder_states = [state_h + z1, state_c + z2]
+
+
+
+
+    #decoded = RepeatVector(g.max_decoder_seq_length)(encoder_outputs)
+    #decoded = LSTM(input_dim, return_sequences=True)(decoded)
+    #decoder_dense = Dense(g.num_decoder_tokens, activation='softmax')
+    #decoder_outputs = decoder_dense(decoded)
+
+    #sequence_autoencoder = Model(inputs, decoded)
+    #encoder = Model(inputs, encoded)
+
 
     # Set up the decoder, using `encoder_states` as initial state.
     #decoder_inputs = Input(shape=(None, g.num_decoder_tokens))
@@ -220,28 +239,33 @@ def train(folder):
     decoder_lstm = LSTM(g.latent_dim, return_sequences=True, return_state=True)
     decoder_outputs, _, _ = decoder_lstm(decoder_embed(decoder_inputs),
                                      initial_state=encoder_states)
+    #decoder_flatten = Flatten()
+    #decoder_outputs = decoder_flatten(decoder_outputs)
     decoder_dense = Dense(g.num_decoder_tokens, activation='softmax')
     decoder_outputs = decoder_dense(decoder_outputs)
+    #decoder_reshape = Reshape((g.max_decoder_seq_length,g.num_decoder_tokens))
+    #decoder_outputs = decoder_reshape(decoder_outputs )
 
 
     # Define the model that will turn
     # `encoder_input_data` & `decoder_input_data` into `decoder_target_data`
     model = Model([encoder_inputs, decoder_inputs], decoder_outputs)
-
-
+    #model = Model(encoder_inputs, decoder_outputs)
+    
     # Run training
     #model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
     model.compile(optimizer='rmsprop', loss=training_generator.real_loss)
+    #model.summary()
     # Generators
-
+    model.load_weights(folder + 'model_check_prev.h5')
     callback = [CSVLogger(filename=folder+'trainlog.csv',append=True),
                 ModelCheckpoint(folder + 'model_check_{epoch:02d}.h5',
                                 save_best_only=True,
-                                save_weights_only=False)]
+                                save_weights_only=True)]
 
     #model.fit_generator(train_batches)
     model.fit_generator(generator=training_generator,
-                        steps_per_epoch=training_generator.num_batches_per_epoch, epochs=10,
+                        steps_per_epoch=training_generator.num_batches_per_epoch, epochs=training_generator.epochs,
                     validation_data=validation_generator,
                     validation_steps=validation_generator.num_batches_per_epoch,
                     callbacks = callback,
@@ -252,7 +276,7 @@ def train(folder):
           #epochs=epochs,
           #validation_split=0.2)
     # Save model
-    model.save(folder + 's2s.h5')
+    model.save_weights(folder + 's2s.h5')
 
     
 
@@ -267,22 +291,7 @@ def train(folder):
 
     # Define sampling models
     
-    encoder_model = Model(encoder_inputs, encoder_states)
 
-
-    decoder2_state_input_h = Input(shape=(g.latent_dim,))
-    decoder2_state_input_c = Input(shape=(g.latent_dim,))
-    decoder2_states_inputs = [decoder2_state_input_h, decoder2_state_input_c]
-    decoder2_outputs, state2_h, state2_c = decoder_lstm(
-        decoder_embed(decoder_inputs), initial_state=decoder2_states_inputs)
-    decoder2_states = [state2_h, state2_c]
-    decoder2_outputs = decoder_dense(decoder2_outputs)
-    decoder_model = Model(
-        [decoder_inputs] + decoder2_states_inputs,
-        [decoder2_outputs] + decoder2_states)
-    
-    encoder_model.save(folder + 's2s_enc.h5')
-    decoder_model.save(folder + 's2s_dec.h5')
     
 
 
@@ -290,6 +299,7 @@ def train(folder):
 if __name__ == '__main__':
     parent= 'data'
     for d in os.listdir(parent):
+    #for d in ['combine']:
         if os.path.isdir(parent+'/'+d) and  not os.path.exists(parent+'/'+d+'/' + 's2s.h5'):
             train(parent+'/'+d+'/')
 
